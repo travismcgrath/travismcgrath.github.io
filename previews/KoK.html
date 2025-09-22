@@ -1,0 +1,649 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/KoK-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>KoK visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			display: none;
+			transform: rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 10%;
+			width: fit-content;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: flex;
+			flex-direction: column;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/KoK-files/logo.png" />
+	<img class="preload-hidden" src="/sets/KoK-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="KoK"><img src="/sets/KoK-files/icon.png"></a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/KoK-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img alt="/sets\KoK-files\img\1_Aethermate Roc.png" id="1_Aethermate Roc" data-flag="@X" onclick="openSidebar('1_Aethermate Roc',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\30_Torrential Avalanche.png" id="30_Torrential Avalanche" data-flag="@X" onclick="openSidebar('30_Torrential Avalanche',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\36_Demon of Dark Schemes.png" id="36_Demon of Dark Schemes" data-flag="@X" onclick="openSidebar('36_Demon of Dark Schemes',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\54_Combustible Lightning.png" id="54_Combustible Lightning" data-flag="@X" onclick="openSidebar('54_Combustible Lightning',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\70_Longtusk Pride.png" id="70_Longtusk Pride" data-flag="@X" onclick="openSidebar('70_Longtusk Pride',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\4_Cataclysmic Ice Wave.png" id="4_Cataclysmic Ice Wave" data-flag="@X" onclick="openSidebar('4_Cataclysmic Ice Wave',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\32_Winds of Inspiration.png" id="32_Winds of Inspiration" data-flag="@X" onclick="openSidebar('32_Winds of Inspiration',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\43_Noxious Duststorm.png" id="43_Noxious Duststorm" data-flag="@X" onclick="openSidebar('43_Noxious Duststorm',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\60_Lightning Runner.png" id="60_Lightning Runner" data-flag="@X" onclick="openSidebar('60_Lightning Runner',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\79_Verdurous Wildfire.png" id="79_Verdurous Wildfire" data-flag="@X" onclick="openSidebar('79_Verdurous Wildfire',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\5_The Consol's Orator.png" id="5_The Consols Orator" data-flag="@X" onclick="openSidebar('5_The Consols Orator',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\19_Confiscation Coup.png" id="19_Confiscation Coup" data-flag="@X" onclick="openSidebar('19_Confiscation Coup',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\34_Bloodsoaked Champion.png" id="34_Bloodsoaked Champion" data-flag="@X" onclick="openSidebar('34_Bloodsoaked Champion',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\51_Bloodfire Master.png" id="51_Bloodfire Master" data-flag="@X" onclick="openSidebar('51_Bloodfire Master',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\66_Bristling Hydra.png" id="66_Bristling Hydra" data-flag="@X" onclick="openSidebar('66_Bristling Hydra',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\7_Fumigate.png" id="7_Fumigate" data-flag="@X" onclick="openSidebar('7_Fumigate',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\25_Kheru Spellsnatcher.png" id="25_Kheru Spellsnatcher" data-flag="@X" onclick="openSidebar('25_Kheru Spellsnatcher',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\39_Grim Haruspex.png" id="39_Grim Haruspex" data-flag="@X" onclick="openSidebar('39_Grim Haruspex',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\58_Howl of the Horde.png" id="58_Howl of the Horde" data-flag="@X" onclick="openSidebar('58_Howl of the Horde',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\72_Qal Sisma Mystic.png" id="72_Qal Sisma Mystic" data-flag="@X" onclick="openSidebar('72_Qal Sisma Mystic',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\9_Generous Angel.png" id="9_Generous Angel" data-flag="@X" onclick="openSidebar('9_Generous Angel',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\26_Machiavellian Will.png" id="26_Machiavellian Will" data-flag="@X" onclick="openSidebar('26_Machiavellian Will',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\46_Syndicate Logistician.png" id="46_Syndicate Logistician" data-flag="@X" onclick="openSidebar('46_Syndicate Logistician',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\59_Jeering Instegator.png" id="59_Jeering Instegator" data-flag="@X" onclick="openSidebar('59_Jeering Instegator',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\75_Roaming Sanctuary.png" id="75_Roaming Sanctuary" data-flag="@X" onclick="openSidebar('75_Roaming Sanctuary',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\10_Master of Pearls.png" id="10_Master of Pearls" data-flag="@X" onclick="openSidebar('10_Master of Pearls',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\27_Mine for Solutions.png" id="27_Mine for Solutions" data-flag="@X" onclick="openSidebar('27_Mine for Solutions',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\48_Unscrupulous Puppeteer.png" id="48_Unscrupulous Puppeteer" data-flag="@X" onclick="openSidebar('48_Unscrupulous Puppeteer',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\63_Pearl Lake Salar.png" id="63_Pearl Lake Salar" data-flag="@X" onclick="openSidebar('63_Pearl Lake Salar',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\77_Trail of Mystery.png" id="77_Trail of Mystery" data-flag="@X" onclick="openSidebar('77_Trail of Mystery',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\2_Army for Hire.png" id="2_Army for Hire" data-flag="@X" onclick="openSidebar('2_Army for Hire',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\17_Astute Fairground Vendor.png" id="17_Astute Fairground Vendor" data-flag="@X" onclick="openSidebar('17_Astute Fairground Vendor',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\33_Aether Extraction.png" id="33_Aether Extraction" data-flag="@X" onclick="openSidebar('33_Aether Extraction',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\49_Aethertorch Arsonist.png" id="49_Aethertorch Arsonist" data-flag="@X" onclick="openSidebar('49_Aethertorch Arsonist',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\65_Armorcraft Purchase.png" id="65_Armorcraft Purchase" data-flag="@X" onclick="openSidebar('65_Armorcraft Purchase',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\3_Banishing Light.png" id="3_Banishing Light" data-flag="@X" onclick="openSidebar('3_Banishing Light',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\18_Cogify.png" id="18_Cogify" data-flag="@X" onclick="openSidebar('18_Cogify',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\35_Bloody Auctioneer.png" id="35_Bloody Auctioneer" data-flag="@X" onclick="openSidebar('35_Bloody Auctioneer',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\50_Ashcloud Dragster.png" id="50_Ashcloud Dragster" data-flag="@X" onclick="openSidebar('50_Ashcloud Dragster',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\67_Guarded Supply Freighter.png" id="67_Guarded Supply Freighter" data-flag="@X" onclick="openSidebar('67_Guarded Supply Freighter',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\6_Devout Kirin.png" id="6_Devout Kirin" data-flag="@X" onclick="openSidebar('6_Devout Kirin',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\20_Denial Lobbyist.png" id="20_Denial Lobbyist" data-flag="@X" onclick="openSidebar('20_Denial Lobbyist',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\37_Glintsleeve Bruiser.png" id="37_Glintsleeve Bruiser" data-flag="@X" onclick="openSidebar('37_Glintsleeve Bruiser',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\52_Bloodfire Sage.png" id="52_Bloodfire Sage" data-flag="@X" onclick="openSidebar('52_Bloodfire Sage',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\68_Hypnotizing AetherBorealis.png" id="68_Hypnotizing AetherBorealis" data-flag="@X" onclick="openSidebar('68_Hypnotizing AetherBorealis',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\8_Gearshift Pitcrew.png" id="8_Gearshift Pitcrew" data-flag="@X" onclick="openSidebar('8_Gearshift Pitcrew',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\21_Filigreed Skywhale.png" id="21_Filigreed Skywhale" data-flag="@X" onclick="openSidebar('21_Filigreed Skywhale',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\38_Gonti's Illicit Ironworks.png" id="38_Gontis Illicit Ironworks" data-flag="@X" onclick="openSidebar('38_Gontis Illicit Ironworks',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\53_Ceaseless Fires.png" id="53_Ceaseless Fires" data-flag="@X" onclick="openSidebar('53_Ceaseless Fires',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\69_Incensed Druid.png" id="69_Incensed Druid" data-flag="@X" onclick="openSidebar('69_Incensed Druid',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\11_Resistance Factor.png" id="11_Resistance Factor" data-flag="@X" onclick="openSidebar('11_Resistance Factor',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\22_Glacial Glintcrane.png" id="22_Glacial Glintcrane" data-flag="@X" onclick="openSidebar('22_Glacial Glintcrane',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\40_Heir of the Wastes.png" id="40_Heir of the Wastes" data-flag="@X" onclick="openSidebar('40_Heir of the Wastes',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\55_Gremlin Squad.png" id="55_Gremlin Squad" data-flag="@X" onclick="openSidebar('55_Gremlin Squad',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\71_Nature's Way.png" id="71_Natures Way" data-flag="@X" onclick="openSidebar('71_Natures Way',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\12_Roost's Guardian.png" id="12_Roosts Guardian" data-flag="@X" onclick="openSidebar('12_Roosts Guardian',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\23_Glimmer of Genius.png" id="23_Glimmer of Genius" data-flag="@X" onclick="openSidebar('23_Glimmer of Genius',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\41_Irreversible Nightmare.png" id="41_Irreversible Nightmare" data-flag="@X" onclick="openSidebar('41_Irreversible Nightmare',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\56_Harnessed Lightning.png" id="56_Harnessed Lightning" data-flag="@X" onclick="openSidebar('56_Harnessed Lightning',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\73_Return from the Horizon.png" id="73_Return from the Horizon" data-flag="@X" onclick="openSidebar('73_Return from the Horizon',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\13_Sage-Eye Apprentice.png" id="13_Sage-Eye Apprentice" data-flag="@X" onclick="openSidebar('13_Sage-Eye Apprentice',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\24_Innovation Setbacks.png" id="24_Innovation Setbacks" data-flag="@X" onclick="openSidebar('24_Innovation Setbacks',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\42_Kheru Harvester.png" id="42_Kheru Harvester" data-flag="@X" onclick="openSidebar('42_Kheru Harvester',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\57_Hordeling Troublemaker.png" id="57_Hordeling Troublemaker" data-flag="@X" onclick="openSidebar('57_Hordeling Troublemaker',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\74_Riparian Jaguar.png" id="74_Riparian Jaguar" data-flag="@X" onclick="openSidebar('74_Riparian Jaguar',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\14_Salt Road Tank.png" id="14_Salt Road Tank" data-flag="@X" onclick="openSidebar('14_Salt Road Tank',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\28_Shrewd Negotiation.png" id="28_Shrewd Negotiation" data-flag="@X" onclick="openSidebar('28_Shrewd Negotiation',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\44_Ruthless Riper.png" id="44_Ruthless Riper" data-flag="@X" onclick="openSidebar('44_Ruthless Riper',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\61_Maulfist Doorbuster.png" id="61_Maulfist Doorbuster" data-flag="@X" onclick="openSidebar('61_Maulfist Doorbuster',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\76_Tenth Bridge Turret Guard.png" id="76_Tenth Bridge Turret Guard" data-flag="@X" onclick="openSidebar('76_Tenth Bridge Turret Guard',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\15_Seeker of the Way.png" id="15_Seeker of the Way" data-flag="@X" onclick="openSidebar('15_Seeker of the Way',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\29_Tenth Bridge Copter.png" id="29_Tenth Bridge Copter" data-flag="@X" onclick="openSidebar('29_Tenth Bridge Copter',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\45_Shambling Aetherborn.png" id="45_Shambling Aetherborn" data-flag="@X" onclick="openSidebar('45_Shambling Aetherborn',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\62_Myopic Pillaging.png" id="62_Myopic Pillaging" data-flag="@X" onclick="openSidebar('62_Myopic Pillaging',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\78_Tuskguard Colonel.png" id="78_Tuskguard Colonel" data-flag="@X" onclick="openSidebar('78_Tuskguard Colonel',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\16_Skywhaler's Shot.png" id="16_Skywhalers Shot" data-flag="@X" onclick="openSidebar('16_Skywhalers Shot',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\31_Willbender.png" id="31_Willbender" data-flag="@X" onclick="openSidebar('31_Willbender',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\47_Underhanded Designs.png" id="47_Underhanded Designs" data-flag="@X" onclick="openSidebar('47_Underhanded Designs',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\64_War-Name Aspirant.png" id="64_War-Name Aspirant" data-flag="@X" onclick="openSidebar('64_War-Name Aspirant',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\80_Windstorm.png" id="80_Windstorm" data-flag="@X" onclick="openSidebar('80_Windstorm',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\123_Utter Silence.png" id="123_Utter Silence" data-flag="@X" onclick="openSidebar('123_Utter Silence',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\98_Gonti's Patronage.png" id="98_Gontis Patronage" data-flag="@X" onclick="openSidebar('98_Gontis Patronage',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\102_Impulsive Fracking.png" id="102_Impulsive Fracking" data-flag="@X" onclick="openSidebar('102_Impulsive Fracking',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\110_Overturned Throne.png" id="110_Overturned Throne" data-flag="@X" onclick="openSidebar('110_Overturned Throne',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\86_Chianul's Guidance.png" id="86_Chianuls Guidance" data-flag="@X" onclick="openSidebar('86_Chianuls Guidance',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\84_Bear Market.png" id="84_Bear Market" data-flag="@X" onclick="openSidebar('84_Bear Market',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\91_Contraban Kingpin.png" id="91_Contraban Kingpin" data-flag="@X" onclick="openSidebar('91_Contraban Kingpin',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\113_Riotous Brawler.png" id="113_Riotous Brawler" data-flag="@X" onclick="openSidebar('113_Riotous Brawler',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\87_Chief of the Hammer.png" id="87_Chief of the Hammer" data-flag="@X" onclick="openSidebar('87_Chief of the Hammer',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\95_Engineer's Prowess.png" id="95_Engineers Prowess" data-flag="@X" onclick="openSidebar('95_Engineers Prowess',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\101_Icefeather Exporter.png" id="101_Icefeather Exporter" data-flag="@X" onclick="openSidebar('101_Icefeather Exporter',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\118_Self-regulated Saftey.png" id="118_Self-regulated Saftey" data-flag="@X" onclick="openSidebar('118_Self-regulated Saftey',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\122_Unlicensed Syphoning.png" id="122_Unlicensed Syphoning" data-flag="@X" onclick="openSidebar('122_Unlicensed Syphoning',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\119_Smash Up.png" id="119_Smash Up" data-flag="@X" onclick="openSidebar('119_Smash Up',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\99_Highspire Adept.png" id="99_Highspire Adept" data-flag="@X" onclick="openSidebar('99_Highspire Adept',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\116_Saheeli, Unscrupulous Artificer.png" id="116_Saheeli, Unscrupulous Artificer" data-flag="@X" onclick="openSidebar('116_Saheeli, Unscrupulous Artificer',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\111_Pia Nalaar, Fallen Innovator.png" id="111_Pia Nalaar, Fallen Innovator" data-flag="@X" onclick="openSidebar('111_Pia Nalaar, Fallen Innovator',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\125_Zurgo, Anarchist Leader.png" id="125_Zurgo, Anarchist Leader" data-flag="@X" onclick="openSidebar('125_Zurgo, Anarchist Leader',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\107_Narset, Panharmonastic Sage.png" id="107_Narset, Panharmonastic Sage" data-flag="@X" onclick="openSidebar('107_Narset, Panharmonastic Sage',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\83_Anonymous Financier.png" id="83_Anonymous Financier" data-flag="@X" onclick="openSidebar('83_Anonymous Financier',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\81_Anafenza, Generous Ancestor.png" id="81_Anafenza, Generous Ancestor" data-flag="@X" onclick="openSidebar('81_Anafenza, Generous Ancestor',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\92_Dovin Baan, Persistent Ancestor.png" id="92_Dovin Baan, Persistent Ancestor" data-flag="@X" onclick="openSidebar('92_Dovin Baan, Persistent Ancestor',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\82_Ancestor, Who Smirks at Law.png" id="82_Ancestor, Who Smirks at Law" data-flag="@X" onclick="openSidebar('82_Ancestor, Who Smirks at Law',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\100_Houn, Beguiling Ancestor.png" id="100_Houn, Beguiling Ancestor" data-flag="@X" onclick="openSidebar('100_Houn, Beguiling Ancestor',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\115_Sagu Deforrester.png" id="115_Sagu Deforrester" data-flag="@X" onclick="openSidebar('115_Sagu Deforrester',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\89_Consol of Preservation.png" id="89_Consol of Preservation" data-flag="@X" onclick="openSidebar('89_Consol of Preservation',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\117_Savage Union Buster.png" id="117_Savage Union Buster" data-flag="@X" onclick="openSidebar('117_Savage Union Buster',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\85_Booming Karma.png" id="85_Booming Karma" data-flag="@X" onclick="openSidebar('85_Booming Karma',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\114_Sage of the Vitalfire.png" id="114_Sage of the Vitalfire" data-flag="@X" onclick="openSidebar('114_Sage of the Vitalfire',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\121_Surrak, Pelt-Cloaked Ancestor.png" id="121_Surrak, Pelt-Cloaked Ancestor" data-flag="@X" onclick="openSidebar('121_Surrak, Pelt-Cloaked Ancestor',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\94_Dustblast.png" id="94_Dustblast" data-flag="@X" onclick="openSidebar('94_Dustblast',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\120_Supplant Worker.png" id="120_Supplant Worker" data-flag="@X" onclick="openSidebar('120_Supplant Worker',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\103_Kneecap Blaster.png" id="103_Kneecap Blaster" data-flag="@X" onclick="openSidebar('103_Kneecap Blaster',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\106_Monastic Charm.png" id="106_Monastic Charm" data-flag="@X" onclick="openSidebar('106_Monastic Charm',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\96_Finance Charm.png" id="96_Finance Charm" data-flag="@X" onclick="openSidebar('96_Finance Charm',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\108_Nefarious Inheritence.png" id="108_Nefarious Inheritence" data-flag="@X" onclick="openSidebar('108_Nefarious Inheritence',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\104_Labor Charm.png" id="104_Labor Charm" data-flag="@X" onclick="openSidebar('104_Labor Charm',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\109_Nihilist Roughrider.png" id="109_Nihilist Roughrider" data-flag="@X" onclick="openSidebar('109_Nihilist Roughrider',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\124_Warden of the Scrolls.png" id="124_Warden of the Scrolls" data-flag="@X" onclick="openSidebar('124_Warden of the Scrolls',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\97_Financial Southsayer.png" id="97_Financial Southsayer" data-flag="@X" onclick="openSidebar('97_Financial Southsayer',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\88_Citizen's Companion.png" id="88_Citizens Companion" data-flag="@X" onclick="openSidebar('88_Citizens Companion',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\105_Manufacturing Virtuoso.png" id="105_Manufacturing Virtuoso" data-flag="@X" onclick="openSidebar('105_Manufacturing Virtuoso',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\112_Rebelious Charm.png" id="112_Rebelious Charm" data-flag="@X" onclick="openSidebar('112_Rebelious Charm',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\90_Consol's Charm.png" id="90_Consols Charm" data-flag="@X" onclick="openSidebar('90_Consols Charm',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\93_Dragonfist Technique.png" id="93_Dragonfist Technique" data-flag="@X" onclick="openSidebar('93_Dragonfist Technique',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\148_Walking Ballista.png" id="148_Walking Ballista" data-flag="@X" onclick="openSidebar('148_Walking Ballista',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\127_Altar of the Brood.png" id="127_Altar of the Brood" data-flag="@X" onclick="openSidebar('127_Altar of the Brood',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\131_Cultivator's Caravan.png" id="131_Cultivators Caravan" data-flag="@X" onclick="openSidebar('131_Cultivators Caravan',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\132_Execution Module.png" id="132_Execution Module" data-flag="@X" onclick="openSidebar('132_Execution Module',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\133_Exploration Module.png" id="133_Exploration Module" data-flag="@X" onclick="openSidebar('133_Exploration Module',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\134_Extraction Module.png" id="134_Extraction Module" data-flag="@X" onclick="openSidebar('134_Extraction Module',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\137_Fleetwheel Cruiser.png" id="137_Fleetwheel Cruiser" data-flag="@X" onclick="openSidebar('137_Fleetwheel Cruiser',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\139_Ghost Fire Blade.png" id="139_Ghost Fire Blade" data-flag="@X" onclick="openSidebar('139_Ghost Fire Blade',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\142_Metalic Mimic.png" id="142_Metalic Mimic" data-flag="@X" onclick="openSidebar('142_Metalic Mimic',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\146_Skysovereign, Grounded Flagship.png" id="146_Skysovereign, Grounded Flagship" data-flag="@X" onclick="openSidebar('146_Skysovereign, Grounded Flagship',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\147_Smuggler's ATV.png" id="147_Smugglers ATV" data-flag="@X" onclick="openSidebar('147_Smugglers ATV',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\126_Alloy Loxodon.png" id="126_Alloy Loxodon" data-flag="@X" onclick="openSidebar('126_Alloy Loxodon',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\128_Bomat Bazaar Barge.png" id="128_Bomat Bazaar Barge" data-flag="@X" onclick="openSidebar('128_Bomat Bazaar Barge',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\129_Briber's Purse.png" id="129_Bribers Purse" data-flag="@X" onclick="openSidebar('129_Bribers Purse',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\130_Chief of the Arrows.png" id="130_Chief of the Arrows" data-flag="@X" onclick="openSidebar('130_Chief of the Arrows',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\135_Fenced Armorcraft Entry.png" id="135_Fenced Armorcraft Entry" data-flag="@X" onclick="openSidebar('135_Fenced Armorcraft Entry',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\136_Filigree Familiar.png" id="136_Filigree Familiar" data-flag="@X" onclick="openSidebar('136_Filigree Familiar',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\138_Ghirapur Parapets.png" id="138_Ghirapur Parapets" data-flag="@X" onclick="openSidebar('138_Ghirapur Parapets',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\140_Improvised Weather Machine.png" id="140_Improvised Weather Machine" data-flag="@X" onclick="openSidebar('140_Improvised Weather Machine',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\141_Loxodon Memorial.png" id="141_Loxodon Memorial" data-flag="@X" onclick="openSidebar('141_Loxodon Memorial',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\143_Ovalchase Dragster.png" id="143_Ovalchase Dragster" data-flag="@X" onclick="openSidebar('143_Ovalchase Dragster',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\144_Powered Down Timepiece.png" id="144_Powered Down Timepiece" data-flag="@X" onclick="openSidebar('144_Powered Down Timepiece',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\145_Robot Bodyguard.png" id="145_Robot Bodyguard" data-flag="@X" onclick="openSidebar('145_Robot Bodyguard',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\171_Tranquil Cove.png" id="171_Tranquil Cove" data-flag="@X" onclick="openSidebar('171_Tranquil Cove',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\156_Dismal Backwater.png" id="156_Dismal Backwater" data-flag="@X" onclick="openSidebar('156_Dismal Backwater',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\152_Bloodfell Caves.png" id="152_Bloodfell Caves" data-flag="@X" onclick="openSidebar('152_Bloodfell Caves',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\163_Rugged Highlands.png" id="163_Rugged Highlands" data-flag="@X" onclick="openSidebar('163_Rugged Highlands',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\153_Blossoming Sands.png" id="153_Blossoming Sands" data-flag="@X" onclick="openSidebar('153_Blossoming Sands',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\166_Scoured Barrens.png" id="166_Scoured Barrens" data-flag="@X" onclick="openSidebar('166_Scoured Barrens',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\169_Swiftwater Cliffs.png" id="169_Swiftwater Cliffs" data-flag="@X" onclick="openSidebar('169_Swiftwater Cliffs',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\158_Jungle Hollow.png" id="158_Jungle Hollow" data-flag="@X" onclick="openSidebar('158_Jungle Hollow',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\173_Wind-Scarred Crag.png" id="173_Wind-Scarred Crag" data-flag="@X" onclick="openSidebar('173_Wind-Scarred Crag',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\170_Thornwood Falls.png" id="170_Thornwood Falls" data-flag="@X" onclick="openSidebar('170_Thornwood Falls',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\168_Stripmine.png" id="168_Stripmine" data-flag="@X" onclick="openSidebar('168_Stripmine',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\151_Arid Mesa.png" id="151_Arid Mesa" data-flag="@X" onclick="openSidebar('151_Arid Mesa',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\154_Corrupted Workshop.png" id="154_Corrupted Workshop" data-flag="@X" onclick="openSidebar('154_Corrupted Workshop',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\160_Marsh Flats.png" id="160_Marsh Flats" data-flag="@X" onclick="openSidebar('160_Marsh Flats',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\161_Misty Rainforest.png" id="161_Misty Rainforest" data-flag="@X" onclick="openSidebar('161_Misty Rainforest',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\162_Obscuring Avalanche.png" id="162_Obscuring Avalanche" data-flag="@X" onclick="openSidebar('162_Obscuring Avalanche',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\165_Scalding Tarn.png" id="165_Scalding Tarn" data-flag="@X" onclick="openSidebar('165_Scalding Tarn',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\172_Verdant Catacombs.png" id="172_Verdant Catacombs" data-flag="@X" onclick="openSidebar('172_Verdant Catacombs',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\149_Aether Hub.png" id="149_Aether Hub" data-flag="@X" onclick="openSidebar('149_Aether Hub',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\150_Arcane Sanctum.png" id="150_Arcane Sanctum" data-flag="@X" onclick="openSidebar('150_Arcane Sanctum',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\155_Crumbling Necropolis.png" id="155_Crumbling Necropolis" data-flag="@X" onclick="openSidebar('155_Crumbling Necropolis',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\157_Indigo Monmument.png" id="157_Indigo Monmument" data-flag="@X" onclick="openSidebar('157_Indigo Monmument',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\159_Jungle Shrine.png" id="159_Jungle Shrine" data-flag="@X" onclick="openSidebar('159_Jungle Shrine',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\164_Savage Lands.png" id="164_Savage Lands" data-flag="@X" onclick="openSidebar('164_Savage Lands',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\167_Seaside Citadel.png" id="167_Seaside Citadel" data-flag="@X" onclick="openSidebar('167_Seaside Citadel',false)"></div>
+				<div class="container"><img alt="/sets\KoK-files\img\174_Zurgo's Encampment.png" id="174_Zurgos Encampment" data-flag="@X" onclick="openSidebar('174_Zurgos Encampment',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		tmp = document.getElementById(num).src;
+		console.log(num);
+		document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+		document.getElementById(num).dataset.alt_src = tmp;
+
+		if (num == 'sidebar_img')
+		{
+			const rotated_img = document.getElementById('sidebar_h_img');
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal && rotated_img.style.display == 'none')
+			{
+				rotated_img.style.display = "block";
+				sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+			}
+			else
+			{
+				rotated_img.style.display = "none";
+				sidebar_img.style.filter = "";
+			}
+		}
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.display = "block";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.display = "none";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+			let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+			let random_card = card_list_arrayified[i];
+
+			const url = new URL('card', window.location.origin);
+			const params = {
+				set: random_card.set,
+				num: random_card.number,
+				name: random_card.card_name
+			}
+			for (const key in params) {
+				url.searchParams.append(key, params[key]);
+			}
+
+			window.location.href = url;
+		}
+	</script>
+</body>
+</html>
