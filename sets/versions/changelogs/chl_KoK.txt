@@ -1,4 +1,17 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Longtusk Pride
+rules_text: First strike
+When this creature enters, if it isn't a token, create two tokens that are copies of it.
+When a Cat you control deals combat damage, put a +1/+1 counter on each Cat you control. => First strike
+When this creature enters, if it isn't a token, create a token copy of it.
+Whenever a Cat you control deals combat damage, put a +1/+1 counter on each Cat you control.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Winds of Industry added.

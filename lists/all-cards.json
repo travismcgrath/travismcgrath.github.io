@@ -328,7 +328,7 @@
             "number": 69,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
-            "rules_text": "First strike\nWhen this creature enters, if it isn't a token, create two tokens that are copies of it.\nWhen a Cat you control deals combat damage, put a +1/+1 counter on each Cat you control.",
+            "rules_text": "First strike\nWhen this creature enters, if it isn't a token, create a token copy of it.\nWhenever a Cat you control deals combat damage, put a +1/+1 counter on each Cat you control.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
