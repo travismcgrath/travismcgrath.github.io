@@ -1,4 +1,176 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Winds of Industry added.
+Consul of Preservation added.
+The Consul's Orator added.
+Consul's Charm added.
+Ruthless Ripper added.
+
+Winds of Inspiration removed.
+Consol of Preservation removed.
+The Consol's Orator removed.
+Consol's Charm removed.
+Ruthless Riper removed.
+Fenced Armorcraft Entry removed.
+
+Saheeli, Unscrupulous Artificer
+rules_text: When you fabricate you may pay 2 life to both add counters and create tokens.
+Whenever you cast an instant, sorcery, or morph spell Saheeli Fabricates 1. => When a permanent you control manufactures you may pay 2 life to both add counters and create tokens.
+Whenever you cast an instant, sorcery, or morph spell Saheeli manufactures 1.
+
+Anonymous Financier
+rules_text: Morph {2}{G}{U}{W}
+At the beginning of your upkeep look at the top card of your library. You may pay {2}. If you do, put it onto the battlefield face down as a colorless 2/2 Mercenary creature. Otherwise, put it into your hand.
+Facedown creatures you control get +1/+1. => Morph {2}{G}{U}{W}
+At the beginning of your upkeep look at the top card of your library. You may pay {2}. If you do, manifest it. Otherwise, put it into your hand.
+Face down creatures you control get +1/+1.
+
+Pia Nalaar, Fallen Innovator
+rules_text: Fabricate 4
+Deathtouch
+Whenever a +1/+1 counter is put on a creature you control gain {E}.
+{E}{E}{E}{E}: Servos and Thopters you control get +2/+2 and gain Deathtouch until end of turn. => Manufacture 4
+Deathtouch
+Whenever a +1/+1 counter is put on a creature you control gain {E}.
+{E}{E}{E}{E}: Servos and Thopters you control get +2/+2 and gain Deathtouch until end of turn.
+
+Torrential Avalanche
+cost: {3}{U}{U} => {3}{B}{R}
+rules_text: Menace
+Morph {4}{B}{R}
+Whenever this is turned face up or attacks, distribute 3 damage among any number of target creatures. You gain {E} for each creature damaged this way. => Menace
+Morph {4}{U}{U}
+Whenever this is turned face up or attacks, distribute 3 damage among any number of target creatures. You gain {E} for each creature damaged this way.
+
+Noxious Duststorm
+cost: {3}{B}{B} => {3}{W}{U}
+rules_text: Vigilance
+Morph {4}{W}{U}
+Whenever this is turned face up or attacks, return target creature an opponent controls to its owner's hand. => Vigilance
+Morph {4}{B}{B}
+Whenever this is turned face up or attacks, return target creature an opponent controls to its owner's hand.
+
+Cataclysmic Ice Wave
+cost: {3}{W}{W} => {3}{G}{U}
+rules_text: Flash
+Morph {4}{U}{G}
+Whenever this is turned face up or attacks, it fights target creature you don't control. => Flash
+Morph {4}{W}{W}
+Whenever this is turned face up or attacks, it fights target creature you don't control.
+
+Verdurous Wildfire
+cost: {3}{G}{G} => {3}{R}{W}
+rules_text: First strike
+Morph {4}{R}{W}
+Whenever this is turned face up or attacks, tap up to 2 target creatures. => First strike
+Morph {4}{G}{G}
+Whenever this is turned face up or attacks, tap up to one target creature.
+
+Combustible Lightning
+cost: {3}{R}{R} => {3}{B}{G}
+rules_text: Trample
+Morph {4}{G}{B}
+Whenever this is turned face up or attacks, each opponent sacrifices a non-token creature. => Trample
+Morph {4}{R}{R}
+Whenever this is turned face up or attacks, each opponent sacrifices a non-token creature.
+
+Anafenza, Generous Ancestor
+rules_text: Whenever another non-token creature you control dies, each opponent loses 1 life, you gain 1 life, and Anafenza fabricates 1. => Whenever another non-token creature you control dies, each opponent loses 1 life, you gain 1 life, and Anafenza manufactures 1.
+
+Nefarious Inheritence
+cost: {X}{W}{U}{B} => {X}{X}{W}{U}{B}
+rules_text: Draw {X} cards.
+Turn up to {X} face down creatures you control face up.
+You may put up to {X} creatures that have Morph from hand onto the battlefield face down. => Draw X cards.
+Turn up to X face down creatures you control face up.
+You may put up to X creatures that have Morph from hand onto the battlefield face down.
+
+Dragonfist Technique
+cost: {2}{U}{R}{W} => {2}{R}{G}{W}
+
+Grim Haruspex
+rules_text: Morph {B} 
+Whenever another nontoken creature you control dies, draw a card.Whenever an artifact you control is put into a graveyard from the battlefield, target opponent loses life equal to this creature's power. => Morph {B} 
+Whenever another nontoken creature you control dies, draw a card.
+
+Unscrupulous Puppeteer
+rules_text: Fabricate 3
+Whenever an artifact you control is put into a graveyard from the battlefield, target creature an opponent controls gets -X/-X until end of turn, where X is this creature's power. => Manufacture 3
+Whenever an artifact you control is put into a graveyard from the battlefield, target creature an opponent controls gets -X/-X until end of turn, where X is this creature's power.
+
+Bloodfire Master
+rules_text: Flash, first strike, prowess => Haste, first strike, prowess
+
+Generous Angel
+rules_text: Flying, lifelink
+Morph {2}{W}{W}
+When this enters or is turned face up, put a +1/+1 counter on each of up to 3 creatures you control. => Flying, lifelink
+Morph {2}{W}{W}
+When this enters or is turned face up, put a +1/+1 counter on each of up to three other creatures you control.
+
+Corrupted Workshop
+rules_text: Fabricate 1
+{T}: Add {C} => Manufacture 1
+{T}: Add {C}
+
+Manufacturing Virtuoso
+rules_text: When this enters get {E}{E}{E}.
+Pay {E}{E}: This fabricates 1. => When this enters get {E}{E}{E}.
+Pay {E}{E}: This manufactures 1.
+
+Citizen's Companion
+rules_text: Fabricate 3 => Manufacture 3
+
+Finance Charm
+rules_text: Choose one —
+• Draw two cards.
+• Look at the top card of your library. You may put it onto the battlefield face down as a colorless 2/2 Mercenary creature.
+• Exile target creature with mana value 3 or less. => Choose one —
+• Draw two cards.
+• Manifest the top card of your library.
+• Exile target creature with mana value 3 or less.
+
+Gearshift Pitcrew
+rules_text: Fabricate 2. => Manufacture 2.
+
+Resistance Factor
+rules_text: Target creature you control fabricates 1 and gains protection from the color of your choise until end of turn. => Target creature you control manufactures 1 and gains protection from the color of your choise until end of turn.
+
+Innovation Setbacks
+rules_text: Return target creature an opponent controls to its owner's hand.
+Up to one target creature you control fabricates 2. => Return target creature an opponent controls to its owner's hand.
+Up to one target creature you control manufactures 2.
+
+Filigreed Skywhale
+rules_text: Fabricate 1
+Each creature you control with a +1/+1 counter on it has flying. => Manufacture 1
+Each creature you control with a +1/+1 counter on it has flying.
+
+Gonti's Illicit Ironworks
+rules_text: Whenever you attack, you get {E}.
+{T}, Pay {E}{E}{E}: Target creature you contorl Fabricates 2. Activate only as a sorcery. => Whenever you attack, you get {E}.
+{T}, Pay {E}{E}{E}: Target creature you control manufactures 2. Activate only as a sorcery.
+
+Shambling Aetherborn
+rules_text: Fabricate 1
+Each creature you control with a +1/+1 counter on it has deathtouch. => Manufacture 1
+Each creature you control with a +1/+1 counter on it has deathtouch.
+
+Gremlin Squad
+type: Creature — Dwarf Archer => Creature — Gremlin Archer
+rules_text: When this enters gain {E}{E}, then you may pay {E}. If you do it enters with a +1/+1 counter on it.
+Each creature you control with a +1/+1 counter on it has reach. => When this creature enters gain {E}{E}, then you may pay {E}. If you do put a +1/+1 counter on it
+Each creature you control with a +1/+1 counter on it has reach.
+
+Incensed Druid
+type: Creature — Human Beserker => Creature — Human Druid Beserker
+
+Bomat Bazaar Barge
+cost:  => {4}
+
+
+VERSION 7 CHANGELOG
 ====================
 
 No changes.
