@@ -1,4 +1,9 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+No changes.
+
+VERSION 5 CHANGELOG
 ====================
 
 No changes.
