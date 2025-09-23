@@ -1,4 +1,50 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Consol's Bodyguards added.
+
+Robot Bodyguard removed.
+Haillow Storm removed.
+Aether Poisoner removed.
+Thriving Grubs removed.
+
+Indigo Monmument
+type: Land => Artifact Land
+
+Chief of the Hammer
+type: Creature => Creature — Dwarf Berserker
+
+Rebelious Charm
+rules_text: Choose one —
+• Destory target multicolored creature.
+• Target creature cannot block this turn.
+• Exile the top two cards of your library. You may play them until the end of your next turn. => Choose one —
+• Destroy target multicolored creature.
+• Target creature cannot block this turn.
+• Exile the top two cards of your library. You may play them until the end of your next turn.
+
+Tuskguard Colonel
+rules_text: [i]Raid[/i] - At the beginning of your end step, if you attacked this turn creatue a 4/4 green Beast creature token. => [i]Raid[/i] - At the beginning of your end step, if you attacked this turn create a 4/4 green Beast creature token.
+
+Powered Down Timepiece
+cost:  => {2}
+
+Fenced Armorcraft Entry
+rules_text: Equiped creature has indestructible.
+Equip to face down creature {1}
+Equip {3} => Equipped creature has indestructible.
+Equip to face down creature {1}
+Equip {3}
+
+Thriving Rats
+type:  => Creature — Rat
+cost:  => {1}{B}
+rules_text:  => When this creature enters, you get {E}{E}.
+Whenever this creature attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.
+pt:  => 1/2
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Thriving Grubs added.
