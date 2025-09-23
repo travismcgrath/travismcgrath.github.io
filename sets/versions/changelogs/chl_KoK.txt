@@ -1,4 +1,31 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Thriving Grubs added.
+Backslide added.
+Haillow Storm added.
+Thriving Rats added.
+Aether Poisoner added.
+Thriving Grubs added.
+
+
+Scalding Tarn
+type: Land — Non-basic => Land
+
+Marsh Flats
+type: Land — Non-basic => Land
+
+Arid Mesa
+type: Land — Non-basic => Land
+
+Verdant Catacombs
+type: Land — Non-basic => Land
+
+Misty Rainforest
+type: Land — Non-basic => Land
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.
