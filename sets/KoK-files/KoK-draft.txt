@@ -1,0 +1,2323 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Thriving Grubs",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Gremlins",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/63_Thriving Grubs.png"
+			}
+		},
+		{
+			"name": "Saheeli, Unscrupulous Artificer",
+			"rarity": "mythic",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Legendary Creature — Human Noble Artificer",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/118_Saheeli, Unscrupulous Artificer.png"
+			}
+		},
+		{
+			"name": "Narset, Panharmonastic Sage",
+			"rarity": "mythic",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Human Monk",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/108_Narset, Panharmonastic Sage.png"
+			}
+		},
+		{
+			"name": "Zurgo, Anarchist Leader",
+			"rarity": "mythic",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Legendary Creature — Orc Berserker",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/129_Zurgo, Anarchist Leader.png"
+			}
+		},
+		{
+			"name": "Anonymous Financier",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Legendary Creature — Naga Noble",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/82_Anonymous Financier.png"
+			}
+		},
+		{
+			"name": "Pia Nalaar, Fallen Innovator",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}{R}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/113_Pia Nalaar, Fallen Innovator.png"
+			}
+		},
+		{
+			"name": "Waste Land",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/176_Waste Land.png"
+			}
+		},
+		{
+			"name": "Cataclysmic Earthquake",
+			"rarity": "mythic",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Artifact Creature — Elemental Construct",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/85_Cataclysmic Earthquake.png"
+			}
+		},
+		{
+			"name": "Noxious Duststorm",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Artifact Creature — Elemental Construct",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/111_Noxious Duststorm.png"
+			}
+		},
+		{
+			"name": "Torrential Ice Wave",
+			"rarity": "mythic",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Artifact Creature — Elemental Construct",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/124_Torrential Ice Wave.png"
+			}
+		},
+		{
+			"name": "Verdurous Wildfire",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Artifact Creature — Elemental Construct",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/127_Verdurous Wildfire.png"
+			}
+		},
+		{
+			"name": "Combustible Lightning",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Artifact Creature — Elemental Construct",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/89_Combustible Lightning.png"
+			}
+		},
+		{
+			"name": "Aethermate Roc",
+			"rarity": "mythic",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Bird",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/1_Aethermate Roc.png"
+			}
+		},
+		{
+			"name": "Winds of Industry",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Creature — Elemental",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/32_Winds of Industry.png"
+			}
+		},
+		{
+			"name": "Demon of Dark Schemes",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Creature — Demon",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/36_Demon of Dark Schemes.png"
+			}
+		},
+		{
+			"name": "Lightning Runner",
+			"rarity": "mythic",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/59_Lightning Runner.png"
+			}
+		},
+		{
+			"name": "Longtusk Pride",
+			"rarity": "mythic",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Creature — Cat",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/70_Longtusk Pride.png"
+			}
+		},
+		{
+			"name": "Walking Ballista",
+			"rarity": "mythic",
+			"mana_cost": "{X}{X}",
+			"type": "Artifact Creature — Construct",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/153_Walking Ballista.png"
+			}
+		},
+		{
+			"name": "Scalding Tarn",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/169_Scalding Tarn.png"
+			}
+		},
+		{
+			"name": "Marsh Flats",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/164_Marsh Flats.png"
+			}
+		},
+		{
+			"name": "Arid Mesa",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/156_Arid Mesa.png"
+			}
+		},
+		{
+			"name": "Verdant Catacombs",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/175_Verdant Catacombs.png"
+			}
+		},
+		{
+			"name": "Misty Rainforest",
+			"rarity": "rare",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/165_Misty Rainforest.png"
+			}
+		},
+		{
+			"name": "Dovin Baan, Persistent Ancestor",
+			"rarity": "rare",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Legendary Creature — Vedalken Zombie",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/93_Dovin Baan, Persistent Ancestor.png"
+			}
+		},
+		{
+			"name": "Anafenza, Generous Ancestor",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Spirit Noble",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/80_Anafenza, Generous Ancestor.png"
+			}
+		},
+		{
+			"name": "Surrak, Pelt-Cloaked Ancestor",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}{U}",
+			"type": "Legendary Creature — Spirit Warrior",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/123_Surrak, Pelt-Cloaked Ancestor.png"
+			}
+		},
+		{
+			"name": "Houn, Beguiling Ancestor",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{G}{W}",
+			"type": "Legendary Creature — Spirit Monk",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/101_Houn, Beguiling Ancestor.png"
+			}
+		},
+		{
+			"name": "Ancestor, Who Smirks at Law",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}{G}",
+			"type": "Legendary Creature — Human Warror",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/81_Ancestor, Who Smirks at Law.png"
+			}
+		},
+		{
+			"name": "Dustblast",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/95_Dustblast.png"
+			}
+		},
+		{
+			"name": "Nefarious Inheritence",
+			"rarity": "rare",
+			"mana_cost": "{X}{X}{W}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/109_Nefarious Inheritence.png"
+			}
+		},
+		{
+			"name": "Supplant Worker",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Instant",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/122_Supplant Worker.png"
+			}
+		},
+		{
+			"name": "Dragonfist Technique",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/94_Dragonfist Technique.png"
+			}
+		},
+		{
+			"name": "Booming Karma",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Instant",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/84_Booming Karma.png"
+			}
+		},
+		{
+			"name": "Sagu Deforester",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}{U}",
+			"type": "Artifact Creature — Beast Golem",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/117_Sagu Deforester.png"
+			}
+		},
+		{
+			"name": "Kneecap Blaster",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Creature — Goblin Beserker",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/104_Kneecap Blaster.png"
+			}
+		},
+		{
+			"name": "Consul of Preservation",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Vedalken Advisor",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/90_Consul of Preservation.png"
+			}
+		},
+		{
+			"name": "Sage of the Vitalfire",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — Djinn Wizard",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/116_Sage of the Vitalfire.png"
+			}
+		},
+		{
+			"name": "Savage Union Buster",
+			"rarity": "rare",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Creature — Ogre Mercenary",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/119_Savage Union Buster.png"
+			}
+		},
+		{
+			"name": "Gonti's Patronage",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/99_Gonti's Patronage.png"
+			}
+		},
+		{
+			"name": "Impulsive Fracking",
+			"rarity": "rare",
+			"mana_cost": "{B}{R}",
+			"type": "Instant",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/103_Impulsive Fracking.png"
+			}
+		},
+		{
+			"name": "Overturned Throne",
+			"rarity": "rare",
+			"mana_cost": "{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/112_Overturned Throne.png"
+			}
+		},
+		{
+			"name": "Chianul's Guidance",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/86_Chianul's Guidance.png"
+			}
+		},
+		{
+			"name": "Utter Silence",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{U}",
+			"type": "Instant",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/126_Utter Silence.png"
+			}
+		},
+		{
+			"name": "Fumigate",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Sorcery",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/6_Fumigate.png"
+			}
+		},
+		{
+			"name": "Confiscation Coup",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/20_Confiscation Coup.png"
+			}
+		},
+		{
+			"name": "Bloodsoaked Champion",
+			"rarity": "rare",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/34_Bloodsoaked Champion.png"
+			}
+		},
+		{
+			"name": "Howl of the Horde",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/57_Howl of the Horde.png"
+			}
+		},
+		{
+			"name": "Hooded Hydra",
+			"rarity": "rare",
+			"mana_cost": "{X}{G}{G}",
+			"type": "Creature — Snake Hydra",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/67_Hooded Hydra.png"
+			}
+		},
+		{
+			"name": "Trail of Mystery",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/77_Trail of Mystery.png"
+			}
+		},
+		{
+			"name": "Kheru Spellsnatcher",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Naga Wizard",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/26_Kheru Spellsnatcher.png"
+			}
+		},
+		{
+			"name": "Jeering Instigator",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/58_Jeering Instigator.png"
+			}
+		},
+		{
+			"name": "Grim Haruspex",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/39_Grim Haruspex.png"
+			}
+		},
+		{
+			"name": "Master of Pearls",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Monk",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/9_Master of Pearls.png"
+			}
+		},
+		{
+			"name": "Qal Sisma Mystic",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Shaman",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/72_Qal Sisma Mystic.png"
+			}
+		},
+		{
+			"name": "Machiavellian Will",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/27_Machiavellian Will.png"
+			}
+		},
+		{
+			"name": "Unscrupulous Puppeteer",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Aetherborn Artificer",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/48_Unscrupulous Puppeteer.png"
+			}
+		},
+		{
+			"name": "Pearl Lake Salar",
+			"rarity": "rare",
+			"mana_cost": "{X}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/62_Pearl Lake Salar.png"
+			}
+		},
+		{
+			"name": "Bloodfire Master",
+			"rarity": "rare",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Creature — Spirit Monk",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/51_Bloodfire Master.png"
+			}
+		},
+		{
+			"name": "The Consul's Orator",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Dwarf Advisor",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/4_The Consul's Orator.png"
+			}
+		},
+		{
+			"name": "Syndicate Logistician",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Aetherborn Rogue",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/45_Syndicate Logistician.png"
+			}
+		},
+		{
+			"name": "Roaming Sanctuary",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Turtle Elemental",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/75_Roaming Sanctuary.png"
+			}
+		},
+		{
+			"name": "Generous Angel",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Creature — Angel",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/8_Generous Angel.png"
+			}
+		},
+		{
+			"name": "Mine for Solutions",
+			"rarity": "rare",
+			"mana_cost": "{14}{U}{U}",
+			"type": "Instant",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/28_Mine for Solutions.png"
+			}
+		},
+		{
+			"name": "Exploration Module",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/139_Exploration Module.png"
+			}
+		},
+		{
+			"name": "Extraction Module",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/140_Extraction Module.png"
+			}
+		},
+		{
+			"name": "Execution Module",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/138_Execution Module.png"
+			}
+		},
+		{
+			"name": "Skysovereign, Grounded Flagship",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/151_Skysovereign, Grounded Flagship.png"
+			}
+		},
+		{
+			"name": "Smuggler's ATV",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/152_Smuggler's ATV.png"
+			}
+		},
+		{
+			"name": "Cultivator's Caravan",
+			"rarity": "rare",
+			"mana_cost": "{3}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/137_Cultivator's Caravan.png"
+			}
+		},
+		{
+			"name": "Fleetwheel Cruiser",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/142_Fleetwheel Cruiser.png"
+			}
+		},
+		{
+			"name": "Metallic Mimic",
+			"rarity": "rare",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Shapeshifter",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/148_Metallic Mimic.png"
+			}
+		},
+		{
+			"name": "Altar of the Brood",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/131_Altar of the Brood.png"
+			}
+		},
+		{
+			"name": "Ghostfire Blade",
+			"rarity": "rare",
+			"mana_cost": "{1}",
+			"type": "Artifact — Equipment",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/144_Ghostfire Blade.png"
+			}
+		},
+		{
+			"name": "Corrupted Workshop",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/159_Corrupted Workshop.png"
+			}
+		},
+		{
+			"name": "Obscuring Avalanche",
+			"rarity": "mythic",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/166_Obscuring Avalanche.png"
+			}
+		},
+		{
+			"name": "Seaside Citadel",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/171_Seaside Citadel.png"
+			}
+		},
+		{
+			"name": "Arcane Sanctum",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/155_Arcane Sanctum.png"
+			}
+		},
+		{
+			"name": "Crumbling Necropolis",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/160_Crumbling Necropolis.png"
+			}
+		},
+		{
+			"name": "Savage Lands",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/168_Savage Lands.png"
+			}
+		},
+		{
+			"name": "Jungle Shrine",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/163_Jungle Shrine.png"
+			}
+		},
+		{
+			"name": "Aether Hub",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/154_Aether Hub.png"
+			}
+		},
+		{
+			"name": "Zurgo's Encampment",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/178_Zurgo's Encampment.png"
+			}
+		},
+		{
+			"name": "Indigo Monmument",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/146_Indigo Monmument.png"
+			}
+		},
+		{
+			"name": "Manufacturing Virtuoso",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}{R}",
+			"type": "Creature — Vedalken Artificer",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/106_Manufacturing Virtuoso.png"
+			}
+		},
+		{
+			"name": "Citizen's Companion",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{U}{B}",
+			"type": "Creature — Construct Advisor",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/88_Citizen's Companion.png"
+			}
+		},
+		{
+			"name": "Financial Soothsayer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Creature — Naga Noble",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/98_Financial Soothsayer.png"
+			}
+		},
+		{
+			"name": "Warden of the Scrolls",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}{G}{W}",
+			"type": "Creature — Djinn Wizard",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/128_Warden of the Scrolls.png"
+			}
+		},
+		{
+			"name": "Nihilist Roughrider",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}{R}{G}",
+			"type": "Creature — Orc Beserker",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/110_Nihilist Roughrider.png"
+			}
+		},
+		{
+			"name": "Unlicensed Syphoning",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Instant",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/125_Unlicensed Syphoning.png"
+			}
+		},
+		{
+			"name": "Bear Market",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/83_Bear Market.png"
+			}
+		},
+		{
+			"name": "Self-regulated Saftey",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/120_Self-regulated Saftey.png"
+			}
+		},
+		{
+			"name": "Engineer's Prowess",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/96_Engineer's Prowess.png"
+			}
+		},
+		{
+			"name": "Smash Up",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Instant",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/121_Smash Up.png"
+			}
+		},
+		{
+			"name": "Contraband Kingpin",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Aetherborn Rogue",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/92_Contraband Kingpin.png"
+			}
+		},
+		{
+			"name": "Icefeather Exporter",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Bird Merchant",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/102_Icefeather Exporter.png"
+			}
+		},
+		{
+			"name": "Highspire Adept",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Insect Monk",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/100_Highspire Adept.png"
+			}
+		},
+		{
+			"name": "Riotous Brawler",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/115_Riotous Brawler.png"
+			}
+		},
+		{
+			"name": "Chief of the Hammer",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}",
+			"type": "Creature — Dwarf Berserker",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/87_Chief of the Hammer.png"
+			}
+		},
+		{
+			"name": "Labor Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{U}{B}{R}",
+			"type": "Instant",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/105_Labor Charm.png"
+			}
+		},
+		{
+			"name": "Consul's Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}{B}",
+			"type": "Instant",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/91_Consul's Charm.png"
+			}
+		},
+		{
+			"name": "Finance Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Instant",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/97_Finance Charm.png"
+			}
+		},
+		{
+			"name": "Monastic Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{R}{G}{W}",
+			"type": "Instant",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/107_Monastic Charm.png"
+			}
+		},
+		{
+			"name": "Rebelious Charm",
+			"rarity": "uncommon",
+			"mana_cost": "{B}{R}{G}",
+			"type": "Instant",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/114_Rebelious Charm.png"
+			}
+		},
+		{
+			"name": "Sage-Eye Apprentice",
+			"rarity": "uncommon",
+			"mana_cost": "{W}",
+			"type": "Creature — Bird Monk",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/13_Sage-Eye Apprentice.png"
+			}
+		},
+		{
+			"name": "Seeker of the Way",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/15_Seeker of the Way.png"
+			}
+		},
+		{
+			"name": "Gearshift Pitcrew",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Human Artificer",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/7_Gearshift Pitcrew.png"
+			}
+		},
+		{
+			"name": "Devout Kirin",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}",
+			"type": "Creature — Kirin",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/5_Devout Kirin.png"
+			}
+		},
+		{
+			"name": "Roost's Guardian",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Bird Solider",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/12_Roost's Guardian.png"
+			}
+		},
+		{
+			"name": "Army for Hire",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Sorcery",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/2_Army for Hire.png"
+			}
+		},
+		{
+			"name": "Banishing Light",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/3_Banishing Light.png"
+			}
+		},
+		{
+			"name": "Resistance Factor",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/10_Resistance Factor.png"
+			}
+		},
+		{
+			"name": "Skywhaler's Shot",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/16_Skywhaler's Shot.png"
+			}
+		},
+		{
+			"name": "Salt Road Tank",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/14_Salt Road Tank.png"
+			}
+		},
+		{
+			"name": "Cogify",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/19_Cogify.png"
+			}
+		},
+		{
+			"name": "Glimmer of Genius",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Instant",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/24_Glimmer of Genius.png"
+			}
+		},
+		{
+			"name": "Shrewd Negotiation",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}",
+			"type": "Sorcery",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/29_Shrewd Negotiation.png"
+			}
+		},
+		{
+			"name": "Innovation Setbacks",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Sorcery",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/25_Innovation Setbacks.png"
+			}
+		},
+		{
+			"name": "Glacial Glintcrane",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Bird",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/23_Glacial Glintcrane.png"
+			}
+		},
+		{
+			"name": "Denial Lobbyist",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Creature — Naga Citizen",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/21_Denial Lobbyist.png"
+			}
+		},
+		{
+			"name": "Astute Fairground Vendor",
+			"rarity": "uncommon",
+			"mana_cost": "{U}",
+			"type": "Creature — Vedalken Citizen",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/17_Astute Fairground Vendor.png"
+			}
+		},
+		{
+			"name": "Willbender",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/31_Willbender.png"
+			}
+		},
+		{
+			"name": "Filigreed Skywhale",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Whale",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/22_Filigreed Skywhale.png"
+			}
+		},
+		{
+			"name": "Tenth Bridge Copter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/30_Tenth Bridge Copter.png"
+			}
+		},
+		{
+			"name": "Gonti's Illicit Ironworks",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/38_Gonti's Illicit Ironworks.png"
+			}
+		},
+		{
+			"name": "Underhanded Designs",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Enchantment",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/47_Underhanded Designs.png"
+			}
+		},
+		{
+			"name": "Aether Extraction",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Instant",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/33_Aether Extraction.png"
+			}
+		},
+		{
+			"name": "Ruthless Ripper",
+			"rarity": "uncommon",
+			"mana_cost": "{B}",
+			"type": "Creature — Human Assassin",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/43_Ruthless Ripper.png"
+			}
+		},
+		{
+			"name": "Glintsleeve Bruiser",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Orc Warrior",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/37_Glintsleeve Bruiser.png"
+			}
+		},
+		{
+			"name": "Heir of the Wastes",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Orc Citizen",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/40_Heir of the Wastes.png"
+			}
+		},
+		{
+			"name": "Bloody Auctioneer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Human Citizen",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/35_Bloody Auctioneer.png"
+			}
+		},
+		{
+			"name": "Shambling Aetherborn",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Aetherborn Zombie",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/44_Shambling Aetherborn.png"
+			}
+		},
+		{
+			"name": "Kheru Harvester",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/42_Kheru Harvester.png"
+			}
+		},
+		{
+			"name": "Hordeling Troublemaker",
+			"rarity": "uncommon",
+			"mana_cost": "{R}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/56_Hordeling Troublemaker.png"
+			}
+		},
+		{
+			"name": "Aethertorch Arsonist",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Goblin Rogue",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/49_Aethertorch Arsonist.png"
+			}
+		},
+		{
+			"name": "War-Name Aspirant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/64_War-Name Aspirant.png"
+			}
+		},
+		{
+			"name": "Bloodfire Sage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Djinn Warrior",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/52_Bloodfire Sage.png"
+			}
+		},
+		{
+			"name": "Ashcloud Dragster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/50_Ashcloud Dragster.png"
+			}
+		},
+		{
+			"name": "Maulfist Doorbuster",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/60_Maulfist Doorbuster.png"
+			}
+		},
+		{
+			"name": "Gremlin Squad",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Creature — Gremlin Archer",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/54_Gremlin Squad.png"
+			}
+		},
+		{
+			"name": "Myopic Pillaging",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/61_Myopic Pillaging.png"
+			}
+		},
+		{
+			"name": "Harnessed Lightning",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Instant",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/55_Harnessed Lightning.png"
+			}
+		},
+		{
+			"name": "Ceaseless Fires",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/53_Ceaseless Fires.png"
+			}
+		},
+		{
+			"name": "Armorcraft Purchase",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Instant",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/65_Armorcraft Purchase.png"
+			}
+		},
+		{
+			"name": "Hypnotizing AetherBorealis",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Sorcery",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/68_Hypnotizing AetherBorealis.png"
+			}
+		},
+		{
+			"name": "Return from the Horizon",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Sorcery",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/73_Return from the Horizon.png"
+			}
+		},
+		{
+			"name": "Nature's Way",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/71_Nature's Way.png"
+			}
+		},
+		{
+			"name": "Windstorm",
+			"rarity": "uncommon",
+			"mana_cost": "{X}{G}",
+			"type": "Instant",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/79_Windstorm.png"
+			}
+		},
+		{
+			"name": "Riparian Jaguar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Cat Beast",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/74_Riparian Jaguar.png"
+			}
+		},
+		{
+			"name": "Incensed Druid",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Druid Beserker",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/69_Incensed Druid.png"
+			}
+		},
+		{
+			"name": "Tuskguard Colonel",
+			"rarity": "uncommon",
+			"mana_cost": "{6}{G}",
+			"type": "Creature — Human Warrior",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/78_Tuskguard Colonel.png"
+			}
+		},
+		{
+			"name": "Tenth Bridge Turret Guard",
+			"rarity": "uncommon",
+			"mana_cost": "{G}",
+			"type": "Creature — Naga Archer",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/76_Tenth Bridge Turret Guard.png"
+			}
+		},
+		{
+			"name": "Guarded Supply Freighter",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/66_Guarded Supply Freighter.png"
+			}
+		},
+		{
+			"name": "Ovalchase Dragster",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/149_Ovalchase Dragster.png"
+			}
+		},
+		{
+			"name": "Bomat Bazaar Barge",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/132_Bomat Bazaar Barge.png"
+			}
+		},
+		{
+			"name": "Consol's Bodyguards",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Construct Mercenary",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/136_Consol's Bodyguards.png"
+			}
+		},
+		{
+			"name": "Compase-Legged Spider",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact Creature — Spider Construct",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/135_Compase-Legged Spider.png"
+			}
+		},
+		{
+			"name": "Powered Down Timepiece",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/150_Powered Down Timepiece.png"
+			}
+		},
+		{
+			"name": "Improvised Weather Machine",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/145_Improvised Weather Machine.png"
+			}
+		},
+		{
+			"name": "Alloy Loxodon",
+			"rarity": "uncommon",
+			"mana_cost": "{7}",
+			"type": "Artifact Creature — Elephant Construct",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/130_Alloy Loxodon.png"
+			}
+		},
+		{
+			"name": "Filigree Familiar",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact Creature — Fox",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/141_Filigree Familiar.png"
+			}
+		},
+		{
+			"name": "Ghirapur Parapets",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Wall",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/143_Ghirapur Parapets.png"
+			}
+		},
+		{
+			"name": "Loxodon Memorial",
+			"rarity": "uncommon",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/147_Loxodon Memorial.png"
+			}
+		},
+		{
+			"name": "Briber's Purse",
+			"rarity": "uncommon",
+			"mana_cost": "{X}",
+			"type": "Artifact",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/133_Briber's Purse.png"
+			}
+		},
+		{
+			"name": "Tranquil Cove",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/174_Tranquil Cove.png"
+			}
+		},
+		{
+			"name": "Dismal Backwater",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/161_Dismal Backwater.png"
+			}
+		},
+		{
+			"name": "Bloodfell Caves",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/157_Bloodfell Caves.png"
+			}
+		},
+		{
+			"name": "Rugged Highlands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/167_Rugged Highlands.png"
+			}
+		},
+		{
+			"name": "Blossoming Sands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/158_Blossoming Sands.png"
+			}
+		},
+		{
+			"name": "Scoured Barrens",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/170_Scoured Barrens.png"
+			}
+		},
+		{
+			"name": "Swiftwater Cliffs",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/172_Swiftwater Cliffs.png"
+			}
+		},
+		{
+			"name": "Jungle Hollow",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/162_Jungle Hollow.png"
+			}
+		},
+		{
+			"name": "Wind-Scarred Crag",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/177_Wind-Scarred Crag.png"
+			}
+		},
+		{
+			"name": "Thornwood Falls",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/173_Thornwood Falls.png"
+			}
+		},
+		{
+			"name": "Backslide",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Instant",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/18_Backslide.png"
+			}
+		},
+		{
+			"name": "Thriving Rats",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Rat",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/46_Thriving Rats.png"
+			}
+		},
+		{
+			"name": "Irreversible Nightmare",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/41_Irreversible Nightmare.png"
+			}
+		},
+		{
+			"name": "Chief of the Nail",
+			"rarity": "uncommon",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Cat Construct",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/134_Chief of the Nail.png"
+			}
+		},
+		{
+			"name": "Rocslide",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://HammersWinGames.github.io/sets/KoK-files/img/11_Rocslide.png"
+			}
+		}
+	]
+
+[rare(1)]
+	1 Saheeli, Unscrupulous Artificer
+	1 Narset, Panharmonastic Sage
+	1 Zurgo, Anarchist Leader
+	1 Anonymous Financier
+	1 Pia Nalaar, Fallen Innovator
+	2 Waste Land
+	1 Cataclysmic Earthquake
+	1 Noxious Duststorm
+	1 Torrential Ice Wave
+	1 Verdurous Wildfire
+	1 Combustible Lightning
+	1 Aethermate Roc
+	1 Winds of Industry
+	1 Demon of Dark Schemes
+	1 Lightning Runner
+	1 Longtusk Pride
+	1 Walking Ballista
+	2 Scalding Tarn
+	2 Marsh Flats
+	2 Arid Mesa
+	2 Verdant Catacombs
+	2 Misty Rainforest
+	2 Dovin Baan, Persistent Ancestor
+	2 Anafenza, Generous Ancestor
+	2 Surrak, Pelt-Cloaked Ancestor
+	2 Houn, Beguiling Ancestor
+	2 Ancestor, Who Smirks at Law
+	2 Dustblast
+	2 Nefarious Inheritence
+	2 Supplant Worker
+	2 Dragonfist Technique
+	2 Booming Karma
+	2 Sagu Deforester
+	2 Kneecap Blaster
+	2 Consul of Preservation
+	2 Sage of the Vitalfire
+	2 Savage Union Buster
+	2 Gonti's Patronage
+	2 Impulsive Fracking
+	2 Overturned Throne
+	2 Chianul's Guidance
+	2 Utter Silence
+	2 Fumigate
+	2 Confiscation Coup
+	2 Bloodsoaked Champion
+	2 Howl of the Horde
+	2 Hooded Hydra
+	2 Trail of Mystery
+	2 Kheru Spellsnatcher
+	2 Jeering Instigator
+	2 Grim Haruspex
+	2 Master of Pearls
+	2 Qal Sisma Mystic
+	2 Machiavellian Will
+	2 Unscrupulous Puppeteer
+	2 Pearl Lake Salar
+	2 Bloodfire Master
+	2 The Consul's Orator
+	2 Syndicate Logistician
+	2 Roaming Sanctuary
+	2 Generous Angel
+	2 Mine for Solutions
+	2 Exploration Module
+	2 Execution Module
+	2 Skysovereign, Grounded Flagship
+	2 Smuggler's ATV
+	2 Cultivator's Caravan
+	2 Fleetwheel Cruiser
+	2 Metallic Mimic
+	2 Altar of the Brood
+	2 Ghostfire Blade
+	1 Obscuring Avalanche
+[uncommon(3)]
+	4 Extraction Module
+	4 Corrupted Workshop
+	4 Seaside Citadel
+	4 Arcane Sanctum
+	4 Crumbling Necropolis
+	4 Savage Lands
+	4 Jungle Shrine
+	4 Aether Hub
+	4 Zurgo's Encampment
+	4 Indigo Monmument
+	4 Manufacturing Virtuoso
+	4 Citizen's Companion
+	4 Financial Soothsayer
+	4 Warden of the Scrolls
+	4 Nihilist Roughrider
+	4 Unlicensed Syphoning
+	4 Bear Market
+	4 Self-regulated Saftey
+	4 Engineer's Prowess
+	4 Smash Up
+	4 Contraband Kingpin
+	4 Icefeather Exporter
+	4 Highspire Adept
+	4 Riotous Brawler
+	4 Chief of the Hammer
+	4 Labor Charm
+	4 Consul's Charm
+	4 Finance Charm
+	4 Monastic Charm
+	4 Rebelious Charm
+	4 Sage-Eye Apprentice
+	4 Seeker of the Way
+	4 Gearshift Pitcrew
+	4 Devout Kirin
+	4 Roost's Guardian
+	4 Army for Hire
+	4 Banishing Light
+	4 Skywhaler's Shot
+	4 Salt Road Tank
+	4 Cogify
+	4 Glimmer of Genius
+	4 Shrewd Negotiation
+	4 Innovation Setbacks
+	4 Glacial Glintcrane
+	4 Denial Lobbyist
+	4 Astute Fairground Vendor
+	4 Willbender
+	4 Filigreed Skywhale
+	4 Tenth Bridge Copter
+	4 Gonti's Illicit Ironworks
+	4 Underhanded Designs
+	4 Aether Extraction
+	4 Ruthless Ripper
+	4 Glintsleeve Bruiser
+	4 Heir of the Wastes
+	4 Bloody Auctioneer
+	4 Shambling Aetherborn
+	4 Kheru Harvester
+	4 Hordeling Troublemaker
+	4 Aethertorch Arsonist
+	4 War-Name Aspirant
+	4 Bloodfire Sage
+	4 Ashcloud Dragster
+	4 Maulfist Doorbuster
+	4 Gremlin Squad
+	4 Myopic Pillaging
+	4 Harnessed Lightning
+	4 Ceaseless Fires
+	4 Armorcraft Purchase
+	4 Hypnotizing AetherBorealis
+	4 Return from the Horizon
+	4 Nature's Way
+	4 Windstorm
+	4 Riparian Jaguar
+	4 Incensed Druid
+	4 Tuskguard Colonel
+	4 Tenth Bridge Turret Guard
+	4 Guarded Supply Freighter
+	4 Ovalchase Dragster
+	4 Bomat Bazaar Barge
+	4 Consol's Bodyguards
+	4 Compase-Legged Spider
+	4 Powered Down Timepiece
+	4 Improvised Weather Machine
+	4 Alloy Loxodon
+	4 Filigree Familiar
+	4 Ghirapur Parapets
+	4 Loxodon Memorial
+	4 Briber's Purse
+	4 Irreversible Nightmare
+	4 Chief of the Nail
+	4 Rocslide
+[common(7)]
+	8 Thriving Grubs
+	8 Resistance Factor
+	8 Tranquil Cove
+	8 Dismal Backwater
+	8 Bloodfell Caves
+	8 Rugged Highlands
+	8 Blossoming Sands
+	8 Scoured Barrens
+	8 Swiftwater Cliffs
+	8 Jungle Hollow
+	8 Wind-Scarred Crag
+	8 Thornwood Falls
+	8 Backslide
+	8 Thriving Rats
+[foil(1)]
+	12 Thriving Grubs
+	1 Saheeli, Unscrupulous Artificer
+	1 Narset, Panharmonastic Sage
+	1 Zurgo, Anarchist Leader
+	1 Anonymous Financier
+	1 Pia Nalaar, Fallen Innovator
+	2 Waste Land
+	1 Cataclysmic Earthquake
+	1 Noxious Duststorm
+	1 Torrential Ice Wave
+	1 Verdurous Wildfire
+	1 Combustible Lightning
+	1 Aethermate Roc
+	1 Winds of Industry
+	1 Demon of Dark Schemes
+	1 Lightning Runner
+	1 Longtusk Pride
+	1 Walking Ballista
+	2 Scalding Tarn
+	2 Marsh Flats
+	2 Arid Mesa
+	2 Verdant Catacombs
+	2 Misty Rainforest
+	2 Dovin Baan, Persistent Ancestor
+	2 Anafenza, Generous Ancestor
+	2 Surrak, Pelt-Cloaked Ancestor
+	2 Houn, Beguiling Ancestor
+	2 Ancestor, Who Smirks at Law
+	2 Dustblast
+	2 Nefarious Inheritence
+	2 Supplant Worker
+	2 Dragonfist Technique
+	2 Booming Karma
+	2 Sagu Deforester
+	2 Kneecap Blaster
+	2 Consul of Preservation
+	2 Sage of the Vitalfire
+	2 Savage Union Buster
+	2 Gonti's Patronage
+	2 Impulsive Fracking
+	2 Overturned Throne
+	2 Chianul's Guidance
+	2 Utter Silence
+	2 Fumigate
+	2 Confiscation Coup
+	2 Bloodsoaked Champion
+	2 Howl of the Horde
+	2 Hooded Hydra
+	2 Trail of Mystery
+	2 Kheru Spellsnatcher
+	2 Jeering Instigator
+	2 Grim Haruspex
+	2 Master of Pearls
+	2 Qal Sisma Mystic
+	2 Machiavellian Will
+	2 Unscrupulous Puppeteer
+	2 Pearl Lake Salar
+	2 Bloodfire Master
+	2 The Consul's Orator
+	2 Syndicate Logistician
+	2 Roaming Sanctuary
+	2 Generous Angel
+	2 Mine for Solutions
+	2 Exploration Module
+	6 Extraction Module
+	2 Execution Module
+	2 Skysovereign, Grounded Flagship
+	2 Smuggler's ATV
+	2 Cultivator's Caravan
+	2 Fleetwheel Cruiser
+	2 Metallic Mimic
+	2 Altar of the Brood
+	2 Ghostfire Blade
+	6 Corrupted Workshop
+	1 Obscuring Avalanche
+	6 Seaside Citadel
+	6 Arcane Sanctum
+	6 Crumbling Necropolis
+	6 Savage Lands
+	6 Jungle Shrine
+	6 Aether Hub
+	6 Zurgo's Encampment
+	6 Indigo Monmument
+	6 Manufacturing Virtuoso
+	6 Citizen's Companion
+	6 Financial Soothsayer
+	6 Warden of the Scrolls
+	6 Nihilist Roughrider
+	6 Unlicensed Syphoning
+	6 Bear Market
+	6 Self-regulated Saftey
+	6 Engineer's Prowess
+	6 Smash Up
+	6 Contraband Kingpin
+	6 Icefeather Exporter
+	6 Highspire Adept
+	6 Riotous Brawler
+	6 Chief of the Hammer
+	6 Labor Charm
+	6 Consul's Charm
+	6 Finance Charm
+	6 Monastic Charm
+	6 Rebelious Charm
+	6 Sage-Eye Apprentice
+	6 Seeker of the Way
+	6 Gearshift Pitcrew
+	6 Devout Kirin
+	6 Roost's Guardian
+	6 Army for Hire
+	6 Banishing Light
+	12 Resistance Factor
+	6 Skywhaler's Shot
+	6 Salt Road Tank
+	6 Cogify
+	6 Glimmer of Genius
+	6 Shrewd Negotiation
+	6 Innovation Setbacks
+	6 Glacial Glintcrane
+	6 Denial Lobbyist
+	6 Astute Fairground Vendor
+	6 Willbender
+	6 Filigreed Skywhale
+	6 Tenth Bridge Copter
+	6 Gonti's Illicit Ironworks
+	6 Underhanded Designs
+	6 Aether Extraction
+	6 Ruthless Ripper
+	6 Glintsleeve Bruiser
+	6 Heir of the Wastes
+	6 Bloody Auctioneer
+	6 Shambling Aetherborn
+	6 Kheru Harvester
+	6 Hordeling Troublemaker
+	6 Aethertorch Arsonist
+	6 War-Name Aspirant
+	6 Bloodfire Sage
+	6 Ashcloud Dragster
+	6 Maulfist Doorbuster
+	6 Gremlin Squad
+	6 Myopic Pillaging
+	6 Harnessed Lightning
+	6 Ceaseless Fires
+	6 Armorcraft Purchase
+	6 Hypnotizing AetherBorealis
+	6 Return from the Horizon
+	6 Nature's Way
+	6 Windstorm
+	6 Riparian Jaguar
+	6 Incensed Druid
+	6 Tuskguard Colonel
+	6 Tenth Bridge Turret Guard
+	6 Guarded Supply Freighter
+	6 Ovalchase Dragster
+	6 Bomat Bazaar Barge
+	6 Consol's Bodyguards
+	6 Compase-Legged Spider
+	6 Powered Down Timepiece
+	6 Improvised Weather Machine
+	6 Alloy Loxodon
+	6 Filigree Familiar
+	6 Ghirapur Parapets
+	6 Loxodon Memorial
+	6 Briber's Purse
+	12 Tranquil Cove
+	12 Dismal Backwater
+	12 Bloodfell Caves
+	12 Rugged Highlands
+	12 Blossoming Sands
+	12 Scoured Barrens
+	12 Swiftwater Cliffs
+	12 Jungle Hollow
+	12 Wind-Scarred Crag
+	12 Thornwood Falls
+	12 Backslide
+	12 Thriving Rats
+	6 Irreversible Nightmare
+	6 Chief of the Nail
+	6 Rocslide
+[wildcard(1)]
+	6 Thriving Grubs
+	4 Saheeli, Unscrupulous Artificer
+	4 Narset, Panharmonastic Sage
+	4 Zurgo, Anarchist Leader
+	4 Anonymous Financier
+	4 Pia Nalaar, Fallen Innovator
+	7 Waste Land
+	4 Cataclysmic Earthquake
+	4 Noxious Duststorm
+	4 Torrential Ice Wave
+	4 Verdurous Wildfire
+	4 Combustible Lightning
+	4 Aethermate Roc
+	4 Winds of Industry
+	4 Demon of Dark Schemes
+	4 Lightning Runner
+	4 Longtusk Pride
+	4 Walking Ballista
+	7 Scalding Tarn
+	7 Marsh Flats
+	7 Arid Mesa
+	7 Verdant Catacombs
+	7 Misty Rainforest
+	7 Dovin Baan, Persistent Ancestor
+	7 Anafenza, Generous Ancestor
+	7 Surrak, Pelt-Cloaked Ancestor
+	7 Houn, Beguiling Ancestor
+	7 Ancestor, Who Smirks at Law
+	7 Dustblast
+	7 Nefarious Inheritence
+	7 Supplant Worker
+	7 Dragonfist Technique
+	7 Booming Karma
+	7 Sagu Deforester
+	7 Kneecap Blaster
+	7 Consul of Preservation
+	7 Sage of the Vitalfire
+	7 Savage Union Buster
+	7 Gonti's Patronage
+	7 Impulsive Fracking
+	7 Overturned Throne
+	7 Chianul's Guidance
+	7 Utter Silence
+	7 Fumigate
+	7 Confiscation Coup
+	7 Bloodsoaked Champion
+	7 Howl of the Horde
+	7 Hooded Hydra
+	7 Trail of Mystery
+	7 Kheru Spellsnatcher
+	7 Jeering Instigator
+	7 Grim Haruspex
+	7 Master of Pearls
+	7 Qal Sisma Mystic
+	7 Machiavellian Will
+	7 Unscrupulous Puppeteer
+	7 Pearl Lake Salar
+	7 Bloodfire Master
+	7 The Consul's Orator
+	7 Syndicate Logistician
+	7 Roaming Sanctuary
+	7 Generous Angel
+	7 Mine for Solutions
+	7 Exploration Module
+	15 Extraction Module
+	7 Execution Module
+	7 Skysovereign, Grounded Flagship
+	7 Smuggler's ATV
+	7 Cultivator's Caravan
+	7 Fleetwheel Cruiser
+	7 Metallic Mimic
+	7 Altar of the Brood
+	7 Ghostfire Blade
+	15 Corrupted Workshop
+	4 Obscuring Avalanche
+	15 Seaside Citadel
+	15 Arcane Sanctum
+	15 Crumbling Necropolis
+	15 Savage Lands
+	15 Jungle Shrine
+	15 Aether Hub
+	15 Zurgo's Encampment
+	15 Indigo Monmument
+	15 Manufacturing Virtuoso
+	15 Citizen's Companion
+	15 Financial Soothsayer
+	15 Warden of the Scrolls
+	15 Nihilist Roughrider
+	15 Unlicensed Syphoning
+	15 Bear Market
+	15 Self-regulated Saftey
+	15 Engineer's Prowess
+	15 Smash Up
+	15 Contraband Kingpin
+	15 Icefeather Exporter
+	15 Highspire Adept
+	15 Riotous Brawler
+	15 Chief of the Hammer
+	15 Labor Charm
+	15 Consul's Charm
+	15 Finance Charm
+	15 Monastic Charm
+	15 Rebelious Charm
+	15 Sage-Eye Apprentice
+	15 Seeker of the Way
+	15 Gearshift Pitcrew
+	15 Devout Kirin
+	15 Roost's Guardian
+	15 Army for Hire
+	15 Banishing Light
+	6 Resistance Factor
+	15 Skywhaler's Shot
+	15 Salt Road Tank
+	15 Cogify
+	15 Glimmer of Genius
+	15 Shrewd Negotiation
+	15 Innovation Setbacks
+	15 Glacial Glintcrane
+	15 Denial Lobbyist
+	15 Astute Fairground Vendor
+	15 Willbender
+	15 Filigreed Skywhale
+	15 Tenth Bridge Copter
+	15 Gonti's Illicit Ironworks
+	15 Underhanded Designs
+	15 Aether Extraction
+	15 Ruthless Ripper
+	15 Glintsleeve Bruiser
+	15 Heir of the Wastes
+	15 Bloody Auctioneer
+	15 Shambling Aetherborn
+	15 Kheru Harvester
+	15 Hordeling Troublemaker
+	15 Aethertorch Arsonist
+	15 War-Name Aspirant
+	15 Bloodfire Sage
+	15 Ashcloud Dragster
+	15 Maulfist Doorbuster
+	15 Gremlin Squad
+	15 Myopic Pillaging
+	15 Harnessed Lightning
+	15 Ceaseless Fires
+	15 Armorcraft Purchase
+	15 Hypnotizing AetherBorealis
+	15 Return from the Horizon
+	15 Nature's Way
+	15 Windstorm
+	15 Riparian Jaguar
+	15 Incensed Druid
+	15 Tuskguard Colonel
+	15 Tenth Bridge Turret Guard
+	15 Guarded Supply Freighter
+	15 Ovalchase Dragster
+	15 Bomat Bazaar Barge
+	15 Consol's Bodyguards
+	15 Compase-Legged Spider
+	15 Powered Down Timepiece
+	15 Improvised Weather Machine
+	15 Alloy Loxodon
+	15 Filigree Familiar
+	15 Ghirapur Parapets
+	15 Loxodon Memorial
+	15 Briber's Purse
+	6 Tranquil Cove
+	6 Dismal Backwater
+	6 Bloodfell Caves
+	6 Rugged Highlands
+	6 Blossoming Sands
+	6 Scoured Barrens
+	6 Swiftwater Cliffs
+	6 Jungle Hollow
+	6 Wind-Scarred Crag
+	6 Thornwood Falls
+	6 Backslide
+	6 Thriving Rats
+	15 Irreversible Nightmare
+	15 Chief of the Nail
+	15 Rocslide

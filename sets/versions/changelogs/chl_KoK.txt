@@ -1,4 +1,9 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+No changes.
+
+VERSION 11 CHANGELOG
 ====================
 
 Waste Land added.
