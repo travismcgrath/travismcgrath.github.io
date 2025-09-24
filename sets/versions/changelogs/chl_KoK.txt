@@ -1,4 +1,42 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Cataclysmic Earthquake added.
+Torrential Ice Wave added.
+Chief of the Nail added.
+
+Torrential Avalanche removed.
+Cataclysmic Ice Wave removed.
+
+Noxious Duststorm
+cost: {3}{W}{U} => {3}{U}{B}
+rules_text: Vigilance
+Morph {4}{B}{B}
+Whenever this is turned face up or attacks, return target creature an opponent controls to its owner's hand. => Menace, Morph {5}{U}{B}
+Whenever this is turned face up, destroy all other creatures that are one or more colors. Target opponent loses 1 life for each creature destroyed this way.
+
+Verdurous Wildfire
+cost: {3}{R}{W} => {3}{R}{G}
+rules_text: First strike
+Morph {4}{G}{G}
+Whenever this is turned face up or attacks, tap up to one target creature. => Trample, Morph {5}{R}{G}
+Whenever this is turned face, up double the power of creatures you control until end of turn.
+
+Combustible Lightning
+cost: {3}{B}{G} => {3}{B}{R}
+rules_text: Trample
+Morph {4}{R}{R}
+Whenever this is turned face up or attacks, each opponent sacrifices a non-token creature. => Haste, Morph {5}{B}{R}
+Whenever this is turned face up, target opponent may have you draw three cards. If the player doesn't, you mill three cards, then they lose life equal to the total mana value of those cards.
+
+Chief of the Hammer
+rules_text: [i]Raid[/i] - Other non-token creatures you control enter with an additional +1/+1 counter on them if you've attacked this turn. => [i]Raid[/i] - If you've attacked this turn, creatures under your control that are one or more colors enter with an additional +1/+1 counter on them.
+
+Chief of the Arrows
+cost: {3} => {4}
+
+
+VERSION 9 CHANGELOG
 ====================
 
 

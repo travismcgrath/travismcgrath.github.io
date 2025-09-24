@@ -1,10 +1,16 @@
 ﻿{
+    "name": "",
+    "formats": "",
+    "trimmed": "n",
+    "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
     "cards": [
         {
             "card_name": "Thriving Grubs",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2013 Gremlins",
+            "type": "Creature \u2014 Gremlins",
             "number": 62,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -17,14 +23,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Saheeli, Unscrupulous Artificer",
             "color": "WUB",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Noble Artificer",
+            "type": "Legendary Creature \u2014 Human Noble Artificer",
             "number": 117,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
@@ -37,14 +42,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Narset, Panharmonastic Sage",
             "color": "WRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Monk",
+            "type": "Legendary Creature \u2014 Human Monk",
             "number": 107,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
@@ -57,14 +61,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Zurgo, Anarchist Leader",
             "color": "BRG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Orc Berserker",
+            "type": "Legendary Creature \u2014 Orc Berserker",
             "number": 128,
             "color_identity": "BRG",
             "cost": "{2}{B}{R}{G}",
@@ -77,14 +80,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Anonymous Financier",
             "color": "WUG",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Naga Noble",
+            "type": "Legendary Creature \u2014 Naga Noble",
             "number": 81,
             "color_identity": "WUG",
             "cost": "{3}{G}{W}{U}",
@@ -97,14 +99,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Pia Nalaar, Fallen Innovator",
             "color": "UBR",
             "rarity": "mythic",
-            "type": "Legendary Creature \u2013 Human Artificer",
+            "type": "Legendary Creature \u2014 Human Artificer",
             "number": 112,
             "color_identity": "UBR",
             "cost": "{4}{U}{B}{R}",
@@ -117,8 +118,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Stripmine",
@@ -137,14 +137,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Cataclysmic Earthquake",
             "color": "WG",
             "rarity": "mythic",
-            "type": "Artifact Creature \u2013 Elemental Construct",
+            "type": "Artifact Creature \u2014 Elemental Construct",
             "number": 84,
             "color_identity": "WG",
             "cost": "{3}{G}{W}",
@@ -157,14 +156,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Noxious Duststorm",
             "color": "UB",
             "rarity": "mythic",
-            "type": "Artifact Creature \u2013 Elemental Construct",
+            "type": "Artifact Creature \u2014 Elemental Construct",
             "number": 110,
             "color_identity": "UB",
             "cost": "{3}{U}{B}",
@@ -177,14 +175,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Torrential Ice Wave",
             "color": "WU",
             "rarity": "mythic",
-            "type": "Artifact Creature \u2013 Elemental Construct",
+            "type": "Artifact Creature \u2014 Elemental Construct",
             "number": 123,
             "color_identity": "WU",
             "cost": "{3}{W}{U}",
@@ -197,14 +194,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Verdurous Wildfire",
             "color": "RG",
             "rarity": "mythic",
-            "type": "Artifact Creature \u2013 Elemental Construct",
+            "type": "Artifact Creature \u2014 Elemental Construct",
             "number": 126,
             "color_identity": "RG",
             "cost": "{3}{R}{G}",
@@ -217,14 +213,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Combustible Lightning",
             "color": "BR",
             "rarity": "mythic",
-            "type": "Artifact Creature \u2013 Elemental Construct",
+            "type": "Artifact Creature \u2014 Elemental Construct",
             "number": 88,
             "color_identity": "BR",
             "cost": "{3}{B}{R}",
@@ -237,14 +232,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Aethermate Roc",
             "color": "W",
             "rarity": "mythic",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 1,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -257,14 +251,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Winds of Industry",
             "color": "U",
             "rarity": "mythic",
-            "type": "Creature \u2013 Elemental",
+            "type": "Creature \u2014 Elemental",
             "number": 31,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
@@ -277,14 +270,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Demon of Dark Schemes",
             "color": "B",
             "rarity": "mythic",
-            "type": "Creature \u2013 Demon",
+            "type": "Creature \u2014 Demon",
             "number": 35,
             "color_identity": "B",
             "cost": "{3}{B}{B}{B}",
@@ -297,14 +289,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Lightning Runner",
             "color": "R",
             "rarity": "mythic",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 58,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -317,14 +308,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Longtusk Pride",
             "color": "G",
             "rarity": "mythic",
-            "type": "Creature \u2013 Cat",
+            "type": "Creature \u2014 Cat",
             "number": 69,
             "color_identity": "G",
             "cost": "{4}{G}{G}",
@@ -337,14 +327,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Walking Ballista",
             "color": "",
             "rarity": "mythic",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 152,
             "color_identity": "C",
             "cost": "{X}{X}",
@@ -357,8 +346,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Scalding Tarn",
@@ -377,8 +365,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Marsh Flats",
@@ -397,8 +384,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Arid Mesa",
@@ -417,8 +403,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Verdant Catacombs",
@@ -437,8 +422,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Misty Rainforest",
@@ -457,14 +441,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dovin Baan, Persistent Ancestor",
             "color": "UBR",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Vedalken Zombie",
+            "type": "Legendary Creature \u2014 Vedalken Zombie",
             "number": 92,
             "color_identity": "UBR",
             "cost": "{1}{U}{B}{R}",
@@ -477,14 +460,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Anafenza, Generous Ancestor",
             "color": "WUB",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Spirit Noble",
+            "type": "Legendary Creature \u2014 Spirit Noble",
             "number": 79,
             "color_identity": "WUB",
             "cost": "{1}{W}{U}{B}",
@@ -497,14 +479,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Surrak, Pelt-Cloaked Ancestor",
             "color": "WUG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Spirit Warrior",
+            "type": "Legendary Creature \u2014 Spirit Warrior",
             "number": 122,
             "color_identity": "WUG",
             "cost": "{1}{G}{W}{U}",
@@ -517,14 +498,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Houn, Beguiling Ancestor",
             "color": "WRG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Spirit Monk",
+            "type": "Legendary Creature \u2014 Spirit Monk",
             "number": 100,
             "color_identity": "WRG",
             "cost": "{1}{R}{G}{W}",
@@ -537,14 +517,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ancestor, Who Smirks at Law",
             "color": "BRG",
             "rarity": "rare",
-            "type": "Legendary Creature \u2013 Human Warror",
+            "type": "Legendary Creature \u2014 Human Warror",
             "number": 80,
             "color_identity": "BRG",
             "cost": "{1}{B}{R}{G}",
@@ -557,8 +536,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dustblast",
@@ -577,8 +555,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Nefarious Inheritence",
@@ -597,8 +574,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Supplant Worker",
@@ -617,8 +593,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dragonfist Technique",
@@ -637,8 +612,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Booming Karma",
@@ -657,14 +631,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Sagu Deforrester",
             "color": "WUG",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Beast Golem",
+            "type": "Artifact Creature \u2014 Beast Golem",
             "number": 116,
             "color_identity": "WUG",
             "cost": "{3}{G}{W}{U}",
@@ -677,14 +650,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Kneecap Blaster",
             "color": "BRG",
             "rarity": "rare",
-            "type": "Creature \u2013 Goblin Beserker",
+            "type": "Creature \u2014 Goblin Beserker",
             "number": 103,
             "color_identity": "BRG",
             "cost": "{2}{B}{R}{G}",
@@ -697,14 +669,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Consul of Preservation",
             "color": "WUB",
             "rarity": "rare",
-            "type": "Creature \u2013 Vedalken Advisor",
+            "type": "Creature \u2014 Vedalken Advisor",
             "number": 89,
             "color_identity": "WUB",
             "cost": "{2}{W}{U}{B}",
@@ -717,14 +688,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Sage of the Vitalfire",
             "color": "WRG",
             "rarity": "rare",
-            "type": "Creature \u2013 Djinn Wizard",
+            "type": "Creature \u2014 Djinn Wizard",
             "number": 115,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
@@ -737,14 +707,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Savage Union Buster",
             "color": "UBR",
             "rarity": "rare",
-            "type": "Creature \u2013 Ogre Mercenary",
+            "type": "Creature \u2014 Ogre Mercenary",
             "number": 118,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
@@ -757,8 +726,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Gonti's Patronage",
@@ -777,8 +745,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Impulsive Fracking",
@@ -797,8 +764,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Overturned Throne",
@@ -817,8 +783,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Chianul's Guidance",
@@ -837,8 +802,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Utter Silence",
@@ -857,8 +821,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Fumigate",
@@ -877,8 +840,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Confiscation Coup",
@@ -897,18 +859,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bloodsoaked Champion",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 33,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "This creature can't block.\n[i]Raid[/i] \u2013 {1}{B}: Return this card from your graveyard to the battlefield. Activate only if you attacked this turn.",
+            "rules_text": "This creature can't block.\n[i]Raid[/i] \u2014 {1}{B}: Return this card from your graveyard to the battlefield. Activate only if you attacked this turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -917,8 +878,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Howl of the Horde",
@@ -928,7 +888,7 @@
             "number": 56,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.\n[i]Raid[/i] \u2013 If you attacked this turn, when you next cast an instant or sorcery spell this turn, copy that spell an additional time. You may choose new targets for the copy.",
+            "rules_text": "When you next cast an instant or sorcery spell this turn, copy that spell. You may choose new targets for the copy.\n[i]Raid[/i] \u2014 If you attacked this turn, when you next cast an instant or sorcery spell this turn, copy that spell an additional time. You may choose new targets for the copy.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -937,14 +897,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bristling Hydra",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Hydra",
+            "type": "Creature \u2014 Hydra",
             "number": 65,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
@@ -957,8 +916,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Trail of Mystery",
@@ -977,14 +935,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Kheru Spellsnatcher",
             "color": "U",
             "rarity": "rare",
-            "type": "Creature \u2013 Naga Wizard",
+            "type": "Creature \u2014 Naga Wizard",
             "number": 25,
             "color_identity": "U",
             "cost": "{3}{U}",
@@ -997,14 +954,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Jeering Instegator",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Goblin Rogue",
+            "type": "Creature \u2014 Goblin Rogue",
             "number": 57,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -1017,14 +973,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Grim Haruspex",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 38,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -1037,14 +992,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Master of Pearls",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Monk",
+            "type": "Creature \u2014 Human Monk",
             "number": 9,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -1057,14 +1011,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Qal Sisma Mystic",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Human Shaman",
+            "type": "Creature \u2014 Human Shaman",
             "number": 71,
             "color_identity": "WRG",
             "cost": "{1}{G}",
@@ -1077,8 +1030,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Machiavellian Will",
@@ -1088,7 +1040,7 @@
             "number": 26,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
-            "rules_text": "Choose two \u2013\n\u2022 Counter target spell.\n\u2022 Flicker target creature you control.\n\u2022 Proliferate.",
+            "rules_text": "Choose two \u2014\n\u2022 Counter target spell.\n\u2022 Flicker target creature you control.\n\u2022 Proliferate.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1097,14 +1049,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Unscrupulous Puppeteer",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Aetherborn Artificer",
+            "type": "Creature \u2014 Aetherborn Artificer",
             "number": 47,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
@@ -1117,8 +1068,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Pearl Lake Salar",
@@ -1137,14 +1087,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bloodfire Master",
             "color": "R",
             "rarity": "rare",
-            "type": "Creature \u2013 Spirit Monk",
+            "type": "Creature \u2014 Spirit Monk",
             "number": 50,
             "color_identity": "R",
             "cost": "{3}{R}{R}",
@@ -1157,14 +1106,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "The Consul's Orator",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Dwarf Advisor",
+            "type": "Creature \u2014 Dwarf Advisor",
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -1177,14 +1125,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Syndicate Logistician",
             "color": "B",
             "rarity": "rare",
-            "type": "Creature \u2013 Aethorborn Rogue",
+            "type": "Creature \u2014 Aethorborn Rogue",
             "number": 44,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -1197,14 +1144,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Roaming Sanctuary",
             "color": "G",
             "rarity": "rare",
-            "type": "Creature \u2013 Turtle Elemental",
+            "type": "Creature \u2014 Turtle Elemental",
             "number": 74,
             "color_identity": "G",
             "cost": "{3}{G}{G}",
@@ -1217,14 +1163,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Generous Angel",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2013 Angel",
+            "type": "Creature \u2014 Angel",
             "number": 8,
             "color_identity": "W",
             "cost": "{2}{W}{W}",
@@ -1237,8 +1182,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Mine for Solutions",
@@ -1257,8 +1201,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Exploration Module",
@@ -1277,8 +1220,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Extraction Module",
@@ -1297,8 +1239,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Execution Module",
@@ -1317,14 +1258,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Skysovereign, Grounded Flagship",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 150,
             "color_identity": "C",
             "cost": "{4}",
@@ -1337,14 +1277,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Smuggler's ATV",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 151,
             "color_identity": "C",
             "cost": "{2}",
@@ -1357,14 +1296,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Cultivator's Caravan",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 136,
             "color_identity": "C",
             "cost": "{3}",
@@ -1377,14 +1315,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Fleetwheel Cruiser",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 141,
             "color_identity": "C",
             "cost": "{4}",
@@ -1397,14 +1334,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Metalic Mimic",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact Creature \u2013 Shapeshifter",
+            "type": "Artifact Creature \u2014 Shapeshifter",
             "number": 147,
             "color_identity": "C",
             "cost": "{2}",
@@ -1417,8 +1353,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Altar of the Brood",
@@ -1437,14 +1372,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ghost Fire Blade",
             "color": "",
             "rarity": "rare",
-            "type": "Artifact \u2013 Equipment",
+            "type": "Artifact \u2014 Equipment",
             "number": 143,
             "color_identity": "C",
             "cost": "{1}",
@@ -1457,8 +1391,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Corrupted Workshop",
@@ -1477,8 +1410,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Obscuring Avalanche",
@@ -1497,8 +1429,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Seaside Citadel",
@@ -1517,8 +1448,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Arcane Sanctum",
@@ -1537,8 +1467,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Crumbling Necropolis",
@@ -1557,8 +1486,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Savage Lands",
@@ -1577,8 +1505,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Jungle Shrine",
@@ -1597,8 +1524,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Aether Hub",
@@ -1617,8 +1543,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Zurgo's Encampment",
@@ -1637,8 +1562,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Indigo Monmument",
@@ -1657,14 +1581,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Manufacturing Virtuoso",
             "color": "UBR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Vedalken Artificer",
+            "type": "Creature \u2014 Vedalken Artificer",
             "number": 105,
             "color_identity": "UBR",
             "cost": "{2}{U}{B}{R}",
@@ -1677,14 +1600,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Citizen's Companion",
             "color": "WUB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Construct Advisor",
+            "type": "Creature \u2014 Construct Advisor",
             "number": 87,
             "color_identity": "WUB",
             "cost": "{2}{W}{U}{B}",
@@ -1697,14 +1619,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Financial Southsayer",
             "color": "WUG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Naga Nobel",
+            "type": "Creature \u2014 Naga Nobel",
             "number": 97,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
@@ -1717,14 +1638,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Warden of the Scrolls",
             "color": "WRG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Djinn Wizard",
+            "type": "Creature \u2014 Djinn Wizard",
             "number": 127,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
@@ -1737,14 +1657,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Nihilist Roughrider",
             "color": "BRG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Orc Beserker",
+            "type": "Creature \u2014 Orc Beserker",
             "number": 109,
             "color_identity": "BRG",
             "cost": "{2}{B}{R}{G}",
@@ -1757,8 +1676,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Unlicensed Syphoning",
@@ -1777,8 +1695,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bear Market",
@@ -1797,8 +1714,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Self-regulated Saftey",
@@ -1817,8 +1733,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Engineer's Prowess",
@@ -1837,8 +1752,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Smash Up",
@@ -1857,14 +1771,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Contraban Kingpin",
             "color": "UB",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Aetherborn Rogue",
+            "type": "Creature \u2014 Aetherborn Rogue",
             "number": 91,
             "color_identity": "UB",
             "cost": "{U}{B}",
@@ -1877,14 +1790,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Icefeather Exporter",
             "color": "WU",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Bird Merchant",
+            "type": "Creature \u2014 Bird Merchant",
             "number": 101,
             "color_identity": "WU",
             "cost": "{W}{U}",
@@ -1897,14 +1809,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Highspire Adept",
             "color": "WG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Insect Monk",
+            "type": "Creature \u2014 Insect Monk",
             "number": 99,
             "color_identity": "WG",
             "cost": "{G}{W}",
@@ -1917,14 +1828,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Riotous Brawler",
             "color": "BR",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 114,
             "color_identity": "BR",
             "cost": "{B}{R}",
@@ -1937,14 +1847,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Chief of the Hammer",
             "color": "RG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Dwarf Berserker",
+            "type": "Creature \u2014 Dwarf Berserker",
             "number": 86,
             "color_identity": "RG",
             "cost": "{R}{G}",
@@ -1957,8 +1866,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Labor Charm",
@@ -1968,7 +1876,7 @@
             "number": 104,
             "color_identity": "UBR",
             "cost": "{U}{B}{R}",
-            "rules_text": "Choose one \u2013\n\u2022 This deals 4 damage to target creature.\n\u2022 Put two +1/+1 counters on target creature you control.\n\u2022 Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
+            "rules_text": "Choose one \u2014\n\u2022 This deals 4 damage to target creature.\n\u2022 Put two +1/+1 counters on target creature you control.\n\u2022 Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1977,8 +1885,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Consul's Charm",
@@ -1988,7 +1895,7 @@
             "number": 90,
             "color_identity": "WUB",
             "cost": "{W}{U}{B}",
-            "rules_text": "Choose one \u2013\n\u2022 Counter target spell unless its controller pays {3}\n\u2022 Create two 1/1 colorless Thopter artifact creature tokens with flying.\n\u2022 Put target creature on top of its owner's library.",
+            "rules_text": "Choose one \u2014\n\u2022 Counter target spell unless its controller pays {3}\n\u2022 Create two 1/1 colorless Thopter artifact creature tokens with flying.\n\u2022 Put target creature on top of its owner's library.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1997,8 +1904,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Finance Charm",
@@ -2008,7 +1914,7 @@
             "number": 96,
             "color_identity": "WUG",
             "cost": "{G}{W}{U}",
-            "rules_text": "Choose one \u2013\n\u2022 Draw two cards.\n\u2022 Manifest the top card of your library.\n\u2022 Exile target creature with mana value 3 or less.",
+            "rules_text": "Choose one \u2014\n\u2022 Draw two cards.\n\u2022 Manifest the top card of your library.\n\u2022 Exile target creature with mana value 3 or less.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2017,8 +1923,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Monastic Charm",
@@ -2028,7 +1933,7 @@
             "number": 106,
             "color_identity": "WRG",
             "cost": "{R}{G}{W}",
-            "rules_text": "Choose one \u2013\n\u2022 Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.\n\u2022 Create a 2/2 White Monk creature token with Prowess.\n\u2022 Destroy target artifact or enchantment.",
+            "rules_text": "Choose one \u2014\n\u2022 Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.\n\u2022 Create a 2/2 White Monk creature token with Prowess.\n\u2022 Destroy target artifact or enchantment.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2037,8 +1942,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Rebelious Charm",
@@ -2048,7 +1952,7 @@
             "number": 113,
             "color_identity": "BRG",
             "cost": "{B}{R}{G}",
-            "rules_text": "Choose one \u2013\n\u2022 Destroy target multicolored creature.\n\u2022 Target creature cannot block this turn.\n\u2022 Exile the top two cards of your library. You may play them until the end of your next turn.",
+            "rules_text": "Choose one \u2014\n\u2022 Destroy target multicolored creature.\n\u2022 Target creature cannot block this turn.\n\u2022 Exile the top two cards of your library. You may play them until the end of your next turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2057,18 +1961,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Sage-Eye Apprentice",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Bird Monk",
+            "type": "Creature \u2014 Bird Monk",
             "number": 12,
             "color_identity": "W",
             "cost": "{W}",
-            "rules_text": "Prowess\nMorph\u2013Reveal a white card in your hand. \nWhen this creature is turned face up, you gain 2 life.",
+            "rules_text": "Prowess\nMorph\u2014Reveal a white card in your hand. \nWhen this creature is turned face up, you gain 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2077,14 +1980,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Seeker of the Way",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 14,
             "color_identity": "W",
             "cost": "{1}{W}",
@@ -2097,14 +1999,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Gearshift Pitcrew",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Artificer",
+            "type": "Creature \u2014 Human Artificer",
             "number": 7,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2117,14 +2018,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Devout Kirin",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Kirin",
+            "type": "Creature \u2014 Kirin",
             "number": 5,
             "color_identity": "W",
             "cost": "{3}{W}",
@@ -2137,14 +2037,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Roost's Guardian",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Bird Solider",
+            "type": "Creature \u2014 Bird Solider",
             "number": 11,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2157,8 +2056,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Army for Hire",
@@ -2177,8 +2075,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Banishing Light",
@@ -2197,8 +2094,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Resistance Factor",
@@ -2217,8 +2113,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Skywhaler's Shot",
@@ -2237,14 +2132,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Salt Road Tank",
             "color": "W",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 13,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -2257,14 +2151,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Cogify",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Enchantment \u2013 Aura",
+            "type": "Enchantment \u2014 Aura",
             "number": 18,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2277,8 +2170,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Glimmer of Genius",
@@ -2297,8 +2189,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Shrewd Negotiation",
@@ -2317,8 +2208,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Innovation Setbacks",
@@ -2337,14 +2227,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Glacial Glintcrane",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Bird",
+            "type": "Creature \u2014 Bird",
             "number": 22,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2357,14 +2246,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Denial Lobbyist",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Naga Citizen",
+            "type": "Creature \u2014 Naga Citizen",
             "number": 20,
             "color_identity": "U",
             "cost": "{2}{U}{U}",
@@ -2377,18 +2265,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Astute Fairground Vendor",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Vedalken Citizen",
+            "type": "Creature \u2014 Vedalken Citizen",
             "number": 16,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Morph\u2013Reveal a blue card in your hand. \nWhen this creature is turned face up, add {C}{C}.",
+            "rules_text": "Morph\u2014Reveal a blue card in your hand. \nWhen this creature is turned face up, add {C}{C}.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2397,14 +2284,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Willbender",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Wizard",
+            "type": "Creature \u2014 Human Wizard",
             "number": 30,
             "color_identity": "U",
             "cost": "{1}{U}",
@@ -2417,14 +2303,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Filigreed Skywhale",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Whale",
+            "type": "Creature \u2014 Whale",
             "number": 21,
             "color_identity": "U",
             "cost": "{5}{U}",
@@ -2437,14 +2322,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Tenth Bridge Copter",
             "color": "U",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 29,
             "color_identity": "U",
             "cost": "{2}{U}",
@@ -2457,8 +2341,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Gonti's Illicit Ironworks",
@@ -2477,8 +2360,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Underhanded Designs",
@@ -2497,8 +2379,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Aether Extraction",
@@ -2517,18 +2398,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ruthless Ripper",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Assassin",
+            "type": "Creature \u2014 Human Assassin",
             "number": 42,
             "color_identity": "B",
             "cost": "{B}",
-            "rules_text": "Deathtouch\nMorph\u2013Reveal a black card in your hand. \nWhen this creature is turned face up, target player loses 2 life.",
+            "rules_text": "Deathtouch\nMorph\u2014Reveal a black card in your hand. \nWhen this creature is turned face up, target player loses 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2537,14 +2417,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Glintsleeve Bruiser",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Orc Warrior",
+            "type": "Creature \u2014 Orc Warrior",
             "number": 36,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2557,14 +2436,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Heir of the Wastes",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Orc Citizen",
+            "type": "Creature \u2014 Orc Citizen",
             "number": 39,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -2577,14 +2455,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bloody Auctioneer",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Citizen",
+            "type": "Creature \u2014 Human Citizen",
             "number": 34,
             "color_identity": "B",
             "cost": "{2}{B}{B}",
@@ -2597,14 +2474,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Shambling Aetherborn",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Aetherborn Zombie",
+            "type": "Creature \u2014 Aetherborn Zombie",
             "number": 43,
             "color_identity": "B",
             "cost": "{4}{B}",
@@ -2617,14 +2493,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Kheru Harvester",
             "color": "B",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 41,
             "color_identity": "B",
             "cost": "{2}{B}",
@@ -2637,18 +2512,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Hordeling Troublemaker",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Goblin Rogue",
+            "type": "Creature \u2014 Goblin Rogue",
             "number": 55,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Morph\u2013Reveal a red card in your hand. \nWhen this creature is turned face up or dies, it deals 1 damage to any target.",
+            "rules_text": "Morph\u2014Reveal a red card in your hand. \nWhen this creature is turned face up or dies, it deals 1 damage to any target.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2657,14 +2531,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Aethertorch Arsonist",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Goblin Rogue",
+            "type": "Creature \u2014 Goblin Rogue",
             "number": 48,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -2677,18 +2550,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "War-Name Aspirant",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 63,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i]Raid[/i] \u2013 This creature enters with a +1/+1 counter on it if you attacked this turn.\nThis creature can't be blocked by creatures with power 1 or less.",
+            "rules_text": "[i]Raid[/i] \u2014 This creature enters with a +1/+1 counter on it if you attacked this turn.\nThis creature can't be blocked by creatures with power 1 or less.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -2697,14 +2569,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bloodfire Sage",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Djinn Warrior",
+            "type": "Creature \u2014 Djinn Warrior",
             "number": 51,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2717,14 +2588,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ashcloud Dragster",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 49,
             "color_identity": "R",
             "cost": "{2}{R}",
@@ -2737,14 +2607,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Maulfist Doorbuster",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 59,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -2757,14 +2626,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Gremlin Squad",
             "color": "R",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Gremlin Archer",
+            "type": "Creature \u2014 Gremlin Archer",
             "number": 53,
             "color_identity": "R",
             "cost": "{3}{R}",
@@ -2777,8 +2645,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Myopic Pillaging",
@@ -2797,8 +2664,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Harnessed Lightning",
@@ -2817,8 +2683,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ceaseless Fires",
@@ -2837,8 +2702,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Armorcraft Purchase",
@@ -2857,8 +2721,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Hypnotizing AetherBorealis",
@@ -2877,8 +2740,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Return from the Horizon",
@@ -2897,8 +2759,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Nature's Way",
@@ -2917,8 +2778,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Windstorm",
@@ -2937,14 +2797,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Riparian Jaguar",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Cat Beast",
+            "type": "Creature \u2014 Cat Beast",
             "number": 73,
             "color_identity": "G",
             "cost": "{3}{G}",
@@ -2957,14 +2816,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Incensed Druid",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Druid Beserker",
+            "type": "Creature \u2014 Human Druid Beserker",
             "number": 68,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -2977,14 +2835,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Tuskguard Colonel",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Human Warrior",
+            "type": "Creature \u2014 Human Warrior",
             "number": 77,
             "color_identity": "G",
             "cost": "{6}{G}",
@@ -2997,18 +2854,17 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Tenth Bridge Turret Guard",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Naga Archer",
+            "type": "Creature \u2014 Naga Archer",
             "number": 75,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Reach\nMorph\u2013Reveal a green card in your hand. \nWhen this creature is turned face up, scry 2",
+            "rules_text": "Reach\nMorph\u2014Reveal a green card in your hand. \nWhen this creature is turned face up, scry 2",
             "flavor_text": "[i][/i]",
             "pt": "0/6",
             "special_text": "",
@@ -3017,14 +2873,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Guarded Supply Freighter",
             "color": "G",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 66,
             "color_identity": "G",
             "cost": "{2}{G}",
@@ -3037,14 +2892,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ovalchase Dragster",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 148,
             "color_identity": "C",
             "cost": "{4}",
@@ -3057,14 +2911,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bomat Bazaar Barge",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact \u2013 Vehicle",
+            "type": "Artifact \u2014 Vehicle",
             "number": 131,
             "color_identity": "C",
             "cost": "{4}",
@@ -3077,14 +2930,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Consol's Bodyguards",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Construct Mercenary",
+            "type": "Artifact Creature \u2014 Construct Mercenary",
             "number": 135,
             "color_identity": "C",
             "cost": "{3}",
@@ -3097,14 +2949,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Chief of the Arrows",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Construct",
+            "type": "Artifact Creature \u2014 Construct",
             "number": 133,
             "color_identity": "C",
             "cost": "{4}",
@@ -3117,8 +2968,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Powered Down Timepiece",
@@ -3137,8 +2987,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Improvised Weather Machine",
@@ -3157,14 +3006,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Alloy Loxodon",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Elephant Construct",
+            "type": "Artifact Creature \u2014 Elephant Construct",
             "number": 129,
             "color_identity": "C",
             "cost": "{7}",
@@ -3177,14 +3025,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Filigree Familiar",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Fox",
+            "type": "Artifact Creature \u2014 Fox",
             "number": 140,
             "color_identity": "C",
             "cost": "{3}",
@@ -3197,14 +3044,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Ghirapur Parapets",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Wall",
+            "type": "Artifact Creature \u2014 Wall",
             "number": 142,
             "color_identity": "C",
             "cost": "{2}",
@@ -3217,8 +3063,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Loxodon Memorial",
@@ -3237,8 +3082,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Briber's Purse",
@@ -3257,8 +3101,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Tranquil Cove",
@@ -3277,8 +3120,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Dismal Backwater",
@@ -3297,8 +3139,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Bloodfell Caves",
@@ -3317,8 +3158,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Rugged Highlands",
@@ -3337,8 +3177,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Blossoming Sands",
@@ -3357,8 +3196,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Scoured Barrens",
@@ -3377,8 +3215,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Swiftwater Cliffs",
@@ -3397,8 +3234,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Jungle Hollow",
@@ -3417,8 +3253,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Wind-Scarred Crag",
@@ -3437,8 +3272,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Thornwood Falls",
@@ -3457,8 +3291,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Backslide",
@@ -3477,14 +3310,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Thriving Rats",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2013 Rat",
+            "type": "Creature \u2014 Rat",
             "number": 45,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -3497,8 +3329,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Irreversible Nightmare",
@@ -3517,14 +3348,13 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         },
         {
             "card_name": "Chief of the Nail",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Cat Construct",
+            "type": "Artifact Creature \u2014 Cat Construct",
             "number": 134,
             "color_identity": "C",
             "cost": "{2}",
@@ -3537,8 +3367,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": "",
-            "image_type": "png"
+            "notes": ""
         }
     ]
 }

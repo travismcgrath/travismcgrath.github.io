@@ -487,8 +487,38 @@
     },
     "a->gold",
     {
+        "card_name": "Torrential Ice Wave",
+        "number": 123,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
         "card_name": "Noxious Duststorm",
         "number": 110,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Combustible Lightning",
+        "number": 88,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Verdurous Wildfire",
+        "number": 126,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Cataclysmic Earthquake",
+        "number": 84,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Utter Silence",
+        "number": 125,
         "shape": "normal",
         "set": "KoK"
     },
@@ -499,8 +529,8 @@
         "set": "KoK"
     },
     {
-        "card_name": "Torrential Avalanche",
-        "number": 123,
+        "card_name": "Impulsive Fracking",
+        "number": 102,
         "shape": "normal",
         "set": "KoK"
     },
@@ -517,8 +547,8 @@
         "set": "KoK"
     },
     {
-        "card_name": "Utter Silence",
-        "number": 125,
+        "card_name": "Bear Market",
+        "number": 82,
         "shape": "normal",
         "set": "KoK"
     },
@@ -529,8 +559,8 @@
         "set": "KoK"
     },
     {
-        "card_name": "Impulsive Fracking",
-        "number": 102,
+        "card_name": "Riotous Brawler",
+        "number": 114,
         "shape": "normal",
         "set": "KoK"
     },
@@ -547,8 +577,8 @@
         "set": "KoK"
     },
     {
-        "card_name": "Bear Market",
-        "number": 82,
+        "card_name": "Icefeather Exporter",
+        "number": 101,
         "shape": "normal",
         "set": "KoK"
     },
@@ -559,8 +589,8 @@
         "set": "KoK"
     },
     {
-        "card_name": "Riotous Brawler",
-        "number": 114,
+        "card_name": "Unlicensed Syphoning",
+        "number": 124,
         "shape": "normal",
         "set": "KoK"
     },
@@ -573,66 +603,6 @@
     {
         "card_name": "Highspire Adept",
         "number": 99,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Icefeather Exporter",
-        "number": 101,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Unlicensed Syphoning",
-        "number": 124,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Combustible Lightning",
-        "number": 88,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Verdurous Wildfire",
-        "number": 126,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Cataclysmic Ice Wave",
-        "number": 84,
         "shape": "normal",
         "set": "KoK"
     },
@@ -861,7 +831,7 @@
     "a->colorless",
     {
         "card_name": "Walking Ballista",
-        "number": 151,
+        "number": 152,
         "shape": "normal",
         "set": "KoK"
     },
@@ -873,55 +843,55 @@
     },
     {
         "card_name": "Cultivator's Caravan",
-        "number": 135,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Execution Module",
         "number": 136,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Exploration Module",
+        "card_name": "Execution Module",
         "number": 137,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Extraction Module",
+        "card_name": "Exploration Module",
         "number": 138,
         "shape": "normal",
         "set": "KoK"
     },
     {
+        "card_name": "Extraction Module",
+        "number": 139,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
         "card_name": "Fleetwheel Cruiser",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Ghost Fire Blade",
-        "number": 142,
+        "number": 143,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Metalic Mimic",
-        "number": 146,
+        "number": 147,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Skysovereign, Grounded Flagship",
-        "number": 149,
+        "number": 150,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Smuggler's ATV",
-        "number": 150,
+        "number": 151,
         "shape": "normal",
         "set": "KoK"
     },
@@ -950,49 +920,52 @@
         "set": "KoK"
     },
     {
-        "card_name": "Consol's Bodyguards",
+        "card_name": "Chief of the Nail",
         "number": 134,
         "shape": "normal",
         "set": "KoK"
     },
     {
+        "card_name": "Consol's Bodyguards",
+        "number": 135,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
         "card_name": "Filigree Familiar",
-        "number": 139,
+        "number": 140,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Ghirapur Parapets",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Improvised Weather Machine",
-        "number": 143,
+        "number": 144,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Loxodon Memorial",
-        "number": 145,
+        "number": 146,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Ovalchase Dragster",
-        "number": 147,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Powered Down Timepiece",
         "number": 148,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "e"
+        "card_name": "Powered Down Timepiece",
+        "number": 149,
+        "shape": "normal",
+        "set": "KoK"
     },
     {
         "card_name": "e"
@@ -1017,31 +990,31 @@
     },
     {
         "card_name": "Tranquil Cove",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Dismal Backwater",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Bloodfell Caves",
-        "number": 155,
+        "number": 156,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Rugged Highlands",
-        "number": 165,
+        "number": 166,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Blossoming Sands",
-        "number": 156,
+        "number": 157,
         "shape": "normal",
         "set": "KoK"
     },
@@ -1062,31 +1035,31 @@
     },
     {
         "card_name": "Scoured Barrens",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Swiftwater Cliffs",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Jungle Hollow",
-        "number": 160,
+        "number": 161,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Wind-Scarred Crag",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Thornwood Falls",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "KoK"
     },
@@ -1107,97 +1080,97 @@
     },
     {
         "card_name": "Stripmine",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Arid Mesa",
-        "number": 154,
+        "number": 155,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Corrupted Workshop",
-        "number": 157,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Marsh Flats",
-        "number": 162,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Misty Rainforest",
-        "number": 163,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Obscuring Avalanche",
-        "number": 164,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Scalding Tarn",
-        "number": 167,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Verdant Catacombs",
-        "number": 174,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Indigo Monmument",
-        "number": 144,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Aether Hub",
-        "number": 152,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Arcane Sanctum",
-        "number": 153,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Crumbling Necropolis",
         "number": 158,
         "shape": "normal",
         "set": "KoK"
     },
     {
+        "card_name": "Marsh Flats",
+        "number": 163,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Misty Rainforest",
+        "number": 164,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Obscuring Avalanche",
+        "number": 165,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Scalding Tarn",
+        "number": 168,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Verdant Catacombs",
+        "number": 175,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Indigo Monmument",
+        "number": 145,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Aether Hub",
+        "number": 153,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Arcane Sanctum",
+        "number": 154,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Crumbling Necropolis",
+        "number": 159,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
         "card_name": "Jungle Shrine",
-        "number": 161,
+        "number": 162,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Savage Lands",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Seaside Citadel",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Zurgo's Encampment",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "KoK"
     },
