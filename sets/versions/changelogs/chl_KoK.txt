@@ -1,4 +1,113 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+Aradara Station added.
+Aetherborn Dreamwalker added.
+Inspector Brigade added.
+Illusion of Luxury added.
+Mystic of the Enlightened Way added.
+Latter Woods Defender added.
+Industry BannerKnot added.
+Consul's BannerKnot added.
+Market BannerKnot added.
+Monastery BannerKnot added.
+Lawless BannerKnot added.
+Brass Winged Bat added.
+Steel Horned Ibex added.
+Silver Shelled Turtle added.
+Wroght Iron Rhino added.
+Lead Toothed Hound added.
+Inventor's MIG added.
+Head-Shot Bow added.
+Highspire Funicular added.
+Aether Spout Bulldozer added.
+Adara Cable Car added.
+Prophetic Prism added.
+Foundry Auditor added.
+Self-Assembler added.
+Snare Thopter added.
+Defiant Strike added.
+Bolster the Masses added.
+Tax On Action added.
+Disassemble added.
+Medatative Inspiration added.
+Arrest added.
+Burly Banker added.
+Sage-Eye Harrier added.
+Aristocratic's Steed added.
+Charming Kata added.
+Highspire mystic added.
+Teacher of the Way added.
+Polluting Biproduct added.
+Contrive added.
+Artificer's Epiphany added.
+Failed Inspection added.
+Unseasonal Squall added.
+Sponsor's Cruise added.
+Saheeli's Spy added.
+Drone Vendor added.
+Skypatrol Aetherborn added.
+Aetherborn Incumbent added.
+Ministor of Flight added.
+Gearseeker Squid added.
+Miasmic Cloud added.
+Live Fast added.
+Die Young added.
+Seize the Means added.
+Exhausting Shift added.
+Worker Strike added.
+Ghirapur pickpocket added.
+Midnight Inspector added.
+Nalaar's Scavenger added.
+Defeatist Recycler added.
+Graveyard Mugger added.
+Aetherborn Bond-Kin added.
+Pupil of the Hidden Eye added.
+Narset's Student added.
+Inauspicious Skyclaw added.
+Malign Aetherborn added.
+Factory Mazdoor added.
+Summit Postulant added.
+Heat Lightning added.
+Rising Temperatures added.
+Offload added.
+Optimistic Nihilism added.
+Fanatical Recruitment added.
+Aetherspout Erruptions added.
+Red Wood Walker added.
+Fairgrounds Security added.
+Zuro's Disciple added.
+Ferrophage Spider added.
+Disrupted Hibernator added.
+Fire-Armed Luddite added.
+Sage-Eye Enforcer added.
+Reimmerse In Nature added.
+Gift of Sagacity added.
+Devolution added.
+Savage Punch added.
+Awaken the Bear added.
+Extinction Rebellion added.
+
+
+Zurgo, Anarchist Leader
+rules_text: Haste
+During your turn, Zurgo has indestructible.
+Sacrifice a land: You get {E}{E}. Activate only once per turn.
+When Zurgo attacks, you may pay {E}{E}. If you do, creatures you control gain menace. => Haste
+During your turn, Zurgo has indestructible.
+Sacrifice a land: You get {E}{E}. Activate only once per turn.
+When Zurgo attacks, you may pay {E}{E}. If you do, creatures you control gain menace until end of turn.
+
+Devout Kirin
+rules_text: Flying, prowess, vigilance => Flying, prowess
+
+Resistance Factor
+
+Rocslide
+rules_text: Whenever you cast a noncreature spell with mana value 3 or less, create a white bird creature token with flying. => Whenever you cast a noncreature spell with mana value 3 or less, create a white 1/1 bird creature token with flying.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 No changes.
