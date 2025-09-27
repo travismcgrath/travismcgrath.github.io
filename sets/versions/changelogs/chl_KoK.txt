@@ -1,4 +1,9 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+No changes.
+
+VERSION 15 CHANGELOG
 ====================
 
 Ghirapur Pickpocket added.
