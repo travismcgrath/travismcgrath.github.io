@@ -1,4 +1,131 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Ghirapur Pickpocket added.
+Zurgo's Disciple added.
+
+Ghirapur pickpocket removed.
+Zuro's Disciple removed.
+
+Tranquil Cove
+
+Dismal Backwater
+
+Bloodfell Caves
+
+Rugged Highlands
+
+Blossoming Sands
+
+Scoured Barrens
+
+Swiftwater Cliffs
+
+Jungle Hollow
+
+Wind-Scarred Crag
+
+Thornwood Falls
+
+Aradara Station
+rules_text: This land enters tapped.
+{T}: Add {C}.
+{1}{T}: Target colorless creature you contorl gets +1/+1 until end of turn. => This land enters tapped.
+{T}: Add {C}.
+{1}{T}: Target colorless creature you control gets +1/+1 until end of turn.
+
+Aetherborn Dreamwalker
+rules_text: Deathouch, Menace
+When this creature enters or is turned face up, target creature you control gains deathtouch and menace until end of turn.
+Morph {U}{R}{B} => Deathtouch, Menace
+When this creature enters or is turned face up, target creature you control gains deathtouch and menace until end of turn.
+Morph {U}{R}{B}
+
+Inspector Brigade
+rules_text: When this creature enters or is turned face up, create two 1/1 colorless Servo artifact creature tokens.
+Morph {U}{W}{B} => When this creature enters or is turned face up, create three 1/1 colorless Servo artifact creature tokens.
+Morph {U}{W}{B}
+
+Mystic of the Enlightened Way
+rules_text: Lifelink
+Morph {R}{W}{G} => Lifelink, prowess
+Morph {R}{W}{G}
+
+Aether Spout Bulldozer
+rules_text: Trample
+{T}: You get {E}
+Pay {E}{E}: This Vehicle becomes an artifact creature until end of turn.
+Crew {3} => Trample
+{T}: You gain {E}.
+Pay {E}{E}: This Vehicle becomes an artifact creature until end of turn.
+Crew {3}
+
+Arrest
+type: Enchantment => Enchantment — Aura
+rules_text: Enchanted creature can't attack or block, and its activated abilities can't be activated. => Enchant creature.
+Enchanted creature can't attack or block, and its activated abilities can't be activated.
+
+Burly Banker
+rules_text: Doublestrike
+Morph {3}{W}{W} => Double strike
+Morph {3}{W}{W}
+
+Aristocratic's Steed
+rules_text: Morph {4}{W}{W}
+When this is turned face up, up to two target creature gains indestructible. => Morph {5}{W}{W}
+When this is turned face up, up to two target creature gains indestructible until end of turn.
+
+Polluting Biproduct
+rules_text: Enchant artifact, creature, or land.
+Enchanted permanent is a Wastes and loses all other card types and abilities.
+{4}: Destroy this Aura and draw a card. Only your opponents may activate this ability. => Enchant artifact, creature, or land.
+Enchanted permanent is a Wastes and loses all other card types and abilities.
+{5}: Destroy this Aura and draw a card. Only your opponents may activate this ability.
+
+Aetherborn Incumbent
+rules_text: When this creature enters, draw a card.
+{2}{B}: Regenerate this creature. => When this creature enters, draw a card.
+{1}{B}: Regenerate this creature.
+
+Seize the Means
+rules_text: Enchant Creature
+When this enters you get {E}{E} and target opponent discard a card.
+Enchanted creature gets +1/+1 and gains “{E}{E}: Target opponent discards a card. Activate only as a sorcery.” => Enchant creature
+When this enters you get {E}{E} and target opponent discard a card.
+Enchanted creature gets +1/+1 and gains “{E}{E}: Target opponent discards a card. Activate only as a sorcery.”
+
+Exhausting Shift
+rules_text: Target creature gets -12/12 until end of turn.
+Up to one target creature you control manfactures 1. => Target creature gets -12/12 until end of turn.
+Up to one target creature you control manufactures 1.
+
+Inauspicious Skyclaw
+rules_text: First strike
+This creature enters with a +1/+1 counter on it. 
+{1}, Remove a +1/+1 conter from this creature: You gain {E}{E}. => First strike
+This creature enters with a +1/+1 counter on it. 
+{1}, Remove a +1/+1 counter from this creature: You gain {E}{E}.
+
+Aetherspout Erruptions
+cost: {6}{R} => {5}{R}
+
+Gift of Sagacity
+rules_text: Target creature you control gets +2/+2 and “Whenever this creature deals combat damage to a player this turn, draw that many cards”. => Target creature you control gets +2/+2 and “Whenever this creature deals combat damage to a player, draw that many cards” until end of turn.
+
+Devolution
+rules_text: Choose one -
+• Destroy target artifact.
+• Destory target colorless creature.
+• You gain 4 life. => Choose one -
+• Destroy target artifact.
+• Destroy target colorless creature.
+• You gain 4 life.
+
+Extinction Rebellion
+rules_text: [i]Raid[/i] - At the begining of your end step, if you attacked this turn, you may pay {1}{W}. If you do, return target non-human, non-artifact creature card with mana value 3 or less from your graveyard to the battlefield. => [i]Raid[/i] - At the beginning of your end step, if you attacked this turn, you may pay {1}{W}. If you do, return target non-human, non-artifact creature card with mana value 3 or less from your graveyard to the battlefield.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Aradara Station added.

@@ -3120,7 +3120,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Dismal Backwater",
@@ -3139,7 +3139,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Bloodfell Caves",
@@ -3158,7 +3158,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Rugged Highlands",
@@ -3177,7 +3177,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Blossoming Sands",
@@ -3196,7 +3196,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Scoured Barrens",
@@ -3215,7 +3215,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Swiftwater Cliffs",
@@ -3234,7 +3234,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Jungle Hollow",
@@ -3253,7 +3253,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Wind-Scarred Crag",
@@ -3272,7 +3272,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Thornwood Falls",
@@ -3291,7 +3291,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Backslide",
@@ -3396,7 +3396,7 @@
             "number": 240,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "This land enters tapped.\n{T}: Add {C}.\n{1}{T}: Target colorless creature you contorl gets +1/+1 until end of turn.",
+            "rules_text": "This land enters tapped.\n{T}: Add {C}.\n{1}{T}: Target colorless creature you control gets +1/+1 until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3405,7 +3405,7 @@
             "loyalty": "",
             "artist": "",
             "alias": "",
-            "notes": ""
+            "notes": "landslot"
         },
         {
             "card_name": "Aetherborn Dreamwalker",
@@ -3415,7 +3415,7 @@
             "number": 141,
             "color_identity": "UBR",
             "cost": "{2}{U}{B}{R}",
-            "rules_text": "Deathouch, Menace\nWhen this creature enters or is turned face up, target creature you control gains deathtouch and menace until end of turn.\nMorph {U}{R}{B}",
+            "rules_text": "Deathtouch, Menace\nWhen this creature enters or is turned face up, target creature you control gains deathtouch and menace until end of turn.\nMorph {U}{R}{B}",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3434,7 +3434,7 @@
             "number": 167,
             "color_identity": "WUB",
             "cost": "{2}{W}{U}{B}",
-            "rules_text": "When this creature enters or is turned face up, create two 1/1 colorless Servo artifact creature tokens.\nMorph {U}{W}{B}",
+            "rules_text": "When this creature enters or is turned face up, create three 1/1 colorless Servo artifact creature tokens.\nMorph {U}{W}{B}",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -3472,7 +3472,7 @@
             "number": 173,
             "color_identity": "WRG",
             "cost": "{2}{R}{G}{W}",
-            "rules_text": "Lifelink\nMorph {R}{W}{G}",
+            "rules_text": "Lifelink, prowess\nMorph {R}{W}{G}",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -3757,7 +3757,7 @@
             "number": 197,
             "color_identity": "C",
             "cost": "{4}",
-            "rules_text": "Trample\n{T}: You get {E}\nPay {E}{E}: This Vehicle becomes an artifact creature until end of turn.\nCrew {3}",
+            "rules_text": "Trample\n{T}: You gain {E}.\nPay {E}{E}: This Vehicle becomes an artifact creature until end of turn.\nCrew {3}",
             "flavor_text": "[i][/i]",
             "pt": "5/2",
             "special_text": "",
@@ -3962,11 +3962,11 @@
             "card_name": "Arrest",
             "color": "W",
             "rarity": "common",
-            "type": "Enchantment",
+            "type": "Enchantment \u2014 Aura",
             "number": 4,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Enchanted creature can't attack or block, and its activated abilities can't be activated.",
+            "rules_text": "Enchant creature.\nEnchanted creature can't attack or block, and its activated abilities can't be activated.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3985,7 +3985,7 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Doublestrike\nMorph {3}{W}{W}",
+            "rules_text": "Double strike\nMorph {3}{W}{W}",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4023,7 +4023,7 @@
             "number": 2,
             "color_identity": "W",
             "cost": "{5}{W}",
-            "rules_text": "Morph {4}{W}{W}\nWhen this is turned face up, up to two target creature gains indestructible.",
+            "rules_text": "Morph {5}{W}{W}\nWhen this is turned face up, up to two target creature gains indestructible until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -4099,7 +4099,7 @@
             "number": 48,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "Enchant artifact, creature, or land.\nEnchanted permanent is a Wastes and loses all other card types and abilities.\n{4}: Destroy this Aura and draw a card. Only your opponents may activate this ability.",
+            "rules_text": "Enchant artifact, creature, or land.\nEnchanted permanent is a Wastes and loses all other card types and abilities.\n{5}: Destroy this Aura and draw a card. Only your opponents may activate this ability.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4270,7 +4270,7 @@
             "number": 29,
             "color_identity": "UB",
             "cost": "{3}{U}",
-            "rules_text": "When this creature enters, draw a card.\n{2}{B}: Regenerate this creature.",
+            "rules_text": "When this creature enters, draw a card.\n{1}{B}: Regenerate this creature.",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -4384,7 +4384,7 @@
             "number": 78,
             "color_identity": "B",
             "cost": "{3}{B}",
-            "rules_text": "Enchant Creature\nWhen this enters you get {E}{E} and target opponent discard a card.\nEnchanted creature gets +1/+1 and gains \u201c{E}{E}: Target opponent discards a card. Activate only as a sorcery.\u201d",
+            "rules_text": "Enchant creature\nWhen this enters you get {E}{E} and target opponent discard a card.\nEnchanted creature gets +1/+1 and gains \u201c{E}{E}: Target opponent discards a card. Activate only as a sorcery.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4403,7 +4403,7 @@
             "number": 64,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Target creature gets -12/12 until end of turn.\nUp to one target creature you control manfactures 1.",
+            "rules_text": "Target creature gets -12/12 until end of turn.\nUp to one target creature you control manufactures 1.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4434,7 +4434,7 @@
             "notes": ""
         },
         {
-            "card_name": "Ghirapur pickpocket",
+            "card_name": "Ghirapur Pickpocket",
             "color": "B",
             "rarity": "common",
             "type": "Creature \u2014 Aetherborn Rogue",
@@ -4593,7 +4593,7 @@
             "number": 98,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "First strike\nThis creature enters with a +1/+1 counter on it. \n{1}, Remove a +1/+1 conter from this creature: You gain {E}{E}.",
+            "rules_text": "First strike\nThis creature enters with a +1/+1 counter on it. \n{1}, Remove a +1/+1 counter from this creature: You gain {E}{E}.",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -4763,7 +4763,7 @@
             "type": "Sorcery",
             "number": 85,
             "color_identity": "R",
-            "cost": "{6}{R}",
+            "cost": "{5}{R}",
             "rules_text": "This spell deals 2 damage to each creature. Then you may pay {E}{E}, if you do this spell deals 2 additional damage to each creature. \nDraw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
@@ -4814,7 +4814,7 @@
             "notes": ""
         },
         {
-            "card_name": "Zuro's Disciple",
+            "card_name": "Zurgo's Disciple",
             "color": "G",
             "rarity": "common",
             "type": "Creature \u2014 Elf Shaman",
@@ -4935,7 +4935,7 @@
             "number": 121,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Target creature you control gets +2/+2 and \u201cWhenever this creature deals combat damage to a player this turn, draw that many cards\u201d.",
+            "rules_text": "Target creature you control gets +2/+2 and \u201cWhenever this creature deals combat damage to a player, draw that many cards\u201d until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4954,7 +4954,7 @@
             "number": 115,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Choose one -\n\u2022 Destroy target artifact.\n\u2022 Destory target colorless creature.\n\u2022 You gain 4 life.",
+            "rules_text": "Choose one -\n\u2022 Destroy target artifact.\n\u2022 Destroy target colorless creature.\n\u2022 You gain 4 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5011,7 +5011,7 @@
             "number": 117,
             "color_identity": "WG",
             "cost": "{3}{G}",
-            "rules_text": "[i]Raid[/i] - At the begining of your end step, if you attacked this turn, you may pay {1}{W}. If you do, return target non-human, non-artifact creature card with mana value 3 or less from your graveyard to the battlefield.",
+            "rules_text": "[i]Raid[/i] - At the beginning of your end step, if you attacked this turn, you may pay {1}{W}. If you do, return target non-human, non-artifact creature card with mana value 3 or less from your graveyard to the battlefield.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -5023,5 +5023,5 @@
             "notes": ""
         }
     ],
-    "version": 14
+    "version": 15
 }
