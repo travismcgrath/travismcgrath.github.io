@@ -7,25 +7,25 @@
     },
     {
         "card_name": "Winds of Industry",
-        "number": 56,
+        "number": 54,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Demon of Dark Schemes",
-        "number": 62,
+        "number": 60,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Lightning Runner",
-        "number": 100,
+        "number": 96,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Longtusk Pride",
-        "number": 126,
+        "number": 121,
         "shape": "normal",
         "set": "KoK"
     },
@@ -37,25 +37,25 @@
     },
     {
         "card_name": "Confiscation Coup",
-        "number": 34,
+        "number": 33,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Bloodsoaked Champion",
-        "number": 59,
+        "number": 57,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Bloodfire Master",
-        "number": 88,
+        "number": 84,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Hooded Hydra",
-        "number": 123,
+        "number": 118,
         "shape": "normal",
         "set": "KoK"
     },
@@ -67,25 +67,25 @@
     },
     {
         "card_name": "Kheru Spellsnatcher",
-        "number": 44,
+        "number": 43,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Grim Haruspex",
-        "number": 69,
+        "number": 67,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Howl of the Horde",
-        "number": 97,
+        "number": 93,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Qal Sisma Mystic",
-        "number": 128,
+        "number": 123,
         "shape": "normal",
         "set": "KoK"
     },
@@ -97,25 +97,25 @@
     },
     {
         "card_name": "Machiavellian Will",
-        "number": 45,
+        "number": 44,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Syndicate Logistician",
-        "number": 80,
+        "number": 77,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Jeering Instigator",
-        "number": 99,
+        "number": 95,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Roaming Sanctuary",
-        "number": 133,
+        "number": 128,
         "shape": "normal",
         "set": "KoK"
     },
@@ -127,25 +127,25 @@
     },
     {
         "card_name": "Mine for Solutions",
-        "number": 46,
+        "number": 45,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Unscrupulous Puppeteer",
-        "number": 83,
+        "number": 80,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Pearl Lake Salar",
-        "number": 107,
+        "number": 103,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Trail of Mystery",
-        "number": 137,
+        "number": 132,
         "shape": "normal",
         "set": "KoK"
     },
@@ -157,25 +157,25 @@
     },
     {
         "card_name": "Astute Fairground Vendor",
-        "number": 31,
+        "number": 30,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Aether Extraction",
-        "number": 57,
+        "number": 55,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Aethertorch Arsonist",
-        "number": 86,
+        "number": 83,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Armorcraft Purchase",
-        "number": 113,
+        "number": 109,
         "shape": "normal",
         "set": "KoK"
     },
@@ -187,25 +187,25 @@
     },
     {
         "card_name": "Cogify",
-        "number": 33,
+        "number": 32,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Bloody Auctioneer",
-        "number": 60,
+        "number": 58,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Ashcloud Dragster",
-        "number": 87,
+        "card_name": "Bloodfire Sage",
+        "number": 85,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Guarded Supply Freighter",
-        "number": 122,
+        "card_name": "Hypnotizing AetherBorealis",
+        "number": 119,
         "shape": "normal",
         "set": "KoK"
     },
@@ -217,25 +217,25 @@
     },
     {
         "card_name": "Denial Lobbyist",
-        "number": 36,
+        "number": 35,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Glintsleeve Bruiser",
-        "number": 66,
+        "number": 64,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Bloodfire Sage",
-        "number": 89,
+        "card_name": "Ceaseless Fires",
+        "number": 86,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Hypnotizing AetherBorealis",
-        "number": 124,
+        "card_name": "Incensed Druid",
+        "number": 120,
         "shape": "normal",
         "set": "KoK"
     },
@@ -247,25 +247,25 @@
     },
     {
         "card_name": "Filigreed Skywhale",
-        "number": 39,
+        "number": 38,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Gonti's Illicit Ironworks",
-        "number": 67,
+        "number": 65,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Ceaseless Fires",
-        "number": 90,
+        "card_name": "Gremlin Squad",
+        "number": 89,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Incensed Druid",
-        "number": 125,
+        "card_name": "Nature's Way",
+        "number": 122,
         "shape": "normal",
         "set": "KoK"
     },
@@ -277,25 +277,25 @@
     },
     {
         "card_name": "Glacial Glintcrane",
-        "number": 41,
+        "number": 40,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Heir of the Wastes",
-        "number": 70,
+        "number": 68,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Gremlin Squad",
-        "number": 93,
+        "card_name": "Harnessed Lightning",
+        "number": 90,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Nature's Way",
-        "number": 127,
+        "card_name": "Return from the Horizon",
+        "number": 126,
         "shape": "normal",
         "set": "KoK"
     },
@@ -307,25 +307,25 @@
     },
     {
         "card_name": "Glimmer of Genius",
-        "number": 42,
+        "number": 41,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Irreversible Nightmare",
-        "number": 71,
+        "number": 69,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Harnessed Lightning",
-        "number": 94,
+        "card_name": "Hordeling Troublemaker",
+        "number": 92,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Return from the Horizon",
-        "number": 131,
+        "card_name": "Riparian Jaguar",
+        "number": 127,
         "shape": "normal",
         "set": "KoK"
     },
@@ -337,115 +337,85 @@
     },
     {
         "card_name": "Innovation Setbacks",
-        "number": 43,
+        "number": 42,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Kheru Harvester",
-        "number": 72,
+        "card_name": "Ruthless Ripper",
+        "number": 74,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Hordeling Troublemaker",
-        "number": 96,
+        "card_name": "Maulfist Doorbuster",
+        "number": 98,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Riparian Jaguar",
-        "number": 132,
+        "card_name": "Tenth Bridge Turret Guard",
+        "number": 131,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Salt Road Tank",
+        "card_name": "Seeker of the Way",
         "number": 24,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Shrewd Negotiation",
-        "number": 50,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Ruthless Ripper",
-        "number": 77,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Maulfist Doorbuster",
-        "number": 102,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Tenth Bridge Turret Guard",
-        "number": 136,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Seeker of the Way",
-        "number": 25,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Tenth Bridge Copter",
-        "number": 53,
+        "number": 49,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Shambling Aetherborn",
-        "number": 79,
+        "number": 76,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Myopic Pillaging",
-        "number": 103,
+        "number": 99,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Tuskguard Colonel",
-        "number": 138,
+        "number": 133,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Skywhaler's Shot",
-        "number": 26,
+        "number": 25,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Willbender",
-        "number": 55,
+        "number": 53,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Underhanded Designs",
-        "number": 82,
+        "number": 79,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "War-Name Aspirant",
-        "number": 112,
+        "number": 108,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Windstorm",
-        "number": 139,
+        "number": 134,
         "shape": "normal",
         "set": "KoK"
     },
@@ -457,25 +427,25 @@
     },
     {
         "card_name": "Aetherborn Incumbent",
-        "number": 29,
+        "number": 28,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Aetherborn Bond-Kin",
-        "number": 58,
+        "number": 56,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Aetherspout Erruptions",
-        "number": 85,
+        "number": 82,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Awaken the Bear",
-        "number": 114,
+        "number": 110,
         "shape": "normal",
         "set": "KoK"
     },
@@ -487,25 +457,25 @@
     },
     {
         "card_name": "Artificer's Epiphany",
-        "number": 30,
+        "number": 29,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Defeatist Recycler",
-        "number": 61,
+        "number": 59,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Factory Mazdoor",
-        "number": 91,
+        "number": 87,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Devolution",
-        "number": 115,
+        "number": 111,
         "shape": "normal",
         "set": "KoK"
     },
@@ -517,25 +487,25 @@
     },
     {
         "card_name": "Backslide",
-        "number": 32,
+        "number": 31,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Die Young",
-        "number": 63,
+        "number": 61,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Fanatical Recruitment",
-        "number": 92,
+        "number": 88,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Disrupted Hibernator",
-        "number": 116,
+        "number": 112,
         "shape": "normal",
         "set": "KoK"
     },
@@ -547,25 +517,25 @@
     },
     {
         "card_name": "Contrive",
-        "number": 35,
+        "number": 34,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Exhausting Shift",
-        "number": 64,
+        "number": 62,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Heat Lightning",
-        "number": 95,
+        "number": 91,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Extinction Rebellion",
-        "number": 117,
+        "number": 113,
         "shape": "normal",
         "set": "KoK"
     },
@@ -577,25 +547,25 @@
     },
     {
         "card_name": "Drone Vendor",
-        "number": 37,
+        "number": 36,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Ghirapur Pickpocket",
-        "number": 65,
+        "number": 63,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Inauspicious Skyclaw",
-        "number": 98,
+        "number": 94,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Fairgrounds Security",
-        "number": 118,
+        "number": 114,
         "shape": "normal",
         "set": "KoK"
     },
@@ -607,25 +577,25 @@
     },
     {
         "card_name": "Failed Inspection",
-        "number": 38,
+        "number": 37,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Graveyard Mugger",
-        "number": 68,
+        "number": 66,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Malign Aetherborn",
-        "number": 101,
+        "number": 97,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Ferrophage Spider",
-        "number": 119,
+        "number": 115,
         "shape": "normal",
         "set": "KoK"
     },
@@ -637,25 +607,25 @@
     },
     {
         "card_name": "Gearseeker Squid",
-        "number": 40,
+        "number": 39,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Live Fast",
-        "number": 73,
+        "number": 70,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Narset's Student",
-        "number": 104,
+        "number": 100,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Fire-Armed Luddite",
-        "number": 120,
+        "number": 116,
         "shape": "normal",
         "set": "KoK"
     },
@@ -667,25 +637,25 @@
     },
     {
         "card_name": "Ministor of Flight",
-        "number": 47,
+        "number": 46,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Miasmic Cloud",
-        "number": 74,
+        "number": 71,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Offload",
-        "number": 105,
+        "number": 101,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Gift of Sagacity",
-        "number": 121,
+        "number": 117,
         "shape": "normal",
         "set": "KoK"
     },
@@ -697,25 +667,25 @@
     },
     {
         "card_name": "Polluting Biproduct",
-        "number": 48,
+        "number": 47,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Midnight Inspector",
-        "number": 75,
+        "number": 72,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Optimistic Nihilism",
-        "number": 106,
+        "number": 102,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Red Wood Walker",
-        "number": 129,
+        "number": 124,
         "shape": "normal",
         "set": "KoK"
     },
@@ -727,25 +697,25 @@
     },
     {
         "card_name": "Saheeli's Spy",
-        "number": 49,
+        "number": 48,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Nalaar's Scavenger",
-        "number": 76,
+        "number": 73,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Pupil of the Hidden Eye",
-        "number": 108,
+        "number": 104,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Reimmerse In Nature",
-        "number": 130,
+        "number": 125,
         "shape": "normal",
         "set": "KoK"
     },
@@ -757,85 +727,85 @@
     },
     {
         "card_name": "Skypatrol Aetherborn",
-        "number": 51,
+        "number": 50,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Seize the Means",
-        "number": 78,
+        "number": 75,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Rising Temperatures",
-        "number": 109,
+        "number": 105,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Sage-Eye Enforcer",
-        "number": 134,
+        "number": 129,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Tax On Action",
-        "number": 27,
+        "number": 26,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Sponsor's Cruise",
-        "number": 52,
+        "number": 51,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Thriving Rats",
-        "number": 81,
+        "number": 78,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Summit Postulant",
-        "number": 110,
+        "number": 106,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Savage Punch",
-        "number": 135,
+        "number": 130,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Teacher of the Way",
-        "number": 28,
+        "number": 27,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Unseasonal Squall",
-        "number": 54,
+        "number": 52,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Worker Strike",
-        "number": 84,
+        "number": 81,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Thriving Grubs",
-        "number": 111,
+        "number": 107,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Zurgo's Disciple",
-        "number": 140,
+        "number": 135,
         "shape": "normal",
         "set": "KoK"
     },
@@ -860,13 +830,13 @@
     },
     {
         "card_name": "Noxious Duststorm",
-        "number": 177,
+        "number": 175,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Combustible Lightning",
-        "number": 151,
+        "number": 147,
         "shape": "normal",
         "set": "KoK"
     },
@@ -878,7 +848,7 @@
     },
     {
         "card_name": "Cataclysmic Earthquake",
-        "number": 147,
+        "number": 143,
         "shape": "normal",
         "set": "KoK"
     },
@@ -890,67 +860,97 @@
     },
     {
         "card_name": "Gonti's Patronage",
-        "number": 161,
+        "number": 157,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Impulsive Fracking",
-        "number": 166,
+        "number": 163,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Overturned Throne",
-        "number": 178,
+        "number": 176,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Chianul's Guidance",
-        "number": 148,
+        "number": 144,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Bear Market",
-        "number": 145,
+        "number": 141,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Contraband Kingpin",
-        "number": 154,
+        "card_name": "Ashcloud Dragster",
+        "number": 140,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Riotous Brawler",
-        "number": 181,
+        "card_name": "Kheru Harvester",
+        "number": 165,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Chief of the Hammer",
-        "number": 149,
+        "number": 145,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Engineer's Prowess",
-        "number": 158,
+        "number": 154,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Icefeather Exporter",
-        "number": 164,
+        "number": 161,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Contraband Kingpin",
+        "number": 150,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Riotous Brawler",
+        "number": 179,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Guarded Supply Freighter",
+        "number": 158,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Highspire Adept",
+        "number": 159,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Tenth Bridge Copter",
+        "number": 189,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Self-regulated Saftey",
-        "number": 186,
+        "number": 185,
         "shape": "normal",
         "set": "KoK"
     },
@@ -962,13 +962,13 @@
     },
     {
         "card_name": "Smash Up",
-        "number": 187,
+        "number": 186,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Highspire Adept",
-        "number": 162,
+        "card_name": "Salt Road Tank",
+        "number": 183,
         "shape": "normal",
         "set": "KoK"
     },
@@ -989,13 +989,13 @@
     },
     {
         "card_name": "Saheeli, Unscrupulous Artificer",
-        "number": 184,
+        "number": 182,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Pia Nalaar, Fallen Innovator",
-        "number": 179,
+        "number": 177,
         "shape": "normal",
         "set": "KoK"
     },
@@ -1007,151 +1007,151 @@
     },
     {
         "card_name": "Narset, Panharmonastic Sage",
-        "number": 174,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Anonymous Financier",
-        "number": 144,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Anafenza, Generous Ancestor",
-        "number": 142,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Dovin Baan, Persistent Ancestor",
-        "number": 155,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Ancestor, Who Smirks at Law",
-        "number": 143,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Dragonfist Technique",
-        "number": 156,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Sagu Deforester",
-        "number": 183,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Consul of Preservation",
-        "number": 152,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Savage Union Buster",
-        "number": 185,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Booming Karma",
-        "number": 146,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Houn, Beguiling Ancestor",
-        "number": 163,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Surrak, Pelt-Cloaked Ancestor",
-        "number": 189,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Dustblast",
-        "number": 157,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Supplant Worker",
-        "number": 188,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Kneecap Blaster",
-        "number": 168,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Sage of the Vitalfire",
-        "number": 182,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Finance Charm",
-        "number": 159,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Nefarious Inheritence",
-        "number": 175,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Labor Charm",
-        "number": 169,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Nihilist Roughrider",
-        "number": 176,
-        "shape": "normal",
-        "set": "KoK"
-    },
-    {
-        "card_name": "Monastic Charm",
         "number": 172,
         "shape": "normal",
         "set": "KoK"
     },
     {
-        "card_name": "Financial Soothsayer",
+        "card_name": "Anonymous Financier",
+        "number": 139,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Anafenza, Generous Ancestor",
+        "number": 137,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Dovin Baan, Persistent Ancestor",
+        "number": 151,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Ancestor, Who Smirks at Law",
+        "number": 138,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Dragonfist Technique",
+        "number": 152,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Sagu Deforester",
+        "number": 181,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Consul of Preservation",
+        "number": 148,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Savage Union Buster",
+        "number": 184,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Booming Karma",
+        "number": 142,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Houn, Beguiling Ancestor",
         "number": 160,
         "shape": "normal",
         "set": "KoK"
     },
     {
+        "card_name": "Surrak, Pelt-Cloaked Ancestor",
+        "number": 188,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Dustblast",
+        "number": 153,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Supplant Worker",
+        "number": 187,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Kneecap Blaster",
+        "number": 166,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Sage of the Vitalfire",
+        "number": 180,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Finance Charm",
+        "number": 155,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Nefarious Inheritence",
+        "number": 173,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Labor Charm",
+        "number": 167,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Nihilist Roughrider",
+        "number": 174,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Monastic Charm",
+        "number": 170,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
+        "card_name": "Financial Soothsayer",
+        "number": 156,
+        "shape": "normal",
+        "set": "KoK"
+    },
+    {
         "card_name": "Citizen's Companion",
-        "number": 150,
+        "number": 146,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Manufacturing Virtuoso",
-        "number": 171,
+        "number": 169,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Rebelious Charm",
-        "number": 180,
+        "number": 178,
         "shape": "normal",
         "set": "KoK"
     },
@@ -1163,31 +1163,31 @@
     },
     {
         "card_name": "Illusion of Luxury",
-        "number": 165,
+        "number": 162,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Consul's Charm",
-        "number": 153,
+        "number": 149,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Aetherborn Dreamwalker",
-        "number": 141,
+        "number": 136,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Latter Woods Defender",
-        "number": 170,
+        "number": 168,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Mystic of the Enlightened Way",
-        "number": 173,
+        "number": 171,
         "shape": "normal",
         "set": "KoK"
     },
@@ -1196,7 +1196,7 @@
     },
     {
         "card_name": "Inspector Brigade",
-        "number": 167,
+        "number": 164,
         "shape": "normal",
         "set": "KoK"
     },
@@ -1503,31 +1503,31 @@
     },
     {
         "card_name": "Tranquil Cove",
-        "number": 260,
+        "number": 263,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Dismal Backwater",
-        "number": 247,
+        "number": 257,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Bloodfell Caves",
-        "number": 243,
+        "number": 256,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Rugged Highlands",
-        "number": 253,
+        "number": 259,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Blossoming Sands",
-        "number": 244,
+        "number": 242,
         "shape": "normal",
         "set": "KoK"
     },
@@ -1548,31 +1548,31 @@
     },
     {
         "card_name": "Scoured Barrens",
-        "number": 256,
+        "number": 260,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Swiftwater Cliffs",
-        "number": 258,
+        "number": 261,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Jungle Hollow",
-        "number": 248,
+        "number": 258,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Wind-Scarred Crag",
-        "number": 263,
+        "number": 264,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Thornwood Falls",
-        "number": 259,
+        "number": 262,
         "shape": "normal",
         "set": "KoK"
     },
@@ -1593,43 +1593,43 @@
     },
     {
         "card_name": "Obscuring Avalanche",
-        "number": 252,
+        "number": 248,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Arid Mesa",
-        "number": 242,
+        "number": 241,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Marsh Flats",
-        "number": 250,
+        "number": 246,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Misty Rainforest",
-        "number": 251,
+        "number": 247,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Scalding Tarn",
-        "number": 255,
+        "number": 250,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Verdant Catacombs",
-        "number": 261,
+        "number": 252,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Waste Land",
-        "number": 262,
+        "number": 253,
         "shape": "normal",
         "set": "KoK"
     },
@@ -1647,49 +1647,49 @@
     },
     {
         "card_name": "Arcane Sanctum",
-        "number": 241,
+        "number": 240,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Corrupted Workshop",
-        "number": 245,
+        "number": 243,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Crumbling Necropolis",
-        "number": 246,
+        "number": 244,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Jungle Shrine",
-        "number": 249,
+        "number": 245,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Savage Lands",
-        "number": 254,
+        "number": 249,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Seaside Citadel",
-        "number": 257,
+        "number": 251,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Zurgo's Encampment",
-        "number": 264,
+        "number": 254,
         "shape": "normal",
         "set": "KoK"
     },
     {
         "card_name": "Aradara Station",
-        "number": 240,
+        "number": 255,
         "shape": "normal",
         "set": "KoK"
     },

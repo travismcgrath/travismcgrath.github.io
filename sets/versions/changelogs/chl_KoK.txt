@@ -1,4 +1,49 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+
+
+Salt Road Tank
+cost: {2}{W} => {1}{G}{W}
+
+Tenth Bridge Copter
+cost: {2}{U} => {1}{W}{U}
+
+Kheru Harvester
+cost: {2}{B} => {1}{B}{R}
+rules_text: Lifelink 
+Whenever this vehicle attacks or blocks, gain {E}.
+Crew 2 => Lifelink 
+Whenever this vehicle attacks or blocks, gain {E}{E}.
+Crew 2
+
+Ashcloud Dragster
+cost: {2}{R} => {1}{U}{B}
+rules_text: First strike
+Whenever this vehicle attacks or blocks, put a velocity counter on it. Then if it has three or more velocity counters on it, sacrifice it and exile the top two cards of your library. You may play them until the end of your next turn.
+Crew 2 => Menace
+Whenever this vehicle attacks or blocks, put a velocity counter on it. Then if it has three or more velocity counters on it, sacrifice it and draw a card.
+Crew 2
+
+Guarded Supply Freighter
+cost: {2}{G} => {1}{R}{G}
+rules_text: Trample
+Crew 2
+[i]Raid[/i] - At the beginning of your end step, if you attacked this turn put a +1/+1 on target creature you control. => Trample
+Crew 2
+[i]Raid[/i] - At the beginning of your end step, if you attacked this turn and this vehicle is a creature, put a +1/+1 on target creature you control.
+
+Consol's Bodyguards
+rules_text: This enters with three +1/+1 counters on it. 
+Each creature you control with a +1/+1 counter on it has ward {1}. => This enters with two +1/+1 counters on it. 
+Each creature you control with a +1/+1 counter on it has ward {1}.
+
+Offload
+type: Instant => Sorcery
+rules_text: You get {E}{E}, then you may pay any amount of {E}. This spell deals that much damage to target creature. => This spell deals 2 to target creature.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 No changes.
