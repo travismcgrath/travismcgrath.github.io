@@ -1,4 +1,30 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+Graveyard Lurker added.
+
+Graveyard Mugger removed.
+
+Bear Market
+rules_text: Nonartifact colorless creatures you control get +0/+1.
+{2}, discard a card: Create a 2/2 colorless Shapeshifter creature token with changeling. Activate only once per turn and only as a sorcery. => Nonartifact colorless creatures you control get +0/+1.
+{1}{T}, Discard a card, : Create a 2/2 colorless creature token that is every creature type except Human. Activate only as a sorcery.
+
+Highspire mystic
+rules_text: {2}{U}: Turn another target creature you control face down. => {2}{U}{T}: Turn another target creature you control face down.
+
+Rising Temperatures
+rules_text: This spell deals 3 damage to target creature.
+[i]Raid[/i] - If you've attacked this turn, this spell deals 7 damage to it instead. => This spell deals 4 damage to target creature. If excess damage was dealt to a permanent this way, you get that many {E} .
+[i]Raid[/i] - If you've attacked this turn, this spell deals 7 damage instead.
+
+Offload
+type: Instant => Sorcery
+rules_text: This spell deals 2 to target creature. => This spell deals 2 to target creature.
+Scry 2.
+
+
+VERSION 18 CHANGELOG
 ====================
 
 

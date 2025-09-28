@@ -2371,13 +2371,13 @@
 			}
 		},
 		{
-			"name": "Graveyard Mugger",
+			"name": "Graveyard Lurker",
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Aetherborn Rogue",
 			"collector_number": "66",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/KoK-files/img/66_Graveyard Mugger.png"
+				"en": "https://travismcgrath.github.io/sets/KoK-files/img/66_Graveyard Lurker.png"
 			}
 		},
 		{
@@ -2474,7 +2474,7 @@
 			"name": "Offload",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "101",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/KoK-files/img/101_Offload.png"
@@ -2882,7 +2882,7 @@
 	8 Midnight Inspector
 	8 Nalaar's Scavenger
 	8 Defeatist Recycler
-	8 Graveyard Mugger
+	8 Graveyard Lurker
 	8 Aetherborn Bond-Kin
 	8 Pupil of the Hidden Eye
 	8 Narset's Student
@@ -3147,7 +3147,7 @@
 	12 Midnight Inspector
 	12 Nalaar's Scavenger
 	12 Defeatist Recycler
-	12 Graveyard Mugger
+	12 Graveyard Lurker
 	12 Aetherborn Bond-Kin
 	12 Pupil of the Hidden Eye
 	12 Narset's Student
@@ -3412,7 +3412,7 @@
 	6 Midnight Inspector
 	6 Nalaar's Scavenger
 	6 Defeatist Recycler
-	6 Graveyard Mugger
+	6 Graveyard Lurker
 	6 Aetherborn Bond-Kin
 	6 Pupil of the Hidden Eye
 	6 Narset's Student
