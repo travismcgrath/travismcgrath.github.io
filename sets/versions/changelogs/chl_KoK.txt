@@ -1,4 +1,45 @@
-﻿VERSION 17 CHANGELOG
+﻿VERSION 18 CHANGELOG
+====================
+
+
+
+Narset, Panharmonastic Sage
+cost: {1}{R}{G}{W} => {2}{R}{G}{W}
+
+Bear Market
+rules_text: Nonartifact colorless creatures you control get +0/+1.
+Discard a card: Create a 2/2 colorless Shapeshifter creature token with changeling. => Nonartifact colorless creatures you control get +0/+1.
+{2}, discard a card: Create a 2/2 colorless Shapeshifter creature token with changeling. Activate only once per turn and only as a sorcery.
+
+Maulfist Doorbuster
+pt:  => 4/2
+
+Loxodon Memorial
+rules_text: When this artifact enters, scry 2 and gain 4 life.
+Non-Human creatures you control get +2/+2. => When this artifact enters, scry 2 and gain 4 life.
+Non-Human, non-artifact creatures you control get +2/+2.
+
+Inventor's MIG
+rules_text: Whenever equipped creature attacks, it manufactures 1. 
+Equip {3} => Whenever equipped creature attacks, it manufactures 1. 
+Equip {2}
+
+Rising Temperatures
+rules_text: This spell deals 3 damage to target creature.
+[i]Raid[/i] - If you've attacked this turn, this spell deals 6 damage to it instead. => This spell deals 3 damage to target creature.
+[i]Raid[/i] - If you've attacked this turn, this spell deals 7 damage to it instead.
+
+Offload
+type: Sorcery => Instant
+
+Red Wood Walker
+cost: {4}{G}{G} => {5}{G}{G}
+rules_text: Trample
+Morph {4}{G} => Trample
+Morph 5{G}
+
+
+VERSION 17 CHANGELOG
 ====================
 
 
