@@ -2643,17 +2643,17 @@
 	]
 
 [landslot(1)]
-	1 Tranquil Cove
-	1 Dismal Backwater
-	1 Bloodfell Caves
-	1 Rugged Highlands
-	1 Blossoming Sands
-	1 Scoured Barrens
-	1 Swiftwater Cliffs
-	1 Jungle Hollow
-	1 Wind-Scarred Crag
-	1 Thornwood Falls
-	1 Aradara Station
+	12 Tranquil Cove
+	12 Dismal Backwater
+	12 Bloodfell Caves
+	12 Rugged Highlands
+	12 Blossoming Sands
+	12 Scoured Barrens
+	12 Swiftwater Cliffs
+	12 Jungle Hollow
+	12 Wind-Scarred Crag
+	12 Thornwood Falls
+	12 Aradara Station
 [rare(1)]
 	1 Saheeli, Unscrupulous Artificer
 	1 Narset, Panharmonastic Sage

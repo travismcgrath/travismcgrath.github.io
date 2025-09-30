@@ -1,5 +1,5 @@
 ﻿[
-	{ "name": "landslot", "count": 1, "balanced": "c", "custom": true, "filtered": true },
+	{ "name": "landslot", "count": 1, "balanced": "f", "custom": true, "filtered": true },
 	{ "name": "rare", "count": 1, "balanced": "b", "custom": false, "filtered": false },
 	{ "name": "uncommon", "count": 3, "balanced": "b", "custom": false, "filtered": false },
 	{ "name": "common", "count": 7, "balanced": "b", "custom": false, "filtered": true },
