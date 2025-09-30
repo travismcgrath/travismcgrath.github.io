@@ -65,9 +65,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/253_Waste Land.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/252_Waste Land.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/250_Scalding Tarn.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/249_Scalding Tarn.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/246_Marsh Flats.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/245_Marsh Flats.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/252_Verdant Catacombs.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/251_Verdant Catacombs.png"
 			}
 		},
 		{
@@ -225,9 +225,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/247_Misty Rainforest.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/246_Misty Rainforest.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "243",
+			"collector_number": "242",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/243_Corrupted Workshop.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/242_Corrupted Workshop.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/248_Obscuring Avalanche.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/247_Obscuring Avalanche.png"
 			}
 		},
 		{
@@ -755,9 +755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/251_Seaside Citadel.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/250_Seaside Citadel.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "244",
+			"collector_number": "243",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/244_Crumbling Necropolis.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/243_Crumbling Necropolis.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/249_Savage Lands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/248_Savage Lands.png"
 			}
 		},
 		{
@@ -795,9 +795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "245",
+			"collector_number": "244",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/245_Jungle Shrine.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/244_Jungle Shrine.png"
 			}
 		},
 		{
@@ -815,9 +815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/254_Zurgo's Encampment.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/253_Zurgo's Encampment.png"
 			}
 		},
 		{
@@ -1655,9 +1655,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/256_Bloodfell Caves.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/255_Bloodfell Caves.png"
 			}
 		},
 		{
@@ -1675,9 +1675,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "242",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/242_Blossoming Sands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/256_Blossoming Sands.png"
 			}
 		},
 		{
@@ -1785,9 +1785,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/255_Aradara Station.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/254_Aradara Station.png"
 			}
 		},
 		{
@@ -2642,6 +2642,18 @@
 		}
 	]
 
+[landslot(1)]
+	1 Tranquil Cove
+	1 Dismal Backwater
+	1 Bloodfell Caves
+	1 Rugged Highlands
+	1 Blossoming Sands
+	1 Scoured Barrens
+	1 Swiftwater Cliffs
+	1 Jungle Hollow
+	1 Wind-Scarred Crag
+	1 Thornwood Falls
+	1 Aradara Station
 [rare(1)]
 	1 Saheeli, Unscrupulous Artificer
 	1 Narset, Panharmonastic Sage
@@ -2812,19 +2824,8 @@
 [common(7)]
 	8 Thriving Grubs
 	8 Devout Kirin
-	8 Tranquil Cove
-	8 Dismal Backwater
-	8 Bloodfell Caves
-	8 Rugged Highlands
-	8 Blossoming Sands
-	8 Scoured Barrens
-	8 Swiftwater Cliffs
-	8 Jungle Hollow
-	8 Wind-Scarred Crag
-	8 Thornwood Falls
 	8 Backslide
 	8 Thriving Rats
-	8 Aradara Station
 	8 Aetherborn Dreamwalker
 	8 Inspector Brigade
 	8 Illusion of Luxury
@@ -3073,22 +3074,11 @@
 	6 Ghirapur Parapets
 	6 Loxodon Memorial
 	6 Briber's Purse
-	12 Tranquil Cove
-	12 Dismal Backwater
-	12 Bloodfell Caves
-	12 Rugged Highlands
-	12 Blossoming Sands
-	12 Scoured Barrens
-	12 Swiftwater Cliffs
-	12 Jungle Hollow
-	12 Wind-Scarred Crag
-	12 Thornwood Falls
 	12 Backslide
 	12 Thriving Rats
 	6 Irreversible Nightmare
 	6 Chief of the Nail
 	6 Rocslide
-	12 Aradara Station
 	12 Aetherborn Dreamwalker
 	12 Inspector Brigade
 	12 Illusion of Luxury
@@ -3338,22 +3328,11 @@
 	15 Ghirapur Parapets
 	15 Loxodon Memorial
 	15 Briber's Purse
-	6 Tranquil Cove
-	6 Dismal Backwater
-	6 Bloodfell Caves
-	6 Rugged Highlands
-	6 Blossoming Sands
-	6 Scoured Barrens
-	6 Swiftwater Cliffs
-	6 Jungle Hollow
-	6 Wind-Scarred Crag
-	6 Thornwood Falls
 	6 Backslide
 	6 Thriving Rats
 	15 Irreversible Nightmare
 	15 Chief of the Nail
 	15 Rocslide
-	6 Aradara Station
 	6 Aetherborn Dreamwalker
 	6 Inspector Brigade
 	6 Illusion of Luxury

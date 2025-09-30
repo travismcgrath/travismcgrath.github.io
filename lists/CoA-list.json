@@ -1515,7 +1515,7 @@
     },
     {
         "card_name": "Bloodfell Caves",
-        "number": 256,
+        "number": 255,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1527,7 +1527,7 @@
     },
     {
         "card_name": "Blossoming Sands",
-        "number": 242,
+        "number": 256,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1593,7 +1593,7 @@
     },
     {
         "card_name": "Obscuring Avalanche",
-        "number": 248,
+        "number": 247,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1605,31 +1605,31 @@
     },
     {
         "card_name": "Marsh Flats",
-        "number": 246,
+        "number": 245,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Misty Rainforest",
-        "number": 247,
+        "number": 246,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Scalding Tarn",
-        "number": 250,
+        "number": 249,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Verdant Catacombs",
-        "number": 252,
+        "number": 251,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Waste Land",
-        "number": 253,
+        "number": 252,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1653,43 +1653,43 @@
     },
     {
         "card_name": "Corrupted Workshop",
-        "number": 243,
+        "number": 242,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Crumbling Necropolis",
-        "number": 244,
+        "number": 243,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Jungle Shrine",
-        "number": 245,
+        "number": 244,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Savage Lands",
-        "number": 249,
+        "number": 248,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Seaside Citadel",
-        "number": 251,
+        "number": 250,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Zurgo's Encampment",
-        "number": 254,
+        "number": 253,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Aradara Station",
-        "number": 255,
+        "number": 254,
         "shape": "normal",
         "set": "CoA"
     },
