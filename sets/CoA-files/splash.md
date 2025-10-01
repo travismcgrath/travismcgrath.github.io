@@ -25,19 +25,19 @@ Changes of Avishkar comes with three new keywords:
 
 ##Returning Mechanics
 
-**Energy, Morph, Prowess, and Vehicles**, all play leading roles in the Changes on Avishkar.
+**Energy, Morph, Prowess**, and **Vehicles**, all play leading roles in the Changes on Avishkar.
 
 <!-- <img align="right" width="200" height="353" style="margin:15px" src="https://i.ibb.co/mVRXXgx1/booster.png" alt="SMK booster"/>The mechanics of **Changes on Avishkar** include:
 -->
 
 ##Archtypes
 
-**Bant: ** Morph and Trickery Mid-range. The Bant faction, lead by an unnamed Naga, represents the financieers and rich elites who profit from anonymity, hidden information, and controlling politics.
+**Bant** Morph and Trickery Mid-range. The Bant faction, lead by an unnamed Naga, represents the financieers and rich elites who profit from anonymity, hidden information, and controlling politics.
 
-**Esper: ** Go-Wide Manufacture. The Esper faction, lead by Saheeli, represents the political ruling consoul, artificers who tinker and innovate upon the law.
+**Esper**: Go-Wide Manufacture. The Esper faction, lead by Saheeli, represents the political ruling consoul, artificers who tinker and innovate upon the law.
 
-**Grixis: ** Energy Control. The Grixis faction, lead by Pia Nalaar, represents the barrons of industry. Willing to destroy land and laborers for the resources they can reap from it to fuel their factories.
+**Grixis**: Energy Control. The Grixis faction, lead by Pia Nalaar, represents the barrons of industry. Willing to destroy land and laborers for the resources they can reap from it to fuel their factories.
 
-**Jund: ** Energy Aggro. The Jund faction, lead by Zurgo, represent the revolt against the powers-at-be. Their dire circumstance drive them to action against Industry, Law, and Technology itself at times.
+**Jund**: Energy Aggro. The Jund faction, lead by Zurgo, represent the revolt against the powers-at-be. Their dire circumstance drive them to action against Industry, Law, and Technology itself at times.
 
-**Naya: ** Prowess Aggro.  The Naya faction, lead by Narset, represent those who turn their focus away from the poltical and environmental chaos. Honing their attention on medition and seeking The Way gives them the strength and ability to exert control over the chaos of their cirumstance.
+**Naya**: Prowess Aggro.  The Naya faction, lead by Narset, represent those who turn their focus away from the poltical and environmental chaos. Honing their attention on medition and seeking The Way gives them the strength and ability to exert control over the chaos of their cirumstance.
