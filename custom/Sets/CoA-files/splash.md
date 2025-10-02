@@ -12,6 +12,8 @@ All the while, industrialists and financiers get rich exploiting the dwindling n
 
 **Change on Avishkar** is a draftable set of 264 card (17 mythic rares, 55 rares, 93 uncommons, and 99 commons). CoA uses Play Boosters which each contain 1 rare/mythic, 3 uncommons, 7 commons, 1 foil, 1 "wildcard", and 1 common land.
 
+<img align="right" width="200" height="353" style="margin:15px" src="https://lh3.google.com/u/0/d/18vi3a44iI8kECtHyd40HDlzMJ8_9sPNl=w1185-h911-iv1?auditContext=prefetch" alt="CoA Booster"/>
+
 ##New Keywords
 
 Changes of Avishkar comes with three new keywords:
@@ -26,9 +28,6 @@ Changes of Avishkar comes with three new keywords:
 ##Returning Mechanics
 
 **Energy, Morph, Prowess**, and **Vehicles**, all play leading roles in the Changes on Avishkar.
-
-<img align="right" width="200" height="353" style="margin:15px" src="https://lh3.google.com/u/0/d/1jgj_Fwt6URgTGABLLICFMy3nEsVPoMxz=w1920-h911-iv1?auditContext=forDisplay" alt="CoA Booster"/>
-
 
 ##Archtypes
 
