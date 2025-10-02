@@ -27,8 +27,8 @@ Changes of Avishkar comes with three new keywords:
 
 **Energy, Morph, Prowess**, and **Vehicles**, all play leading roles in the Changes on Avishkar.
 
-<!-- <img align="right" width="200" height="353" style="margin:15px" src="https://i.ibb.co/mVRXXgx1/booster.png" alt="SMK booster"/>The mechanics of **Changes on Avishkar** include:
--->
+<img align="right" width="200" height="353" style="margin:15px" src="https://drive.google.com/file/d/1jgj_Fwt6URgTGABLLICFMy3nEsVPoMxz/view?usp=drive_link" alt="CoA Booster"/>
+
 
 ##Archtypes
 
