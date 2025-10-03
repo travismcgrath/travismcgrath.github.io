@@ -1,4 +1,63 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Entrant of the Way added.
+
+Seeker of the Way removed.
+
+Pia Nalaar, Fallen Innovator
+rules_text: Deathtouch
+When Pia Nalaar, Fallen Innovator enters, it manufactures 4.
+Whenever a +1/+1 counter is put on a creature you control, gain {E}.
+{E}{E}{E}{E}: Servos and Thopters you control get +2/+2 and gain Deathtouch until end of turn. => Deathtouch
+When Pia Nalaar, Fallen Innovator enters, it manufactures 4.
+Whenever a +1/+1 counter is put on a creature you control, gain {E}.
+{E}{E}{E}{E}: Constructs, Servos and Thopters you control get +2/+2 and gain Deathtouch until end of turn.
+
+Generous Angel
+rules_text: Flying, lifelink
+Morph {2}{W}{W}
+When Generous Angel or is turned face up, put a +1/+1 counter on each of up to three other creatures you control. => Flying, lifelink
+Morph {2}{W}{W}
+When Generous Angel enters or is turned face up, put a +1/+1 counter on each of up to three other creatures you control.
+
+Manufacturing Virtuoso
+rules_text: When Manufacturing Virtuoso enters, you get {E}{E}{E}.
+Pay {E}{E}: Manufacturing Virtuoso manufactures 1. => When Manufacturing Virtuoso enters, you get {E}{E}{E}.
+Pay {E}{E}{E}: Manufacturing Virtuoso manufactures 1.
+Servos you control gain flying.
+
+Denial Lobbyist
+cost: {2}{U}{U} => {3}{U}{U}
+
+Mystic of the Enlightened Way
+pt: 3/2 => 4/2
+
+Lawless BannerKnot
+rules_text: When Lawless BannerKnot enters, you draw a card and you lose 1 life.
+{T}: Add {G}, {R}, or {B}.
+{R}{W}{G}, Sacrifice Lawless BannerKnot: Draw a card. => When Lawless BannerKnot enters, you draw a card and you lose 1 life.
+{T}: Add {G}, {R}, or {B}.
+{R}{B}{G}, Sacrifice Lawless BannerKnot: Draw a card.
+
+Narset's Student
+pt: 2/2 => 3/2
+
+Factory Mazdoor
+rules_text: When Factory Mazdoor enters you get {E}{E}.
+When Factory Mazdoor attacks or blocks you may pay {E}{E}, if you do, it manufactures 1. => When Factory Mazdoor enters you get {E}{E}{E}.
+When Factory Mazdoor attacks or blocks you may pay {E}, if you do, it manufactures 1.
+
+Heat Lightning
+rules_text: Flying, haste
+Cycling {2} => Flying, haste
+Morph {5}{R}
+
+Sage-Eye Enforcer
+pt: 1/1 => 2/1
+
+
+VERSION 2 CHANGELOG
 ====================
 
 No changes.

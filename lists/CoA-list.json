@@ -61,7 +61,7 @@
     },
     {
         "card_name": "Fumigate",
-        "number": 13,
+        "number": 14,
         "shape": "normal",
         "set": "CoA"
     },
@@ -91,7 +91,7 @@
     },
     {
         "card_name": "Generous Angel",
-        "number": 15,
+        "number": 16,
         "shape": "normal",
         "set": "CoA"
     },
@@ -121,7 +121,7 @@
     },
     {
         "card_name": "Master of Pearls",
-        "number": 18,
+        "number": 19,
         "shape": "normal",
         "set": "CoA"
     },
@@ -210,8 +210,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Gearshift Pitcrew",
-        "number": 14,
+        "card_name": "Entrant of the Way",
+        "number": 13,
         "shape": "normal",
         "set": "CoA"
     },
@@ -240,8 +240,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Loxodon Memorial",
-        "number": 17,
+        "card_name": "Gearshift Pitcrew",
+        "number": 15,
         "shape": "normal",
         "set": "CoA"
     },
@@ -270,8 +270,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Resistance Factor",
-        "number": 20,
+        "card_name": "Loxodon Memorial",
+        "number": 18,
         "shape": "normal",
         "set": "CoA"
     },
@@ -300,7 +300,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Rocslide",
+        "card_name": "Resistance Factor",
         "number": 21,
         "shape": "normal",
         "set": "CoA"
@@ -330,7 +330,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Roost's Guardian",
+        "card_name": "Rocslide",
         "number": 22,
         "shape": "normal",
         "set": "CoA"
@@ -360,7 +360,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Sage-Eye Apprentice",
+        "card_name": "Roost's Guardian",
         "number": 23,
         "shape": "normal",
         "set": "CoA"
@@ -390,8 +390,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Seeker of the Way",
-        "number": 25,
+        "card_name": "Sage-Eye Apprentice",
+        "number": 24,
         "shape": "normal",
         "set": "CoA"
     },
@@ -691,7 +691,7 @@
     },
     {
         "card_name": "Highspire mystic",
-        "number": 16,
+        "number": 17,
         "shape": "normal",
         "set": "CoA"
     },
@@ -721,7 +721,7 @@
     },
     {
         "card_name": "Medatative Inspiration",
-        "number": 19,
+        "number": 20,
         "shape": "normal",
         "set": "CoA"
     },
@@ -751,7 +751,7 @@
     },
     {
         "card_name": "Sage-Eye Harrier",
-        "number": 24,
+        "number": 25,
         "shape": "normal",
         "set": "CoA"
     },
