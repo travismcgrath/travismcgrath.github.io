@@ -1,4 +1,22 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Ghostfire's Light added.
+Apprehend Dissident added.
+
+Banishing Light removed.
+Arrest removed.
+
+Disassemble
+rules_text: Destroy target creature with mana value 2, artifact, or enchantment.
+You gain 2 life. => Destroy target colorless creature, artifact, or enchantment.
+You gain 2 life.
+
+Saheeli's Spy
+type: Creature — Human Rogue => Creature — Vedalken Rogue
+
+
+VERSION 3 CHANGELOG
 ====================
 
 Entrant of the Way added.

@@ -31,7 +31,7 @@
     },
     {
         "card_name": "The Consul's Orator",
-        "number": 9,
+        "number": 8,
         "shape": "normal",
         "set": "CoA"
     },
@@ -61,7 +61,7 @@
     },
     {
         "card_name": "Fumigate",
-        "number": 14,
+        "number": 13,
         "shape": "normal",
         "set": "CoA"
     },
@@ -91,7 +91,7 @@
     },
     {
         "card_name": "Generous Angel",
-        "number": 16,
+        "number": 15,
         "shape": "normal",
         "set": "CoA"
     },
@@ -150,8 +150,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Army for Hire",
-        "number": 3,
+        "card_name": "Apprehend Dissident",
+        "number": 2,
         "shape": "normal",
         "set": "CoA"
     },
@@ -180,8 +180,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Banishing Light",
-        "number": 5,
+        "card_name": "Army for Hire",
+        "number": 4,
         "shape": "normal",
         "set": "CoA"
     },
@@ -211,7 +211,7 @@
     },
     {
         "card_name": "Entrant of the Way",
-        "number": 13,
+        "number": 12,
         "shape": "normal",
         "set": "CoA"
     },
@@ -241,7 +241,7 @@
     },
     {
         "card_name": "Gearshift Pitcrew",
-        "number": 15,
+        "number": 14,
         "shape": "normal",
         "set": "CoA"
     },
@@ -270,8 +270,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Loxodon Memorial",
-        "number": 18,
+        "card_name": "Ghostfire's Light",
+        "number": 16,
         "shape": "normal",
         "set": "CoA"
     },
@@ -300,8 +300,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Resistance Factor",
-        "number": 21,
+        "card_name": "Loxodon Memorial",
+        "number": 18,
         "shape": "normal",
         "set": "CoA"
     },
@@ -330,8 +330,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Rocslide",
-        "number": 22,
+        "card_name": "Resistance Factor",
+        "number": 21,
         "shape": "normal",
         "set": "CoA"
     },
@@ -360,8 +360,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Roost's Guardian",
-        "number": 23,
+        "card_name": "Rocslide",
+        "number": 22,
         "shape": "normal",
         "set": "CoA"
     },
@@ -390,8 +390,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Sage-Eye Apprentice",
-        "number": 24,
+        "card_name": "Roost's Guardian",
+        "number": 23,
         "shape": "normal",
         "set": "CoA"
     },
@@ -420,8 +420,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Skywhaler's Shot",
-        "number": 26,
+        "card_name": "Sage-Eye Apprentice",
+        "number": 24,
         "shape": "normal",
         "set": "CoA"
     },
@@ -450,8 +450,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Aristocratic's Steed",
-        "number": 2,
+        "card_name": "Skywhaler's Shot",
+        "number": 26,
         "shape": "normal",
         "set": "CoA"
     },
@@ -480,8 +480,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Arrest",
-        "number": 4,
+        "card_name": "Aristocratic's Steed",
+        "number": 3,
         "shape": "normal",
         "set": "CoA"
     },
@@ -511,7 +511,7 @@
     },
     {
         "card_name": "Bolster the Masses",
-        "number": 6,
+        "number": 5,
         "shape": "normal",
         "set": "CoA"
     },
@@ -541,7 +541,7 @@
     },
     {
         "card_name": "Burly Banker",
-        "number": 7,
+        "number": 6,
         "shape": "normal",
         "set": "CoA"
     },
@@ -571,7 +571,7 @@
     },
     {
         "card_name": "Charming Kata",
-        "number": 8,
+        "number": 7,
         "shape": "normal",
         "set": "CoA"
     },
@@ -601,7 +601,7 @@
     },
     {
         "card_name": "Defiant Strike",
-        "number": 10,
+        "number": 9,
         "shape": "normal",
         "set": "CoA"
     },
@@ -631,7 +631,7 @@
     },
     {
         "card_name": "Devout Kirin",
-        "number": 11,
+        "number": 10,
         "shape": "normal",
         "set": "CoA"
     },
@@ -661,7 +661,7 @@
     },
     {
         "card_name": "Disassemble",
-        "number": 12,
+        "number": 11,
         "shape": "normal",
         "set": "CoA"
     },

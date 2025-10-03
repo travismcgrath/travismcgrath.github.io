@@ -435,9 +435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "14",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/14_Fumigate.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/13_Fumigate.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Dwarf Advisor",
-			"collector_number": "9",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/9_The Consul's Orator.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/8_The Consul's Orator.png"
 			}
 		},
 		{
@@ -615,9 +615,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Angel",
-			"collector_number": "16",
+			"collector_number": "15",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/16_Generous Angel.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/15_Generous Angel.png"
 			}
 		},
 		{
@@ -1045,9 +1045,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Djinn Monk",
-			"collector_number": "13",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/13_Entrant of the Way.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/12_Entrant of the Way.png"
 			}
 		},
 		{
@@ -1055,9 +1055,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "15",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/15_Gearshift Pitcrew.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/14_Gearshift Pitcrew.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Kirin",
-			"collector_number": "11",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/11_Devout Kirin.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/10_Devout Kirin.png"
 			}
 		},
 		{
@@ -1085,19 +1085,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}{W}",
 			"type": "Sorcery",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/3_Army for Hire.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/4_Army for Hire.png"
 			}
 		},
 		{
-			"name": "Banishing Light",
+			"name": "Ghostfire's Light",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Enchantment",
-			"collector_number": "5",
+			"mana_cost": "{3}{W}",
+			"type": "Sorcery",
+			"collector_number": "16",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/5_Banishing Light.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/16_Ghostfire's Light.png"
 			}
 		},
 		{
@@ -2035,9 +2035,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "10",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/10_Defiant Strike.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/9_Defiant Strike.png"
 			}
 		},
 		{
@@ -2045,9 +2045,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Instant",
-			"collector_number": "6",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/6_Bolster the Masses.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/5_Bolster the Masses.png"
 			}
 		},
 		{
@@ -2065,9 +2065,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "12",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/12_Disassemble.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/11_Disassemble.png"
 			}
 		},
 		{
@@ -2081,13 +2081,13 @@
 			}
 		},
 		{
-			"name": "Arrest",
-			"rarity": "common",
+			"name": "Apprehend Dissident",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment — Aura",
-			"collector_number": "4",
+			"collector_number": "2",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/4_Arrest.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/2_Apprehend Dissident.png"
 			}
 		},
 		{
@@ -2095,9 +2095,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Human Citizen",
-			"collector_number": "7",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/7_Burly Banker.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/6_Burly Banker.png"
 			}
 		},
 		{
@@ -2115,9 +2115,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{W}",
 			"type": "Creature — Horse",
-			"collector_number": "2",
+			"collector_number": "3",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/2_Aristocratic's Steed.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/3_Aristocratic's Steed.png"
 			}
 		},
 		{
@@ -2125,9 +2125,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Snake Monk",
-			"collector_number": "8",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/8_Charming Kata.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/7_Charming Kata.png"
 			}
 		},
 		{
@@ -2214,7 +2214,7 @@
 			"name": "Saheeli's Spy",
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Rogue",
+			"type": "Creature — Vedalken Rogue",
 			"collector_number": "50",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/50_Saheeli's Spy.png"
@@ -2751,7 +2751,7 @@
 	4 Gearshift Pitcrew
 	4 Roost's Guardian
 	4 Army for Hire
-	4 Banishing Light
+	4 Ghostfire's Light
 	4 Resistance Factor
 	4 Skywhaler's Shot
 	4 Salt Road Tank
@@ -2809,6 +2809,7 @@
 	4 Chief of the Nail
 	4 Rocslide
 	4 Aether Spout Bulldozer
+	4 Apprehend Dissident
 [common(7)]
 	8 Thriving Grubs
 	8 Devout Kirin
@@ -2842,7 +2843,6 @@
 	8 Tax On Action
 	8 Disassemble
 	8 Medatative Inspiration
-	8 Arrest
 	8 Burly Banker
 	8 Sage-Eye Harrier
 	8 Aristocratic's Steed
@@ -3008,7 +3008,7 @@
 	12 Devout Kirin
 	6 Roost's Guardian
 	6 Army for Hire
-	6 Banishing Light
+	6 Ghostfire's Light
 	6 Resistance Factor
 	6 Skywhaler's Shot
 	6 Salt Road Tank
@@ -3096,7 +3096,7 @@
 	12 Tax On Action
 	12 Disassemble
 	12 Medatative Inspiration
-	12 Arrest
+	6 Apprehend Dissident
 	12 Burly Banker
 	12 Sage-Eye Harrier
 	12 Aristocratic's Steed
@@ -3262,7 +3262,7 @@
 	6 Devout Kirin
 	15 Roost's Guardian
 	15 Army for Hire
-	15 Banishing Light
+	15 Ghostfire's Light
 	15 Resistance Factor
 	15 Skywhaler's Shot
 	15 Salt Road Tank
@@ -3350,7 +3350,7 @@
 	6 Tax On Action
 	6 Disassemble
 	6 Medatative Inspiration
-	6 Arrest
+	15 Apprehend Dissident
 	6 Burly Banker
 	6 Sage-Eye Harrier
 	6 Aristocratic's Steed
