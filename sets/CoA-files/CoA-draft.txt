@@ -165,9 +165,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Cat",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/126_Longtusk Pride.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/125_Longtusk Pride.png"
 			}
 		},
 		{
@@ -435,9 +435,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{W}",
 			"type": "Sorcery",
-			"collector_number": "13",
+			"collector_number": "14",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/13_Fumigate.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/14_Fumigate.png"
 			}
 		},
 		{
@@ -495,9 +495,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Naga Wizard",
-			"collector_number": "45",
+			"collector_number": "46",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/45_Kheru Spellsnatcher.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/46_Kheru Spellsnatcher.png"
 			}
 		},
 		{
@@ -525,9 +525,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Monk",
-			"collector_number": "19",
+			"collector_number": "18",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/19_Master of Pearls.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/18_Master of Pearls.png"
 			}
 		},
 		{
@@ -545,9 +545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "46",
+			"collector_number": "47",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/46_Machiavellian Will.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/47_Machiavellian Will.png"
 			}
 		},
 		{
@@ -585,9 +585,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Creature — Dwarf Advisor",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/8_The Consul's Orator.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/9_The Consul's Orator.png"
 			}
 		},
 		{
@@ -625,9 +625,9 @@
 			"rarity": "rare",
 			"mana_cost": "{14}{U}{U}",
 			"type": "Instant",
-			"collector_number": "47",
+			"collector_number": "48",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/47_Mine for Solutions.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/48_Mine for Solutions.png"
 			}
 		},
 		{
@@ -1034,7 +1034,7 @@
 			"name": "Sage-Eye Apprentice",
 			"rarity": "uncommon",
 			"mana_cost": "{W}",
-			"type": "Creature — Bird Monk",
+			"type": "Creature — Human Monk",
 			"collector_number": "24",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/24_Sage-Eye Apprentice.png"
@@ -1044,20 +1044,20 @@
 			"name": "Entrant of the Way",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
-			"type": "Creature — Djinn Monk",
-			"collector_number": "12",
+			"type": "Creature — Human Monk",
+			"collector_number": "13",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/12_Entrant of the Way.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/13_Entrant of the Way.png"
 			}
 		},
 		{
 			"name": "Gearshift Pitcrew",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
+			"mana_cost": "{2}{U}",
 			"type": "Creature — Human Artificer",
-			"collector_number": "14",
+			"collector_number": "42",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/14_Gearshift Pitcrew.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/42_Gearshift Pitcrew.png"
 			}
 		},
 		{
@@ -1065,9 +1065,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Creature — Kirin",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/10_Devout Kirin.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/11_Devout Kirin.png"
 			}
 		},
 		{
@@ -1145,9 +1145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Instant",
-			"collector_number": "43",
+			"collector_number": "44",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/43_Glimmer of Genius.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/44_Glimmer of Genius.png"
 			}
 		},
 		{
@@ -1155,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Sorcery",
-			"collector_number": "51",
+			"collector_number": "52",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/51_Shrewd Negotiation.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/52_Shrewd Negotiation.png"
 			}
 		},
 		{
@@ -1165,9 +1165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Sorcery",
-			"collector_number": "44",
+			"collector_number": "45",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/44_Innovation Setbacks.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/45_Innovation Setbacks.png"
 			}
 		},
 		{
@@ -1175,9 +1175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird",
-			"collector_number": "42",
+			"collector_number": "43",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/42_Glacial Glintcrane.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/43_Glacial Glintcrane.png"
 			}
 		},
 		{
@@ -1431,16 +1431,6 @@
 			}
 		},
 		{
-			"name": "Hypnotizing AetherBorealis",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
-			"type": "Sorcery",
-			"collector_number": "124",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/124_Hypnotizing AetherBorealis.png"
-			}
-		},
-		{
 			"name": "Return from the Horizon",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
@@ -1485,9 +1475,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Druid Beserker",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/125_Incensed Druid.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/124_Incensed Druid.png"
 			}
 		},
 		{
@@ -1542,7 +1532,7 @@
 		},
 		{
 			"name": "Consol's Bodyguards",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Artifact Creature — Construct Mercenary",
 			"collector_number": "35",
@@ -1613,11 +1603,11 @@
 		{
 			"name": "Loxodon Memorial",
 			"rarity": "uncommon",
-			"mana_cost": "{4}{W}",
+			"mana_cost": "{4}{G}",
 			"type": "Artifact",
-			"collector_number": "18",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/18_Loxodon Memorial.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/126_Loxodon Memorial.png"
 			}
 		},
 		{
@@ -2035,9 +2025,9 @@
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/9_Defiant Strike.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/10_Defiant Strike.png"
 			}
 		},
 		{
@@ -2065,9 +2055,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}",
 			"type": "Sorcery",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/11_Disassemble.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/12_Disassemble.png"
 			}
 		},
 		{
@@ -2075,9 +2065,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Sorcery",
-			"collector_number": "20",
+			"collector_number": "19",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/20_Medatative Inspiration.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/19_Medatative Inspiration.png"
 			}
 		},
 		{
@@ -2155,9 +2145,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "49",
+			"collector_number": "50",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/49_Polluting Biproduct.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/50_Polluting Biproduct.png"
 			}
 		},
 		{
@@ -2215,9 +2205,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Vedalken Rogue",
-			"collector_number": "50",
+			"collector_number": "51",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/50_Saheeli's Spy.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/51_Saheeli's Spy.png"
 			}
 		},
 		{
@@ -2228,16 +2218,6 @@
 			"collector_number": "38",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/38_Drone Vendor.png"
-			}
-		},
-		{
-			"name": "Skypatrol Aetherborn",
-			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Aetherborn Solider",
-			"collector_number": "52",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/52_Skypatrol Aetherborn.png"
 			}
 		},
 		{
@@ -2255,9 +2235,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Vedalken Advisor",
-			"collector_number": "48",
+			"collector_number": "49",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/48_Ministor of Flight.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/49_Ministor of Flight.png"
 			}
 		},
 		{
@@ -2639,6 +2619,26 @@
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/118_Extinction Rebellion.png"
 			}
+		},
+		{
+			"name": "Complete Devotion",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/8_Complete Devotion.png"
+			}
+		},
+		{
+			"name": "Raise the Alms",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/20_Raise the Alms.png"
+			}
 		}
 	]
 
@@ -2785,7 +2785,6 @@
 	4 Harnessed Lightning
 	4 Ceaseless Fires
 	4 Armorcraft Purchase
-	4 Hypnotizing AetherBorealis
 	4 Return from the Horizon
 	4 Nature's Way
 	4 Windstorm
@@ -2796,7 +2795,6 @@
 	4 Guarded Supply Freighter
 	4 Ovalchase Dragster
 	4 Bomat Bazaar Barge
-	4 Consol's Bodyguards
 	4 Compase-Legged Spider
 	4 Powered Down Timepiece
 	4 Improvised Weather Machine
@@ -2810,9 +2808,11 @@
 	4 Rocslide
 	4 Aether Spout Bulldozer
 	4 Apprehend Dissident
+	4 Raise the Alms
 [common(7)]
 	8 Thriving Grubs
 	8 Devout Kirin
+	8 Consol's Bodyguards
 	8 Backslide
 	8 Thriving Rats
 	8 Aetherborn Dreamwalker
@@ -2857,7 +2857,6 @@
 	8 Sponsor's Cruise
 	8 Saheeli's Spy
 	8 Drone Vendor
-	8 Skypatrol Aetherborn
 	8 Aetherborn Incumbent
 	8 Ministor of Flight
 	8 Gearseeker Squid
@@ -2898,6 +2897,7 @@
 	8 Savage Punch
 	8 Awaken the Bear
 	8 Extinction Rebellion
+	8 Complete Devotion
 [foil(1)]
 	12 Thriving Grubs
 	1 Saheeli, Unscrupulous Artificer
@@ -3042,7 +3042,6 @@
 	6 Harnessed Lightning
 	6 Ceaseless Fires
 	6 Armorcraft Purchase
-	6 Hypnotizing AetherBorealis
 	6 Return from the Horizon
 	6 Nature's Way
 	6 Windstorm
@@ -3053,7 +3052,7 @@
 	6 Guarded Supply Freighter
 	6 Ovalchase Dragster
 	6 Bomat Bazaar Barge
-	6 Consol's Bodyguards
+	12 Consol's Bodyguards
 	6 Compase-Legged Spider
 	6 Powered Down Timepiece
 	6 Improvised Weather Machine
@@ -3111,7 +3110,6 @@
 	12 Sponsor's Cruise
 	12 Saheeli's Spy
 	12 Drone Vendor
-	12 Skypatrol Aetherborn
 	12 Aetherborn Incumbent
 	12 Ministor of Flight
 	12 Gearseeker Squid
@@ -3152,6 +3150,8 @@
 	12 Savage Punch
 	12 Awaken the Bear
 	12 Extinction Rebellion
+	12 Complete Devotion
+	6 Raise the Alms
 [wildcard(1)]
 	6 Thriving Grubs
 	4 Saheeli, Unscrupulous Artificer
@@ -3296,7 +3296,6 @@
 	15 Harnessed Lightning
 	15 Ceaseless Fires
 	15 Armorcraft Purchase
-	15 Hypnotizing AetherBorealis
 	15 Return from the Horizon
 	15 Nature's Way
 	15 Windstorm
@@ -3307,7 +3306,7 @@
 	15 Guarded Supply Freighter
 	15 Ovalchase Dragster
 	15 Bomat Bazaar Barge
-	15 Consol's Bodyguards
+	6 Consol's Bodyguards
 	15 Compase-Legged Spider
 	15 Powered Down Timepiece
 	15 Improvised Weather Machine
@@ -3365,7 +3364,6 @@
 	6 Sponsor's Cruise
 	6 Saheeli's Spy
 	6 Drone Vendor
-	6 Skypatrol Aetherborn
 	6 Aetherborn Incumbent
 	6 Ministor of Flight
 	6 Gearseeker Squid
@@ -3406,6 +3404,8 @@
 	6 Savage Punch
 	6 Awaken the Bear
 	6 Extinction Rebellion
+	6 Complete Devotion
+	15 Raise the Alms
 [landslot(1)]
 	12 Tranquil Cove
 	12 Dismal Backwater

@@ -1,4 +1,33 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Complete Devotion added.
+Raise the Alms added.
+
+Hypnotizing AetherBorealis removed.
+Skypatrol Aetherborn removed.
+
+Sage-Eye Apprentice
+type: Creature — Bird Monk => Creature — Human Monk
+
+Entrant of the Way
+type: Creature — Djinn Monk => Creature — Human Monk
+
+Gearshift Pitcrew
+cost: {2}{W} => {2}{U}
+
+Astute Fairground Vendor
+rules_text: Morph—Reveal a blue card in your hand. 
+When Astute Fairground Vendor is turned face up, add {C}{C}. => Morph—Reveal a blue card in your hand. 
+When Astute Fairground Vendor is turned face up, face-down creature spells you cast and morph costs cost you {2} less until end of turn.
+
+Consol's Bodyguards
+
+Loxodon Memorial
+cost: {4}{W} => {4}{G}
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Ghostfire's Light added.

@@ -25,13 +25,13 @@
     },
     {
         "card_name": "Longtusk Pride",
-        "number": 126,
+        "number": 125,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "The Consul's Orator",
-        "number": 8,
+        "number": 9,
         "shape": "normal",
         "set": "CoA"
     },
@@ -61,13 +61,13 @@
     },
     {
         "card_name": "Fumigate",
-        "number": 13,
+        "number": 14,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Kheru Spellsnatcher",
-        "number": 45,
+        "number": 46,
         "shape": "normal",
         "set": "CoA"
     },
@@ -97,7 +97,7 @@
     },
     {
         "card_name": "Machiavellian Will",
-        "number": 46,
+        "number": 47,
         "shape": "normal",
         "set": "CoA"
     },
@@ -121,13 +121,13 @@
     },
     {
         "card_name": "Master of Pearls",
-        "number": 19,
+        "number": 18,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Mine for Solutions",
-        "number": 47,
+        "number": 48,
         "shape": "normal",
         "set": "CoA"
     },
@@ -211,13 +211,13 @@
     },
     {
         "card_name": "Entrant of the Way",
-        "number": 12,
+        "number": 13,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Consol's Bodyguards",
-        "number": 35,
+        "card_name": "Denial Lobbyist",
+        "number": 37,
         "shape": "normal",
         "set": "CoA"
     },
@@ -234,20 +234,20 @@
         "set": "CoA"
     },
     {
-        "card_name": "Hypnotizing AetherBorealis",
+        "card_name": "Incensed Druid",
         "number": 124,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Gearshift Pitcrew",
-        "number": 14,
+        "card_name": "Ghostfire's Light",
+        "number": 16,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Denial Lobbyist",
-        "number": 37,
+        "card_name": "Filigreed Skywhale",
+        "number": 40,
         "shape": "normal",
         "set": "CoA"
     },
@@ -264,20 +264,20 @@
         "set": "CoA"
     },
     {
-        "card_name": "Incensed Druid",
-        "number": 125,
+        "card_name": "Loxodon Memorial",
+        "number": 126,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Ghostfire's Light",
-        "number": 16,
+        "card_name": "Raise the Alms",
+        "number": 20,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Filigreed Skywhale",
-        "number": 40,
+        "card_name": "Gearshift Pitcrew",
+        "number": 42,
         "shape": "normal",
         "set": "CoA"
     },
@@ -300,14 +300,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Loxodon Memorial",
-        "number": 18,
+        "card_name": "Resistance Factor",
+        "number": 21,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Glacial Glintcrane",
-        "number": 42,
+        "number": 43,
         "shape": "normal",
         "set": "CoA"
     },
@@ -330,14 +330,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Resistance Factor",
-        "number": 21,
+        "card_name": "Rocslide",
+        "number": 22,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Glimmer of Genius",
-        "number": 43,
+        "number": 44,
         "shape": "normal",
         "set": "CoA"
     },
@@ -360,14 +360,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Rocslide",
-        "number": 22,
+        "card_name": "Roost's Guardian",
+        "number": 23,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Innovation Setbacks",
-        "number": 44,
+        "number": 45,
         "shape": "normal",
         "set": "CoA"
     },
@@ -390,14 +390,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Roost's Guardian",
-        "number": 23,
+        "card_name": "Sage-Eye Apprentice",
+        "number": 24,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Shrewd Negotiation",
-        "number": 51,
+        "number": 52,
         "shape": "normal",
         "set": "CoA"
     },
@@ -420,8 +420,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Sage-Eye Apprentice",
-        "number": 24,
+        "card_name": "Skywhaler's Shot",
+        "number": 26,
         "shape": "normal",
         "set": "CoA"
     },
@@ -450,8 +450,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Skywhaler's Shot",
-        "number": 26,
+        "card_name": "Aristocratic's Steed",
+        "number": 3,
         "shape": "normal",
         "set": "CoA"
     },
@@ -480,8 +480,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Aristocratic's Steed",
-        "number": 3,
+        "card_name": "Bolster the Masses",
+        "number": 5,
         "shape": "normal",
         "set": "CoA"
     },
@@ -510,8 +510,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Bolster the Masses",
-        "number": 5,
+        "card_name": "Burly Banker",
+        "number": 6,
         "shape": "normal",
         "set": "CoA"
     },
@@ -540,14 +540,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Burly Banker",
-        "number": 6,
+        "card_name": "Charming Kata",
+        "number": 7,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Contrive",
-        "number": 36,
+        "card_name": "Consol's Bodyguards",
+        "number": 35,
         "shape": "normal",
         "set": "CoA"
     },
@@ -570,14 +570,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Charming Kata",
-        "number": 7,
+        "card_name": "Complete Devotion",
+        "number": 8,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Drone Vendor",
-        "number": 38,
+        "card_name": "Contrive",
+        "number": 36,
         "shape": "normal",
         "set": "CoA"
     },
@@ -601,13 +601,13 @@
     },
     {
         "card_name": "Defiant Strike",
-        "number": 9,
+        "number": 10,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Failed Inspection",
-        "number": 39,
+        "card_name": "Drone Vendor",
+        "number": 38,
         "shape": "normal",
         "set": "CoA"
     },
@@ -631,13 +631,13 @@
     },
     {
         "card_name": "Devout Kirin",
-        "number": 10,
+        "number": 11,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Gearseeker Squid",
-        "number": 41,
+        "card_name": "Failed Inspection",
+        "number": 39,
         "shape": "normal",
         "set": "CoA"
     },
@@ -661,13 +661,13 @@
     },
     {
         "card_name": "Disassemble",
-        "number": 11,
+        "number": 12,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Ministor of Flight",
-        "number": 48,
+        "card_name": "Gearseeker Squid",
+        "number": 41,
         "shape": "normal",
         "set": "CoA"
     },
@@ -696,7 +696,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Polluting Biproduct",
+        "card_name": "Ministor of Flight",
         "number": 49,
         "shape": "normal",
         "set": "CoA"
@@ -721,12 +721,12 @@
     },
     {
         "card_name": "Medatative Inspiration",
-        "number": 20,
+        "number": 19,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Saheeli's Spy",
+        "card_name": "Polluting Biproduct",
         "number": 50,
         "shape": "normal",
         "set": "CoA"
@@ -756,8 +756,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Skypatrol Aetherborn",
-        "number": 52,
+        "card_name": "Saheeli's Spy",
+        "number": 51,
         "shape": "normal",
         "set": "CoA"
     },
