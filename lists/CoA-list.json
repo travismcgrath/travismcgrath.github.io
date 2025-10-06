@@ -55,7 +55,7 @@
     },
     {
         "card_name": "Hooded Hydra",
-        "number": 123,
+        "number": 122,
         "shape": "normal",
         "set": "CoA"
     },
@@ -198,8 +198,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Aethertorch Arsonist",
-        "number": 87,
+        "card_name": "Aetherspout Erruptions",
+        "number": 86,
         "shape": "normal",
         "set": "CoA"
     },
@@ -228,14 +228,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Bloodfire Sage",
-        "number": 89,
+        "card_name": "Aethertorch Arsonist",
+        "number": 87,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Incensed Druid",
-        "number": 124,
+        "card_name": "Hynotizing AetherBorealis",
+        "number": 123,
         "shape": "normal",
         "set": "CoA"
     },
@@ -258,14 +258,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Ceaseless Fires",
-        "number": 90,
+        "card_name": "Bloodfire Sage",
+        "number": 89,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Loxodon Memorial",
-        "number": 126,
+        "card_name": "Incensed Druid",
+        "number": 124,
         "shape": "normal",
         "set": "CoA"
     },
@@ -288,14 +288,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Gremlin Squad",
-        "number": 93,
+        "card_name": "Ceaseless Fires",
+        "number": 90,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Nature's Way",
-        "number": 127,
+        "card_name": "Loxodon Memorial",
+        "number": 126,
         "shape": "normal",
         "set": "CoA"
     },
@@ -324,8 +324,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Return from the Horizon",
-        "number": 131,
+        "card_name": "Nature's Way",
+        "number": 127,
         "shape": "normal",
         "set": "CoA"
     },
@@ -354,8 +354,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Riparian Jaguar",
-        "number": 132,
+        "card_name": "Return from the Horizon",
+        "number": 131,
         "shape": "normal",
         "set": "CoA"
     },
@@ -384,8 +384,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Tenth Bridge Turret Guard",
-        "number": 136,
+        "card_name": "Riparian Jaguar",
+        "number": 132,
         "shape": "normal",
         "set": "CoA"
     },
@@ -414,8 +414,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Tuskguard Colonel",
-        "number": 138,
+        "card_name": "Tenth Bridge Turret Guard",
+        "number": 136,
         "shape": "normal",
         "set": "CoA"
     },
@@ -444,8 +444,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Windstorm",
-        "number": 139,
+        "card_name": "Tuskguard Colonel",
+        "number": 138,
         "shape": "normal",
         "set": "CoA"
     },
@@ -468,13 +468,13 @@
         "set": "CoA"
     },
     {
-        "card_name": "Aetherspout Erruptions",
-        "number": 86,
+        "card_name": "Factory Mazdoor",
+        "number": 91,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Awaken the Bear",
+        "card_name": "Devolution",
         "number": 115,
         "shape": "normal",
         "set": "CoA"
@@ -498,13 +498,13 @@
         "set": "CoA"
     },
     {
-        "card_name": "Factory Mazdoor",
-        "number": 91,
+        "card_name": "Fanatical Recruitment",
+        "number": 92,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Devolution",
+        "card_name": "Disrupted Hibernator",
         "number": 116,
         "shape": "normal",
         "set": "CoA"
@@ -528,13 +528,13 @@
         "set": "CoA"
     },
     {
-        "card_name": "Fanatical Recruitment",
-        "number": 92,
+        "card_name": "Gremlin Squad",
+        "number": 93,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Disrupted Hibernator",
+        "card_name": "Extinction Rebellion",
         "number": 117,
         "shape": "normal",
         "set": "CoA"
@@ -564,7 +564,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Extinction Rebellion",
+        "card_name": "Fairgrounds Security",
         "number": 118,
         "shape": "normal",
         "set": "CoA"
@@ -594,7 +594,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Fairgrounds Security",
+        "card_name": "Ferrophage Spider",
         "number": 119,
         "shape": "normal",
         "set": "CoA"
@@ -624,7 +624,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Ferrophage Spider",
+        "card_name": "Fire-Armed Luddite",
         "number": 120,
         "shape": "normal",
         "set": "CoA"
@@ -654,7 +654,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Fire-Armed Luddite",
+        "card_name": "Gift of Sagacity",
         "number": 121,
         "shape": "normal",
         "set": "CoA"
@@ -684,8 +684,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Gift of Sagacity",
-        "number": 122,
+        "card_name": "Red Wood Walker",
+        "number": 129,
         "shape": "normal",
         "set": "CoA"
     },
@@ -696,7 +696,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Ministor of Flight",
+        "card_name": "Minister of Flight",
         "number": 49,
         "shape": "normal",
         "set": "CoA"
@@ -714,8 +714,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Red Wood Walker",
-        "number": 129,
+        "card_name": "Reimmerse In Nature",
+        "number": 130,
         "shape": "normal",
         "set": "CoA"
     },
@@ -744,13 +744,13 @@
         "set": "CoA"
     },
     {
-        "card_name": "Reimmerse In Nature",
-        "number": 130,
+        "card_name": "Sage-Eye Enforcer",
+        "number": 134,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Sage-Eye Harrier",
+        "card_name": "Skypatrol Aetherborn",
         "number": 25,
         "shape": "normal",
         "set": "CoA"
@@ -774,8 +774,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Sage-Eye Enforcer",
-        "number": 134,
+        "card_name": "Savage Punch",
+        "number": 135,
         "shape": "normal",
         "set": "CoA"
     },
@@ -804,8 +804,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Savage Punch",
-        "number": 135,
+        "card_name": "Vast Development",
+        "number": 139,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1472,7 +1472,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Wroght Iron Rhino",
+        "card_name": "Wrought Iron Rhino",
         "number": 238,
         "shape": "normal",
         "set": "CoA"

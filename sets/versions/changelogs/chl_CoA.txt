@@ -1,4 +1,140 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Wrought Iron Rhino added.
+Skypatrol Aetherborn added.
+Minister of Flight added.
+Vast Development added.
+Hynotizing AetherBorealis added.
+
+Windstorm removed.
+Wroght Iron Rhino removed.
+Sage-Eye Harrier removed.
+Ministor of Flight removed.
+Awaken the Bear removed.
+
+Waste Land
+rules_text: {T}: Add {C}.
+{T}, Sacrifice Waste Land: That land's controller creates a Wastes token. => {T}: Add {C}.
+{T}, Sacrifice Waste Land: Destroy target nonbasic land. That land's controller creates a Wastes token.
+
+Houn, Beguiling Ancestor
+rules_text: Prowess
+When you cast an instant or sorcery spell, you may tap an untapped creature you control. If you do, tap target creature and scry 1. => Prowess
+When you cast a noncreature spell, you may tap an untapped creature you control. If you do, tap target creature and scry 1.
+
+Ancestor, Who Smirks at Law
+rules_text: First strike
+When Ancestor attacks you, may pay {E}{E}. If you do, she gains deathtouch and indestructible until end of turn and you draw a card. => First strike
+When Ancestor attacks, you may pay {E}{E}. If you do, she gains deathtouch and indestructible until end of turn and you draw a card.
+
+Supplant Worker
+rules_text: Counter target creature spell.
+Create a 1/1 colorless Servo artifact creature token. It enters with a +1/+1 counter on it. => Counter target creature spell.
+Create a 1/1 colorless Servo artifact creature token, then put a +1/+1 counter on it.
+
+Consul of Preservation
+rules_text: When Consul of Preservation enters, draw a card.
+Noncreature and face-down creature spells cost you opponent {1} more to cast. => When Consul of Preservation enters, draw a card.
+Noncreature and face-down creature spells cost your opponent {1} more to cast.
+
+Smuggler's ATV
+rules_text: Whenever Smuggler's ATV attacks or blocks, you may discard a card. If you do, draw a card.
+Crew 1 => Whenever Smuggler's ATV attacks or blocks, draw a card then discard a card.
+Crew 1
+
+Corrupted Workshop
+rules_text: When Corrupted Workshop enters, target creature it manufactures 1.
+{T}: Add {C} => When Corrupted Workshop enters, target creature you control manufactures 1.
+{T}: Add {C}
+
+Ghostfire's Light
+rules_text: Exile target tapped creature. => Exile target creature. If it was tapped, create a 1/1 white Human Monk creature token with prowess.
+
+Salt Road Tank
+rules_text: Vigilance
+Whenever you cast a noncreature spell, a Salt Road Tank becomes an artifact creature and gets +1/+1 until end of turn.
+Crew 2 => Vigilance
+Whenever you cast a noncreature spell, Salt Road Tank becomes an artifact creature and gets +1/+1 until end of turn.
+Crew 2
+
+Ashcloud Dragster
+rules_text: Menace
+Whenever Ashcloud Dragster attacks or blocks, put a velocity counter on it. Then if it has three or more velocity counters on it, sacrifice it and draw a card.
+Crew 2 => Menace
+Whenever Ashcloud Dragster attacks or blocks, put a velocity counter on it. Then if it has three or more velocity counters on it, sacrifice it and draw three cards.
+Crew 2
+
+Gremlin Squad
+
+Incensed Druid
+pt: 2/2 => 3/2
+
+Rocslide
+rules_text: Whenever you cast a noncreature spell with mana value 3 or less, create a white 1/1 bird creature token with flying. => Whenever you cast a noncreature spell with mana value 3 or less, you may pay {1}. If you do, create a white 1/1 bird creature token with flying.
+
+Aradara Station
+rules_text: Aradara Station enters tapped.
+{T}: Add {C}.
+{1}{T}: Target colorless creature you control gets +1/+1 until end of turn. => {T}: Add {C}.
+{1}{T}: Target colorless creature you control gets +1/+1 until end of turn.
+
+Inspector Brigade
+rules_text: When Inspector Brigade enters or is turned face up, create three 1/1 colorless Servo artifact creature tokens.
+Morph {U}{W}{B} => When Inspector Brigade enters or is turned face up, create two 1/1 colorless Servo artifact creature tokens.
+Morph {U}{W}{B}
+
+Bolster the Masses
+rules_text: Scry 1.
+Creatures you control get +1/+1 until end of turn. => Creatures you control get +1/+1 until end of turn.
+Draw a card.
+
+Polluting Biproduct
+cost: {2}{U} => {1}{U}
+rules_text: Enchant permanent.
+Enchanted permanent is a Wastes and loses all other card types and abilities.
+{5}: Destroy Polluting Biproduct and draw a card. Only your opponents may activate this ability. => Enchant permanent.
+Enchanted permanent is a Wastes and loses all other card types and abilities.
+Enchanted permanent has “{7}: Polluting Biproduct's owner sacrifices it and draws a card. Activate only as a sorcery.”
+
+Saheeli's Spy
+rules_text: Unblockable
+Morph {2}{U}
+When Saheeli's Spy is turned face up, draw a card => This creature can't be blocked.
+Morph {2}{U}
+When Saheeli's Spy is turned face up, draw a card
+
+Gearseeker Squid
+cost: {6}{U} => {5}{U}
+rules_text: Ward {3}
+Gearseeker Squid can block three additional creatures each combat. => Ward {3}
+Gearseeker Squid can block three additional creatures each combat.
+{3}{U}, Discard Gearseeker Squid: Stun target creature. Draw a card.
+
+Graveyard Lurker
+rules_text: When Graveyard Lurkerenters you get {E}{E} then you may pay {E}{E}{E}{E}. If you do return up to two target artifact or creature cards from your graveyard to your hand. => When Graveyard Lurker enters you get {E}{E} then you may pay {E}{E}{E}{E}. If you do return up to two target artifact or creature cards from your graveyard to your hand.
+
+Factory Mazdoor
+pt: 1/1 => 2/1
+
+Heat Lightning
+rules_text: Flying, haste
+Morph {5}{R} => Flying, trample, haste
+Morph {4}{R}
+pt: 5/5 => 7/3
+
+Fanatical Recruitment
+cost: {1}{R} => {2}{R}
+rules_text: You may pay {E}{E}{E}. If you do, choose target creature. Otherwise, choose target creature with mana value 2 or less.
+Untap that creature and gain control of it until end of turn. That creature gains haste until end of turn. => Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+You may pay {E}{E}{E}{E}. If you do, at the beginning of the next end step, sacrifice that creature and Fanatical Recruitment deals damage equal to its power to any target.
+
+“Grab the reins of your fate young man” - Zurgo
+
+Aetherspout Erruptions
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Complete Devotion added.
