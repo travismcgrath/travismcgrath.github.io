@@ -155,9 +155,9 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/100_Lightning Runner.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/99_Lightning Runner.png"
 			}
 		},
 		{
@@ -251,13 +251,13 @@
 			}
 		},
 		{
-			"name": "Surrak, Pelt-Cloaked Ancestor",
+			"name": "Surrak, Ttue-Form Ancestor",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}{U}",
-			"type": "Legendary Creature — Spirit Warrior",
+			"type": "Legendary Creature — Bear Spirit",
 			"collector_number": "193",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/193_Surrak, Pelt-Cloaked Ancestor.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/193_Surrak, Ttue-Form Ancestor.png"
 			}
 		},
 		{
@@ -274,7 +274,7 @@
 			"name": "Ancestor, Who Smirks at Law",
 			"rarity": "rare",
 			"mana_cost": "{1}{B}{R}{G}",
-			"type": "Legendary Creature — Human Warror",
+			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "143",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/143_Ancestor, Who Smirks at Law.png"
@@ -465,9 +465,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/97_Howl of the Horde.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/96_Howl of the Horde.png"
 			}
 		},
 		{
@@ -505,9 +505,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Goblin Rogue",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/99_Jeering Instigator.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/98_Jeering Instigator.png"
 			}
 		},
 		{
@@ -565,9 +565,9 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/107_Pearl Lake Salar.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/106_Pearl Lake Salar.png"
 			}
 		},
 		{
@@ -635,9 +635,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/211_Exploration Module.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/210_Exploration Module.png"
 			}
 		},
 		{
@@ -645,9 +645,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact",
-			"collector_number": "212",
+			"collector_number": "211",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/212_Extraction Module.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/211_Extraction Module.png"
 			}
 		},
 		{
@@ -655,9 +655,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/210_Execution Module.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/209_Execution Module.png"
 			}
 		},
 		{
@@ -685,9 +685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{3}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/209_Cultivator's Caravan.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/208_Cultivator's Caravan.png"
 			}
 		},
 		{
@@ -695,9 +695,9 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "214",
+			"collector_number": "213",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/214_Fleetwheel Cruiser.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/213_Fleetwheel Cruiser.png"
 			}
 		},
 		{
@@ -705,9 +705,9 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Shapeshifter",
-			"collector_number": "227",
+			"collector_number": "226",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/227_Metallic Mimic.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/226_Metallic Mimic.png"
 			}
 		},
 		{
@@ -725,9 +725,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "217",
+			"collector_number": "216",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/217_Ghostfire Blade.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/216_Ghostfire Blade.png"
 			}
 		},
 		{
@@ -825,9 +825,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/221_Indigo Monmument.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/220_Indigo Monmument.png"
 			}
 		},
 		{
@@ -1074,7 +1074,7 @@
 			"name": "Roost's Guardian",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Bird Solider",
+			"type": "Artifact Creature — Bird Solider",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/23_Roost's Guardian.png"
@@ -1194,7 +1194,7 @@
 			"name": "Astute Fairground Vendor",
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
-			"type": "Creature — Vedalken Citizen",
+			"type": "Creature — Vedalken Merchant",
 			"collector_number": "31",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/31_Astute Fairground Vendor.png"
@@ -1281,13 +1281,13 @@
 			}
 		},
 		{
-			"name": "Heir of the Wastes",
+			"name": "Heirs of the Wastes",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Orc Citizen",
 			"collector_number": "70",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/70_Heir of the Wastes.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/70_Heirs of the Wastes.png"
 			}
 		},
 		{
@@ -1304,7 +1304,7 @@
 			"name": "Shambling Aetherborn",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
-			"type": "Creature — Aetherborn Zombie",
+			"type": "Creature — Aetherborn Nightmare",
 			"collector_number": "79",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/79_Shambling Aetherborn.png"
@@ -1325,9 +1325,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Goblin Rogue",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/96_Hordeling Troublemaker.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/95_Hordeling Troublemaker.png"
 			}
 		},
 		{
@@ -1354,7 +1354,7 @@
 			"name": "Bloodfire Sage",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
-			"type": "Creature — Djinn Warrior",
+			"type": "Creature — Djinn Monk",
 			"collector_number": "89",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/89_Bloodfire Sage.png"
@@ -1375,9 +1375,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/102_Maulfist Doorbuster.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/101_Maulfist Doorbuster.png"
 			}
 		},
 		{
@@ -1395,9 +1395,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/103_Myopic Pillaging.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/102_Myopic Pillaging.png"
 			}
 		},
 		{
@@ -1408,16 +1408,6 @@
 			"collector_number": "94",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/94_Harnessed Lightning.png"
-			}
-		},
-		{
-			"name": "Ceaseless Fires",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{R}",
-			"type": "Sorcery",
-			"collector_number": "90",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/90_Ceaseless Fires.png"
 			}
 		},
 		{
@@ -1505,9 +1495,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "229",
+			"collector_number": "228",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/229_Ovalchase Dragster.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/228_Ovalchase Dragster.png"
 			}
 		},
 		{
@@ -1531,13 +1521,13 @@
 			}
 		},
 		{
-			"name": "Compase-Legged Spider",
+			"name": "Owl-Strix Archers",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
-			"type": "Artifact Creature — Spider Construct",
-			"collector_number": "207",
+			"type": "Artifact Creature — Bird Archer",
+			"collector_number": "229",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/207_Compase-Legged Spider.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/229_Owl-Strix Archers.png"
 			}
 		},
 		{
@@ -1555,9 +1545,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/220_Improvised Weather Machine.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/219_Improvised Weather Machine.png"
 			}
 		},
 		{
@@ -1575,9 +1565,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Fox",
-			"collector_number": "213",
+			"collector_number": "212",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/213_Filigree Familiar.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/212_Filigree Familiar.png"
 			}
 		},
 		{
@@ -1585,9 +1575,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Wall",
-			"collector_number": "216",
+			"collector_number": "215",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/216_Ghirapur Parapets.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/215_Ghirapur Parapets.png"
 			}
 		},
 		{
@@ -1811,13 +1801,13 @@
 			}
 		},
 		{
-			"name": "Latter Woods Defender",
+			"name": "Latter Woods Defenders",
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Creature — Ape Warrior",
 			"collector_number": "173",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/173_Latter Woods Defender.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/173_Latter Woods Defenders.png"
 			}
 		},
 		{
@@ -1825,9 +1815,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "222",
+			"collector_number": "221",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/222_Industry BannerKnot.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/221_Industry BannerKnot.png"
 			}
 		},
 		{
@@ -1835,9 +1825,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/208_Consul's BannerKnot.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/207_Consul's BannerKnot.png"
 			}
 		},
 		{
@@ -1845,9 +1835,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "226",
+			"collector_number": "225",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/226_Market BannerKnot.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/225_Market BannerKnot.png"
 			}
 		},
 		{
@@ -1855,9 +1845,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "228",
+			"collector_number": "227",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/228_Monastery BannerKnot.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/227_Monastery BannerKnot.png"
 			}
 		},
 		{
@@ -1865,39 +1855,39 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "224",
+			"collector_number": "223",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/224_Lawless BannerKnot.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/223_Lawless BannerKnot.png"
 			}
 		},
 		{
-			"name": "Brass Winged Bat",
+			"name": "Brass Winged Vulture",
 			"rarity": "common",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Bat",
+			"type": "Artifact Creature — Bird",
 			"collector_number": "204",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/204_Brass Winged Bat.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/204_Brass Winged Vulture.png"
 			}
 		},
 		{
 			"name": "Steel Horned Ibex",
 			"rarity": "common",
 			"mana_cost": "{5}",
-			"type": "Artifact Creature — Goat",
+			"type": "Artifact Creature — Elk",
 			"collector_number": "236",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/236_Steel Horned Ibex.png"
 			}
 		},
 		{
-			"name": "Silver Shelled Turtle",
+			"name": "Silver Tusked Walrus",
 			"rarity": "common",
 			"mana_cost": "{1}",
-			"type": "Artifact Creature — Turtle",
+			"type": "Artifact Creature — Walrus",
 			"collector_number": "232",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/232_Silver Shelled Turtle.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/232_Silver Tusked Walrus.png"
 			}
 		},
 		{
@@ -1911,13 +1901,13 @@
 			}
 		},
 		{
-			"name": "Lead Toothed Hound",
+			"name": "Lead Toothed Hyenas",
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Hound",
-			"collector_number": "225",
+			"collector_number": "224",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/225_Lead Toothed Hound.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/224_Lead Toothed Hyenas.png"
 			}
 		},
 		{
@@ -1925,9 +1915,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "223",
+			"collector_number": "222",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/223_Inventor's MIG.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/222_Inventor's MIG.png"
 			}
 		},
 		{
@@ -1935,9 +1925,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact — Equipment",
-			"collector_number": "218",
+			"collector_number": "217",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/218_Head-Shot Bow.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/217_Head-Shot Bow.png"
 			}
 		},
 		{
@@ -1945,9 +1935,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "219",
+			"collector_number": "218",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/219_Highspire Funicular.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/218_Highspire Funicular.png"
 			}
 		},
 		{
@@ -1985,9 +1975,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact — Assembly-Worker",
-			"collector_number": "215",
+			"collector_number": "214",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/215_Foundry Auditor.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/214_Foundry Auditor.png"
 			}
 		},
 		{
@@ -2111,13 +2101,13 @@
 			}
 		},
 		{
-			"name": "Highspire mystic",
+			"name": "Highspire Mystic",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Monk",
 			"collector_number": "17",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/17_Highspire mystic.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/17_Highspire Mystic.png"
 			}
 		},
 		{
@@ -2304,7 +2294,7 @@
 			"name": "Ghirapur Pickpocket",
 			"rarity": "common",
 			"mana_cost": "{B}",
-			"type": "Creature — Aetherborn Rogue",
+			"type": "Creature — Vedalken Rogue",
 			"collector_number": "65",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/65_Ghirapur Pickpocket.png"
@@ -2354,7 +2344,7 @@
 			"name": "Aetherborn Bond-Kin",
 			"rarity": "common",
 			"mana_cost": "{5}{B}",
-			"type": "Creature — Aetherborn Noble",
+			"type": "Creature — Aetherborn Cat Noble",
 			"collector_number": "58",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/58_Aetherborn Bond-Kin.png"
@@ -2364,7 +2354,7 @@
 			"name": "Pupil of the Hidden Eye",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Salamander Monk",
+			"type": "Creature — Human Monk",
 			"collector_number": "108",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/108_Pupil of the Hidden Eye.png"
@@ -2375,9 +2365,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Monk",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/104_Narset's Student.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/103_Narset's Student.png"
 			}
 		},
 		{
@@ -2385,19 +2375,19 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{R}",
 			"type": "Creature — Cat Dragon",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/98_Inauspicious Skyclaw.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/97_Inauspicious Skyclaw.png"
 			}
 		},
 		{
 			"name": "Malign Aetherborn",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
-			"type": "Creature — Aetherbron Warriror",
-			"collector_number": "101",
+			"type": "Creature — Aetherborn Warriror",
+			"collector_number": "100",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/101_Malign Aetherborn.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/100_Malign Aetherborn.png"
 			}
 		},
 		{
@@ -2421,13 +2411,13 @@
 			}
 		},
 		{
-			"name": "Heat Lightning",
+			"name": "Provoked Lightning",
 			"rarity": "common",
 			"mana_cost": "{6}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "95",
+			"collector_number": "107",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/95_Heat Lightning.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/107_Provoked Lightning.png"
 			}
 		},
 		{
@@ -2445,9 +2435,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/105_Offload.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/104_Offload.png"
 			}
 		},
 		{
@@ -2455,9 +2445,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/106_Optimistic Nihilism.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/105_Optimistic Nihilism.png"
 			}
 		},
 		{
@@ -2504,7 +2494,7 @@
 			"name": "Zurgo's Disciple",
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
-			"type": "Creature — Elf Shaman",
+			"type": "Creature — Orc Shaman",
 			"collector_number": "140",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/140_Zurgo's Disciple.png"
@@ -2631,13 +2621,23 @@
 			}
 		},
 		{
-			"name": "Hynotizing AetherBorealis",
+			"name": "Hypnotizing AetherBorealis",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
 			"collector_number": "123",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/123_Hynotizing AetherBorealis.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/123_Hypnotizing AetherBorealis.png"
+			}
+		},
+		{
+			"name": "Ceaseless Fires",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}",
+			"type": "Sorcery",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/90_Ceaseless Fires.png"
 			}
 		}
 	]
@@ -2667,7 +2667,7 @@
 	2 Misty Rainforest
 	2 Dovin Baan, Persistent Ancestor
 	2 Anafenza, Generous Ancestor
-	2 Surrak, Pelt-Cloaked Ancestor
+	2 Surrak, Ttue-Form Ancestor
 	2 Houn, Beguiling Ancestor
 	2 Ancestor, Who Smirks at Law
 	2 Dustblast
@@ -2770,7 +2770,7 @@
 	4 Aether Extraction
 	4 Ruthless Ripper
 	4 Glintsleeve Bruiser
-	4 Heir of the Wastes
+	4 Heirs of the Wastes
 	4 Bloody Auctioneer
 	4 Shambling Aetherborn
 	4 Kheru Harvester
@@ -2782,7 +2782,6 @@
 	4 Maulfist Doorbuster
 	4 Myopic Pillaging
 	4 Harnessed Lightning
-	4 Ceaseless Fires
 	4 Armorcraft Purchase
 	4 Return from the Horizon
 	4 Nature's Way
@@ -2793,7 +2792,7 @@
 	4 Guarded Supply Freighter
 	4 Ovalchase Dragster
 	4 Bomat Bazaar Barge
-	4 Compase-Legged Spider
+	4 Owl-Strix Archers
 	4 Powered Down Timepiece
 	4 Improvised Weather Machine
 	4 Alloy Loxodon
@@ -2808,7 +2807,8 @@
 	4 Apprehend Dissident
 	4 Aetherspout Erruptions
 	4 Raise the Alms
-	4 Hynotizing AetherBorealis
+	4 Hypnotizing AetherBorealis
+	4 Ceaseless Fires
 [common(7)]
 	8 Thriving Grubs
 	8 Devout Kirin
@@ -2820,17 +2820,17 @@
 	8 Inspector Brigade
 	8 Illusion of Luxury
 	8 Mystic of the Enlightened Way
-	8 Latter Woods Defender
+	8 Latter Woods Defenders
 	8 Industry BannerKnot
 	8 Consul's BannerKnot
 	8 Market BannerKnot
 	8 Monastery BannerKnot
 	8 Lawless BannerKnot
-	8 Brass Winged Bat
+	8 Brass Winged Vulture
 	8 Steel Horned Ibex
-	8 Silver Shelled Turtle
+	8 Silver Tusked Walrus
 	8 Wrought Iron Rhino
-	8 Lead Toothed Hound
+	8 Lead Toothed Hyenas
 	8 Inventor's MIG
 	8 Head-Shot Bow
 	8 Highspire Funicular
@@ -2848,7 +2848,7 @@
 	8 Skypatrol Aetherborn
 	8 Aristocratic's Steed
 	8 Charming Kata
-	8 Highspire mystic
+	8 Highspire Mystic
 	8 Teacher of the Way
 	8 Polluting Biproduct
 	8 Contrive
@@ -2879,7 +2879,7 @@
 	8 Malign Aetherborn
 	8 Factory Mazdoor
 	8 Summit Postulant
-	8 Heat Lightning
+	8 Provoked Lightning
 	8 Rising Temperatures
 	8 Offload
 	8 Optimistic Nihilism
@@ -2924,7 +2924,7 @@
 	2 Misty Rainforest
 	2 Dovin Baan, Persistent Ancestor
 	2 Anafenza, Generous Ancestor
-	2 Surrak, Pelt-Cloaked Ancestor
+	2 Surrak, Ttue-Form Ancestor
 	2 Houn, Beguiling Ancestor
 	2 Ancestor, Who Smirks at Law
 	2 Dustblast
@@ -3027,7 +3027,7 @@
 	6 Aether Extraction
 	6 Ruthless Ripper
 	6 Glintsleeve Bruiser
-	6 Heir of the Wastes
+	6 Heirs of the Wastes
 	6 Bloody Auctioneer
 	6 Shambling Aetherborn
 	6 Kheru Harvester
@@ -3040,7 +3040,6 @@
 	12 Gremlin Squad
 	6 Myopic Pillaging
 	6 Harnessed Lightning
-	6 Ceaseless Fires
 	6 Armorcraft Purchase
 	6 Return from the Horizon
 	6 Nature's Way
@@ -3052,7 +3051,7 @@
 	6 Ovalchase Dragster
 	6 Bomat Bazaar Barge
 	12 Consol's Bodyguards
-	6 Compase-Legged Spider
+	6 Owl-Strix Archers
 	6 Powered Down Timepiece
 	6 Improvised Weather Machine
 	6 Alloy Loxodon
@@ -3069,17 +3068,17 @@
 	12 Inspector Brigade
 	12 Illusion of Luxury
 	12 Mystic of the Enlightened Way
-	12 Latter Woods Defender
+	12 Latter Woods Defenders
 	12 Industry BannerKnot
 	12 Consul's BannerKnot
 	12 Market BannerKnot
 	12 Monastery BannerKnot
 	12 Lawless BannerKnot
-	12 Brass Winged Bat
+	12 Brass Winged Vulture
 	12 Steel Horned Ibex
-	12 Silver Shelled Turtle
+	12 Silver Tusked Walrus
 	12 Wrought Iron Rhino
-	12 Lead Toothed Hound
+	12 Lead Toothed Hyenas
 	12 Inventor's MIG
 	12 Head-Shot Bow
 	12 Highspire Funicular
@@ -3099,7 +3098,7 @@
 	12 Skypatrol Aetherborn
 	12 Aristocratic's Steed
 	12 Charming Kata
-	12 Highspire mystic
+	12 Highspire Mystic
 	12 Teacher of the Way
 	12 Polluting Biproduct
 	12 Contrive
@@ -3130,7 +3129,7 @@
 	12 Malign Aetherborn
 	12 Factory Mazdoor
 	12 Summit Postulant
-	12 Heat Lightning
+	12 Provoked Lightning
 	12 Rising Temperatures
 	12 Offload
 	12 Optimistic Nihilism
@@ -3151,7 +3150,8 @@
 	12 Extinction Rebellion
 	12 Complete Devotion
 	6 Raise the Alms
-	6 Hynotizing AetherBorealis
+	6 Hypnotizing AetherBorealis
+	6 Ceaseless Fires
 [wildcard(1)]
 	6 Thriving Grubs
 	4 Saheeli, Unscrupulous Artificer
@@ -3178,7 +3178,7 @@
 	7 Misty Rainforest
 	7 Dovin Baan, Persistent Ancestor
 	7 Anafenza, Generous Ancestor
-	7 Surrak, Pelt-Cloaked Ancestor
+	7 Surrak, Ttue-Form Ancestor
 	7 Houn, Beguiling Ancestor
 	7 Ancestor, Who Smirks at Law
 	7 Dustblast
@@ -3281,7 +3281,7 @@
 	15 Aether Extraction
 	15 Ruthless Ripper
 	15 Glintsleeve Bruiser
-	15 Heir of the Wastes
+	15 Heirs of the Wastes
 	15 Bloody Auctioneer
 	15 Shambling Aetherborn
 	15 Kheru Harvester
@@ -3294,7 +3294,6 @@
 	6 Gremlin Squad
 	15 Myopic Pillaging
 	15 Harnessed Lightning
-	15 Ceaseless Fires
 	15 Armorcraft Purchase
 	15 Return from the Horizon
 	15 Nature's Way
@@ -3306,7 +3305,7 @@
 	15 Ovalchase Dragster
 	15 Bomat Bazaar Barge
 	6 Consol's Bodyguards
-	15 Compase-Legged Spider
+	15 Owl-Strix Archers
 	15 Powered Down Timepiece
 	15 Improvised Weather Machine
 	15 Alloy Loxodon
@@ -3323,17 +3322,17 @@
 	6 Inspector Brigade
 	6 Illusion of Luxury
 	6 Mystic of the Enlightened Way
-	6 Latter Woods Defender
+	6 Latter Woods Defenders
 	6 Industry BannerKnot
 	6 Consul's BannerKnot
 	6 Market BannerKnot
 	6 Monastery BannerKnot
 	6 Lawless BannerKnot
-	6 Brass Winged Bat
+	6 Brass Winged Vulture
 	6 Steel Horned Ibex
-	6 Silver Shelled Turtle
+	6 Silver Tusked Walrus
 	6 Wrought Iron Rhino
-	6 Lead Toothed Hound
+	6 Lead Toothed Hyenas
 	6 Inventor's MIG
 	6 Head-Shot Bow
 	6 Highspire Funicular
@@ -3353,7 +3352,7 @@
 	6 Skypatrol Aetherborn
 	6 Aristocratic's Steed
 	6 Charming Kata
-	6 Highspire mystic
+	6 Highspire Mystic
 	6 Teacher of the Way
 	6 Polluting Biproduct
 	6 Contrive
@@ -3384,7 +3383,7 @@
 	6 Malign Aetherborn
 	6 Factory Mazdoor
 	6 Summit Postulant
-	6 Heat Lightning
+	6 Provoked Lightning
 	6 Rising Temperatures
 	6 Offload
 	6 Optimistic Nihilism
@@ -3405,7 +3404,8 @@
 	6 Extinction Rebellion
 	6 Complete Devotion
 	15 Raise the Alms
-	15 Hynotizing AetherBorealis
+	15 Hypnotizing AetherBorealis
+	15 Ceaseless Fires
 [landslot(1)]
 	12 Tranquil Cove
 	12 Dismal Backwater

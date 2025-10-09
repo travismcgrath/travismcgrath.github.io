@@ -5,7 +5,7 @@
 After eons of extracting natural resources to fuel the forges of Kaladesh's artificers, the environmental damage to the plane has become too much. However rampaging climate change is not the only factor driving political chaos. 
 Avishkar has seen thousands of warriors, animals, monks, and even undescipherable figures immigrate across the planar bridge in hope of an esacpe from the dragon ravaged lands of Tarkir.
 
-Kaladeshi residences have responded to these natural disasters and new neighbors in many different ways. Some have become activist anarchists letting despair and rage drive them to action, others deny the changes in the clime are happening and become captivated by the monastic orders of the newcomers. 
+Avishkar residences have responded to these natural disasters and new neighbors in many different ways. Some have become activist anarchists letting despair and rage drive them to action, others deny the changes in the clime are happening and become captivated by the monastic orders of the newcomers. 
 All the while, industrialists and financiers get rich exploiting the dwindling natural resources and lobbying the artificers who lead Kaladesh's ruling council.
 
 
@@ -27,7 +27,7 @@ Changes of Avishkar comes with three new keywords:
 
 ##Returning Mechanics
 
-**Energy, Morph, Prowess**, and **Vehicles**, all play leading roles in the Changes on Avishkar.
+**Energy, Morph, Prowess, Raid**,  and **Vehicles**, all play leading roles in the Changes on Avishkar.
 
 ##Archtypes
 
@@ -37,6 +37,6 @@ Changes of Avishkar comes with three new keywords:
 
 **Grixis**: Energy Control. The Grixis faction, lead by Pia Nalaar, represents the barrons of industry. Willing to destroy land and laborers for the resources they can reap from them to fuel their factories.
 
-**Jund**: Energy Aggro. The Jund faction, lead by Zurgo, represent the revolt against the powers-at-be. Their dire circumstance drive them to action against Industry, Law, and Technology itself at times.
+**Jund**: Energy/Raid Aggro. The Jund faction, lead by Zurgo, represent the revolt against the powers-at-be. Their dire circumstance drive them to action against Industry, Law, and Technology itself at times.
 
 **Naya**: Prowess Aggro.  The Naya faction, lead by Narset, represent those who turn their focus away from the poltical and environmental chaos. Honing their attention on medition and seeking The Way gives them the strength and ability to exert control over the chaos of their cirumstance.

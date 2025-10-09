@@ -1,4 +1,384 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Surrak, Ttue-Form Ancestor added.
+Heirs of the Wastes added.
+Owl-Strix Archers added.
+Latter Woods Defenders added.
+Brass Winged Vulture added.
+Silver Tusked Walrus added.
+Lead Toothed Hyenas added.
+Highspire Mystic added.
+Provoked Lightning added.
+Hypnotizing AetherBorealis added.
+
+Surrak, Pelt-Cloaked Ancestor removed.
+Heir of the Wastes removed.
+Compase-Legged Spider removed.
+Latter Woods Defender removed.
+Brass Winged Bat removed.
+Silver Shelled Turtle removed.
+Lead Toothed Hound removed.
+Highspire mystic removed.
+Heat Lightning removed.
+Hynotizing AetherBorealis removed.
+
+Saheeli, Unscrupulous Artificer
+
+Narset, Panharmonastic Sage
+
+Zurgo, Anarchist Leader
+
+Anonymous Financier
+
+Pia Nalaar, Fallen Innovator
+
+Waste Land
+
+Cataclysmic Earthquake
+
+Noxious Duststorm
+
+Torrential Ice Wave
+
+Verdurous Wildfire
+
+Combustible Lightning
+
+Aethermate Roc
+
+Winds of Industry
+
+Demon of Dark Schemes
+
+Longtusk Pride
+
+Scalding Tarn
+
+Marsh Flats
+
+Arid Mesa
+
+Verdant Catacombs
+
+Misty Rainforest
+
+Dovin Baan, Persistent Ancestor
+
+Anafenza, Generous Ancestor
+
+Houn, Beguiling Ancestor
+rules_text: Prowess
+When you cast a noncreature spell, you may tap an untapped creature you control. If you do, tap target creature and scry 1. => Flying, prowess
+Whenever you cast a noncreature spell, you may tap target creature and scry 1.
+
+Ancestor, Who Smirks at Law
+type: Legendary Creature — Human Warror => Legendary Creature — Human Warrior
+
+Dustblast
+
+Nefarious Inheritence
+
+Supplant Worker
+
+Booming Karma
+
+Sagu Deforester
+
+Kneecap Blaster
+
+Consul of Preservation
+
+Sage of the Vitalfire
+
+Impulsive Fracking
+
+Chianul's Guidance
+
+Utter Silence
+
+Confiscation Coup
+
+Hooded Hydra
+
+Trail of Mystery
+
+Kheru Spellsnatcher
+
+Jeering Instigator
+
+Grim Haruspex
+
+Master of Pearls
+
+Qal Sisma Mystic
+
+Unscrupulous Puppeteer
+
+Bloodfire Master
+
+Syndicate Logistician
+
+Roaming Sanctuary
+
+Generous Angel
+
+Mine for Solutions
+
+Exploration Module
+
+Extraction Module
+
+Execution Module
+
+Skysovereign, Grounded Flagship
+
+Smuggler's ATV
+
+Ghostfire Blade
+
+Corrupted Workshop
+
+Obscuring Avalanche
+
+Seaside Citadel
+
+Arcane Sanctum
+
+Crumbling Necropolis
+
+Savage Lands
+
+Jungle Shrine
+
+Aether Hub
+
+Zurgo's Encampment
+
+Manufacturing Virtuoso
+
+Citizen's Companion
+
+Warden of the Scrolls
+
+Nihilist Roughrider
+
+Self-regulated Saftey
+
+Contraband Kingpin
+
+Highspire Adept
+
+Chief of the Hammer
+
+Finance Charm
+
+Sage-Eye Apprentice
+
+Entrant of the Way
+
+Roost's Guardian
+type: Creature — Bird Solider => Artifact Creature — Bird Solider
+
+Army for Hire
+
+Ghostfire's Light
+
+Resistance Factor
+
+Salt Road Tank
+
+Glimmer of Genius
+
+Innovation Setbacks
+
+Glacial Glintcrane
+
+Astute Fairground Vendor
+type: Creature — Vedalken Citizen => Creature — Vedalken Merchant
+
+Willbender
+
+Filigreed Skywhale
+
+Aether Extraction
+
+Glintsleeve Bruiser
+
+Bloody Auctioneer
+rules_text: When Bloody Auctioneer enters, each player sacrifices two creatures. => When Bloody Auctioneer enters, each player sacrifices two creatures. 
+Morph {1}{B}{B}
+
+Shambling Aetherborn
+type: Creature — Aetherborn Zombie => Creature — Aetherborn Nightmare
+
+Hordeling Troublemaker
+
+Bloodfire Sage
+type: Creature — Djinn Warrior => Creature — Djinn Monk
+
+Myopic Pillaging
+
+Return from the Horizon
+
+Nature's Way
+
+Riparian Jaguar
+
+Tuskguard Colonel
+
+Tenth Bridge Turret Guard
+
+Guarded Supply Freighter
+
+Bomat Bazaar Barge
+
+Improvised Weather Machine
+
+Alloy Loxodon
+
+Ghirapur Parapets
+
+Loxodon Memorial
+
+Briber's Purse
+
+Tranquil Cove
+
+Dismal Backwater
+
+Bloodfell Caves
+
+Rugged Highlands
+
+Blossoming Sands
+
+Scoured Barrens
+
+Swiftwater Cliffs
+
+Jungle Hollow
+
+Wind-Scarred Crag
+
+Thornwood Falls
+
+Thriving Rats
+
+Irreversible Nightmare
+
+Rocslide
+
+Aradara Station
+
+Aetherborn Dreamwalker
+
+Inspector Brigade
+
+Illusion of Luxury
+
+Mystic of the Enlightened Way
+
+Industry BannerKnot
+
+Consul's BannerKnot
+
+Market BannerKnot
+
+Lawless BannerKnot
+
+Steel Horned Ibex
+type: Artifact Creature — Goat => Artifact Creature — Elk
+
+Wrought Iron Rhino
+
+Highspire Funicular
+
+Self-Assembler
+
+Tax On Action
+
+Medatative Inspiration
+
+Skypatrol Aetherborn
+
+Aristocratic's Steed
+
+Charming Kata
+
+Teacher of the Way
+
+Polluting Biproduct
+
+Failed Inspection
+
+Unseasonal Squall
+
+Saheeli's Spy
+
+Drone Vendor
+
+Aetherborn Incumbent
+
+Gearseeker Squid
+
+Miasmic Cloud
+
+Die Young
+
+Exhausting Shift
+
+Worker Strike
+
+Ghirapur Pickpocket
+type: Creature — Aetherborn Rogue => Creature — Vedalken Rogue
+
+Midnight Inspector
+
+Graveyard Lurker
+
+Aetherborn Bond-Kin
+type: Creature — Aetherborn Noble => Creature — Aetherborn Cat Noble
+
+Pupil of the Hidden Eye
+type: Creature — Salamander Monk => Creature — Human Monk
+
+Narset's Student
+
+Malign Aetherborn
+type: Creature — Aetherbron Warriror => Creature — Aetherborn Warriror
+
+Summit Postulant
+
+Rising Temperatures
+
+Optimistic Nihilism
+
+Red Wood Walker
+
+Zurgo's Disciple
+type: Creature — Elf Shaman => Creature — Orc Shaman
+
+Ferrophage Spider
+
+Disrupted Hibernator
+
+Sage-Eye Enforcer
+
+Reimmerse In Nature
+
+Gift of Sagacity
+
+Extinction Rebellion
+
+Complete Devotion
+
+Raise the Alms
+
+Ceaseless Fires
+
+
+VERSION 6 CHANGELOG
 ====================
 
 Wrought Iron Rhino added.

@@ -19,7 +19,7 @@
     },
     {
         "card_name": "Lightning Runner",
-        "number": 100,
+        "number": 99,
         "shape": "normal",
         "set": "CoA"
     },
@@ -79,7 +79,7 @@
     },
     {
         "card_name": "Howl of the Horde",
-        "number": 97,
+        "number": 96,
         "shape": "normal",
         "set": "CoA"
     },
@@ -109,7 +109,7 @@
     },
     {
         "card_name": "Jeering Instigator",
-        "number": 99,
+        "number": 98,
         "shape": "normal",
         "set": "CoA"
     },
@@ -139,7 +139,7 @@
     },
     {
         "card_name": "Pearl Lake Salar",
-        "number": 107,
+        "number": 106,
         "shape": "normal",
         "set": "CoA"
     },
@@ -234,7 +234,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Hynotizing AetherBorealis",
+        "card_name": "Hypnotizing AetherBorealis",
         "number": 123,
         "shape": "normal",
         "set": "CoA"
@@ -282,7 +282,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Heir of the Wastes",
+        "card_name": "Heirs of the Wastes",
         "number": 70,
         "shape": "normal",
         "set": "CoA"
@@ -349,7 +349,7 @@
     },
     {
         "card_name": "Hordeling Troublemaker",
-        "number": 96,
+        "number": 95,
         "shape": "normal",
         "set": "CoA"
     },
@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Maulfist Doorbuster",
-        "number": 102,
+        "number": 101,
         "shape": "normal",
         "set": "CoA"
     },
@@ -409,7 +409,7 @@
     },
     {
         "card_name": "Myopic Pillaging",
-        "number": 103,
+        "number": 102,
         "shape": "normal",
         "set": "CoA"
     },
@@ -558,8 +558,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Heat Lightning",
-        "number": 95,
+        "card_name": "Inauspicious Skyclaw",
+        "number": 97,
         "shape": "normal",
         "set": "CoA"
     },
@@ -588,8 +588,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Inauspicious Skyclaw",
-        "number": 98,
+        "card_name": "Malign Aetherborn",
+        "number": 100,
         "shape": "normal",
         "set": "CoA"
     },
@@ -618,8 +618,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Malign Aetherborn",
-        "number": 101,
+        "card_name": "Narset's Student",
+        "number": 103,
         "shape": "normal",
         "set": "CoA"
     },
@@ -648,7 +648,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Narset's Student",
+        "card_name": "Offload",
         "number": 104,
         "shape": "normal",
         "set": "CoA"
@@ -678,7 +678,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Offload",
+        "card_name": "Optimistic Nihilism",
         "number": 105,
         "shape": "normal",
         "set": "CoA"
@@ -690,7 +690,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Highspire mystic",
+        "card_name": "Highspire Mystic",
         "number": 17,
         "shape": "normal",
         "set": "CoA"
@@ -708,8 +708,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Optimistic Nihilism",
-        "number": 106,
+        "card_name": "Provoked Lightning",
+        "number": 107,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1102,7 +1102,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Surrak, Pelt-Cloaked Ancestor",
+        "card_name": "Surrak, Ttue-Form Ancestor",
         "number": 193,
         "shape": "normal",
         "set": "CoA"
@@ -1210,7 +1210,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Latter Woods Defender",
+        "card_name": "Latter Woods Defenders",
         "number": 173,
         "shape": "normal",
         "set": "CoA"
@@ -1269,37 +1269,37 @@
     },
     {
         "card_name": "Cultivator's Caravan",
-        "number": 209,
+        "number": 208,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Execution Module",
-        "number": 210,
+        "number": 209,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Exploration Module",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Fleetwheel Cruiser",
-        "number": 214,
+        "number": 213,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Ghostfire Blade",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Metallic Mimic",
-        "number": 227,
+        "number": 226,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1334,37 +1334,37 @@
         "set": "CoA"
     },
     {
-        "card_name": "Compase-Legged Spider",
-        "number": 207,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
         "card_name": "Extraction Module",
-        "number": 212,
+        "number": 211,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Filigree Familiar",
-        "number": 213,
+        "number": 212,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Ghirapur Parapets",
-        "number": 216,
+        "number": 215,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Improvised Weather Machine",
-        "number": 220,
+        "number": 219,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Ovalchase Dragster",
+        "number": 228,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Owl-Strix Archers",
         "number": 229,
         "shape": "normal",
         "set": "CoA"
@@ -1376,68 +1376,68 @@
         "set": "CoA"
     },
     {
-        "card_name": "Brass Winged Bat",
+        "card_name": "Brass Winged Vulture",
         "number": 204,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Consul's BannerKnot",
-        "number": 208,
+        "number": 207,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Foundry Auditor",
-        "number": 215,
+        "number": 214,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Head-Shot Bow",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Highspire Funicular",
-        "number": 219,
+        "number": 218,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Industry BannerKnot",
-        "number": 222,
+        "number": 221,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Inventor's MIG",
-        "number": 223,
+        "number": 222,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Lawless BannerKnot",
+        "number": 223,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Lead Toothed Hyenas",
         "number": 224,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Lead Toothed Hound",
+        "card_name": "Market BannerKnot",
         "number": 225,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Market BannerKnot",
-        "number": 226,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
         "card_name": "Monastery BannerKnot",
-        "number": 228,
+        "number": 227,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1454,7 +1454,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Silver Shelled Turtle",
+        "card_name": "Silver Tusked Walrus",
         "number": 232,
         "shape": "normal",
         "set": "CoA"
@@ -1635,7 +1635,7 @@
     },
     {
         "card_name": "Indigo Monmument",
-        "number": 221,
+        "number": 220,
         "shape": "normal",
         "set": "CoA"
     },
