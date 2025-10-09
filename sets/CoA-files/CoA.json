@@ -344,7 +344,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Daniel Ljunggren",
             "alias": "",
             "notes": ""
         },
@@ -895,7 +895,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Slawomir Maniak",
             "alias": "",
             "notes": ""
         },
@@ -1845,7 +1845,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Aurore Folny",
             "alias": "",
             "notes": ""
         },
@@ -2567,7 +2567,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "David Gaillet",
             "alias": "",
             "notes": ""
         },
@@ -2624,7 +2624,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Josh Hass",
             "alias": "",
             "notes": ""
         },
@@ -2776,7 +2776,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Slawomir Maniak",
             "alias": "",
             "notes": ""
         },
@@ -3802,7 +3802,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Svetlin Velinov",
             "alias": "",
             "notes": ""
         },
@@ -4904,7 +4904,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Slawomir Maniak",
             "alias": "",
             "notes": ""
         },
@@ -5023,5 +5023,5 @@
             "notes": ""
         }
     ],
-    "version": 8
+    "version": 9
 }

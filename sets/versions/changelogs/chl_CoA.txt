@@ -1,4 +1,26 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+
+
+Walking Ballista
+
+Howl of the Horde
+
+Riotous Brawler
+
+War-Name Aspirant
+
+Maulfist Doorbuster
+
+Incensed Druid
+
+Snare Thopter
+
+Savage Punch
+
+
+VERSION 8 CHANGELOG
 ====================
 
 
