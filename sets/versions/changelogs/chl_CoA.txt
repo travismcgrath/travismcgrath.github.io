@@ -1,4 +1,98 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+Thriving Grubs
+
+Savage Union Buster
+
+Fumigate
+
+Machiavellian Will
+
+Pearl Lake Salar
+
+Cultivator's Caravan
+
+Fleetwheel Cruiser
+
+Metallic Mimic
+
+Corrupted Workshop
+
+Indigo Monmument
+
+Financial Soothsayer
+type: Creature — Naga Noble => Creature — Snake Noble
+
+Nihilist Roughrider
+
+Icefeather Exporter
+
+Monastic Charm
+
+Gearshift Pitcrew
+
+Devout Kirin
+
+Army for Hire
+
+Tenth Bridge Copter
+
+Gonti's Illicit Ironworks
+
+Ruthless Ripper
+
+Bloody Auctioneer
+
+Kheru Harvester
+
+Aethertorch Arsonist
+
+Ashcloud Dragster
+
+Guarded Supply Freighter
+
+Ovalchase Dragster
+
+Powered Down Timepiece
+
+Chief of the Nail
+type: Artifact Creature — Cat Construct => Artifact Creature — Construct Artificer
+
+Industry BannerKnot
+
+Inventor's MIG
+
+Highspire Funicular
+
+Aether Spout Bulldozer
+
+Adara Cable Car
+
+Prophetic Prism
+
+Apprehend Dissident
+
+Artificer's Epiphany
+
+Sponsor's Cruise
+
+Live Fast
+
+Seize the Means
+
+Defeatist Recycler
+
+Offload
+
+Reimmerse In Nature
+
+Vast Development
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Surrak, Ttue-Form Ancestor added.

@@ -854,7 +854,7 @@
 			"name": "Financial Soothsayer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}{U}",
-			"type": "Creature — Naga Noble",
+			"type": "Creature — Snake Noble",
 			"collector_number": "161",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/161_Financial Soothsayer.png"
@@ -1734,7 +1734,7 @@
 			"name": "Chief of the Nail",
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
-			"type": "Artifact Creature — Cat Construct",
+			"type": "Artifact Creature — Construct Artificer",
 			"collector_number": "206",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/206_Chief of the Nail.png"

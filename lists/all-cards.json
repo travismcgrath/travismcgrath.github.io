@@ -15,7 +15,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Cristi Balanescu",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -755,7 +755,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Leif Heanzo",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -875,7 +875,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Svetlin Velinov",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -1095,7 +1095,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Leif Heanzo",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -1135,7 +1135,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Yuri Shepherd",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -1375,7 +1375,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Mark Zug",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -1395,7 +1395,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Sung Choi",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -1415,7 +1415,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Zack Stella",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -1475,7 +1475,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Forrest White",
+            "artist": "Anton Fadeev",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -1655,7 +1655,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Artem Chebokha",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -1704,7 +1704,7 @@
             "card_name": "Financial Soothsayer",
             "color": "WUG",
             "rarity": "uncommon",
-            "type": "Creature \u2013 Naga Noble",
+            "type": "Creature \u2013 Snake Noble",
             "number": 161,
             "color_identity": "WUG",
             "cost": "{2}{G}{W}{U}",
@@ -1715,7 +1715,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Yuumei Wenqing Yan",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -1755,7 +1755,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Mino Yan",
+            "artist": "Aurore Folny",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -1895,7 +1895,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Anton Fadeev",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2035,7 +2035,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Andrej Z.T.",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2115,7 +2115,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nikita Volobuev",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2135,7 +2135,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Artem Chebokha",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2175,7 +2175,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Nick Gindraux",
+            "artist": "",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2455,7 +2455,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Leif Heanzo",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2475,7 +2475,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Cedric Wurm",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2535,7 +2535,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Cristi Balanescu",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2595,7 +2595,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jakob Eirich",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2635,7 +2635,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Sergey Vasnev",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2675,7 +2675,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Claudio Pilia",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2735,7 +2735,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Sergey Vasnev",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2975,7 +2975,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Danyon Street",
+            "artist": "Sergey Vasnev",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -2995,7 +2995,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Jakob Eirich",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -3075,7 +3075,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Connor Sheehan",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -3464,7 +3464,7 @@
             "card_name": "Chief of the Nail",
             "color": "",
             "rarity": "uncommon",
-            "type": "Artifact Creature \u2013 Cat Construct",
+            "type": "Artifact Creature \u2013 Construct Artificer",
             "number": 206,
             "color_identity": "C",
             "cost": "{2}",
@@ -3475,7 +3475,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Aurore Folny",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -3635,7 +3635,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Dominik Zdenkovi\u0107",
+            "artist": "Emilio Grasso",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -3835,7 +3835,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Aurore Folny",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -3875,7 +3875,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Leonid Koliagin",
+            "artist": "Daphne Joguin",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -3895,7 +3895,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Yuri Shepherd",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -3915,7 +3915,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Harrison yinfaowei",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -3935,7 +3935,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Stone Perales",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -4115,7 +4115,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Leif Heanzo",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -4295,7 +4295,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Yuumei Wenqing",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -4355,7 +4355,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Matthew Trickel",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -4495,7 +4495,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Nikita Volobuev",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -4535,7 +4535,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Leif Heanzo",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -4655,7 +4655,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Theo Aretos",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -4875,7 +4875,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Leif Heanzo",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -5095,7 +5095,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Sung Choi",
+            "artist": "Yuri Shepherd",
             "alias": "",
             "notes": "",
             "image_type": "png"
@@ -5175,7 +5175,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "",
+            "artist": "Artem Chebokha",
             "alias": "",
             "notes": "",
             "image_type": "png"
