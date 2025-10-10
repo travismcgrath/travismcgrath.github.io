@@ -1,4 +1,157 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Saheeli, Unscrupulous Artificer
+rules_text: When a permanent you control manufactures you may pay 2 life. If you do, you may choose two when instead to both.
+Whenever you cast an instant, sorcery, or face-down creature spell Saheeli manufactures 1. => When a permanent you control manufactures you may pay 2 life. If you do, you add counters and make servos instead of choosing one.
+Whenever you cast an instant, sorcery, or face-down creature spell Saheeli manufactures 1.
+
+
+VERSION 10 CHANGELOG
+====================
+
+Savage Union Busters added.
+Birth of Rebellion added.
+Factory BannerKnot added.
+Lawful BannerKnot added.
+Spur to Sustain added.
+Empower the Masses added.
+Bull Market added.
+Empty The Vault added.
+Yasova, Firebrand Zealot added.
+Oviya Pashiri, Onlooking Spiritcrafter added.
+
+Savage Union Buster removed.
+Overturned Throne removed.
+Industry BannerKnot removed.
+Consul's BannerKnot removed.
+Defiant Strike removed.
+Bolster the Masses removed.
+
+Saheeli, Unscrupulous Artificer
+
+Noxious Duststorm
+rules_text: Menace
+Morph {4}{U}{B}
+When Noxious Duststorm is turned face up, destroy all other creatures that are one or more colors. Target opponent loses 1 life for each creature destroyed this way. => Menace
+Morph {5}{U}{B}
+When Noxious Duststorm is turned face up, destroy all other creatures that are one or more colors. Target opponent loses 1 life for each creature destroyed this way.
+
+Lightning Runner
+
+Dragonfist Technique
+
+Gonti's Patronage
+
+Bloodsoaked Champion
+
+The Consul's Orator
+
+Altar of the Brood
+
+Citizen's Companion
+type: Creature — Construct Advisor => Artifact Creature — Construct Advisor
+
+Unlicensed Syphoning
+
+Bear Market
+rules_text: Nonartifact colorless creatures you control get +0/+1.
+{1}{T}, Discard a card, : Create a 2/2 colorless creature token that is every creature type except Human. Activate only as a sorcery. => Nonartifact colorless creatures you control get +0/+1 and are every creature type except Human.
+{2}{T}: Manifest the top card of your library.
+
+Engineer's Prowess
+
+Smash Up
+
+Highspire Adept
+
+Labor Charm
+
+Consul's Charm
+
+Monastic Charm
+
+Rebelious Charm
+
+Army for Hire
+
+Resistance Factor
+cost: {1}{W} => {1}{G}
+
+Skywhaler's Shot
+
+Cogify
+
+Shrewd Negotiation
+
+Denial Lobbyist
+
+Underhanded Designs
+
+Gremlin Squad
+
+Harnessed Lightning
+
+Armorcraft Purchase
+cost: {1}{G} => {1}{W}
+rules_text: Untap target creature. It gets +1/+1 until end of turn.
+Draw a card. => Untap target creature. It gets +2/+0 until end of turn.
+Draw a card.
+
+Bomat Bazaar Barge
+
+Consol's Bodyguards
+
+Filigree Familiar
+
+Backslide
+
+Chief of the Nail
+type: Artifact Creature — Construct Artificer => Creature — Human Artificer
+cost: {2} => {W}{U}
+
+Monastery BannerKnot
+
+Head-Shot Bow
+
+Foundry Auditor
+
+Disassemble
+
+Burly Banker
+type: Creature — Human Citizen => Creature — Elf Citizen
+
+Highspire Mystic
+
+Contrive
+
+Minister of Flight
+
+Nalaar's Scavenger
+type: Artifact Creature — Bat Construct => Artifact Creature — Bat
+
+Inauspicious Skyclaw
+
+Factory Mazdoor
+type: Creature — Human Artificer => Artifact Creature — Construct Artificer
+
+Fanatical Recruitment
+
+Aetherspout Erruptions
+
+Fairgrounds Security
+type: Creature — Human Beserker => Creature — Human Warrior
+
+Fire-Armed Luddite
+
+Devolution
+
+Ceaseless Fires
+
+
+VERSION 9 CHANGELOG
 ====================
 
 
