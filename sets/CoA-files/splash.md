@@ -28,6 +28,7 @@ Changes of Avishkar comes with three new keywords:
 ##Returning Mechanics
 
 **Energy, Morph, Prowess**, and **Raid** all play leading roles in the Changes on Avishkar.
+
 **Vehicles, Manifest, Rebound, Proliferate**, and **Flicker** all make more minor appearances in the set.
  
 
