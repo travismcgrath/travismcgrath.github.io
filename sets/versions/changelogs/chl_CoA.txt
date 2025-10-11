@@ -1,4 +1,39 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Surrak, True-Form Ancestor added.
+
+Surrak, Ttue-Form Ancestor removed.
+
+
+VERSION 12 CHANGELOG
+====================
+
+Spur to Believe added.
+
+Spur to Sustain removed.
+
+Saheeli, Unscrupulous Artificer
+rules_text: When a permanent you control manufactures you may pay 2 life. If you do, you add counters and make servos instead of choosing one.
+Whenever you cast an instant, sorcery, or face-down creature spell Saheeli manufactures 1. => Whenever a permanent you control manufactures you may pay 2 life. If you do, instead of choosing one, you both add counters and make servos.
+Whenever you cast an instant, sorcery, or colorless spell, Saheeli manufactures 1.
+
+Engineer's Prowess
+rules_text: Choose one -
+• Target creature gets +3/+3 and gains trample until end of turn.
+• Until end of turn creatures you control get +1/+0 and gain “Whenever this creature deals combat damage to a player, draw that a card.” => Choose one -
+• Target creature gets +3/+3 and gains trample until end of turn.
+• Until end of turn creatures you control get +1/+0 and gain “Whenever this creature deals combat damage to a player, draw a card.”
+
+Armorcraft Purchase
+rules_text: Untap target creature. It gets +2/+0 until end of turn.
+Draw a card. => Untap target creature and put a +1/+1 counter on it.
+
+Ferrophage Spider
+cost: {2}{G} => {1}{G}
+
+
+VERSION 11 CHANGELOG
 ====================
 
 

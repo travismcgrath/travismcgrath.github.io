@@ -251,13 +251,13 @@
 			}
 		},
 		{
-			"name": "Surrak, Ttue-Form Ancestor",
+			"name": "Surrak, True-Form Ancestor",
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Bear Spirit",
 			"collector_number": "196",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/196_Surrak, Ttue-Form Ancestor.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/196_Surrak, True-Form Ancestor.png"
 			}
 		},
 		{
@@ -2001,13 +2001,13 @@
 			}
 		},
 		{
-			"name": "Spur to Sustain",
+			"name": "Spur to Believe",
 			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Instant",
 			"collector_number": "26",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/26_Spur to Sustain.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/26_Spur to Believe.png"
 			}
 		},
 		{
@@ -2503,7 +2503,7 @@
 		{
 			"name": "Ferrophage Spider",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Creature — Spider",
 			"collector_number": "118",
 			"image_uris": {
@@ -2707,7 +2707,7 @@
 	2 Misty Rainforest
 	2 Dovin Baan, Persistent Ancestor
 	2 Anafenza, Generous Ancestor
-	2 Surrak, Ttue-Form Ancestor
+	2 Surrak, True-Form Ancestor
 	2 Houn, Beguiling Ancestor
 	2 Ancestor, Who Smirks at Law
 	2 Dustblast
@@ -2883,7 +2883,7 @@
 	8 Foundry Auditor
 	8 Self-Assembler
 	8 Snare Thopter
-	8 Spur to Sustain
+	8 Spur to Believe
 	8 Empower the Masses
 	8 Tax On Action
 	8 Disassemble
@@ -2968,7 +2968,7 @@
 	2 Misty Rainforest
 	2 Dovin Baan, Persistent Ancestor
 	2 Anafenza, Generous Ancestor
-	2 Surrak, Ttue-Form Ancestor
+	2 Surrak, True-Form Ancestor
 	2 Houn, Beguiling Ancestor
 	2 Ancestor, Who Smirks at Law
 	2 Dustblast
@@ -3132,7 +3132,7 @@
 	12 Foundry Auditor
 	12 Self-Assembler
 	12 Snare Thopter
-	12 Spur to Sustain
+	12 Spur to Believe
 	12 Empower the Masses
 	12 Tax On Action
 	12 Disassemble
@@ -3226,7 +3226,7 @@
 	7 Misty Rainforest
 	7 Dovin Baan, Persistent Ancestor
 	7 Anafenza, Generous Ancestor
-	7 Surrak, Ttue-Form Ancestor
+	7 Surrak, True-Form Ancestor
 	7 Houn, Beguiling Ancestor
 	7 Ancestor, Who Smirks at Law
 	7 Dustblast
@@ -3390,7 +3390,7 @@
 	6 Foundry Auditor
 	6 Self-Assembler
 	6 Snare Thopter
-	6 Spur to Sustain
+	6 Spur to Believe
 	6 Empower the Masses
 	6 Tax On Action
 	6 Disassemble
