@@ -1,4 +1,49 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Heir of the Wastes added.
+Aristocrats' Steed added.
+
+Heirs of the Wastes removed.
+Aristocratic's Steed removed.
+
+Army for Hire
+
+Ruthless Ripper
+
+Tenth Bridge Turret Guard
+
+Alloy Loxodon
+
+Contrive
+rules_text: Scry 2.
+Target creature manufactures 1. [i](Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)[/i] => Scry 1.
+Target creature manufactures 1. [i](Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Drone Vendor
+rules_text: As an additional cost to cast Drone Vendor you may pay {W} or sacrifice a servo. If you do, when Drone Vendor enters, create a colorless 1/1 Thopter creature token with flying. => As an additional cost to cast Drone Vendor you may pay {W} or sacrifice a Servo. If you do, when Drone Vendor enters, create a colorless 1/1 Thopter creature token with flying.
+
+Seize the Means
+
+Provoked Lightning
+cost: {6}{R} => {5}{R}
+pt: 7/3 => 6/3
+
+Extinction Rebellion
+
+Yasova, Firebrand Zealot
+
+Eternal Witness
+
+Longtusk Pride
+
+Highspire Mystic
+rules_text: Prowess
+{1}{U}{T}: Turn target creature with Morph face down. This ability costs {2} more if an opponent controls that creature. => Prowess
+{1}{U},{T}: Turn target creature with Morph face down. This ability costs {2} more if an opponent controls that creature.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 Eternal Witness added.

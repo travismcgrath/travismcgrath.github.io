@@ -12,7 +12,7 @@ All the while, industrialists and financiers get rich exploiting the dwindling n
 
 **Change on Avishkar** is a draftable set of 268 card (17 mythic rares, 60 rares, 92 uncommons, and 99 commons). CoA uses Play Boosters which each contain 1 rare/mythic, 3 uncommons, 7 commons, 1 foil, 1 "wildcard", and 1 common land.
 
-<img align="right" width="200" height="353" style="margin:15px" src="https://lh3.google.com/u/0/d/18vi3a44iI8kECtHyd40HDlzMJ8_9sPNl=w1185-h911-iv1?auditContext=prefetch" alt="CoA Booster"/>
+<img align="right" width="200" height="353" style="margin:15px" src="/sets/CoA-files/Pack Art.png" alt="CoA Booster"/>
 
 ##New Keywords
 
