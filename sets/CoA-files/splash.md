@@ -2,15 +2,15 @@
 -->
 **<p style="text-align: center;">The cost of innovation has come due.</p>**
 
-After eons of extracting natural resources to fuel the forges of Kaladesh's artificers, the environmental damage to the plane has become too much. However rampaging climate change is not the only factor driving political chaos. 
-Avishkar has seen thousands of warriors, animals, monks, and even undescipherable figures immigrate across the planar bridge in hope of an esacpe from the dragon ravaged lands of Tarkir.
+After eons of extracting natural resources to fuel the forges of Avishkar's artificers, the environmental damage to the plane has become too much. However rampaging climate change is not the only factor driving political chaos. 
+Avishkar has seen thousands of warriors, animals, monks, and even indescipherable figures immigrate across the planar bridge in hope of an esacpe from the dragon ravaged lands of Tarkir.
 
-Avishkar residences have responded to these natural disasters and new neighbors in many different ways. Some have become activist anarchists letting despair and rage drive them to action, others deny the changes in the clime are happening and become captivated by the monastic orders of the newcomers. 
-All the while, industrialists and financiers get rich exploiting the dwindling natural resources and lobbying the artificers who lead Kaladesh's ruling council.
+Avishkar residence have responded to these natural disasters and new neighbors in many different ways. Some have become activist anarchists letting despair and rage drive them to action, others deny the changes in the climate are happening and become captivated by the monastic orders of the newcomers. 
+Meanwhile, industrialists and financiers get rich exploiting the dwindling natural resources and lobbying the artificers who lead Avishkar's ruling council.
 
 
 
-**Change on Avishkar** is a draftable set of 268 card (17 mythic rares, 60 rares, 92 uncommons, and 99 commons). CoA uses Play Boosters which each contain 1 rare/mythic, 3 uncommons, 7 commons, 1 foil, 1 "wildcard", and 1 common land.
+**Change on Avishkar** is a draftable set of 268 card (17 mythic rares, 60 rares, 97 uncommons, and 94 commons). CoA uses Play Boosters which each contain 1 rare/mythic, 3 uncommons, 7 commons, 1 foil, 1 "wildcard", and 1 common land.
 
 <img align="right" width="200" height="353" style="margin:15px" src="/sets/CoA-files/Pack Art.png" alt="CoA Booster"/>
 
@@ -18,7 +18,7 @@ All the while, industrialists and financiers get rich exploiting the dwindling n
 
 Changes of Avishkar comes with three new keywords:
 
-**Manufacture:** The artificers of Kaladesh have ramped up production of their servos, thopters, and creative innvoations. Manufacture N works much like Fabricat N, giving the option between N Servo tokens and +1/+1 counters, except it is not limited to happening only when a creature ETBs but can be caused by spells, activated or triggered abilities.
+**Manufacture:** The artificers of Avishkar have ramped up production of their servos, thopters, and creative innvoations. Manufacture N works much like Fabricate N, giving the option between N Servo tokens and +1/+1 counters, except it is not limited to happening only when a creature ETBs but can be caused by spells, activated or triggered abilities.
 
 **Stun:** Climate change isn't always about things getting hotter. Blizzards, coldsnaps, hailstorms, and other winter flurries have grown strong and stun unprepared residents of Avishkar. Stunning a creature means tapping it and then putting a stun counter on it. 
 
@@ -32,7 +32,7 @@ Changes of Avishkar comes with three new keywords:
 **Vehicles, Manifest, Rebound, Proliferate**, and **Flicker** all make more minor appearances in the set.
  
 
-##Archtypes
+##Archetypes
 
 <img alt="{G}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/88/G.svg/" width="15" height="15" style="display:inline;">
 <img alt="{W}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/8e/W.svg/" width="15" height="15" style="display:inline;">
@@ -44,7 +44,7 @@ Changes of Avishkar comes with three new keywords:
 
 <img alt="{U}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9f/U.svg/" width="15" height="15" style="display:inline;">
 <img alt="{B}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/2/2f/B.svg/" width="15" height="15" style="display:inline;">
-<img alt="{R}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/87/R.svg/" width="15" height="15" style="display:inline;"> **Energy Control.** Lead by Pia Nalaar, this faction represents the barrons of industry. Willing to destroy land and laborers for the resources they can reap from them to fuel their factories.
+<img alt="{R}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/87/R.svg/" width="15" height="15" style="display:inline;"> **Energy Control.** Lead by Pia Nalaar, this faction represents the barons of industry. Willing to destroy land and laborers for the resources they can reap from them to fuel their factories.
 
 <img alt="{B}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/2/2f/B.svg/" width="15" height="15" style="display:inline;">
 <img alt="{R}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/87/R.svg/" width="15" height="15" style="display:inline;">
@@ -53,4 +53,4 @@ Changes of Avishkar comes with three new keywords:
  
 <img alt="{R}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/87/R.svg/" width="15" height="15" style="display:inline;">
 <img alt="{G}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/88/G.svg/" width="15" height="15" style="display:inline;">
-<img alt="{W}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/8e/W.svg/" width="15" height="15" style="display:inline;"> **Prowess Aggro.**  Lead by Narset, this faction represent those who turn their focus away from the poltical and environmental chaos. Honing their attention on medition and seeking The Way gives them the strength and ability to exert control over the chaos of their cirumstance.
+<img alt="{W}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/8e/W.svg/" width="15" height="15" style="display:inline;"> **Prowess Aggro.**  Lead by Narset, this faction represent those who turn their focus away from the poltical and environmental chaos. Honing their attention on meditation and seeking The Way gives them the strength and ability to exert control over the chaos of their cirumstance.

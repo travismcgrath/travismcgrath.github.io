@@ -1,4 +1,299 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 20 CHANGELOG
+====================
+
+
+
+Illusion of Luxury
+pt: 3/3 => 3/4
+
+Skypatrol Aetherborn
+type: Creature — Aetherborn Solider => Creature — Aetherborn Bird
+rules_text: Flying
+When Skypatrol Aetherborn enters or is turned face up, it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+Morph 1{W} => Flying
+When Skypatrol Aetherborn enters it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Aetherborn Bond-Kin
+type: Creature — Aetherborn Cat Noble => Creature — Aetherborn Elephant
+
+Snake
+
+Bird
+
+Bird
+
+
+VERSION 19 CHANGELOG
+====================
+
+Mystic of The Way added.
+Aristocrats' Stampede added.
+Polluting Byproduct added.
+Monk added.
+Human Monk added.
+Morph added.
+Assembly-Worker added.
+Bear Market Manifest added.
+Thopter added.
+Servo added.
+Snake added.
+Beast added.
+Bird added.
+Bird added.
+
+Mystic of the Enlightened Way removed.
+Aristocrats' Steed removed.
+Polluting Biproduct removed.
+
+Narset, Panharmonastic Sage
+rules_text: Prowess
+[i]Raid[/i] - If you've attacked this turn and casting an noncreature spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => Prowess
+[i]Raid[/i] - If you've attacked this turn, casting a noncreature spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+Pia Nalaar, Fallen Innovator
+rules_text: Deathtouch
+When Pia Nalaar, Fallen Innovator enters, it manufactures 4.
+Whenever a +1/+1 counter is put on a creature you control, gain {E}.
+{E}{E}{E}{E}: Constructs, Servos and Thopters you control get +2/+2 and gain deathtouch until end of turn. => When Pia Nalaar, Fallen Innovator enters, it manufactures 4. [i](Put four +1/+1 counters on this creature, or create four 1/1 colorless Servo artifact creature tokens.)[/i]
+Whenever one or more +1/+1 counter are put on a creature you control, you get that many {E}.
+{E}{E}{E}{E}: Servos and Thopters you control get +2/+2 and gain deathtouch until end of turn.
+
+Cataclysmic Earthquake
+type: Artifact Creature — Elemental Construct => Artifact Creature — Elemental Servo
+rules_text: Vigilance
+Morph {5}{G}{W}
+When Cataclysmic Earthquake is turned face up, your opponents each choose one artifact, creature, and enchantment they control. Stun each non-land permanent not chosen this way. Enchantments tapped this way lose all abilities as long as they remain tapped. => Vigilance
+Morph {5}{G}{W}
+When Cataclysmic Earthquake is turned face up, your opponents each choose one artifact, creature, and enchantment they control. Stun each non-land permanent opponents control not chosen this way. Enchantments tapped this way lose all abilities as long as they remain tapped.
+
+Noxious Duststorm
+type: Artifact Creature — Elemental Construct => Artifact Creature — Elemental Servo
+
+Torrential Ice Wave
+type: Artifact Creature — Elemental Construct => Artifact Creature — Elemental Servo
+
+Verdurous Wildfire
+type: Artifact Creature — Elemental Construct => Artifact Creature — Elemental Servo
+rules_text: Trample, Morph {4}{R}{G}
+When Verdurous Wildfire is turned face, up double the power of creatures you control until end of turn. => Trample
+Morph {4}{R}{G}
+When Verdurous Wildfire is turned face up, double the power of creatures you control until end of turn.
+
+Combustible Lightning
+type: Artifact Creature — Elemental Construct => Artifact Creature — Elemental Servo
+
+Longtusk Pride
+rules_text: First strike
+When Longtusk Pride enters, if it isn't a token, create a token copy of it.
+Whenever a Cat you control deals combat damage, put a +1/+1 counter on each Cat you control. => First strike
+When Longtusk Pride enters, if it isn't a token, create a token that is a copy of it.
+Whenever a Cat you control deals combat damage, put a +1/+1 counter on each Cat you control.
+
+Chianul's Guidance
+rules_text: Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+Create a 2/2 white Human Monk creature token with prowess.
+Scry 1. => Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+Create a 2/2 green and white Monk creature token with prowess.
+Scry 1.
+
+Machiavellian Will
+
+Obscuring Avalanche
+rules_text: Face-down creature spells cost you {1} less to cast.
+{T}: Add {C} => Face-down creature spells you cast cost you {1} less to cast.
+{T}: Add {C}
+
+Citizen's Companion
+type: Artifact Creature — Construct Advisor => Artifact Creature — Servo Advisor
+
+Monastic Charm
+rules_text: Choose one —
+• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.
+• Create a 2/2 white Human Monk creature token with Prowess.
+• Destroy target artifact or enchantment. => Choose one —
+• Target creature you control gets +1/+1 until end of turn. It fights target creature you don't control.
+• Create a 2/2 green and white Monk creature token with prowess.
+• Destroy target artifact or enchantment.
+
+Army for Hire
+rules_text: Scry 2.
+Create three colorless 2/2 Mercenary creature tokens. => Scry 2.
+Create three colorless 2/2 Assembly-Worker creature tokens.
+
+Cogify
+rules_text: Enchanted creature.
+Enchanted creature loses all abilities and is an colorless Construct artifact creature with base power and toughness 1/1. => Enchanted creature.
+Enchanted creature loses all abilities and is an colorless Servo artifact creature with base power and toughness 1/1.
+
+Gremlin Squad
+rules_text: Reach
+When Gremlin Squad enters gain {E}{E}, then you may pay {E}. If you do put a +1/+1 counter on it
+Each creature you control with a +1/+1 counter on it has trample. => Reach
+When Gremlin Squad enters you get {E}{E}, then you may pay {E}. If you do put a +1/+1 counter on it
+Each creature you control with a +1/+1 counter on it has trample.
+
+Return from the Horizon
+rules_text: Search your library for up to three basic land cards with different names, reveal them, put them into your hand, then shuffle. => Search your library for up to three basic land cards with different names, reveal them, put one onto the battlefield tapped and the rest into your hand, then shuffle.
+
+Tenth Bridge Turret Guard
+pt: 0/5 => 0/6
+
+Consol's Bodyguards
+type: Artifact Creature — Construct Mercenary => Artifact Creature — Servo Mercenary
+rules_text: Consol's Bodyguards with two +1/+1 counters on it. 
+Each creature you control with a +1/+1 counter on it has ward {1}. => Consol's Bodyguards enters with two +1/+1 counters on it. 
+Each creature you control with a +1/+1 counter on it has ward {1}.
+pt: 0/0 => 1/0
+
+Alloy Loxodon
+type: Artifact Creature — Elephant Construct => Artifact Creature — Elephant
+
+Aetherborn Dreamwalker
+rules_text: Deathtouch, Menace
+When Aetherborn Dreamwalker enters or is turned face up, target creature you control gains deathtouch and menace until end of turn.
+Morph {U}{R}{B} => Deathtouch, menace
+When Aetherborn Dreamwalker enters or is turned face up, target creature you control gains deathtouch and menace until end of turn.
+Morph {U}{R}{B}
+
+Inspector Brigade
+pt: 2/1 => 2/2
+
+Illusion of Luxury
+pt: 2/2 => 3/3
+
+Lawless BannerKnot
+rules_text: When Lawless BannerKnot enters, you draw a card and you lose 1 life.
+{T}: Add {G}, {R}, or {B}.
+{R}{B}{G}, Sacrifice Lawless BannerKnot: Draw a card. => When Lawless BannerKnot enters, you draw a card and you lose 2 life.
+{T}: Add {G}, {R}, or {B}.
+{R}{B}{G}, Sacrifice Lawless BannerKnot: Draw a card.
+
+Steel Horned Ibex
+rules_text: {W}: Steel Horned Ibex gains first strike until end of turn. => {2}{W}: Steel Horned Ibex gains first strike until end of turn.
+
+Silver Tusked Walrus
+rules_text: {U}: Silver Tusked Walrus gains hexproof until end of turn. => {1}{U}: Silver Tusked Walrus gains hexproof until end of turn.
+
+Wrought Iron Rhino
+pt: 3/3 => 4/3
+
+Adara Cable Car
+rules_text: Whenever Adara Cable Car attacks, put a +1/+1 counter on it.
+Crew {1} [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Whenever Adara Cable Car attacks, put a +1/+1 counter on it.
+Crew 1 [i](Tap any number of creatures you control with total power 1 or more: This Vehicle becomes an artifact creature until end of turn.)[/i]
+
+Medatative Inspiration
+cost: {3}{W} => {2}{W}{W}
+rules_text: Creatures you control get +3/+0 until end of turn. Monks you control gain first strike and vigilance until end of turn. => Creatures you control get +2/+1 until end of turn. Monks you control gain vigilance until end of turn.
+
+Skypatrol Aetherborn
+pt: 1/1 => 1/2
+
+Teacher of the Way
+
+Saheeli's Spy
+rules_text: This creature can't be blocked.
+Morph {2}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Saheeli's Spy is turned face up, draw a card => This creature can't be blocked.
+Morph {2}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Saheeli's Spy is turned face up, draw a card.
+pt: 1/2 => 1/1
+
+Minister of Flight
+
+Gearseeker Squid
+cost: {5}{U} => {5}{U}{U}
+rules_text: Ward {3}
+Gearseeker Squid can block three additional creatures each combat.
+{3}{U}, Discard Gearseeker Squid: Stun target creature. Draw a card. => Ward {3}
+{3}{U}, Discard Gearseeker Squid: Stun target creature. Draw a card.
+pt: 4/8 => 6/8
+
+Seize the Means
+rules_text: Enchant creature
+When Seize the Means enters you get {E}{E} and target opponent discards a card.
+Enchanted creature gets +1/+1 and gains “{E}{E}: Target opponent discards a card. Activate only as a sorcery.” => Enchant creature
+When Seize the Means enters you get {E}{E} and target opponent discards a card.
+Enchanted creature gets +1/+1 and gains “Pay {E}{E}: Target opponent discards a card. Activate only as a sorcery.”
+
+Exhausting Shift
+rules_text: Target creature gets -12/12 until end of turn.
+Up to one target creature you control manufactures 1. => Target creature gets -12/-12 until end of turn.
+Up to one target creature you control manufactures 1. [i](Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Worker Strike
+cost: {3}{B} => {2}{B}{B}
+rules_text: Choose one or both —
+• Up to two target creature gets -1/-1 until end of turn.
+• Put a +1/+1 counter on up to two target creatures. => Choose one or both —
+• Up to two target creatures gets -1/-1 until end of turn.
+• Put a +1/+1 counter on up to two target creatures.
+
+Midnight Inspector
+type: Creature — Aetherborn Artificer => Creature — Aetherborn Detective
+
+Graveyard Lurker
+rules_text: When Graveyard Lurker enters you get {E}{E} then you may pay {E}{E}{E}{E}. If you do return up to two target artifact or creature cards from your graveyard to your hand. => When Graveyard Lurker enters you mill 2 and get {E}{E}. When you do, you may pay {E}{E}{E}{E}. If you do return up to two target artifact or creature cards from your graveyard to your hand.
+pt: 2/2 => 3/2
+
+Aetherborn Bond-Kin
+rules_text: When Aetherborn Bond-Kin enters gain {E}{E}.
+When Aetherborn Bond-Kin attacks you may pay {E}{E}. If you do, Aetherborn creatures you control gain deathtouch, lifelink, and menace. => When Aetherborn Bond-Kin enters, you get {E}{E}.
+When Aetherborn Bond-Kin attacks, you may pay {E}{E}. If you do, Aetherborn creatures you control gain deathtouch, lifelink, and menace until end of turn.
+
+Inauspicious Skyclaw
+
+Factory Mazdoor
+type: Artifact Creature — Construct Artificer => Artifact Creature — Assembly-Worker
+
+Provoked Lightning
+cost: {5}{R} => {4}{R}{R}
+rules_text: Flying, trample, haste
+Morph {4}{R} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i] => Trample, haste
+Morph {4}{R} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Fanatical Recruitment
+rules_text: Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+You may pay {E}{E}{E}{E}. If you do, at the beginning of the next end step, sacrifice that creature and Fanatical Recruitment deals damage equal to its power to any target.
+
+“Grab the reins of your fate young man” - Zurgo => Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+You may pay {E}{E}{E}{E}. If you do, at the beginning of the next end step, sacrifice that creature and Fanatical Recruitment deals damage equal to its power to any target.
+
+Red Wood Walker
+cost: {5}{G}{G} => {4}{G}{G}
+rules_text: Trample
+Morph 5{G} => Trample
+Morph {3}{G}{G}
+{2}{G}, Discard Red Wood Walker: Destroy target artifact and you gain 2 life.
+pt: 6/6 => 5/5
+
+Ferrophage Spider
+pt: 1/4 => 1/3
+
+Sage-Eye Enforcer
+rules_text: Prowess, trample [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+
+Reimmerse In Nature
+rules_text: Look at the top five cards of your library. You may reveal a creature or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order. => Look at the top five cards of your library. You may reveal a creature and/or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.
+
+Gift of Sagacity
+rules_text: Target creature you control gets +2/+2 and “Whenever this creature deals combat damage to a player, draw that many cards” until end of turn. => Target creature you control gets +2/+2 and “Whenever this creature deals combat damage to a player, draw a card” until end of turn.
+
+Savage Punch
+rules_text: Choose target creature you control. 
+If you control a creature with power 4 or greater, the chosen creature gets +2/+2.
+The chosen creature fights target creature you don't control. => Choose target creature you control. 
+If you control a creature with power 4 or greater, the chosen creature gets +2/+2 until end of turn.
+The chosen creature fights target creature you don't control.
+
+Oviya Pashiri, Onlooking Spiritcrafter
+
+Highspire Mystic
+rules_text: Prowess
+{1}{U},{T}: Turn target creature with Morph face down. This ability costs {2} more if an opponent controls that creature. => {1}{U},{T}: Turn target creature with Morph face down. This ability costs {2} more if an opponent controls that creature. Activate only as a sorcery.
+
+
+VERSION 18 CHANGELOG
 ====================
 
 No changes.
