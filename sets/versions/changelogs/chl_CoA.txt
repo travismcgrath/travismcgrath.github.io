@@ -1,4 +1,23 @@
-﻿VERSION 20 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+Manifest added.
+
+
+Saheeli's Spy
+
+Minister of Flight
+type: Creature — Vedalken Advisor => Creature — Human Artificer
+
+Morph
+
+Bear Market Manifest
+type: Token => Creature — Aetherborn Bear
+
+Bird
+
+
+VERSION 20 CHANGELOG
 ====================
 
 

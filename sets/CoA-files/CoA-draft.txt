@@ -2204,7 +2204,7 @@
 			"name": "Minister of Flight",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
-			"type": "Creature — Vedalken Advisor",
+			"type": "Creature — Human Artificer",
 			"collector_number": "52",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/52_Minister of Flight.png"
@@ -2676,8 +2676,9 @@
 			"mana_cost": "{1}{G}{G}",
 			"type": "Token Creature — Human Shaman",
 			"collector_number": "5",
+			"collector_number": "6",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/5_Eternal Witness.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/6_Eternal Witness.png"
 			}
 		},
 		{
@@ -2685,9 +2686,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Token Creature — Cat",
-			"collector_number": "6",
+			"collector_number": "7",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/6_Longtusk Pride.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/7_Longtusk Pride.png"
 			}
 		},
 		{
@@ -2705,9 +2706,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Monk",
-			"collector_number": "3",
+			"collector_number": "4",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/3_Monk.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/4_Monk.png"
 			}
 		},
 		{
@@ -2715,9 +2716,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human Monk",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/8_Human Monk.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/9_Human Monk.png"
 			}
 		},
 		{
@@ -2744,7 +2745,7 @@
 			"name": "Bear Market Manifest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token",
+			"type": "Creature — Aetherborn Bear",
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/2_Bear Market Manifest.png"
@@ -2775,9 +2776,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Snake",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/7_Snake.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/8_Snake.png"
 			}
 		},
 		{
@@ -2785,19 +2786,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Beast",
-			"collector_number": "4",
+			"collector_number": "5",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/4_Beast.png"
-			}
-		},
-		{
-			"name": "Bird",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Bird",
-			"collector_number": "1",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/1_Bird.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/5_Beast.png"
 			}
 		},
 		{
@@ -2808,6 +2799,26 @@
 			"collector_number": "2",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/2_Bird.png"
+			}
+		},
+		{
+			"name": "Bird",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Bird",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/3_Bird.png"
+			}
+		},
+		{
+			"name": "Manifest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Creature",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/1_Manifest.png"
 			}
 		}
 	]
@@ -3072,11 +3083,6 @@
 	8 Vast Development
 	8 Complete Devotion
 	8 Highspire Mystic
-	8 Morph
-	8 Assembly-Worker
-	8 Bear Market Manifest
-	8 Thopter
-	8 Servo
 [foil(1)]
 	12 Thriving Grubs
 	1 Saheeli, Unscrupulous Artificer
@@ -3335,11 +3341,6 @@
 	2 Yasova, Firebrand Zealot
 	2 Oviya Pashiri, Onlooking Spiritcrafter
 	12 Highspire Mystic
-	12 Morph
-	12 Assembly-Worker
-	12 Bear Market Manifest
-	12 Thopter
-	12 Servo
 [wildcard(1)]
 	6 Thriving Grubs
 	4 Saheeli, Unscrupulous Artificer
@@ -3598,11 +3599,6 @@
 	7 Yasova, Firebrand Zealot
 	7 Oviya Pashiri, Onlooking Spiritcrafter
 	6 Highspire Mystic
-	6 Morph
-	6 Assembly-Worker
-	6 Bear Market Manifest
-	6 Thopter
-	6 Servo
 [landslot(1)]
 	12 Tranquil Cove
 	12 Dismal Backwater

@@ -42,10 +42,10 @@ def generateFile(code):
 
 		for slot in structure:
 			slot_name = slot['name']
-			if slot_name in [ 'wildcard', 'foil' ] and not filtered(card, filters) and not 'Basic' in card['type'] and not 'basic' in card['rarity'] and not 'landslot' in card['notes']and not 'token' in card['shape']:
+			if slot_name in [ 'wildcard', 'foil' ] and not filtered(card, filters) and not 'Basic' in card['type'] and not 'basic' in card['rarity'] and not 'landslot' in card['notes']and not 'token' in card['shape']and not 'tokenshape' in card['notes']:
 				booster[slot_name].append(card)
 			elif not slot['custom']:
-				if ((card['rarity'] == 'mythic' and slot_name == 'rare') or card['rarity'] == slot_name) and not filtered(card, filters) and not 'Basic' in card['type'] and not 'landslot' in card['notes'] and not 'token' in card['shape']:
+				if ((card['rarity'] == 'mythic' and slot_name == 'rare') or card['rarity'] == slot_name) and not filtered(card, filters) and not 'Basic' in card['type'] and not 'landslot' in card['notes'] and not 'token' in card['shape']and not 'tokenshape' in card['notes']:
 					booster[slot_name].append(card)
 			elif slot_name == 'landslot' and 'landslot' in card['notes']:
 				booster[slot_name].append(card)

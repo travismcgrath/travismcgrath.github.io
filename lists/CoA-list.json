@@ -1773,7 +1773,7 @@
     },
     "a->token",
     {
-        "card_name": "Bird",
+        "card_name": "Manifest",
         "number": 1,
         "shape": "token",
         "set": "CoA"
@@ -1785,43 +1785,46 @@
         "set": "CoA"
     },
     {
-        "card_name": "Monk",
+        "card_name": "Bird",
         "number": 3,
         "shape": "token",
         "set": "CoA"
     },
     {
-        "card_name": "Beast",
+        "card_name": "Monk",
         "number": 4,
         "shape": "token",
         "set": "CoA"
     },
     {
-        "card_name": "Eternal Witness",
+        "card_name": "Beast",
         "number": 5,
         "shape": "token",
         "set": "CoA"
     },
     {
-        "card_name": "Longtusk Pride",
+        "card_name": "Eternal Witness",
         "number": 6,
         "shape": "token",
         "set": "CoA"
     },
     {
-        "card_name": "Snake",
+        "card_name": "Longtusk Pride",
         "number": 7,
         "shape": "token",
         "set": "CoA"
     },
     {
-        "card_name": "Human Monk",
+        "card_name": "Snake",
         "number": 8,
         "shape": "token",
         "set": "CoA"
     },
     {
-        "card_name": "e"
+        "card_name": "Human Monk",
+        "number": 9,
+        "shape": "token",
+        "set": "CoA"
     },
     {
         "card_name": "e"
