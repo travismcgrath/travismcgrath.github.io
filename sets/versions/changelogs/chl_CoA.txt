@@ -1,4 +1,20 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 22 CHANGELOG
+====================
+
+
+
+Morph
+
+Bear Market Manifest
+
+Thopter
+
+Servo
+
+Assembly-Worker
+
+
+VERSION 21 CHANGELOG
 ====================
 
 Manifest added.
