@@ -2675,7 +2675,6 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Token Creature — Human Shaman",
-			"collector_number": "5",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/6_Eternal Witness.png"
