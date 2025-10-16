@@ -1,4 +1,165 @@
-﻿VERSION 22 CHANGELOG
+﻿VERSION 24 CHANGELOG
+====================
+
+Consul's Attache added.
+Aether Dart added.
+Mineral Appraiser added.
+
+Burly Banker removed.
+
+Consul's Charm
+
+Offload
+type: Sorcery => Instant
+
+
+VERSION 23 CHANGELOG
+====================
+
+Dovin Baan, Persistent Ruler added.
+Kurna Majan, Luminary Financier added.
+Sidisi, Scales of Industry added.
+Adi Thandray, Platinum Ancestor added.
+Peema Woods Defenders added.
+Lathnu Funicular added.
+Dovin's Spy added.
+Sidisi's Scavenger added.
+
+Saheeli, Unscrupulous Artificer removed.
+Anonymous Financier removed.
+Pia Nalaar, Fallen Innovator removed.
+Dovin Baan, Persistent Ancestor removed.
+Latter Woods Defenders removed.
+Highspire Funicular removed.
+Saheeli's Spy removed.
+Nalaar's Scavenger removed.
+
+Thriving Grubs
+
+Anafenza, Generous Ancestor
+rules_text: Whenever another nontoken creature you control dies, each opponent loses 1 life, you gain 1 life, and Anafenza manufactures 1. => When Anafenza enters, it manufactures 1. 
+Whenever a permanent you control manufactures, instead of choosing one, you both add counters and make servos.
+pt: 4/4 => 2/2
+
+Nefarious Inheritence
+
+Pearl Lake Salar
+
+Engineer's Prowess
+rules_text: Choose one -
+• Target creature gets +3/+3 and gains trample until end of turn.
+• Until end of turn creatures you control get +1/+0 and gain “Whenever this creature deals combat damage to a player, draw a card.” => Choose one -
+• Target creature gets +2/+2 and gains flying until end of turn.
+• Until end of turn creatures you control get +1/+0 and gain “Whenever this creature deals combat damage to a player, draw a card.”
+
+Ruthless Ripper
+
+Consol's Bodyguards
+rules_text: Consol's Bodyguards enters with two +1/+1 counters on it. 
+Each creature you control with a +1/+1 counter on it has ward {1}. => Consol's Bodyguards enters with two +1/+1 counters on it. 
+Each creature you control with a +1/+1 counter on it has ward {1}. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+
+Alloy Loxodon
+rules_text: Morph {5}{G} => Morph {5}{G} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Filigree Familiar
+
+Aetherborn Dreamwalker
+rules_text: Deathtouch, menace
+When Aetherborn Dreamwalker enters or is turned face up, target creature you control gains deathtouch and menace until end of turn.
+Morph {U}{R}{B} => Deathtouch, menace
+When Aetherborn Dreamwalker enters or is turned face up, target creature you control gains deathtouch and menace until end of turn.
+Morph {U}{R}{B} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Inspector Brigade
+rules_text: When Inspector Brigade enters or is turned face up, create two 1/1 colorless Servo artifact creature tokens.
+Morph {W}{U}{B} => When Inspector Brigade enters or is turned face up, create two 1/1 colorless Servo artifact creature tokens.
+Morph {W}{U}{B} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Illusion of Luxury
+rules_text: Flying
+Whenever Illusion of Luxury deals combat damage to a player, you may draw a card. If you do, discard a card.
+Morph {G}{W}{U} => Flying
+Whenever Illusion of Luxury deals combat damage to a player, you may draw a card. If you do, discard a card.
+Morph {G}{W}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Mystic of The Way
+rules_text: Lifelink, prowess
+Morph {R}{W}{G} => Lifelink, prowess
+Morph {R}{W}{G} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Lawful BannerKnot
+rules_text: When Lawful BannerKnot enters, target creature you control manufactures 1.
+{T}: Add {U}, {W}, or {B}.
+{W}{U}{B}, Sacrifice Lawful BannerKnot: Draw a card. => When Lawful BannerKnot enters, target creature you control manufactures 1. [i](Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+{T}: Add {U}, {W}, or {B}.
+{W}{U}{B}, Sacrifice Lawful BannerKnot: Draw a card.
+
+Foundry Auditor
+
+Tax On Action
+
+Burly Banker
+rules_text: Double strike
+Morph {3}{W}{W} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i] => Double strike [i](This creature deals both first-strike and regular combat damage.)[/i]
+Morph {3}{W}{W} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Aristocrats' Stampede
+rules_text: Morph 4{W}{W}
+When Aristocrats' Stampede enters or is turned face up, up to two target creature gains indestructible until end of turn. => Morph 4{W}{W} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Aristocrats' Stampede enters or is turned face up, up to two target creature gains indestructible until end of turn.
+
+Unseasonal Squall
+rules_text: Stun target target creature. 
+Stun target target creature. [i](Tap that creature and put a stun counter on it.)[/i] => Stun target creature. 
+Stun target creature. [i](Tap that creature and put a stun counter on it.)[/i]
+
+Aetherborn Incumbent
+type: Creature — Aetherborn Advisor => Creature — Aetherborn Noble
+rules_text: When Aetherborn Incumbent enters, draw a card.
+{1}{B}: Regenerate Aetherborn Incumbent. => When Aetherborn Incumbent enters, draw a card.
+{B}: Aetherborn Incumbent gets +1/-1 until the end of turn. 
+{W}: Aetherborn Incumbent gets -1/+1 until the end of turn.
+pt: 1/3 => 2/3
+
+Gearseeker Squid
+rules_text: Ward {3}
+{3}{U}, Discard Gearseeker Squid: Stun target creature. Draw a card. => Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+{3}{U}, Discard Gearseeker Squid: Stun target creature. Draw a card. [i](Tap this creature and put a stun counter on it.)[/i]
+
+Worker Strike
+
+Defeatist Recycler
+type: Creature — Human Artificer => Artifact Creature — Servo
+
+Factory Mazdoor
+type: Artifact Creature — Assembly-Worker => Creature — Dwarf Artificer
+
+Fanatical Recruitment
+
+Ferrophage Spider
+rules_text: Reach
+When Ferrophage Spider blocks a creature with flying, it gains +3/+0 until end of t urn. => Reach [i](This creature can block creatures with flying.)[/i]
+When Ferrophage Spider blocks a creature with flying, it gains +3/+0 until end of t urn.
+
+Ceaseless Fires
+rules_text: Ceaseless Fires deals 4 damage to any target and that damage can't be prevented. 
+[i]Raid[/i] - If you attacked this turn you get {E}{E}, then you may pay {E}{E}{E}{E}, if you do, copy this spell. You may choose new targets for the copies. => Until end of turn damage can't be prevented. 
+Ceaseless Fires deals 4 damage to target creature.
+[i]Raid[/i] - If you attacked this turn you get {E}{E}, then you may pay {E}{E}{E}{E}, if you do, Ceaseless Fires deals 4 damage to any target.
+
+Yasova, Firebrand Zealot
+
+Morph
+
+Servo
+
+Manifest
+rules_text: A manifested creature card can be turned face up any time for its mana cost or morph cost. => [i](You can cover a face-down manifested creature with this reminder card. [b]
+[/b]A manifested creature card can be turned face up any time for its mana cost or its morph cost.)[/i]
+
+
+VERSION 22 CHANGELOG
 ====================
 
 
