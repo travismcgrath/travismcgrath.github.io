@@ -584,7 +584,7 @@
 			"name": "The Consul's Orator",
 			"rarity": "rare",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Dwarf Advisor",
+			"type": "Creature — Human Advisor",
 			"collector_number": "9",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/9_The Consul's Orator.png"
@@ -2304,7 +2304,7 @@
 			"name": "Sidisi's Scavenger",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Creature — Bat Snake",
+			"type": "Creature — Bird Servo",
 			"collector_number": "82",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/82_Sidisi's Scavenger.png"
@@ -2424,7 +2424,7 @@
 			"name": "Offload",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Instant",
+			"type": "Sorcery",
 			"collector_number": "108",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/108_Offload.png"
@@ -2494,7 +2494,7 @@
 			"name": "Ferrophage Spider",
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
-			"type": "Creature — Spider",
+			"type": "Artifact Creature — Spider Servo",
 			"collector_number": "122",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/122_Ferrophage Spider.png"
@@ -2861,13 +2861,13 @@
 			}
 		},
 		{
-			"name": "Tradewind Pilot",
+			"name": "Tradewind Stalker",
 			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Pilot",
+			"mana_cost": "{5}{U}",
+			"type": "Creature — Whale",
 			"collector_number": "55",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/55_Tradewind Pilot.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/55_Tradewind Stalker.png"
 			}
 		},
 		{
@@ -3146,7 +3146,7 @@
 	8 Aether Dart
 	8 Mineral Appraiser
 	8 Displaced Dreadmaw
-	8 Tradewind Pilot
+	8 Tradewind Stalker
 [foil(1)]
 	12 Thriving Grubs
 	1 Dovin Baan, Persistent Ruler
@@ -3408,7 +3408,7 @@
 	12 Aether Dart
 	12 Mineral Appraiser
 	12 Displaced Dreadmaw
-	12 Tradewind Pilot
+	12 Tradewind Stalker
 	6 Storm Harmonist
 [wildcard(1)]
 	6 Thriving Grubs
@@ -3671,7 +3671,7 @@
 	6 Aether Dart
 	6 Mineral Appraiser
 	6 Displaced Dreadmaw
-	6 Tradewind Pilot
+	6 Tradewind Stalker
 	15 Storm Harmonist
 [landslot(1)]
 	12 Tranquil Cove

@@ -78,7 +78,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Greg Rutkowski",
+            "artist": "Amol Hirawadekar",
             "alias": "",
             "notes": "!energy"
         },
@@ -249,7 +249,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Anato Finnstark",
+            "artist": "Donato Giancola",
             "alias": "",
             "notes": ""
         },
@@ -306,7 +306,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Ricardo Rivera",
+            "artist": "Amelia Tan",
             "alias": "",
             "notes": "!energy"
         },
@@ -458,7 +458,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Vladimir Matyukhin",
+            "artist": "Nathaniel Himawan",
             "alias": "",
             "notes": "!energy"
         },
@@ -1047,7 +1047,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Anthony Palumbo",
+            "artist": "Clarence Bateman",
             "alias": "",
             "notes": ""
         },
@@ -1112,7 +1112,7 @@
             "card_name": "The Consul's Orator",
             "color": "W",
             "rarity": "rare",
-            "type": "Creature \u2014 Dwarf Advisor",
+            "type": "Creature \u2014 Human Advisor",
             "number": 9,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -1123,7 +1123,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Argentics Studio",
+            "artist": "Chandra Sekhar Poudyal",
             "alias": "",
             "notes": ""
         },
@@ -1256,7 +1256,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Sergey Grechanyuk",
+            "artist": "Donato Giancola",
             "alias": "",
             "notes": "!energy"
         },
@@ -1807,7 +1807,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Anton Fadeev",
+            "artist": "Bhaskar Rac",
             "alias": "",
             "notes": ""
         },
@@ -1845,7 +1845,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Aurore Folny",
+            "artist": "Chandra Sekhar Poudyal",
             "alias": "",
             "notes": "!energy"
         },
@@ -1883,7 +1883,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "PolyForged Studio",
+            "artist": "Robert Schneider",
             "alias": "",
             "notes": ""
         },
@@ -1902,7 +1902,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Thomas Ricci",
+            "artist": "A. Lundell",
             "alias": "",
             "notes": ""
         },
@@ -2054,7 +2054,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Robert Chew",
+            "artist": "Elartwyne Estole",
             "alias": "",
             "notes": ""
         },
@@ -2244,7 +2244,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Sylvain Sarrailh",
+            "artist": "Ardika Priyata",
             "alias": "",
             "notes": ""
         },
@@ -2301,7 +2301,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Pedro Sena",
+            "artist": "Zoe Badini",
             "alias": "",
             "notes": ""
         },
@@ -2415,7 +2415,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Kan Liu",
+            "artist": "Aman Ranjan",
             "alias": "",
             "notes": ""
         },
@@ -2567,7 +2567,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "David Gaillet",
+            "artist": "Chandra Sekhar Poudyal",
             "alias": "",
             "notes": ""
         },
@@ -2681,7 +2681,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Alex Rommel",
+            "artist": "Nishita Mohan",
             "alias": "",
             "notes": "!energy"
         },
@@ -2700,7 +2700,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Sangsoo Jeong",
+            "artist": "Daniel M",
             "alias": "",
             "notes": ""
         },
@@ -2807,7 +2807,7 @@
             "number": 141,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Reach\nMorph\u2014Reveal a green card in your hand. \nWhen Tenth Bridge Turret Guard is turned face up, scry 2",
+            "rules_text": "Reach\nMorph\u2014Reveal a green card in your hand. \nWhen Tenth Bridge Turret Guard is turned face up, target creature loses flying until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "0/6",
             "special_text": "",
@@ -2833,7 +2833,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Sergey Vasnev",
+            "artist": "Abhishek Das",
             "alias": "",
             "notes": ""
         },
@@ -3023,7 +3023,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Herve Groussin",
+            "artist": "Nishita Mohan",
             "alias": "",
             "notes": ""
         },
@@ -3289,7 +3289,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Gavin Manners",
+            "artist": "Victor Garcia",
             "alias": "",
             "notes": "!energy"
         },
@@ -3308,7 +3308,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Aurore Folny",
+            "artist": "Sandara Tang",
             "alias": "",
             "notes": ""
         },
@@ -3669,7 +3669,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "James Lewis-Vines",
+            "artist": "Chandra Sekhar Poudyal",
             "alias": "",
             "notes": ""
         },
@@ -4106,7 +4106,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Alena Aenami",
+            "artist": "Chandra Sekhar Poudyal",
             "alias": "",
             "notes": ""
         },
@@ -4201,7 +4201,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Tom Kaumal",
+            "artist": "Jorge Oliveira",
             "alias": "",
             "notes": ""
         },
@@ -4380,7 +4380,7 @@
             "card_name": "Sidisi's Scavenger",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Bat Snake",
+            "type": "Creature \u2014 Bird Servo",
             "number": 82,
             "color_identity": "B",
             "cost": "{1}{B}",
@@ -4391,7 +4391,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Tully Summers",
+            "artist": "Peng Lu",
             "alias": "",
             "notes": ""
         },
@@ -4486,7 +4486,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Anato Finnstark",
+            "artist": "Chandra Sekhar Poudyal",
             "alias": "",
             "notes": ""
         },
@@ -4608,7 +4608,7 @@
             "card_name": "Offload",
             "color": "R",
             "rarity": "common",
-            "type": "Instant",
+            "type": "Sorcery",
             "number": 108,
             "color_identity": "R",
             "cost": "{1}{R}",
@@ -4741,7 +4741,7 @@
             "card_name": "Ferrophage Spider",
             "color": "G",
             "rarity": "common",
-            "type": "Creature \u2014 Spider",
+            "type": "Artifact Creature \u2014 Spider Servo",
             "number": 122,
             "color_identity": "G",
             "cost": "{1}{G}",
@@ -4752,7 +4752,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Banyon Street",
+            "artist": "Kelly Potter",
             "alias": "",
             "notes": ""
         },
@@ -5441,21 +5441,21 @@
             "notes": ""
         },
         {
-            "card_name": "Tradewind Pilot",
+            "card_name": "Tradewind Stalker",
             "color": "U",
             "rarity": "common",
-            "type": "Creature \u2014 Human Pilot",
+            "type": "Creature \u2014 Whale",
             "number": 55,
             "color_identity": "U",
-            "cost": "{1}{U}",
-            "rules_text": "Morph 4{U}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]\nWhen Tradewind Pilot is turned face up, return target permanent you control and target permanent you don't control to their owners' hands.",
+            "cost": "{5}{U}",
+            "rules_text": "Morph 4{U}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "4/6",
             "special_text": "",
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Ani Larmina",
+            "artist": "Artem Chebokha",
             "alias": "",
             "notes": ""
         },
@@ -5474,10 +5474,10 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Yuumei Wenqing Yan",
+            "artist": "Satish Tayade",
             "alias": "",
             "notes": ""
         }
     ],
-    "version": 26
+    "version": 27
 }

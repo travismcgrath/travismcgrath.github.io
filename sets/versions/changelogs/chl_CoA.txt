@@ -1,4 +1,83 @@
-﻿VERSION 26 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+Tradewind Stalker added.
+
+Tradewind Pilot removed.
+
+Zurgo, Anarchist Leader
+
+Aethermate Roc
+
+Lightning Runner
+
+Adi Thandray, Platinum Ancestor
+
+Machiavellian Will
+
+The Consul's Orator
+type: Creature — Dwarf Advisor => Creature — Human Advisor
+
+Execution Module
+
+Icefeather Exporter
+
+Riotous Brawler
+
+Labor Charm
+
+Consul's Charm
+
+Roost's Guardian
+
+Glacial Glintcrane
+
+Willbender
+
+Ruthless Ripper
+
+War-Name Aspirant
+
+Harnessed Lightning
+
+Armorcraft Purchase
+
+Tenth Bridge Turret Guard
+rules_text: Reach
+Morph—Reveal a green card in your hand. 
+When Tenth Bridge Turret Guard is turned face up, scry 2 => Reach
+Morph—Reveal a green card in your hand. 
+When Tenth Bridge Turret Guard is turned face up, target creature loses flying until end of turn.
+
+Guarded Supply Freighter
+
+Loxodon Memorial
+
+Irreversible Nightmare
+
+Chief of the Nail
+
+Head-Shot Bow
+
+Unseasonal Squall
+
+Minister of Flight
+
+Sidisi's Scavenger
+type: Creature — Bat Snake => Creature — Bird Servo
+
+Narset's Student
+
+Offload
+type: Instant => Sorcery
+
+Ferrophage Spider
+type: Creature — Spider => Artifact Creature — Spider Servo
+
+Storm Harmonist
+
+
+VERSION 26 CHANGELOG
 ====================
 
 No changes.
