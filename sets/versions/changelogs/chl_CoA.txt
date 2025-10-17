@@ -1,4 +1,9 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 26 CHANGELOG
+====================
+
+No changes.
+
+VERSION 25 CHANGELOG
 ====================
 
 Aetherspout Erruption added.
