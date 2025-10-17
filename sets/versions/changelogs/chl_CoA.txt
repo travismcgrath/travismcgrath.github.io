@@ -1,4 +1,19 @@
-﻿VERSION 24 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+Aetherspout Erruption added.
+Displaced Dreadmaw added.
+Tradewind Pilot added.
+Storm Harmonist added.
+
+Aetherspout Erruptions removed.
+
+Tenth Bridge Turret Guard
+
+Minister of Flight
+
+
+VERSION 24 CHANGELOG
 ====================
 
 Consul's Attache added.
