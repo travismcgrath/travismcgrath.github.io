@@ -535,9 +535,9 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "132",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/132_Qal Sisma Mystic.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/133_Qal Sisma Mystic.png"
 			}
 		},
 		{
@@ -601,13 +601,13 @@
 			}
 		},
 		{
-			"name": "Roaming Sanctuary",
+			"name": "Snapping Sanctuary",
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Turtle Elemental",
-			"collector_number": "138",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/138_Roaming Sanctuary.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/140_Snapping Sanctuary.png"
 			}
 		},
 		{
@@ -974,7 +974,7 @@
 			"name": "Chief of the Hammer",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
-			"type": "Creature — Dwarf Berserker",
+			"type": "Creature — Human Berserker",
 			"collector_number": "157",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/157_Chief of the Hammer.png"
@@ -1171,13 +1171,13 @@
 			}
 		},
 		{
-			"name": "Glacial Glintcrane",
+			"name": "Glacial Glintfisher",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Bird",
 			"collector_number": "45",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/45_Glacial Glintcrane.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/45_Glacial Glintfisher.png"
 			}
 		},
 		{
@@ -1381,13 +1381,13 @@
 			}
 		},
 		{
-			"name": "Fairground Acrobat",
+			"name": "Fairgrounds Acrobat",
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Rogue",
 			"collector_number": "96",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/96_Fairground Acrobat.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/96_Fairgrounds Acrobat.png"
 			}
 		},
 		{
@@ -2461,13 +2461,13 @@
 			}
 		},
 		{
-			"name": "Red Wood Walker",
+			"name": "Peema Colossus",
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/133_Red Wood Walker.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/132_Peema Colossus.png"
 			}
 		},
 		{
@@ -2525,9 +2525,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Monk",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/139_Sage-Eye Enforcer.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/138_Sage-Eye Enforcer.png"
 			}
 		},
 		{
@@ -2565,9 +2565,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/140_Savage Punch.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/139_Savage Punch.png"
 			}
 		},
 		{
@@ -2942,7 +2942,7 @@
 	2 Bloodfire Master
 	2 The Consul's Orator
 	2 Syndicate Logistician
-	2 Roaming Sanctuary
+	2 Snapping Sanctuary
 	2 Generous Angel
 	2 Mine for Solutions
 	2 Exploration Module
@@ -3002,7 +3002,7 @@
 	4 Glimmer of Genius
 	4 Shrewd Negotiation
 	4 Innovation Setbacks
-	4 Glacial Glintcrane
+	4 Glacial Glintfisher
 	4 Denial Lobbyist
 	4 Astute Fairground Vendor
 	4 Willbender
@@ -3052,7 +3052,7 @@
 	4 Aetherborn Bond-Kin
 	4 Inauspicious Skyclaw
 	4 Aetherspout Erruption
-	4 Red Wood Walker
+	4 Peema Colossus
 	4 Extinction Rebellion
 	4 Raise the Alms
 	4 Hypnotizing AetherBorealis
@@ -3062,7 +3062,7 @@
 	8 Thriving Grubs
 	8 Devout Kirin
 	8 Cogify
-	8 Fairground Acrobat
+	8 Fairgrounds Acrobat
 	8 Tenth Bridge Turret Guard
 	8 Consol's Bodyguards
 	8 Alloy Loxodon
@@ -3208,7 +3208,7 @@
 	2 Bloodfire Master
 	2 The Consul's Orator
 	2 Syndicate Logistician
-	2 Roaming Sanctuary
+	2 Snapping Sanctuary
 	2 Generous Angel
 	2 Mine for Solutions
 	2 Exploration Module
@@ -3265,7 +3265,7 @@
 	6 Glimmer of Genius
 	6 Shrewd Negotiation
 	6 Innovation Setbacks
-	6 Glacial Glintcrane
+	6 Glacial Glintfisher
 	6 Denial Lobbyist
 	6 Astute Fairground Vendor
 	6 Willbender
@@ -3286,7 +3286,7 @@
 	6 Bloodfire Sage
 	6 Ashcloud Dragster
 	6 Maulfist Doorbuster
-	12 Fairground Acrobat
+	12 Fairgrounds Acrobat
 	6 Myopic Pillaging
 	6 Harnessed Lightning
 	6 Armorcraft Purchase
@@ -3383,7 +3383,7 @@
 	12 Optimistic Nihilism
 	12 Fanatical Recruitment
 	6 Aetherspout Erruption
-	6 Red Wood Walker
+	6 Peema Colossus
 	12 Fairgrounds Security
 	12 Zurgo's Disciple
 	12 Ferrophage Spider
@@ -3471,7 +3471,7 @@
 	7 Bloodfire Master
 	7 The Consul's Orator
 	7 Syndicate Logistician
-	7 Roaming Sanctuary
+	7 Snapping Sanctuary
 	7 Generous Angel
 	7 Mine for Solutions
 	7 Exploration Module
@@ -3528,7 +3528,7 @@
 	15 Glimmer of Genius
 	15 Shrewd Negotiation
 	15 Innovation Setbacks
-	15 Glacial Glintcrane
+	15 Glacial Glintfisher
 	15 Denial Lobbyist
 	15 Astute Fairground Vendor
 	15 Willbender
@@ -3549,7 +3549,7 @@
 	15 Bloodfire Sage
 	15 Ashcloud Dragster
 	15 Maulfist Doorbuster
-	6 Fairground Acrobat
+	6 Fairgrounds Acrobat
 	15 Myopic Pillaging
 	15 Harnessed Lightning
 	15 Armorcraft Purchase
@@ -3646,7 +3646,7 @@
 	6 Optimistic Nihilism
 	6 Fanatical Recruitment
 	15 Aetherspout Erruption
-	15 Red Wood Walker
+	15 Peema Colossus
 	6 Fairgrounds Security
 	6 Zurgo's Disciple
 	6 Ferrophage Spider

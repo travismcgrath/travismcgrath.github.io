@@ -85,7 +85,7 @@
     },
     {
         "card_name": "Qal Sisma Mystic",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "CoA"
     },
@@ -114,8 +114,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Roaming Sanctuary",
-        "number": 138,
+        "card_name": "Snapping Sanctuary",
+        "number": 140,
         "shape": "normal",
         "set": "CoA"
     },
@@ -276,7 +276,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Glacial Glintcrane",
+        "card_name": "Glacial Glintfisher",
         "number": 45,
         "shape": "normal",
         "set": "CoA"
@@ -324,8 +324,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Red Wood Walker",
-        "number": 133,
+        "card_name": "Peema Colossus",
+        "number": 132,
         "shape": "normal",
         "set": "CoA"
     },
@@ -558,7 +558,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Fairground Acrobat",
+        "card_name": "Fairgrounds Acrobat",
         "number": 96,
         "shape": "normal",
         "set": "CoA"
@@ -775,7 +775,7 @@
     },
     {
         "card_name": "Sage-Eye Enforcer",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "CoA"
     },
@@ -805,7 +805,7 @@
     },
     {
         "card_name": "Savage Punch",
-        "number": 140,
+        "number": 139,
         "shape": "normal",
         "set": "CoA"
     },

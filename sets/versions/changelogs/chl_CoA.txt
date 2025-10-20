@@ -1,4 +1,45 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+Snapping Sanctuary added.
+Glacial Glintfisher added.
+Fairgrounds Acrobat added.
+Peema Colossus added.
+
+Roaming Sanctuary removed.
+Glacial Glintcrane removed.
+Fairground Acrobat removed.
+Red Wood Walker removed.
+
+Adi Thandray, Platinum Ancestor
+
+Kneecap Blaster
+rules_text: Haste, trample
+When Kneecap Blaster attacks, attacking creatures you control gain +2/+0. => Haste, trample
+When Kneecap Blaster attacks, attacking creatures you control gain +2/+0 and trample.
+
+Chief of the Hammer
+type: Creature — Dwarf Berserker => Creature — Human Berserker
+
+Labor Charm
+
+Sage-Eye Apprentice
+pt: 1/1 => 0/1
+
+Tenth Bridge Copter
+
+Improvised Weather Machine
+
+Loxodon Memorial
+
+Foundry Auditor
+
+Bird
+
+Manifest
+
+
+VERSION 28 CHANGELOG
 ====================
 
 Surrak, Pelt-Clad Ancestor added.
