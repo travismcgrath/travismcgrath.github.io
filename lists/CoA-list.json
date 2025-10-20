@@ -25,7 +25,7 @@
     },
     {
         "card_name": "Longtusk Pride",
-        "number": 128,
+        "number": 129,
         "shape": "normal",
         "set": "CoA"
     },
@@ -85,7 +85,7 @@
     },
     {
         "card_name": "Qal Sisma Mystic",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "CoA"
     },
@@ -115,7 +115,7 @@
     },
     {
         "card_name": "Roaming Sanctuary",
-        "number": 137,
+        "number": 138,
         "shape": "normal",
         "set": "CoA"
     },
@@ -145,7 +145,7 @@
     },
     {
         "card_name": "Trail of Mystery",
-        "number": 142,
+        "number": 143,
         "shape": "normal",
         "set": "CoA"
     },
@@ -198,7 +198,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Aetherspout Erruption",
+        "card_name": "Aetherbomb Arsonist",
         "number": 90,
         "shape": "normal",
         "set": "CoA"
@@ -228,14 +228,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Aethertorch Arsonist",
+        "card_name": "Aetherspout Erruption",
         "number": 91,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Incensed Druid",
-        "number": 127,
+        "number": 128,
         "shape": "normal",
         "set": "CoA"
     },
@@ -265,7 +265,7 @@
     },
     {
         "card_name": "Loxodon Memorial",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "CoA"
     },
@@ -295,7 +295,7 @@
     },
     {
         "card_name": "Nature's Way",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "CoA"
     },
@@ -325,7 +325,7 @@
     },
     {
         "card_name": "Red Wood Walker",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "CoA"
     },
@@ -355,7 +355,7 @@
     },
     {
         "card_name": "Resistance Factor",
-        "number": 134,
+        "number": 135,
         "shape": "normal",
         "set": "CoA"
     },
@@ -385,7 +385,7 @@
     },
     {
         "card_name": "Return from the Horizon",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "CoA"
     },
@@ -415,7 +415,7 @@
     },
     {
         "card_name": "Riparian Jaguar",
-        "number": 136,
+        "number": 137,
         "shape": "normal",
         "set": "CoA"
     },
@@ -445,7 +445,7 @@
     },
     {
         "card_name": "Storm Harmonist",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "CoA"
     },
@@ -475,12 +475,12 @@
     },
     {
         "card_name": "Tuskguard Colonel",
-        "number": 143,
+        "number": 144,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Aristocrats' Stampede",
+        "card_name": "Aristocrats' Steed",
         "number": 3,
         "shape": "normal",
         "set": "CoA"
@@ -558,7 +558,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Fanatical Recruitment",
+        "card_name": "Fairground Acrobat",
         "number": 96,
         "shape": "normal",
         "set": "CoA"
@@ -588,7 +588,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Gremlin Squad",
+        "card_name": "Fanatical Recruitment",
         "number": 97,
         "shape": "normal",
         "set": "CoA"
@@ -654,7 +654,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Fire-Armed Luddite",
+        "card_name": "Filigree-horn Luddite",
         "number": 123,
         "shape": "normal",
         "set": "CoA"
@@ -714,8 +714,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Reimmerse In Nature",
-        "number": 133,
+        "card_name": "Immense Development",
+        "number": 127,
         "shape": "normal",
         "set": "CoA"
     },
@@ -744,8 +744,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Sage-Eye Enforcer",
-        "number": 138,
+        "card_name": "Reimmerse In Nature",
+        "number": 134,
         "shape": "normal",
         "set": "CoA"
     },
@@ -774,7 +774,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Savage Punch",
+        "card_name": "Sage-Eye Enforcer",
         "number": 139,
         "shape": "normal",
         "set": "CoA"
@@ -804,8 +804,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Tenth Bridge Turret Guard",
-        "number": 141,
+        "card_name": "Savage Punch",
+        "number": 140,
         "shape": "normal",
         "set": "CoA"
     },
@@ -834,8 +834,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Vast Development",
-        "number": 144,
+        "card_name": "Tenth Bridge Turret Guard",
+        "number": 142,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1162,7 +1162,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Surrak, True-Form Ancestor",
+        "card_name": "Surrak, Pelt-Clad Ancestor",
         "number": 202,
         "shape": "normal",
         "set": "CoA"
@@ -1323,37 +1323,37 @@
     },
     {
         "card_name": "Altar of the Brood",
-        "number": 212,
+        "number": 213,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Cultivator's Caravan",
-        "number": 216,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Execution Module",
         "number": 217,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Exploration Module",
+        "card_name": "Execution Module",
         "number": 218,
         "shape": "normal",
         "set": "CoA"
     },
     {
+        "card_name": "Exploration Module",
+        "number": 219,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
         "card_name": "Fleetwheel Cruiser",
-        "number": 222,
+        "number": 223,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Ghostfire Blade",
-        "number": 225,
+        "number": 226,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1377,31 +1377,31 @@
     },
     {
         "card_name": "Bomat Bazaar Barge",
-        "number": 213,
+        "number": 214,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Briber's Purse",
-        "number": 215,
+        "number": 216,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Extraction Module",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Foundry Auditor",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Ghirapur Parapets",
-        "number": 224,
+        "number": 225,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1430,26 +1430,26 @@
         "set": "CoA"
     },
     {
+        "card_name": "Aether-Shot Bow",
+        "number": 212,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
         "card_name": "Brass Winged Vulture",
-        "number": 214,
+        "number": 215,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Factory BannerKnot",
-        "number": 220,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Filigree Familiar",
         "number": 221,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Head-Shot Bow",
-        "number": 226,
+        "card_name": "Filigree Familiar",
+        "number": 222,
         "shape": "normal",
         "set": "CoA"
     },

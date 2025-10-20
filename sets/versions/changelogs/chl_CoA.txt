@@ -1,4 +1,214 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+Surrak, Pelt-Clad Ancestor added.
+Aetherbomb Arsonist added.
+Fairground Acrobat added.
+Aether-Shot Bow added.
+Aristocrats' Steed added.
+Filigree-horn Luddite added.
+Immense Development added.
+
+Surrak, True-Form Ancestor removed.
+Aethertorch Arsonist removed.
+Gremlin Squad removed.
+Head-Shot Bow removed.
+Aristocrats' Stampede removed.
+Fire-Armed Luddite removed.
+Vast Development removed.
+
+Waste Land
+
+Dustblast
+
+Dragonfist Technique
+
+Sagu Deforester
+
+Kneecap Blaster
+
+Savage Union Busters
+
+Gonti's Patronage
+
+Birth of Rebellion
+
+Bloodsoaked Champion
+
+Howl of the Horde
+
+Hooded Hydra
+
+Trail of Mystery
+
+Jeering Instigator
+type: Creature — Goblin Rogue => Creature — Human Rogue
+
+Machiavellian Will
+
+Roaming Sanctuary
+
+Generous Angel
+
+Extraction Module
+
+Fleetwheel Cruiser
+
+Corrupted Workshop
+
+Seaside Citadel
+
+Financial Soothsayer
+
+Bear Market
+
+Smash Up
+
+Icefeather Exporter
+
+Labor Charm
+
+Consul's Charm
+
+Monastic Charm
+
+Gearshift Pitcrew
+type: Creature — Human Artificer => Creature — Elf Artificer
+
+Devout Kirin
+
+Glimmer of Genius
+
+Denial Lobbyist
+
+Underhanded Designs
+
+Glintsleeve Bruiser
+
+Bloody Auctioneer
+type: Creature — Human Citizen => Creature — Human Merchant
+
+Hordeling Troublemaker
+rules_text: Morph—Reveal a red card in your hand. 
+When Hordeling Troublemaker is turned face up or dies, it deals 1 damage to any target. => Haste
+Morph—Reveal a red card in your hand. 
+When Hordeling Troublemaker is turned face up or dies, it deals 1 damage to any target.
+
+War-Name Aspirant
+
+Harnessed Lightning
+
+Return from the Horizon
+
+Riparian Jaguar
+
+Incensed Druid
+
+Tenth Bridge Turret Guard
+type: Creature — Naga Archer => Creature — Naga Wizard
+
+Ovalchase Dragster
+
+Consol's Bodyguards
+type: Artifact Creature — Servo Mercenary => Artifact Creature — Servo Wizard
+
+Improvised Weather Machine
+
+Ghirapur Parapets
+
+Loxodon Memorial
+
+Briber's Purse
+
+Swiftwater Cliffs
+
+Irreversible Nightmare
+
+Rocslide
+
+Illusion of Luxury
+
+Peema Woods Defenders
+
+Lawful BannerKnot
+
+Monastery BannerKnot
+
+Lawless BannerKnot
+
+Aether Spout Bulldozer
+
+Foundry Auditor
+
+Self-Assembler
+
+Snare Thopter
+
+Disassemble
+
+Medatative Inspiration
+
+Apprehend Dissident
+
+Contrive
+
+Artificer's Epiphany
+
+Unseasonal Squall
+
+Dovin's Spy
+
+Minister of Flight
+type: Creature — Human Artificer => Creature — Vedalken Artificer
+
+Gearseeker Squid
+rules_text: Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+{3}{U}, Discard Gearseeker Squid: Stun target creature. Draw a card. [i](Tap this creature and put a stun counter on it.)[/i] => Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+{2}{U}, Discard Gearseeker Squid: Up to two target creatures you control cannot be blocked this turn. Draw a card.
+
+Live Fast
+
+Worker Strike
+
+Graveyard Lurker
+type: Creature — Aetherborn Rogue => Creature — Aetherborn Zombie
+
+Malign Aetherborn
+type: Creature — Aetherborn Warriror => Creature — Aetherborn Warrior
+
+Summit Postulant
+
+Fanatical Recruitment
+
+Red Wood Walker
+
+Fairgrounds Security
+
+Disrupted Hibernator
+type: Creature — Bear Warrior => Creature — Bear
+
+Reimmerse In Nature
+
+Devolution
+
+Savage Punch
+
+Bull Market
+
+Yasova, Firebrand Zealot
+type: Legendary Creature — Human Monk => Legendary Creature — Human Warrior
+
+Snake
+
+Manifest
+
+Displaced Dreadmaw
+rules_text: Flying
+{B}, Sacrifice a nontoken creature: Target creature gets -1/-1 until end of turn and Displaced Dreadmaw manufactures 1. Activate only as a sorcery. => Menace
+{B}, Sacrifice a nontoken creature: Target creature gets -1/-1 until end of turn and Displaced Dreadmaw manufactures 1. Activate only as a sorcery.
+
+
+VERSION 27 CHANGELOG
 ====================
 
 Tradewind Stalker added.
