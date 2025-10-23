@@ -1,4 +1,15 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+
+
+Loxodon Memorial
+rules_text: When Loxodon Memorial enters, scry 2 and you gain 4 life.
+Non-Human, non-artifact creatures get +2/+2. => When Loxodon Memorial enters, scry 2 and you gain 4 life.
+Non-Human, non-artifact creatures you control get +2/+2.
+
+
+VERSION 30 CHANGELOG
 ====================
 
 

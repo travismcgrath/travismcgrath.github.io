@@ -3148,7 +3148,7 @@
             "number": 130,
             "color_identity": "G",
             "cost": "{4}{G}",
-            "rules_text": "When Loxodon Memorial enters, scry 2 and you gain 4 life.\nNon-Human, non-artifact creatures get +2/+2.",
+            "rules_text": "When Loxodon Memorial enters, scry 2 and you gain 4 life.\nNon-Human, non-artifact creatures you control get +2/+2.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",

@@ -10,7 +10,7 @@ Avishkar residents have responded to these natural disasters and immigrants in m
 Meanwhile, industrialists and financiers get rich exploiting the dwindling natural resources and lobbying the artificers who lead Avishkar's ruling council.
 
 
-**Change on Avishkar** is a draftable set of 275 card (17 mythic rares, 59 rares, 98 uncommons, and 101 commons). CoA uses Play Boosters which each contain 1 rare/mythic, 3 uncommons, 7 commons, 1 foil, 1 "wildcard", and 1 common land.
+**Change on Avishkar** is a draftable set of 275 card (16 mythic rares, 59 rares, 98 uncommons, and 101 commons). CoA uses Play Boosters which each contain 1 rare/mythic, 3 uncommons, 7 commons, 1 foil, 1 "wildcard", and 1 common land.
 
 <img align="right" width="200" height="353" style="margin:15px" src="/sets/CoA-files/Pack Art.png" alt="CoA Booster"/>
 
