@@ -1132,8 +1132,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Sagu Deforester",
-        "number": 195,
+        "card_name": "Nefarious Inheritence",
+        "number": 187,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1162,8 +1162,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Surrak, Pelt-Clad Ancestor",
-        "number": 202,
+        "card_name": "Sagu Deforester",
+        "number": 195,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1192,14 +1192,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Finance Charm",
-        "number": 169,
+        "card_name": "Surrak, Pelt-Clad Ancestor",
+        "number": 202,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Nefarious Inheritence",
-        "number": 187,
+        "card_name": "Citizen's Companion",
+        "number": 159,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1222,14 +1222,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Financial Soothsayer",
-        "number": 170,
+        "card_name": "Finance Charm",
+        "number": 169,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Citizen's Companion",
-        "number": 159,
+        "card_name": "Consul's Charm",
+        "number": 162,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1252,14 +1252,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Illusion of Luxury",
-        "number": 176,
+        "card_name": "Financial Soothsayer",
+        "number": 170,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Consul's Charm",
-        "number": 162,
+        "card_name": "Inspector Brigade",
+        "number": 178,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1282,25 +1282,10 @@
         "set": "CoA"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "Inspector Brigade",
-        "number": 178,
+        "card_name": "Illusion of Luxury",
+        "number": 176,
         "shape": "normal",
         "set": "CoA"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1316,12 +1301,6 @@
     },
     "a->colorless",
     {
-        "card_name": "Walking Ballista",
-        "number": 245,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
         "card_name": "Altar of the Brood",
         "number": 213,
         "shape": "normal",
@@ -1330,12 +1309,6 @@
     {
         "card_name": "Cultivator's Caravan",
         "number": 217,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Execution Module",
-        "number": 218,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1384,6 +1357,12 @@
     {
         "card_name": "Briber's Purse",
         "number": 216,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Execution Module",
+        "number": 218,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1527,21 +1506,9 @@
     },
     {
         "card_name": "Wrought Iron Rhino",
-        "number": 246,
+        "number": 245,
         "shape": "normal",
         "set": "CoA"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1650,96 +1617,102 @@
     },
     {
         "card_name": "Obscuring Avalanche",
-        "number": 256,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Arid Mesa",
-        "number": 249,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Marsh Flats",
-        "number": 254,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Misty Rainforest",
         "number": 255,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Scalding Tarn",
-        "number": 258,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Verdant Catacombs",
-        "number": 260,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Waste Land",
-        "number": 261,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Aether Hub",
-        "number": 247,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Arcane Sanctum",
+        "card_name": "Arid Mesa",
         "number": 248,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Corrupted Workshop",
-        "number": 250,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Crumbling Necropolis",
-        "number": 251,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Indigo Monmument",
-        "number": 252,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Jungle Shrine",
+        "card_name": "Marsh Flats",
         "number": 253,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Savage Lands",
+        "card_name": "Misty Rainforest",
+        "number": 254,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Scalding Tarn",
         "number": 257,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Seaside Citadel",
+        "card_name": "Verdant Catacombs",
         "number": 259,
         "shape": "normal",
         "set": "CoA"
     },
     {
+        "card_name": "Waste Land",
+        "number": 260,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Aether Hub",
+        "number": 246,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Arcane Sanctum",
+        "number": 247,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Corrupted Workshop",
+        "number": 249,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Crumbling Necropolis",
+        "number": 250,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Indigo Monmument",
+        "number": 251,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Jungle Shrine",
+        "number": 252,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Savage Lands",
+        "number": 256,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Seaside Citadel",
+        "number": 258,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
         "card_name": "Zurgo's Encampment",
+        "number": 261,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "\nSunset Smoglands",
         "number": 262,
         "shape": "normal",
         "set": "CoA"
@@ -1757,7 +1730,49 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "Plains",
+        "number": 274,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Mountain",
+        "number": 277,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Forest",
+        "number": 278,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Swamp",
+        "number": 276,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Island",
+        "number": 275,
+        "shape": "normal",
+        "set": "CoA"
     },
     {
         "card_name": "er"

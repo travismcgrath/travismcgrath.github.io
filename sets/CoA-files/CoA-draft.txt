@@ -65,9 +65,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "260",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/261_Waste Land.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/260_Waste Land.png"
 			}
 		},
 		{
@@ -171,23 +171,13 @@
 			}
 		},
 		{
-			"name": "Walking Ballista",
-			"rarity": "mythic",
-			"mana_cost": "{X}{X}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "245",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/245_Walking Ballista.png"
-			}
-		},
-		{
 			"name": "Scalding Tarn",
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/258_Scalding Tarn.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/257_Scalding Tarn.png"
 			}
 		},
 		{
@@ -195,9 +185,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/254_Marsh Flats.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/253_Marsh Flats.png"
 			}
 		},
 		{
@@ -205,9 +195,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "249",
+			"collector_number": "248",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/249_Arid Mesa.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/248_Arid Mesa.png"
 			}
 		},
 		{
@@ -215,9 +205,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "259",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/260_Verdant Catacombs.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/259_Verdant Catacombs.png"
 			}
 		},
 		{
@@ -225,9 +215,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/255_Misty Rainforest.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/254_Misty Rainforest.png"
 			}
 		},
 		{
@@ -293,7 +283,7 @@
 		{
 			"name": "Nefarious Inheritence",
 			"rarity": "rare",
-			"mana_cost": "{X}{X}{W}{U}{B}",
+			"mana_cost": "{X}{X}{G}{W}{U}",
 			"type": "Sorcery",
 			"collector_number": "187",
 			"image_uris": {
@@ -652,7 +642,7 @@
 		},
 		{
 			"name": "Execution Module",
-			"rarity": "rare",
+			"rarity": "uncommon",
 			"mana_cost": "{1}",
 			"type": "Artifact",
 			"collector_number": "218",
@@ -735,9 +725,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "250",
+			"collector_number": "249",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/250_Corrupted Workshop.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/249_Corrupted Workshop.png"
 			}
 		},
 		{
@@ -745,9 +735,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/256_Obscuring Avalanche.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/255_Obscuring Avalanche.png"
 			}
 		},
 		{
@@ -755,9 +745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/259_Seaside Citadel.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/258_Seaside Citadel.png"
 			}
 		},
 		{
@@ -765,9 +755,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "248",
+			"collector_number": "247",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/248_Arcane Sanctum.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/247_Arcane Sanctum.png"
 			}
 		},
 		{
@@ -775,9 +765,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "250",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/251_Crumbling Necropolis.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/250_Crumbling Necropolis.png"
 			}
 		},
 		{
@@ -785,9 +775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/257_Savage Lands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/256_Savage Lands.png"
 			}
 		},
 		{
@@ -795,9 +785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/253_Jungle Shrine.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/252_Jungle Shrine.png"
 			}
 		},
 		{
@@ -805,9 +795,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "247",
+			"collector_number": "246",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/247_Aether Hub.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/246_Aether Hub.png"
 			}
 		},
 		{
@@ -815,9 +805,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "261",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/262_Zurgo's Encampment.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/261_Zurgo's Encampment.png"
 			}
 		},
 		{
@@ -825,9 +815,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/252_Indigo Monmument.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/251_Indigo Monmument.png"
 			}
 		},
 		{
@@ -1895,9 +1885,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Rhino",
-			"collector_number": "246",
+			"collector_number": "245",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/246_Wrought Iron Rhino.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/245_Wrought Iron Rhino.png"
 			}
 		},
 		{
@@ -1974,7 +1964,7 @@
 			"name": "Foundry Auditor",
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
-			"type": "Artifact — Assembly-Worker",
+			"type": "Artifact Creature — Assembly-Worker",
 			"collector_number": "224",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/224_Foundry Auditor.png"
@@ -2874,10 +2864,72 @@
 			"name": "Storm Harmonist",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
-			"type": "Creature — Human Bard",
+			"type": "Creature — Elf Bard",
 			"collector_number": "141",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/141_Storm Harmonist.png"
+			}
+		},
+		{
+			"name": "Plains",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Plains",
+			"collector_number": "274",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/274_Plains.png"
+			}
+		},
+		{
+			"name": "Mountain",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Mountain",
+			"collector_number": "277",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/277_Mountain.png"
+			}
+		},
+		{
+			"name": "Forest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Forest",
+			"collector_number": "278",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/278_Forest.png"
+			}
+		},
+		{
+			"name": "Swamp",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Swamp",
+			"collector_number": "276",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/276_Swamp.png"
+			}
+		},
+		{
+			"name": "Island",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Basic Land — Island",
+			"collector_number": "275",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/275_Island.png"
+			}
+		},
+		{
+			"name": "
+Sunset Smoglands",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "262",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/262_
+Sunset Smoglands.png"
 			}
 		}
 	]
@@ -2899,7 +2951,6 @@
 	1 Demon of Dark Schemes
 	1 Lightning Runner
 	1 Longtusk Pride
-	1 Walking Ballista
 	2 Scalding Tarn
 	2 Marsh Flats
 	2 Arid Mesa
@@ -2946,7 +2997,6 @@
 	2 Generous Angel
 	2 Mine for Solutions
 	2 Exploration Module
-	2 Execution Module
 	2 Skysovereign, Grounded Flagship
 	2 Smuggler's ATV
 	2 Cultivator's Caravan
@@ -2962,6 +3012,7 @@
 	2 Oviya Pashiri, Onlooking Spiritcrafter
 [uncommon(3)]
 	4 Extraction Module
+	4 Execution Module
 	4 Corrupted Workshop
 	4 Seaside Citadel
 	4 Arcane Sanctum
@@ -3165,7 +3216,6 @@
 	1 Demon of Dark Schemes
 	1 Lightning Runner
 	1 Longtusk Pride
-	1 Walking Ballista
 	2 Scalding Tarn
 	2 Marsh Flats
 	2 Arid Mesa
@@ -3213,7 +3263,7 @@
 	2 Mine for Solutions
 	2 Exploration Module
 	6 Extraction Module
-	2 Execution Module
+	6 Execution Module
 	2 Skysovereign, Grounded Flagship
 	2 Smuggler's ATV
 	2 Cultivator's Caravan
@@ -3428,7 +3478,6 @@
 	4 Demon of Dark Schemes
 	4 Lightning Runner
 	4 Longtusk Pride
-	4 Walking Ballista
 	7 Scalding Tarn
 	7 Marsh Flats
 	7 Arid Mesa
@@ -3476,7 +3525,7 @@
 	7 Mine for Solutions
 	7 Exploration Module
 	15 Extraction Module
-	7 Execution Module
+	15 Execution Module
 	7 Skysovereign, Grounded Flagship
 	7 Smuggler's ATV
 	7 Cultivator's Caravan
@@ -3685,3 +3734,5 @@
 	12 Wind-Scarred Crag
 	12 Thornwood Falls
 	12 Aradara Station
+	12 
+Sunset Smoglands

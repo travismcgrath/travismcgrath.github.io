@@ -1,4 +1,68 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+
+Sunset Smoglands added.
+
+Walking Ballista removed.
+
+Nefarious Inheritence
+cost: {X}{X}{W}{U}{B} => {X}{X}{G}{W}{U}
+
+Unscrupulous Puppeteer
+pt: 1/2 => 1/1
+
+Exploration Module
+rules_text: Whenever a Thopter enters under your control, scry 1, then you may sacrifice it. If you do, scry 2 instead. 
+{4},{T}: Create a 1/1 colorless Thopter artifact creature token with flying. => Whenever a Thopter enters under your control, scry 1 and create a map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+{4},{T}: Create a 1/1 colorless Thopter artifact creature token with flying.
+
+Extraction Module
+rules_text: Whenever you sacrifice an artifact or, land gain {E}.
+{2},{T} Sacrifice a land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle. => Whenever you sacrifice an artifact or land, gain {E}.
+{2},{T} Sacrifice a land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Execution Module
+
+Cultivator's Caravan
+
+Aether Hub
+
+Indigo Monmument
+
+Heir of the Wastes
+rules_text: Deathtouch
+During your turn, Heir of the Wastesgets +1/+1 if you or a creature you control has a counter on it. => Deathtouch
+During your turn, Heir of the Wastes gets +1/+1 if you or a creature you control has a counter on it.
+
+Bloody Auctioneer
+rules_text: When Bloody Auctioneer enters, each player sacrifices two creatures. 
+Morph {1}{B}{B} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i] => When Bloody Auctioneer enters or is turned face up, each player sacrifices two creatures. 
+Morph {1}{B}{B} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Ashcloud Dragster
+rules_text: Menace
+Whenever Ashcloud Dragster attacks or blocks, put a velocity counter on it. Then if it has three or more velocity counters on it, sacrifice it and draw three cards.
+Crew 2 => Menace
+Whenever Ashcloud Dragster attacks or blocks, put a velocity counter on it. Then if it has three or more velocity counters on it, sacrifice it and draw a card for each velocity counter on it.
+Crew 2
+
+Loxodon Memorial
+rules_text: When Loxodon Memorial enters, scry 2 and you gain 4 life.
+Non-Human, non-artifact creatures you control get +2/+2. => When Loxodon Memorial enters, scry 2 and you gain 4 life.
+Non-Human, non-artifact creatures get +2/+2.
+
+Foundry Auditor
+type: Artifact — Assembly-Worker => Artifact Creature — Assembly-Worker
+
+Graveyard Lurker
+rules_text: When Graveyard Lurker enters you mill 2 and get {E}{E}. When you do, you may pay {E}{E}{E}{E}. If you do return up to two target artifact or creature cards from your graveyard to your hand. => When Graveyard Lurker enters you mill 2 and get {E}{E}. When you do, you may pay {E}{E}{E}{E}. If you do return up to two target creature cards from your graveyard to your hand.
+
+Storm Harmonist
+type: Creature — Human Bard => Creature — Elf Bard
+
+
+VERSION 29 CHANGELOG
 ====================
 
 Snapping Sanctuary added.
