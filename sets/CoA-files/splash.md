@@ -1,5 +1,3 @@
-<!--<img src="https://grapplex.github.io/sets/SMK-files/logo.png" alt="The Big Smoko" width="450" height="278">
--->
 **<p style="text-align: center;">The cost of innovation has come due.</p>**
 
 After eons of extracting natural resources to fuel the forges of Avishkar's artificers, the environmental damage to the plane has become too much. Aether volcanoes, flash blizzards and noxious tornados have begun to occur regularly. 

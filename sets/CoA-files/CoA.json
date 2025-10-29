@@ -737,7 +737,7 @@
             "color_identity": "BR",
             "cost": "{B}{R}",
             "rules_text": "As additional cost to cast this spell pay {2} or sacrifice a land.\nYou gain {E}{E}{E}, then you may pay {E}{E}. If you do, draw a card.\nDestroy target creature.",
-            "flavor_text": "[i]Natural gas can be a plentiful source of fuel. It can also explode.[/i]",
+            "flavor_text": "[i]Aether gas can be a plentiful source of fuel. It can also explode.[/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1030,7 +1030,7 @@
             "loyalty": "",
             "artist": "Joel Chaim Holtzman",
             "alias": "",
-            "notes": "placeholder"
+            "notes": "\u2022 Placeholder Art"
         },
         {
             "card_name": "Unscrupulous Puppeteer",
@@ -1237,9 +1237,9 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Donato Giancola",
+            "artist": "Auraspeck",
             "alias": "",
-            "notes": "!energy\nPlaceholderArt"
+            "notes": "!energy\n"
         },
         {
             "card_name": "Skysovereign, Grounded Flagship",
@@ -1693,7 +1693,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Saad Irfan",
+            "artist": "Tian Gan",
             "alias": "",
             "notes": ""
         },
@@ -2018,7 +2018,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "notes": "\u2022 Placeholder Art"
+            "notes": ""
         },
         {
             "card_name": "Roost's Guardian",
@@ -2219,7 +2219,7 @@
             "color_identity": "U",
             "cost": "{1}{U}",
             "rules_text": "Flying, defender\n{3}: Glacial Glintfisher can attack this turn as though it didn't have defender.",
-            "flavor_text": "[i]As the glaciers melted, the Glinfishers were reluctantly forced to migrate. [/i]",
+            "flavor_text": "[i]As the glaciers melted, the Glinfishers were reluctantly forced to fly again.[/i]",
             "pt": "3/2",
             "special_text": "",
             "shape": "normal",
@@ -2814,9 +2814,9 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Abhishek Das",
+            "artist": "Spencer Fitch",
             "alias": "",
-            "notes": "PlaceholderArt"
+            "notes": ""
         },
         {
             "card_name": "Ovalchase Dragster",
@@ -2909,7 +2909,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Connor Sheehan",
+            "artist": "Damian Krzywonos",
             "alias": "",
             "notes": "!energy"
         },
@@ -4309,7 +4309,7 @@
             "color_identity": "B",
             "cost": "{2}{B}{B}",
             "rules_text": "Choose one or both \u2014\n\u2022 Up to two target creatures gets -1/-1 until end of turn.\n\u2022 Put a +1/+1 counter on up to two target creatures.",
-            "flavor_text": "[i]We fight for our rights. Literally.[/i]",
+            "flavor_text": "[i]We fight for our rights. [/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -4849,7 +4849,7 @@
             "loyalty": "",
             "artist": "Yuumei Wenqing Yan",
             "alias": "",
-            "notes": "\u2022 Placeholder Art"
+            "notes": ""
         },
         {
             "card_name": "Savage Punch",
@@ -4999,7 +4999,7 @@
             "shape": "normal",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Saad Irfam",
+            "artist": "Tian Gan",
             "alias": "",
             "notes": ""
         },
@@ -5170,7 +5170,7 @@
             "shape": "token",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Artem C",
+            "artist": "Verena G.",
             "alias": "",
             "notes": "!tokenshape"
         },
@@ -5322,9 +5322,9 @@
             "shape": "token",
             "set": "CoA",
             "loyalty": "",
-            "artist": "Mariusz Gandzel",
+            "artist": "Katinka Thorondor",
             "alias": "",
-            "notes": "!tokenshape\nPlaceholderArt"
+            "notes": "!tokenshape\n"
         },
         {
             "card_name": "Assembly-Worker",
@@ -5574,5 +5574,5 @@
             "notes": "landslot"
         }
     ],
-    "version": 33
+    "version": 1
 }
