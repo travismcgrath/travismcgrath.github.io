@@ -30,8 +30,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "The Consul's Orator",
-        "number": 9,
+        "card_name": "The Assembly's Orator",
+        "number": 7,
         "shape": "normal",
         "set": "CoA"
     },
@@ -510,7 +510,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Charming Kata",
+        "card_name": "Assembly's Attache",
         "number": 6,
         "shape": "normal",
         "set": "CoA"
@@ -540,8 +540,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Complete Devotion",
-        "number": 7,
+        "card_name": "Charming Kata",
+        "number": 8,
         "shape": "normal",
         "set": "CoA"
     },
@@ -570,8 +570,8 @@
         "set": "CoA"
     },
     {
-        "card_name": "Consul's Attache",
-        "number": 8,
+        "card_name": "Complete Devotion",
+        "number": 9,
         "shape": "normal",
         "set": "CoA"
     },
@@ -774,7 +774,7 @@
         "set": "CoA"
     },
     {
-        "card_name": "Sage-Eye Enforcer",
+        "card_name": "Sage-Eyed Enforcer",
         "number": 138,
         "shape": "normal",
         "set": "CoA"
@@ -896,7 +896,7 @@
     },
     {
         "card_name": "Combustible Lightning",
-        "number": 160,
+        "number": 162,
         "shape": "normal",
         "set": "CoA"
     },
@@ -908,37 +908,37 @@
     },
     {
         "card_name": "Cataclysmic Earthquake",
-        "number": 155,
+        "number": 157,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Bear Market",
-        "number": 151,
+        "number": 153,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Bull Market",
-        "number": 154,
+        "number": 156,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Empty The Vault",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Birth of Rebellion",
-        "number": 152,
+        "number": 154,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Chianul's Guidance",
-        "number": 156,
+        "number": 158,
         "shape": "normal",
         "set": "CoA"
     },
@@ -950,13 +950,13 @@
     },
     {
         "card_name": "Gonti's Patronage",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Impulsive Fracking",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "CoA"
     },
@@ -974,7 +974,7 @@
     },
     {
         "card_name": "Chief of the Nail",
-        "number": 158,
+        "number": 160,
         "shape": "normal",
         "set": "CoA"
     },
@@ -986,25 +986,25 @@
     },
     {
         "card_name": "Kheru Harvester",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Chief of the Hammer",
-        "number": 157,
+        "number": 159,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Engineer's Prowess",
-        "number": 168,
+        "number": 169,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Icefeather Exporter",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1022,13 +1022,13 @@
     },
     {
         "card_name": "Guarded Supply Freighter",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Highspire Adept",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1097,13 +1097,13 @@
     },
     {
         "card_name": "Narset, Panharmonastic Sage",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Kurna Majan, Luminary Financier",
-        "number": 181,
+        "number": 182,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1132,14 +1132,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Nefarious Inheritence",
-        "number": 187,
+        "card_name": "Dustblast",
+        "number": 166,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Consul of Preservation",
-        "number": 161,
+        "card_name": "Assemblyman of Preservation",
+        "number": 151,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1151,25 +1151,25 @@
     },
     {
         "card_name": "Booming Karma",
-        "number": 153,
+        "number": 155,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Houn, Beguiling Ancestor",
-        "number": 174,
+        "number": 175,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
+        "card_name": "Dynastic Inheritence",
+        "number": 167,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Sagu Deforester",
         "number": 195,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Dustblast",
-        "number": 166,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1181,7 +1181,7 @@
     },
     {
         "card_name": "Kneecap Blaster",
-        "number": 180,
+        "number": 181,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1198,14 +1198,14 @@
         "set": "CoA"
     },
     {
-        "card_name": "Citizen's Companion",
-        "number": 159,
+        "card_name": "Assembly's Charm",
+        "number": 152,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Labor Charm",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1217,25 +1217,25 @@
     },
     {
         "card_name": "Monastic Charm",
-        "number": 184,
+        "number": 185,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Finance Charm",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Consul's Charm",
-        "number": 162,
+        "card_name": "Citizen's Companion",
+        "number": 161,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Manufacturing Virtuoso",
-        "number": 183,
+        "number": 184,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1253,13 +1253,13 @@
     },
     {
         "card_name": "Financial Soothsayer",
-        "number": 170,
+        "number": 171,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Inspector Brigade",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1277,13 +1277,13 @@
     },
     {
         "card_name": "Mystic of The Way",
-        "number": 185,
+        "number": 186,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Illusion of Luxury",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1308,25 +1308,25 @@
     },
     {
         "card_name": "Cultivator's Caravan",
-        "number": 217,
+        "number": 218,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Exploration Module",
-        "number": 219,
+        "number": 220,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Fleetwheel Cruiser",
-        "number": 223,
+        "number": 224,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Ghostfire Blade",
-        "number": 226,
+        "number": 227,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1350,43 +1350,43 @@
     },
     {
         "card_name": "Bomat Bazaar Barge",
-        "number": 214,
+        "number": 215,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Briber's Purse",
-        "number": 216,
+        "number": 217,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Execution Module",
-        "number": 218,
+        "number": 219,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Extraction Module",
-        "number": 220,
+        "number": 221,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Foundry Auditor",
-        "number": 224,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Ghirapur Parapets",
         "number": 225,
         "shape": "normal",
         "set": "CoA"
     },
     {
+        "card_name": "Ghirapur's Golden Parapets",
+        "number": 226,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
         "card_name": "Improvised Weather Machine",
-        "number": 227,
+        "number": 228,
         "shape": "normal",
         "set": "CoA"
     },
@@ -1415,26 +1415,26 @@
         "set": "CoA"
     },
     {
+        "card_name": "Artificer's MIG",
+        "number": 214,
+        "shape": "normal",
+        "set": "CoA"
+    },
+    {
         "card_name": "Brass Winged Vulture",
-        "number": 215,
+        "number": 216,
         "shape": "normal",
         "set": "CoA"
     },
     {
         "card_name": "Factory BannerKnot",
-        "number": 221,
-        "shape": "normal",
-        "set": "CoA"
-    },
-    {
-        "card_name": "Filigree Familiar",
         "number": 222,
         "shape": "normal",
         "set": "CoA"
     },
     {
-        "card_name": "Inventor's MIG",
-        "number": 228,
+        "card_name": "Filigree Familiar",
+        "number": 223,
         "shape": "normal",
         "set": "CoA"
     },

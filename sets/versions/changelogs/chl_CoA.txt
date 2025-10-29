@@ -1,4 +1,360 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+Dynastic Inheritence added.
+Assemblyman of Preservation added.
+The Assembly's Orator added.
+Assembly's Charm added.
+Ghirapur's Golden Parapets added.
+Artificer's MIG added.
+Assembly's Attache added.
+Sage-Eyed Enforcer added.
+
+Nefarious Inheritence removed.
+Consul of Preservation removed.
+The Consul's Orator removed.
+Consul's Charm removed.
+Ghirapur Parapets removed.
+Inventor's MIG removed.
+Consul's Attache removed.
+Sage-Eye Enforcer removed.
+
+Kurna Majan, Luminary Financier
+rules_text: Morph {2}{G}{U}{W}
+At the beginning of your upkeep, look at the top card of your library. You may pay {2}. If you do, manifest it. Otherwise, put it into your hand.
+Face down creatures you control get +1/+1. => Morph {2}{G}{U}{W}
+At the beginning of your upkeep, look at the top card of your library. You may pay {2}. If you do, manifest it. Otherwise, put it into your hand.
+
+Waste Land
+
+Adi Thandray, Platinum Ancestor
+rules_text: When Adi Thandray enters, gain {E}{E}{E}.
+{E}{E},{T}:Return target creature from your graveyard to the battlefield tapped. => When Adi Thandray enters, gain {E}{E}{E}.
+{E}{E}{E},{T}:Return target creature from your graveyard to the battlefield tapped. It gains flying and is an Angel in addition to its other types.
+
+Anafenza, Generous Ancestor
+
+Houn, Beguiling Ancestor
+
+Ancestor, Who Smirks at Law
+
+Dustblast
+cost: {2}{W}{U}{B} => {2}{G}{W}{U}
+rules_text: Destroy all creatures with power 3 or greater. => Return all creatures with power 3 or greater to their owner's hands.
+
+Supplant Worker
+
+Booming Karma
+
+Sagu Deforester
+cost: {3}{G}{W}{U} => {3}{W}{U}{B}
+rules_text: Trample, ward {3}
+Morph {3}{W}{U} => Menace, ward {3}
+Morph {3}{W}{U}
+
+Kneecap Blaster
+
+Sage of the Vitalfire
+
+Gonti's Patronage
+
+Impulsive Fracking
+
+Fumigate
+
+Grim Haruspex
+
+Master of Pearls
+
+Qal Sisma Mystic
+
+Pearl Lake Salar
+
+Bloodfire Master
+
+Syndicate Logistician
+rules_text: {2}, Sacrifice an artifact, creature, or land: Put a +1/+1 counter on Syndicate Logistician . It gains indestructible until end of turn. => {2}, Sacrifice an artifact, creature, or land: Syndicate Logistician manufactures 1 and gains indestructible until end of turn.
+
+Mine for Solutions
+cost: {14}{U}{U} => {12}{U}{U}
+
+Exploration Module
+rules_text: Whenever a Thopter enters under your control, scry 1 and create a map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+{4},{T}: Create a 1/1 colorless Thopter artifact creature token with flying. => Whenever a Thopter enters under your control, scry 1 and create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+{4},{T}: Create a 1/1 colorless Thopter artifact creature token with flying.
+
+Extraction Module
+
+Execution Module
+
+Skysovereign, Grounded Flagship
+
+Smuggler's ATV
+
+Cultivator's Caravan
+
+Altar of the Brood
+
+Ghostfire Blade
+
+Corrupted Workshop
+
+Obscuring Avalanche
+
+Seaside Citadel
+
+Arcane Sanctum
+
+Crumbling Necropolis
+
+Savage Lands
+
+Jungle Shrine
+
+Aether Hub
+
+Zurgo's Encampment
+
+Indigo Monmument
+
+Citizen's Companion
+
+Financial Soothsayer
+rules_text: When Financial Soothsayer enters, look at the top four cards of your library. Put one of them into your hand and the rest into your graveyard. => When Financial Soothsayer enters, look at the top five cards of your library. Put one of them into your hand and the rest on the bottom of your library in a random order.
+
+Warden of the Scrolls
+
+Nihilist Roughrider
+rules_text: Whenever Nihilist Roughrider attacks, target creature can't block this turn. => Whenever Nihilist Roughrider attacks, tap up to one target vehicle you control. It becomes an attacking artifact creature until end of turn.
+Whenever Nihilist Roughrider attacks, target creature can't block this turn.
+
+Self-regulated Saftey
+
+Smash Up
+
+Contraband Kingpin
+
+Highspire Adept
+
+Riotous Brawler
+
+Chief of the Hammer
+
+Entrant of the Way
+
+Gearshift Pitcrew
+
+Devout Kirin
+
+Army for Hire
+
+Ghostfire's Light
+
+Resistance Factor
+
+Skywhaler's Shot
+
+Salt Road Tank
+rules_text: Vigilance
+Whenever you cast a noncreature spell, Salt Road Tank becomes an artifact creature and gets +1/+1 until end of turn.
+Crew 2 => Vigilance
+Whenever you cast a noncreature spell, until end of turn Salt Road Tank becomes an artifact creature and gets +1/+1.
+Crew 2
+
+Cogify
+type: Enchantment — Aura => Instant
+rules_text: Enchanted creature.
+Enchanted creature loses all abilities and is an colorless Servo artifact creature with base power and toughness 1/1. => Target creature's controller chooses one:
+• Until end of turn that creature loses all abilities and is a colorless Servo artifact creature with base power and toughness 1/1. 
+• Put that creature on top of its owner's library.
+
+Glimmer of Genius
+
+Shrewd Negotiation
+
+Innovation Setbacks
+
+Glacial Glintfisher
+
+Willbender
+
+Filigreed Skywhale
+
+Gonti's Illicit Ironworks
+
+Aether Extraction
+
+Ruthless Ripper
+
+Heir of the Wastes
+
+Shambling Aetherborn
+
+Kheru Harvester
+
+War-Name Aspirant
+
+Myopic Pillaging
+
+Harnessed Lightning
+
+Armorcraft Purchase
+
+Riparian Jaguar
+
+Incensed Druid
+
+Tuskguard Colonel
+
+Guarded Supply Freighter
+
+Ovalchase Dragster
+
+Bomat Bazaar Barge
+
+Owl-Strix Archers
+
+Improvised Weather Machine
+rules_text: {3},{T}: Reveal the top card of your library. If it is a land, put it onto the battlefield tapped. If it is not, shuffle and scry 2, then you lose 2 life. => {2},{T}: Reveal the top card of your library. If it is a land, put it onto the battlefield tapped. If it is not, shuffle and scry 2, then you lose 2 life.
+
+Alloy Loxodon
+
+Filigree Familiar
+
+Loxodon Memorial
+
+Briber's Purse
+
+Scoured Barrens
+
+Backslide
+
+Thriving Rats
+
+Chief of the Nail
+
+Rocslide
+
+Aradara Station
+
+Illusion of Luxury
+pt: 3/4 => 4/4
+
+Steel Horned Ibex
+type: Artifact Creature — Elk => Artifact Creature — Goat
+rules_text: {2}{W}: Steel Horned Ibex gains first strike until end of turn. => {1}{W}: Steel Horned Ibex gains first strike until end of turn.
+
+Silver Tusked Walrus
+
+Wrought Iron Rhino
+
+Lead Toothed Hyenas
+
+Lathnu Funicular
+
+Prophetic Prism
+
+Foundry Auditor
+
+Snare Thopter
+
+Spur to Believe
+
+Empower the Masses
+
+Tax On Action
+
+Disassemble
+
+Medatative Inspiration
+
+Skypatrol Aetherborn
+pt: 1/2 => 2/1
+
+Charming Kata
+
+Teacher of the Way
+
+Contrive
+
+Artificer's Epiphany
+
+Failed Inspection
+
+Unseasonal Squall
+
+Sponsor's Cruise
+
+Live Fast
+
+Die Young
+
+Worker Strike
+
+Ghirapur Pickpocket
+
+Midnight Inspector
+
+Defeatist Recycler
+
+Graveyard Lurker
+
+Pupil of the Hidden Eye
+
+Summit Postulant
+
+Provoked Lightning
+
+Offload
+
+Optimistic Nihilism
+
+Peema Colossus
+
+Fairgrounds Security
+
+Zurgo's Disciple
+
+Disrupted Hibernator
+
+Filigree-horn Luddite
+
+Reimmerse In Nature
+
+Gift of Sagacity
+
+Devolution
+
+Immense Development
+rules_text: Target creature that's one or more colors gets +3/+3 and gains trample until end of turn. => Target colorless creature gets +3/+3 and gains trample until end of turn.
+
+Complete Devotion
+
+Raise the Alms
+
+Yasova, Firebrand Zealot
+pt: 4/4 => 3/3
+
+Oviya Pashiri, Onlooking Spiritcrafter
+
+Highspire Mystic
+
+Morph
+rules_text:  => [i](You can cover a face-down morphed creature with this reminder card.
+A card with morph can be turned face up any time for its morph cost.)[/i]
+
+Manifest
+
+Mineral Appraiser
+
+Displaced Dreadmaw
+
+Tradewind Stalker
+
+Storm Harmonist
+
+
+VERSION 32 CHANGELOG
 ====================
 
 No changes.
