@@ -1779,28 +1779,28 @@
     },
     {
         "card_name": "Dismal Backwater",
-        "number": 266,
+        "number": 265,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Bloodfell Caves",
-        "number": 264,
+        "number": 263,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Rugged Highlands",
-        "number": 268,
+        "number": 267,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Blossoming Sands",
-        "number": 265,
+        "number": 264,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1822,7 +1822,7 @@
     },
     {
         "card_name": "Scoured Barrens",
-        "number": 269,
+        "number": 268,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1836,7 +1836,7 @@
     },
     {
         "card_name": "Jungle Hollow",
-        "number": 267,
+        "number": 266,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1983,15 +1983,15 @@
         "position": ""
     },
     {
-        "card_name": "\nSunset Smoglands",
+        "card_name": "Aradara Station",
         "number": 262,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
-        "card_name": "Aradara Station",
-        "number": 263,
+        "card_name": "Sunset Smoglands",
+        "number": 269,
         "shape": "normal",
         "set": "CoA",
         "position": ""

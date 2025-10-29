@@ -1,4 +1,13 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+Sunset Smoglands added.
+
+
+Sunset Smoglands removed.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

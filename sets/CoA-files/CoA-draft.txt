@@ -1605,9 +1605,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "266",
+			"collector_number": "265",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/266_Dismal Backwater.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/265_Dismal Backwater.png"
 			}
 		},
 		{
@@ -1615,9 +1615,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "264",
+			"collector_number": "263",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/264_Bloodfell Caves.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/263_Bloodfell Caves.png"
 			}
 		},
 		{
@@ -1625,9 +1625,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/268_Rugged Highlands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/267_Rugged Highlands.png"
 			}
 		},
 		{
@@ -1635,9 +1635,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "264",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/265_Blossoming Sands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/264_Blossoming Sands.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/269_Scoured Barrens.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/268_Scoured Barrens.png"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "267",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/267_Jungle Hollow.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/266_Jungle Hollow.png"
 			}
 		},
 		{
@@ -1745,9 +1745,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "262",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/263_Aradara Station.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/262_Aradara Station.png"
 			}
 		},
 		{
@@ -2921,15 +2921,13 @@
 			}
 		},
 		{
-			"name": "
-Sunset Smoglands",
+			"name": "Sunset Smoglands",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/262_
-Sunset Smoglands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/269_Sunset Smoglands.png"
 			}
 		}
 	]
@@ -3734,5 +3732,4 @@ Sunset Smoglands.png"
 	12 Wind-Scarred Crag
 	12 Thornwood Falls
 	12 Aradara Station
-	12 
-Sunset Smoglands
+	12 Sunset Smoglands
