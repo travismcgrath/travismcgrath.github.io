@@ -38,7 +38,7 @@ Changes of Avishkar comes with three new keywords:
 
 <img alt="{W}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/8e/W.svg/" width="15" height="15" style="display:inline;">
 <img alt="{U}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9f/U.svg/" width="15" height="15" style="display:inline;">
-<img alt="{B}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/2/2f/B.svg/" width="15" height="15" style="display:inline;"> **Go-Wide Manufacture.** Lead by Dovin Baan, this faction represents the political ruling consoul, artificers who tinker with the law and innovate upon the the limits of power.
+<img alt="{B}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/2/2f/B.svg/" width="15" height="15" style="display:inline;"> **Go-Wide Manufacture.** Lead by Dovin Baan, this faction represents the political ruling assembly, artificers who tinker with the law and innovate upon the the limits of power.
 
 <img alt="{U}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9f/U.svg/" width="15" height="15" style="display:inline;">
 <img alt="{B}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/2/2f/B.svg/" width="15" height="15" style="display:inline;">

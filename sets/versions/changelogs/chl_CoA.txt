@@ -1,4 +1,69 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+Chianul, Qal Sisma Mystic added.
+Baral, Renegade Brawler added.
+
+Qal Sisma Mystic removed.
+Riotous Brawler removed.
+
+Zurgo, Anarchist Leader
+rules_text: Haste
+During your turn, Zurgo has indestructible.
+Sacrifice a land: You get {E}{E}. Activate only once per turn.
+When Zurgo attacks, you may pay {E}{E}. If you do, creatures you control gain menace until end of turn. => Haste
+During your turn, Zurgo has indestructible.
+Whenever one or more +1/+1 counters are put on a creature you control, you get that many {E}.
+When Zurgo attacks, you may pay {E}{E}. If you do, creatures you control gain menace until end of turn.
+
+Sidisi, Scales of Industry
+rules_text: When Sidisi enters, she manufactures 4.
+Whenever one or more +1/+1 counter are put on a creature you control, you get that many {E}.
+{E}{E}{E}{E}: Servos and Thopters you control get +2/+2 and gain deathtouch until end of turn. => When Sidisi enters, she manufactures 4.
+Sacrifice a land: You get {E}{E}. Activate only once per turn.
+{E}{E}{E}{E}: Servos and Thopters you control get +2/+2 and gain deathtouch until end of turn.
+
+Winds of Industry
+
+Booming Karma
+cost: {B}{R}{G} => {1}{B}{R}{G}
+rules_text: Booming Karma deals 2 damage to each opponent. You gain life equal to the damage dealt this way.
+Each opponent sacrifices a creature with the greatest mana value among creatures that player controls. => Booming Karma deals 2 damage to target player. That player sacrifices a creature with the greatest mana value among creatures they control. Then if they have energy counters, that player sacrifices an artifact, enchantment, or land.
+
+Sage of the Vitalfire
+
+Birth of Rebellion
+
+Chianul's Guidance
+
+Pearl Lake Salar
+
+Zurgo's Encampment
+
+Innovation Setbacks
+
+Return from the Horizon
+rules_text: Search your library for up to three basic land cards with different names, reveal them, put one onto the battlefield tapped and the rest into your hand, then shuffle. => Search your library and/or graveyard for up to three basic land cards with different names, reveal them, put one onto the battlefield tapped and the rest into your hand, then shuffle.
+
+Improvised Weather Machine
+rules_text: {2},{T}: Reveal the top card of your library. If it is a land, put it onto the battlefield tapped. If it is not, shuffle and scry 2, then you lose 2 life. => {2},{T}: Until the end of turn you may play lands from your graveyard. Surveil 1, then reveal the top card of your library. If it is a land, put it onto the battlefield tapped. Otherwise, you get {E}{E}.
+
+Irreversible Nightmare
+
+Artificer's Epiphany
+
+Unseasonal Squall
+
+Midnight Inspector
+
+Optimistic Nihilism
+
+Raise the Alms
+
+Oviya Pashiri, Onlooking Spiritcrafter
+
+
+VERSION 2 CHANGELOG
 ====================
 
 Sunset Smoglands added.

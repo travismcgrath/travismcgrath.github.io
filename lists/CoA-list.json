@@ -29,7 +29,7 @@
     },
     {
         "card_name": "Longtusk Pride",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -63,8 +63,8 @@
         "position": ""
     },
     {
-        "card_name": "Hooded Hydra",
-        "number": 125,
+        "card_name": "Chianul, Qal Sisma Mystic",
+        "number": 118,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -98,8 +98,8 @@
         "position": ""
     },
     {
-        "card_name": "Qal Sisma Mystic",
-        "number": 133,
+        "card_name": "Hooded Hydra",
+        "number": 126,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -204,7 +204,7 @@
     },
     {
         "card_name": "Extinction Rebellion",
-        "number": 120,
+        "number": 121,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -239,7 +239,7 @@
     },
     {
         "card_name": "Hypnotizing AetherBorealis",
-        "number": 126,
+        "number": 127,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -274,7 +274,7 @@
     },
     {
         "card_name": "Incensed Druid",
-        "number": 128,
+        "number": 129,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -309,7 +309,7 @@
     },
     {
         "card_name": "Loxodon Memorial",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -344,7 +344,7 @@
     },
     {
         "card_name": "Nature's Way",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Peema Colossus",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -624,7 +624,7 @@
     },
     {
         "card_name": "Devolution",
-        "number": 118,
+        "number": 119,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -659,7 +659,7 @@
     },
     {
         "card_name": "Disrupted Hibernator",
-        "number": 119,
+        "number": 120,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -694,7 +694,7 @@
     },
     {
         "card_name": "Fairgrounds Security",
-        "number": 121,
+        "number": 122,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -729,7 +729,7 @@
     },
     {
         "card_name": "Ferrophage Spider",
-        "number": 122,
+        "number": 123,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -764,7 +764,7 @@
     },
     {
         "card_name": "Filigree-horn Luddite",
-        "number": 123,
+        "number": 124,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -799,7 +799,7 @@
     },
     {
         "card_name": "Gift of Sagacity",
-        "number": 124,
+        "number": 125,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -834,7 +834,7 @@
     },
     {
         "card_name": "Immense Development",
-        "number": 127,
+        "number": 128,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1036,14 +1036,14 @@
     },
     {
         "card_name": "Noxious Duststorm",
-        "number": 189,
+        "number": 190,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Combustible Lightning",
-        "number": 162,
+        "number": 163,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1057,42 +1057,42 @@
     },
     {
         "card_name": "Cataclysmic Earthquake",
-        "number": 157,
+        "number": 158,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Bear Market",
-        "number": 153,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Bull Market",
-        "number": 156,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Empty The Vault",
-        "number": 168,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Birth of Rebellion",
         "number": 154,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
+        "card_name": "Bull Market",
+        "number": 157,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Empty The Vault",
+        "number": 169,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Birth of Rebellion",
+        "number": 155,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
         "card_name": "Chianul's Guidance",
-        "number": 158,
+        "number": 159,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1106,14 +1106,14 @@
     },
     {
         "card_name": "Gonti's Patronage",
-        "number": 172,
+        "number": 173,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Impulsive Fracking",
-        "number": 178,
+        "number": 179,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1127,14 +1127,14 @@
     },
     {
         "card_name": "Oviya Pashiri, Onlooking Spiritcrafter",
-        "number": 190,
+        "number": 191,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Chief of the Nail",
-        "number": 160,
+        "number": 161,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1147,57 +1147,57 @@
         "position": ""
     },
     {
-        "card_name": "Kheru Harvester",
-        "number": 180,
+        "card_name": "Baral, Renegade Brawler",
+        "number": 153,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Chief of the Hammer",
-        "number": 159,
+        "number": 160,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Engineer's Prowess",
-        "number": 169,
+        "number": 170,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Icefeather Exporter",
-        "number": 176,
+        "number": 177,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Contraband Kingpin",
-        "number": 163,
+        "number": 164,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
-        "card_name": "Riotous Brawler",
-        "number": 193,
+        "card_name": "Kheru Harvester",
+        "number": 181,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Guarded Supply Freighter",
-        "number": 173,
+        "number": 174,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Highspire Adept",
-        "number": 174,
+        "number": 175,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1254,7 +1254,7 @@
     },
     {
         "card_name": "Dovin Baan, Persistent Ruler",
-        "number": 164,
+        "number": 165,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1275,14 +1275,14 @@
     },
     {
         "card_name": "Narset, Panharmonastic Sage",
-        "number": 187,
+        "number": 188,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Kurna Majan, Luminary Financier",
-        "number": 182,
+        "number": 183,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1310,14 +1310,14 @@
     },
     {
         "card_name": "Dragonfist Technique",
-        "number": 165,
+        "number": 166,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Dustblast",
-        "number": 166,
+        "number": 167,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1338,21 +1338,21 @@
     },
     {
         "card_name": "Booming Karma",
-        "number": 155,
+        "number": 156,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Houn, Beguiling Ancestor",
-        "number": 175,
+        "number": 176,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Dynastic Inheritence",
-        "number": 167,
+        "number": 168,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1373,7 +1373,7 @@
     },
     {
         "card_name": "Kneecap Blaster",
-        "number": 181,
+        "number": 182,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1401,49 +1401,49 @@
     },
     {
         "card_name": "Labor Charm",
-        "number": 183,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Nihilist Roughrider",
-        "number": 188,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Monastic Charm",
-        "number": 185,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Finance Charm",
-        "number": 170,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Citizen's Companion",
-        "number": 161,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Manufacturing Virtuoso",
         "number": 184,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
+        "card_name": "Nihilist Roughrider",
+        "number": 189,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Monastic Charm",
+        "number": 186,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Finance Charm",
+        "number": 171,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Citizen's Companion",
+        "number": 162,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Manufacturing Virtuoso",
+        "number": 185,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
         "card_name": "Rebelious Charm",
-        "number": 192,
+        "number": 193,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1457,14 +1457,14 @@
     },
     {
         "card_name": "Financial Soothsayer",
-        "number": 171,
+        "number": 172,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Inspector Brigade",
-        "number": 179,
+        "number": 180,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1478,21 +1478,21 @@
     },
     {
         "card_name": "Peema Woods Defenders",
-        "number": 191,
+        "number": 192,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Mystic of The Way",
-        "number": 186,
+        "number": 187,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Illusion of Luxury",
-        "number": 177,
+        "number": 178,
         "shape": "normal",
         "set": "CoA",
         "position": ""
