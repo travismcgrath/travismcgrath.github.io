@@ -175,9 +175,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "256",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/257_Scalding Tarn.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/256_Scalding Tarn.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "252",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/253_Marsh Flats.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/252_Marsh Flats.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "253",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/254_Misty Rainforest.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/253_Misty Rainforest.png"
 			}
 		},
 		{
@@ -735,9 +735,9 @@
 			"rarity": "mythic",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "254",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/255_Obscuring Avalanche.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/254_Obscuring Avalanche.png"
 			}
 		},
 		{
@@ -745,9 +745,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "257",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/258_Seaside Citadel.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/257_Seaside Citadel.png"
 			}
 		},
 		{
@@ -775,9 +775,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "255",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/256_Savage Lands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/255_Savage Lands.png"
 			}
 		},
 		{
@@ -785,9 +785,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "251",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/252_Jungle Shrine.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/251_Jungle Shrine.png"
 			}
 		},
 		{
@@ -812,12 +812,12 @@
 		},
 		{
 			"name": "Indigo Monmument",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "251",
+			"collector_number": "266",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/251_Indigo Monmument.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/266_Indigo Monmument.png"
 			}
 		},
 		{
@@ -893,7 +893,7 @@
 		{
 			"name": "Self-regulated Saftey",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{B}",
+			"mana_cost": "{3}{U}{B}",
 			"type": "Sorcery",
 			"collector_number": "198",
 			"image_uris": {
@@ -1625,9 +1625,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "267",
+			"collector_number": "268",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/267_Rugged Highlands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/268_Rugged Highlands.png"
 			}
 		},
 		{
@@ -1645,9 +1645,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "269",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/268_Scoured Barrens.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/269_Scoured Barrens.png"
 			}
 		},
 		{
@@ -1665,9 +1665,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "266",
+			"collector_number": "267",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/266_Jungle Hollow.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/267_Jungle Hollow.png"
 			}
 		},
 		{
@@ -2922,12 +2922,12 @@
 		},
 		{
 			"name": "Sunset Smoglands",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "258",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/269_Sunset Smoglands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/258_Sunset Smoglands.png"
 			}
 		}
 	]
@@ -3019,7 +3019,6 @@
 	4 Jungle Shrine
 	4 Aether Hub
 	4 Zurgo's Encampment
-	4 Indigo Monmument
 	4 Manufacturing Virtuoso
 	4 Citizen's Companion
 	4 Financial Soothsayer
@@ -3107,6 +3106,7 @@
 	4 Hypnotizing AetherBorealis
 	4 Ceaseless Fires
 	4 Storm Harmonist
+	4 Sunset Smoglands
 [common(7)]
 	8 Thriving Grubs
 	8 Devout Kirin
@@ -3278,7 +3278,6 @@
 	6 Jungle Shrine
 	6 Aether Hub
 	6 Zurgo's Encampment
-	6 Indigo Monmument
 	6 Manufacturing Virtuoso
 	6 Citizen's Companion
 	6 Financial Soothsayer
@@ -3458,6 +3457,7 @@
 	12 Displaced Dreadmaw
 	12 Tradewind Stalker
 	6 Storm Harmonist
+	6 Sunset Smoglands
 [wildcard(1)]
 	6 Thriving Grubs
 	4 Dovin Baan, Persistent Ruler
@@ -3540,7 +3540,6 @@
 	15 Jungle Shrine
 	15 Aether Hub
 	15 Zurgo's Encampment
-	15 Indigo Monmument
 	15 Manufacturing Virtuoso
 	15 Citizen's Companion
 	15 Financial Soothsayer
@@ -3720,7 +3719,9 @@
 	6 Displaced Dreadmaw
 	6 Tradewind Stalker
 	15 Storm Harmonist
+	15 Sunset Smoglands
 [landslot(1)]
+	12 Indigo Monmument
 	12 Tranquil Cove
 	12 Dismal Backwater
 	12 Bloodfell Caves
@@ -3732,4 +3733,3 @@
 	12 Wind-Scarred Crag
 	12 Thornwood Falls
 	12 Aradara Station
-	12 Sunset Smoglands

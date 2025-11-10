@@ -20,9 +20,6 @@ Changes of Avishkar comes with three new keywords:
 
 **Stun:** Climate change isn't always about things getting hotter. Blizzards, coldsnaps, hailstorms, and other winter flurries have grown strong and stun unprepared residents of Avishkar. Stunning a creature means tapping it and then putting a stun counter on it. 
 
-**Flicker:** Formalizing a commonly used word in magic. Flickering simply means exiling a permanent and then returning it to the battlefield under its owner's control.
-
-
 ##Returning Mechanics
 
 **Energy, Morph, Prowess, Raid**, and **Vehicles** all play leading roles in the Changes on Avishkar.

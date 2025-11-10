@@ -1,4 +1,284 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+
+
+Narset, Panharmonastic Sage
+rules_text: Prowess
+[i]Raid[/i] - If you've attacked this turn, casting a noncreature spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => Prowess
+[i]Raid[/i] - If you've attacked this turn, if casting a noncreature spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+Aethermate Roc
+rules_text: Flying
+[i]Raid[/i] - When Aethermate Roc enters, if you attacked this turn, create a 3/3 white flying bird creature token.
+When Aethermate Roc attacks, creatures you control gain prowess until end of turn. => Flying
+[i]Raid[/i] - When Aethermate Roc enters, if you attacked this turn, create two 1/1 white bird creature tokens with flying.
+When Aethermate Roc attacks, creatures you control gain prowess until end of turn.
+pt: 3/3 => 2/2
+
+Dynastic Inheritence
+rules_text: Draw X cards.
+Turn up to X face down creatures you control face up.
+You may put up to X creatures with a Morph ability from your hand onto the battlefield face down. => Draw X cards.
+Turn up to X face down creatures you control face up.
+You may put up to X cards with a morph ability from your hand onto the battlefield face down.
+
+Dragonfist Technique
+rules_text: Creatures you control gain +1/+1 and first strike.
+[i]Raid[/i] - If you've attacked this turn, untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. => Creatures you control gain +1/+1 and first strike until end of turn.
+[i]Raid[/i] - If you've attacked this turn, untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase.
+
+Sage of the Vitalfire
+rules_text: Flying
+Whenever you cast a noncreature spell, creatures you control gain lifelink until end of turn. => Flying
+Whenever you cast a noncreature spell, target creature gains lifelink until end of turn.
+
+Savage Union Busters
+rules_text: {R}: Savage Union Busters gains haste until end of turn.
+{1}{B}: Savage Union Bustersgets +2/+2. You lose 2 life. Activate this ability only once each turn.
+{2}{U}: Savage Union Busters gains hexproof until end of turn. => {R}: Savage Union Busters gains haste until end of turn.
+{1}{B}: Savage Union Bustersgets +2/+2 until end of turn. You lose 2 life. Activate this ability only once each turn.
+{2}{U}: Savage Union Busters gains hexproof until end of turn.
+
+Confiscation Coup
+rules_text: Choose target artifact or creature.
+You get {E}{E}{E}{E}, then you may pay an amount of {E} equal to that permanent's mana value. If you do, gain control of it. => Choose target artifact or creature.You get {E}{E}{E}{E}, then you may pay an amount of {E} equal to that permanent's mana value. If you do, gain control of it.
+
+Machiavellian Will
+rules_text: Choose two —
+• Counter target spell.
+• Flicker target creature you control.
+• Proliferate. => Choose two —
+• Counter target spell.
+• Proliferate.
+• Exile target creature, then return it to the battlefield under its owner's control.
+
+The Assembly's Orator
+rules_text: Whenever you cast a noncreature spell with mana value 3 or less, creatures you control get +1/+1 until end of turn and you scry 2. => Whenever you cast a noncreature spell with mana value 3 or less, scry 2 then creatures you control get +1/+1 until end of turn.
+
+Generous Angel
+rules_text: Flying, lifelink
+Morph {2}{W}{W}
+When Generous Angel enters or is turned face up, put a +1/+1 counter on each of up to three creatures you control. => Flying, lifelink
+Morph {2}{W}{W}
+When Generous Angel enters or is turned face up, up to three target creatures you control manufacture 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Execution Module
+
+Cultivator's Caravan
+
+Indigo Monmument
+rules_text: Indestructible
+{T}: Add {C}
+{1},{T}: You gain 1 life for each colorless creature you control => Indestructible
+{T}: Add {C}
+{2},{T}: You gain 1 life for each colorless creature you control
+
+Self-regulated Saftey
+cost: {2}{U}{B} => {3}{U}{B}
+
+Highspire Adept
+pt: 1/1 => 2/2
+
+Baral, Renegade Brawler
+rules_text: When Baral enters, you get {E}{E}{E}.
+Whenever Baral attacks, you may pay {E}. If you do, it gets +1/+1 and gains trample until end of turn. => Whenever you cast an instant or sorcery spell, you get {E}.
+When Baral attacks, you may pay {E}{E}, if you do he manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+pt: 3/2 => 2/2
+
+Gearshift Pitcrew
+rules_text: When Gearshift Pitcrew enters, it manufactures 2. [i](Put two +1/+1 counters on this creature, or create two 1/1 colorless Servo artifact creature tokens.)[/i] => When Gearshift Pitcrew enters, choose one:
+• You get {E}{E}{E}{E}.
+• Gearshift Pitcrew manufactures 2. [i](Put two +1/+1 counters on this creature, or create two 1/1 colorless Servo artifact creature tokens.)[/i]
+
+Roost's Guardian
+rules_text: Flying 
+Morph {4}{W}{W}
+When Roost's Guardian is turned face up, put two +1/+1 counters on it. You may flicker another target creature you control. => Flying 
+Morph {4}{W}{W}
+When Roost's Guardian is turned face up, you may exile target creature. If you do, return it to the battlefield under its owner's control. Then Roost's Guardian manufactures 2. [i](Put two +1/+1 counters on this creature, or create two 1/1 colorless Servo artifact creature tokens.)[/i]
+
+Army for Hire
+rules_text: Scry 2.
+Create three colorless 2/2 Assembly-Worker creature tokens. => Create three 2/2 colorless Assembly-Worker creature tokens.
+Scry 2.
+
+Cogify
+rules_text: Target creature's controller chooses one:
+• Until end of turn that creature loses all abilities and is a colorless Servo artifact creature with base power and toughness 1/1. 
+• Put that creature on top of its owner's library. => Target creature's controller chooses one:
+• Until end of turn, that creature loses all abilities and is a colorless Servo artifact creature with base power and toughness 1/1. 
+• Put that creature on top of its owner's library.
+
+Astute Fairground Vendor
+rules_text: Morph—Reveal a blue card in your hand. 
+When Astute Fairground Vendor is turned face up, face-down creature spells you cast and morph costs cost you {2} less until end of turn. => Morph—Reveal a blue card in your hand. 
+When Astute Fairground Vendor is turned face up, until end of turn, the next face-down creature spell you cast costs you {2} less to cast and the next morph ability you activate costs {2} less to activate.
+
+Willbender
+rules_text: Morph{1}{U}
+When Willbender is turned face up, change the target of target spell or ability with a single target. => Morph {1}{U}
+When Willbender is turned face up, change the target of target spell or ability with a single target.
+
+Filigreed Skywhale
+rules_text: When Filigreed Skywhale enters, it manufactures 1.
+Each creature you control with a +1/+1 counter on it has flying. => Flying
+When Filigreed Skywhale enters, it manufactures 1.
+Each creature you control with a +1/+1 counter on it has flying.
+
+Heir of the Wastes
+
+Bloody Auctioneer
+rules_text: When Bloody Auctioneer enters or is turned face up, each player sacrifices two creatures. 
+Morph {1}{B}{B} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i] => When Bloody Auctioneer enters or is turned face up, each player sacrifices two creatures. 
+Morph {E}{E}{E} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Kheru Harvester
+
+Maulfist Doorbuster
+
+Myopic Pillaging
+
+Harnessed Lightning
+
+Armorcraft Purchase
+rules_text: Untap target creature and put a +1/+1 counter on it. => Untap target creature, then it manufactures 1.
+
+Powered Down Timepiece
+rules_text: When Powered Down Timepiece enters, create a colorless 1/1 Servo artifact creature token.
+{1},{T}: Scry 1.
+{2}, Sacrifice Powered Down Timepiece: Draw a card and you get {E}{E}. => When Powered Down Timepiece enters, create a 1/1 colorless Servo artifact creature token.
+{1},{T}: Scry 1.
+{2}, Sacrifice Powered Down Timepiece: Draw a card and you get {E}{E}.
+
+Irreversible Nightmare
+rules_text: You get {E}{E}{E}{E}. Then you may pay any amount of {E}. Choose target creature in any graveyard whose mana value is less than or equal to the amount paid this way. Return that creature to the battlefield under your control. => Choose up to one target creature card in a graveyard. You get {E}{E}{E}{E}. Then you may pay an amount of {E} equal to that card's mana value. If you do, return it from the graveyard to the battlefield under your control.
+
+Rocslide
+rules_text: Whenever you cast a noncreature spell with mana value 3 or less, you may pay {1}. If you do, create a white 1/1 Bird creature token with flying. => Whenever you cast a noncreature spell with mana value 3 or less, you may pay {1}. If you do, create a 1/1 white Bird creature token with flying.
+
+Aradara Station
+rules_text: {T}: Add {C}.
+{1}{T}: Target colorless creature you control gets +1/+1 until end of turn. => {T}: Add {C}.
+{2}{T}: Target colorless creature you control gets +1/+1 until end of turn.
+
+Tax On Action
+rules_text: Tax On Action deals damage to target attacking or blocking creature equal to the number of creatures you control. => Tax On Action deals damage equal to the number of creatures you control to target attacking or blocking creature .
+
+Disassemble
+rules_text: Destroy target colorless creature, artifact, or enchantment.
+You gain 2 life. => Destroy target artifact, enchantment, or colorless creature, .
+You gain 2 life.
+
+Apprehend Dissident
+rules_text: Enchant creature.
+Enchanted creature can't attack or block, crew vehicles, be turned face up, and its activated abilities can't be activated. => Enchant creature.
+Enchanted creature can't attack, block, crew vehicles, or be turned face up, and its activated abilities can't be activated.
+
+Skypatrol Aetherborn
+rules_text: Flying
+When Skypatrol Aetherborn enters it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i] => Flying
+When Skypatrol Aetherborn enters, it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Aristocrats' Steed
+rules_text: Morph 4{W}{W} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Aristocrats' Steed enters or is turned face up, up to two target creature gains indestructible until end of turn. => Morph 4{W}{W} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Aristocrats' Steed enters or is turned face up, up to two target creatures gains indestructible until end of turn.
+
+Polluting Byproduct
+rules_text: Enchant permanent.
+Enchanted permanent is a Wastes and loses all other card types and abilities.
+Enchanted permanent has “{7}: Polluting Byproduct's owner sacrifices it and draws a card. Activate only as a sorcery.” => Enchant permanent.
+Enchanted permanent is a colorless land names Wastes and loses all other card types and abilities.
+Enchanted permanent has “{T}: Add {C}.” and “{7}: Polluting Byproduct's owner sacrifices it and draws a card. Activate only as a sorcery.”
+
+Contrive
+rules_text: Scry 1.
+Target creature manufactures 1. [i](Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)[/i] => Target creature manufactures 1. [i](Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+Scry 1.
+
+Sponsor's Cruise
+rules_text: Sponsor's Cruise costs {1} less for each face-down creature you control.
+Draw three cards. => Sponsor's Cruise costs {1} less to cast for each face-down creature you control.
+Draw three cards.
+
+Drone Vendor
+rules_text: As an additional cost to cast Drone Vendor you may pay {W} or sacrifice a Servo. If you do, when Drone Vendor enters, create a colorless 1/1 Thopter creature token with flying. => When Drone Vendor enters, you may pay {W} or sacrifice a Servo. If you do, create a 1/1 colorless Thopter creature token with flying.
+
+Aetherborn Incumbent
+rules_text: When Aetherborn Incumbent enters, draw a card.
+{B}: Aetherborn Incumbent gets +1/-1 until the end of turn. 
+{W}: Aetherborn Incumbent gets -1/+1 until the end of turn. => When Aetherborn Incumbent enters, draw a card.
+{3}{B}: Aetherborn Incumbent manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Minister of Flight
+rules_text: Flying 
+Minister of Flight can block only creatures with flying.
+Morph {5}{U}
+When Minister of Flight is turned face up, it manufactures 2. => Flying 
+Morph {5}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Minister of Flight is turned face up, it manufactures 2. [i](Put two +1/+1 counters on this creature, or create two 1/1 colorless Servo artifact creature tokens.)[/i]
+
+Gearseeker Squid
+rules_text: Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+{2}{U}, Discard Gearseeker Squid: Up to two target creatures you control cannot be blocked this turn. Draw a card. => Ward {3} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {3}.)[/i]
+{2}{U}, Discard Gearseeker Squid: Up to two target creatures you control can't be blocked this turn. Draw a card.
+
+Die Young
+
+Ghirapur Pickpocket
+rules_text: [i]Raid[/i] - If you attacked this turn, at the beginning of your end step, each opponent loses 1 life. => [i]Raid[/i] - At the beginning of your end step, if you attacked this turn, each opponent loses 1 life.
+
+Graveyard Lurker
+rules_text: When Graveyard Lurker enters you mill 2 and get {E}{E}. When you do, you may pay {E}{E}{E}{E}. If you do return up to two target creature cards from your graveyard to your hand. => When Graveyard Lurker enters, you get {E}{E} and mill 2 cards, then you may pay {E}{E}{E}{E}. If you do, return up to two target creature cards from your graveyard to your hand.
+pt: 3/2 => 3/1
+
+Aetherborn Bond-Kin
+rules_text: When Aetherborn Bond-Kin enters, you get {E}{E}.
+When Aetherborn Bond-Kin attacks, you may pay {E}{E}. If you do, Aetherborn creatures you control gain deathtouch, lifelink, and menace until end of turn. => When Aetherborn Bond-Kin enters, you get {E}{E}.
+Whenever Aetherborn Bond-Kin attacks, you may pay {E}{E}. If you do, Aetherborn creatures you control gain deathtouch, lifelink, and menace until end of turn.
+
+Summit Postulant
+
+Rising Temperatures
+rules_text: Rising Temperatures deals 4 damage to target creature. If excess damage was dealt to a permanent this way, you get that many {E}.
+[i]Raid[/i] - If you've attacked this turn, this spell deals 7 damage instead. => Rising Temperatures deals 4 damage to target creature. If excess damage was dealt to a permanent this way, you get {E}{E}.
+[i]Raid[/i] - If you've attacked this turn, this spell deals 7 damage instead.
+
+Aetherspout Erruption
+rules_text: Aetherspout Erruption deals 2 damage to each creature. Then you may pay {E}{E}, if you do Aetherspout Erruption deals 2 additional damage to each creature. 
+Draw a card. => Aetherspout Erruption deals 3 damage to each creature. Then you may pay {E}{E}, if you do draw a card.
+
+Disrupted Hibernator
+rules_text: Morph {1}{G} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i] => Trample
+Each creature you control with a +1/+1 counter on it has trample.
+Morph {1}{G} [i](You may cast this card face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)[/i]
+
+Immense Development
+rules_text: Target colorless creature gets +3/+3 and gains trample until end of turn. => Put a +1/+1 counter and a trample counter on target creature. If it's colorless, it gets +2/+2 until end of turn.
+
+Extinction Rebellion
+rules_text: [i]Raid[/i] - At the beginning of your end step, if you attacked this turn, you may pay {W}. If you do, return target card with mana value 3 or less from your graveyard to your hand. => [i]Raid[/i] - At the beginning of your end step, if you attacked this turn, choose one: You may pay {W}. If you do, return target permanent with mana value 3 or less from your graveyard to your hand.
+
+Highspire Mystic
+rules_text: {1}{U},{T}: Turn target creature with Morph face down. This ability costs {2} more if an opponent controls that creature. Activate only as a sorcery. => {3}{U},{T}: Turn target creature with morph face down. This ability costs {2} less to activate if you control that creature. Activate only as a sorcery.
+
+Bird
+pt: 3/3 => 2/2
+
+Manifest
+
+Mineral Appraiser
+rules_text: Whenever an artifact or a colorless creature enters under your control, you gain 1 life. => Whenever an artifact or a colorless creature you control enters, you gain 1 life.
+
+Tradewind Stalker
+rules_text: Morph 4{U}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i] => Flying
+Morph 4{U}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Sunset Smoglands
+
+
+VERSION 4 CHANGELOG
 ====================
 
 
