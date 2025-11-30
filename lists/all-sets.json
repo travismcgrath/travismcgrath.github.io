@@ -1,6 +1,11 @@
 ﻿{
     "sets": [
         {
+            "set_code": "BRL",
+            "set_name": "Battle Royal",
+            "formats": ""
+        },
+        {
             "set_code": "CoA",
             "set_name": "Change on Avishkar",
             "formats": ""

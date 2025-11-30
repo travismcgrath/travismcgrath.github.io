@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link rel="icon" type="image/png" href="/sets/BRL-files/icon.png"/>
+	<link rel="stylesheet" href="/resources/header.css">
+	<title>BRL visual preview</title>
+	<style>
+		@font-face {
+			font-family: Beleren;
+			src: url('/resources/beleren.ttf');
+		}
+		body {
+			font-family: Arial, sans-serif;
+			margin: 0;
+			padding: 0;
+			overscroll-behavior: none;
+			background-size: cover;
+			background-attachment: fixed;
+		}
+		.main-content {
+			position: relative;
+			width: 100%;
+			float: left;
+			z-index: 2;
+			justify-items: center;
+		}
+		.sidebar {
+			position: sticky;
+			top: 0;
+			display: none;
+			text-align: center;
+			padding-right: 3%;
+			z-index: 1;
+			justify-items: center;
+		}
+		.sidebar-container {
+			width: 80%;
+			max-width: 375px;
+			position: relative;
+		}
+		.sidebar-h-img {
+			opacity: 0;
+			transform: rotateY(0deg) rotate(90deg);
+			position: absolute;
+			left: 10%;
+			top: 10%;
+			width: 85%;
+		}
+		.sidebar-img {
+			vertical-align: middle;
+			width: 100%;
+		}
+		.close-btn {
+			background: url('/img/close.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 10%;
+			height: 10%;
+			border: none;
+			cursor: pointer;
+			position: absolute;
+			right: 4%;
+		}
+		.close-btn:hover {
+			background: url('/img/close-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.grid-container {
+			display: grid;
+			grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+			gap: 2px;
+			padding-left: 5%;
+			padding-right: 5%;
+			padding-bottom: 1%;
+			justify-items: center;
+			max-width: 1200px;
+		}
+		.grid-container img {
+			width: 100%;
+			height: auto;
+			display: block;
+			visibility: hidden;
+			cursor: pointer;
+		}
+		.banner {
+			width: 100%;
+			height: auto;
+			padding-top: 80px;
+			padding-bottom: 50px;
+		}
+		.logo {
+			display: block;
+			margin: auto;
+			max-width: 30%;
+			max-height: 320px;
+		}
+		.container {
+			position: relative;
+			width: 100%;
+		}
+		.container img {
+			width: 100%;
+			height: auto;
+		}
+		.flip-btn {
+			background: url('/img/flip.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+			width: 15%;
+			height: 11%;
+			cursor: pointer;
+			border: none;
+			position: absolute;
+			left: 50%;
+			top: 48%;
+			transform: translate(-50%, -50%);
+			opacity: 0.5;
+		}
+		.flip-btn:hover {
+			background: url('/img/flip-hover.png') no-repeat;
+			background-size: contain;
+			background-position: center;
+		}
+		.dropdown {
+			background: rgba(23, 23, 23, 0.8);
+			border-radius: 8px;
+			position: absolute;
+			left: 5%;
+			width: fit-content;
+			max-width: 90%;
+			margin: 20px 0;
+			padding: 5px 0;
+			display: grid;
+			grid-template-columns: 1fr;
+			z-index: 3;
+		}
+		.dropdown .set-bar {
+			font-family: Beleren;
+			font-size: 20px;
+			text-decoration: none;
+			color: #e3e3e3;
+			display: flex;
+			gap: 10px;
+			align-items: center;
+			padding: 0 12px;
+			margin: 5px;
+		}
+		.dropdown .set-bar:hover {
+			background: rgba(163, 163, 163, 0.5);
+			color: #f3f3f3;
+		}
+		.dropdown .set-bar img {
+			width: 32px;
+		}
+		.dropdown .inactive {
+			height: 0px;
+			overflow: hidden;
+			margin: 0px 5px;
+		}
+		.preload-hidden {
+			display: none;
+		}
+		.addenda-container {
+			text-align: center;
+			width: fit-content;
+			max-width: 1200px;
+			padding: 0 5%;
+		}
+		/* This is here to enable the stickiness in a Float environment. I don't know why it works but it does */
+		.footer {
+			clear: both;
+		}
+	</style>
+</head>
+<body>
+	<img class="preload-hidden" src="/img/dot.png" />
+	<img class="preload-hidden" src="/sets/BRL-files/logo.png" />
+	<img class="preload-hidden" src="/sets/BRL-files/icon.png" />
+		<img class="preload-hidden" src="/sets/CoA-files/icon.png" />
+		<div class="header">
+		<div class="search-grid">
+			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
+			<img class="sg-icon" src="/img/search.png">
+			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
+			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+		</div>
+	</div>
+
+	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
+	
+		<a class="set-bar" href="BRL"><img src="/sets/BRL-files/icon.png">Battle Royal</a>
+	
+		<a class="set-bar inactive" href="CoA"><img src="/sets/CoA-files/icon.png">Change on Avishkar</a>
+	
+		</div>
+		<div class="banner">
+		<img class="logo" src="/sets/BRL-files/logo.png">
+		</div>
+		<div class="main-content" id="main-content">
+			<div class="grid-container">
+					<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\22_RW04 —.png" id="22_RW04 —" data-flag="@X" onclick="openSidebar('22_RW04 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\39_RU04 —.png" id="39_RU04 —" data-flag="@X" onclick="openSidebar('39_RU04 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\55_RB04 —.png" id="55_RB04 —" data-flag="@X" onclick="openSidebar('55_RB04 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\70_RR04 —.png" id="70_RR04 —" data-flag="@X" onclick="openSidebar('70_RR04 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\84_RG04 —.png" id="84_RG04 —" data-flag="@X" onclick="openSidebar('84_RG04 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\25_UW07 — Shard Flyer.png" id="25_UW07 — Shard Flyer" data-flag="@X" onclick="openSidebar('25_UW07 — Shard Flyer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\40_UU01 — Mutate Force Spike.png" id="40_UU01 — Mutate Force Spike" data-flag="@X" onclick="openSidebar('40_UU01 — Mutate Force Spike',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\56_UB08.png" id="56_UB08" data-flag="@X" onclick="openSidebar('56_UB08',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\71_UR## — Not Lightning Bolt.png" id="71_UR## — Not Lightning Bolt" data-flag="@X" onclick="openSidebar('71_UR## — Not Lightning Bolt',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\85_UG11 —.png" id="85_UG11 —" data-flag="@X" onclick="openSidebar('85_UG11 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\9_CW01 — Shard Inspector.png" id="9_CW01 — Shard Inspector" data-flag="@X" onclick="openSidebar('9_CW01 — Shard Inspector',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\41_UU03 — Flux channeler.png" id="41_UU03 — Flux channeler" data-flag="@X" onclick="openSidebar('41_UU03 — Flux channeler',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\42_CB01 —.png" id="42_CB01 —" data-flag="@X" onclick="openSidebar('42_CB01 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\57_CR01 — Raging Gecko.png" id="57_CR01 — Raging Gecko" data-flag="@X" onclick="openSidebar('57_CR01 — Raging Gecko',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\72_CG01 — Bristling Brushwagg.png" id="72_CG01 — Bristling Brushwagg" data-flag="@X" onclick="openSidebar('72_CG01 — Bristling Brushwagg',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\10_CW02 — Populate Wizard.png" id="10_CW02 — Populate Wizard" data-flag="@X" onclick="openSidebar('10_CW02 — Populate Wizard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\26_CU01 — Algebraic Ingrediant.png" id="26_CU01 — Algebraic Ingrediant" data-flag="@X" onclick="openSidebar('26_CU01 — Algebraic Ingrediant',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\43_CB02 —.png" id="43_CB02 —" data-flag="@X" onclick="openSidebar('43_CB02 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\58_CR02 — Pilfering Vole.png" id="58_CR02 — Pilfering Vole" data-flag="@X" onclick="openSidebar('58_CR02 — Pilfering Vole',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\73_CG02 — Manadork.png" id="73_CG02 — Manadork" data-flag="@X" onclick="openSidebar('73_CG02 — Manadork',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\11_CW03 — War Pegasus.png" id="11_CW03 — War Pegasus" data-flag="@X" onclick="openSidebar('11_CW03 — War Pegasus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\27_CU02 — Toroidal Pupil.png" id="27_CU02 — Toroidal Pupil" data-flag="@X" onclick="openSidebar('27_CU02 — Toroidal Pupil',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\44_CB03 —.png" id="44_CB03 —" data-flag="@X" onclick="openSidebar('44_CB03 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\59_CR03 — Offspring.png" id="59_CR03 — Offspring" data-flag="@X" onclick="openSidebar('59_CR03 — Offspring',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\74_CG03 — Beast Whisperer.png" id="74_CG03 — Beast Whisperer" data-flag="@X" onclick="openSidebar('74_CG03 — Beast Whisperer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\12_CW04 — Nyxborn Spearmen.png" id="12_CW04 — Nyxborn Spearmen" data-flag="@X" onclick="openSidebar('12_CW04 — Nyxborn Spearmen',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\28_CU03 — Parabolic Gluider.png" id="28_CU03 — Parabolic Gluider" data-flag="@X" onclick="openSidebar('28_CU03 — Parabolic Gluider',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\45_CB04 —.png" id="45_CB04 —" data-flag="@X" onclick="openSidebar('45_CB04 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\60_CR04 — Burrow Sentry.png" id="60_CR04 — Burrow Sentry" data-flag="@X" onclick="openSidebar('60_CR04 — Burrow Sentry',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\75_CG04 — Better fertilid.png" id="75_CG04 — Better fertilid" data-flag="@X" onclick="openSidebar('75_CG04 — Better fertilid',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\13_CW05 — Griffin Scout.png" id="13_CW05 — Griffin Scout" data-flag="@X" onclick="openSidebar('13_CW05 — Griffin Scout',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\29_CU04 — Unauthorized Researcher.png" id="29_CU04 — Unauthorized Researcher" data-flag="@X" onclick="openSidebar('29_CU04 — Unauthorized Researcher',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\46_CB05 —.png" id="46_CB05 —" data-flag="@X" onclick="openSidebar('46_CB05 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\61_CR05 — Sharp Clawed Scout.png" id="61_CR05 — Sharp Clawed Scout" data-flag="@X" onclick="openSidebar('61_CR05 — Sharp Clawed Scout',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\76_CG05 — Fighting beast.png" id="76_CG05 — Fighting beast" data-flag="@X" onclick="openSidebar('76_CG05 — Fighting beast',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\14_CW06 — Temple Caretaker.png" id="14_CW06 — Temple Caretaker" data-flag="@X" onclick="openSidebar('14_CW06 — Temple Caretaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\30_CU05 — Translucent Lupine.png" id="30_CU05 — Translucent Lupine" data-flag="@X" onclick="openSidebar('30_CU05 — Translucent Lupine',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\47_CB06 — Garden Gaurd Gardian.png" id="47_CB06 — Garden Gaurd Gardian" data-flag="@X" onclick="openSidebar('47_CB06 — Garden Gaurd Gardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\62_CR06 —Electrophorese Archer.png" id="62_CR06 —Electrophorese Archer" data-flag="@X" onclick="openSidebar('62_CR06 —Electrophorese Archer',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\77_CG06 — Tenured Biologist.png" id="77_CG06 — Tenured Biologist" data-flag="@X" onclick="openSidebar('77_CG06 — Tenured Biologist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\15_CW07 —.png" id="15_CW07 —" data-flag="@X" onclick="openSidebar('15_CW07 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\31_CU06 — Exponentiation Professor.png" id="31_CU06 — Exponentiation Professor" data-flag="@X" onclick="openSidebar('31_CU06 — Exponentiation Professor',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\48_CB07 — Assist plauge crafter.png" id="48_CB07 — Assist plauge crafter" data-flag="@X" onclick="openSidebar('48_CB07 — Assist plauge crafter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\63_CR07 —.png" id="63_CR07 —" data-flag="@X" onclick="openSidebar('63_CR07 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\78_CG07 —.png" id="78_CG07 —" data-flag="@X" onclick="openSidebar('78_CG07 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\16_CW08 — Mutate Archon.png" id="16_CW08 — Mutate Archon" data-flag="@X" onclick="openSidebar('16_CW08 — Mutate Archon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\32_CU07 — Missing Variable.png" id="32_CU07 — Missing Variable" data-flag="@X" onclick="openSidebar('32_CU07 — Missing Variable',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\49_CB08 —.png" id="49_CB08 —" data-flag="@X" onclick="openSidebar('49_CB08 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\64_CR08 —Bird Dragon.png" id="64_CR08 —Bird Dragon" data-flag="@X" onclick="openSidebar('64_CR08 —Bird Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\79_CG08 — Hungry Sandworm.png" id="79_CG08 — Hungry Sandworm" data-flag="@X" onclick="openSidebar('79_CG08 — Hungry Sandworm',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\17_CW09 —.png" id="17_CW09 —" data-flag="@X" onclick="openSidebar('17_CW09 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\33_CU08 — Foretell bounce.png" id="33_CU08 — Foretell bounce" data-flag="@X" onclick="openSidebar('33_CU08 — Foretell bounce',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\50_CB09 — Deadweight.png" id="50_CB09 — Deadweight" data-flag="@X" onclick="openSidebar('50_CB09 — Deadweight',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\65_CR09 — Torch the Treasure.png" id="65_CR09 — Torch the Treasure" data-flag="@X" onclick="openSidebar('65_CR09 — Torch the Treasure',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\80_CG09 — beast maker.png" id="80_CG09 — beast maker" data-flag="@X" onclick="openSidebar('80_CG09 — beast maker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\18_CW10 — Flicker of Fate.png" id="18_CW10 — Flicker of Fate" data-flag="@X" onclick="openSidebar('18_CW10 — Flicker of Fate',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\34_CU09 — Stunning fractal.png" id="34_CU09 — Stunning fractal" data-flag="@X" onclick="openSidebar('34_CU09 — Stunning fractal',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\51_CB10 — Tempting bones.png" id="51_CB10 — Tempting bones" data-flag="@X" onclick="openSidebar('51_CB10 — Tempting bones',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\66_CR10 — Tempting smells.png" id="66_CR10 — Tempting smells" data-flag="@X" onclick="openSidebar('66_CR10 — Tempting smells',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\81_CG11 — Tempting stampede.png" id="81_CG11 — Tempting stampede" data-flag="@X" onclick="openSidebar('81_CG11 — Tempting stampede',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\19_CW11 — Tempting Spearmen.png" id="19_CW11 — Tempting Spearmen" data-flag="@X" onclick="openSidebar('19_CW11 — Tempting Spearmen',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\35_CU10 — Tempting copies.png" id="35_CU10 — Tempting copies" data-flag="@X" onclick="openSidebar('35_CU10 — Tempting copies',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\52_CB11 — 5cmc murder.png" id="52_CB11 — 5cmc murder" data-flag="@X" onclick="openSidebar('52_CB11 — 5cmc murder',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\67_CR11 — Big burn spell.png" id="67_CR11 — Big burn spell" data-flag="@X" onclick="openSidebar('67_CR11 — Big burn spell',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\82_CG12a — Attack on Ketria Gemforest.png" id="82_CG12a — Attack on Ketria Gemforest" data-flag="@X" onclick="openSidebar('82_CG12a — Attack on Ketria Gemforest',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\20_CW12a — Attack on the Sun Temple.png" id="20_CW12a — Attack on the Sun Temple" data-flag="@X" onclick="openSidebar('20_CW12a — Attack on the Sun Temple',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\36_CU11 — Assist Card Draw.png" id="36_CU11 — Assist Card Draw" data-flag="@X" onclick="openSidebar('36_CU11 — Assist Card Draw',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\53_CB12a — Attack on the Fairie Garden.png" id="53_CB12a — Attack on the Fairie Garden" data-flag="@X" onclick="openSidebar('53_CB12a — Attack on the Fairie Garden',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\68_CR12a — Attack on Emberheart-Forge.png" id="68_CR12a — Attack on Emberheart-Forge" data-flag="@X" onclick="openSidebar('68_CR12a — Attack on Emberheart-Forge',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\83_CG12b — Attack on Ketria Gemforest.png" id="83_CG12b — Attack on Ketria Gemforest" data-flag="@X" onclick="openSidebar('83_CG12b — Attack on Ketria Gemforest',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\21_CW12b — Attack on the Sun Temple.png" id="21_CW12b — Attack on the Sun Temple" data-flag="@X" onclick="openSidebar('21_CW12b — Attack on the Sun Temple',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\37_CU12a — Attack on the Chalkboard.png" id="37_CU12a — Attack on the Chalkboard" data-flag="@X" onclick="openSidebar('37_CU12a — Attack on the Chalkboard',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\54_CB12b — Attack on the Fairie Garden.png" id="54_CB12b — Attack on the Fairie Garden" data-flag="@X" onclick="openSidebar('54_CB12b — Attack on the Fairie Garden',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\69_CR12b — Attack on Emberheart Forge.png" id="69_CR12b — Attack on Emberheart Forge" data-flag="@X" onclick="openSidebar('69_CR12b — Attack on Emberheart Forge',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\23_UW06 —.png" id="23_UW06 —" data-flag="@X" onclick="openSidebar('23_UW06 —',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\38_CU12b — Attack on the Chalkboard.png" id="38_CU12b — Attack on the Chalkboard" data-flag="@X" onclick="openSidebar('38_CU12b — Attack on the Chalkboard',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\24_UW07 — Gleaming Centaurus.png" id="24_UW07 — Gleaming Centaurus" data-flag="@X" onclick="openSidebar('24_UW07 — Gleaming Centaurus',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="gold" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\96_UZ01 — Shard Tempo Lord.png" id="96_UZ01 — Shard Tempo Lord" data-flag="@X" onclick="openSidebar('96_UZ01 — Shard Tempo Lord',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\104_UZ15 — For Discipline.png" id="104_UZ15 — For Discipline" data-flag="@X" onclick="openSidebar('104_UZ15 — For Discipline',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\108_UZ18 — For Notoriety.png" id="108_UZ18 — For Notoriety" data-flag="@X" onclick="openSidebar('108_UZ18 — For Notoriety',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\111_UZ20 — For Might.png" id="111_UZ20 — For Might" data-flag="@X" onclick="openSidebar('111_UZ20 — For Might',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\103_UZ14 — For Flight.png" id="103_UZ14 — For Flight" data-flag="@X" onclick="openSidebar('103_UZ14 — For Flight',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\99_UZ11 — For Wisdom.png" id="99_UZ11 — For Wisdom" data-flag="@X" onclick="openSidebar('99_UZ11 — For Wisdom',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\118_UZ05 — Helpful Wall.png" id="118_UZ05 — Helpful Wall" data-flag="@X" onclick="openSidebar('118_UZ05 — Helpful Wall',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\109_UZ18 — For Notoriety other side.png" id="109_UZ18 — For Notoriety other side" data-flag="@X" onclick="openSidebar('109_UZ18 — For Notoriety other side',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\95_CZ10 — Battle Fighter.png" id="95_CZ10 — Battle Fighter" data-flag="@X" onclick="openSidebar('95_CZ10 — Battle Fighter',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\89_CZ04.png" id="89_CZ04" data-flag="@X" onclick="openSidebar('89_CZ04',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\86_CZ01.png" id="86_CZ01" data-flag="@X" onclick="openSidebar('86_CZ01',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\90_CZ05.png" id="90_CZ05" data-flag="@X" onclick="openSidebar('90_CZ05',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\112_UZ30 — Rankle's Firstborn Bargain.png" id="112_UZ30 — Rankles Firstborn Bargain" data-flag="@X" onclick="openSidebar('112_UZ30 — Rankles Firstborn Bargain',true)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\93_CZ08.png" id="93_CZ08" data-flag="@X" onclick="openSidebar('93_CZ08',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\97_UZ02 — Enchanment blood artist.png" id="97_UZ02 — Enchanment blood artist" data-flag="@X" onclick="openSidebar('97_UZ02 — Enchanment blood artist',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\105_UZ16 — For Secrecy.png" id="105_UZ16 — For Secrecy" data-flag="@X" onclick="openSidebar('105_UZ16 — For Secrecy',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\110_UZ19 — For Persistence.png" id="110_UZ19 — For Persistence" data-flag="@X" onclick="openSidebar('110_UZ19 — For Persistence',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\102_UZ13 — For Restoration.png" id="102_UZ13 — For Restoration" data-flag="@X" onclick="openSidebar('102_UZ13 — For Restoration',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\98_UZ07 — Fractal maker.png" id="98_UZ07 — Fractal maker" data-flag="@X" onclick="openSidebar('98_UZ07 — Fractal maker',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\100_UZ12 — For Martyrdom.png" id="100_UZ12 — For Martyrdom" data-flag="@X" onclick="openSidebar('100_UZ12 — For Martyrdom',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\91_CZ06.png" id="91_CZ06" data-flag="@X" onclick="openSidebar('91_CZ06',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\94_CZ09.png" id="94_CZ09" data-flag="@X" onclick="openSidebar('94_CZ09',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\88_CZ03.png" id="88_CZ03" data-flag="@X" onclick="openSidebar('88_CZ03',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\106_UZ17 — For Emergence.png" id="106_UZ17 — For Emergence" data-flag="@X" onclick="openSidebar('106_UZ17 — For Emergence',true)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\101_UZ12 — For Martyrdom other side.png" id="101_UZ12 — For Martyrdom other side" data-flag="@X" onclick="openSidebar('101_UZ12 — For Martyrdom other side',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\107_UZ17 — For Emergence other side.png" id="107_UZ17 — For Emergence other side" data-flag="@X" onclick="openSidebar('107_UZ17 — For Emergence other side',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\87_CZ02.png" id="87_CZ02" data-flag="@X" onclick="openSidebar('87_CZ02',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\92_CZ07 — Two fractals.png" id="92_CZ07 — Two fractals" data-flag="@X" onclick="openSidebar('92_CZ07 — Two fractals',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\113_CZ11.png" id="113_CZ11" data-flag="@X" onclick="openSidebar('113_CZ11',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\114_CZ12 — Quandrix.png" id="114_CZ12 — Quandrix" data-flag="@X" onclick="openSidebar('114_CZ12 — Quandrix',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\115_CZ13.png" id="115_CZ13" data-flag="@X" onclick="openSidebar('115_CZ13',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\116_CZ14.png" id="116_CZ14" data-flag="@X" onclick="openSidebar('116_CZ14',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\117_CZ15.png" id="117_CZ15" data-flag="@X" onclick="openSidebar('117_CZ15',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div id="colorless" class="anchor"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\1_RS03 — Flicker Conspiracy.png" id="1_RS03 — Flicker Conspiracy" data-flag="@X" onclick="openSidebar('1_RS03 — Flicker Conspiracy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\2_RS04 — Myriad Conspiracy.png" id="2_RS04 — Myriad Conspiracy" data-flag="@X" onclick="openSidebar('2_RS04 — Myriad Conspiracy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\3_RS05 — Tribal Conspiracy.png" id="3_RS05 — Tribal Conspiracy" data-flag="@X" onclick="openSidebar('3_RS05 — Tribal Conspiracy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\4_US01 — Shard Conspiracy.png" id="4_US01 — Shard Conspiracy" data-flag="@X" onclick="openSidebar('4_US01 — Shard Conspiracy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\5_US02 — Help Conspiracy.png" id="5_US02 — Help Conspiracy" data-flag="@X" onclick="openSidebar('5_US02 — Help Conspiracy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\6_US03 — Bargain gift Conspiracy.png" id="6_US03 — Bargain gift Conspiracy" data-flag="@X" onclick="openSidebar('6_US03 — Bargain gift Conspiracy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\7_US05 — Mutate Conspiracy.png" id="7_US05 — Mutate Conspiracy" data-flag="@X" onclick="openSidebar('7_US05 — Mutate Conspiracy',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\8_US99 — Prototype Battles.png" id="8_US99 — Prototype Battles" data-flag="@X" onclick="openSidebar('8_US99 — Prototype Battles',false)"></div>
+				<div class="container"><img loading="lazy" alt="/sets\BRL-files\img\119_RA## — Politics Equipment.png" id="119_RA## — Politics Equipment" data-flag="@X" onclick="openSidebar('119_RA## — Politics Equipment',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+	</div>
+	</div>
+	<div class="sidebar" id="sidebar">
+		<div class="sidebar-container">
+			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_h_img" class="sidebar-h-img">
+			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
+		</div>
+		<button class="close-btn" onclick="closeSidebar()"></button>
+	</div>
+	<div class="footer"></div>
+
+	<script>
+	const delay = ms => new Promise(res => setTimeout(res, ms));
+		let specialchars = "";
+
+	document.addEventListener('DOMContentLoaded', async function() {
+		await fetch('/lists/all-cards.json')
+					.then(response => response.json())
+					.then(json => {
+						card_list = json;
+				}).catch(error => console.error('Error:', error));
+
+				await fetch('/resources/replacechars.txt')
+					.then(response => response.text())
+					.then(text => {
+						specialchars = text; 
+				}).catch(error => console.error('Error:', error));
+
+				card_list_arrayified = card_list.cards;
+
+		preloadImgs = document.getElementsByClassName('preload-hidden');
+
+		let images_loaded = [];
+
+		do {
+			await delay(100);
+			images_loaded = []
+			for (const img of preloadImgs)
+			{
+				images_loaded.push(isImageOk(img));
+			}
+		}
+		while (images_loaded.includes(false));
+
+		
+		loadImages();
+	});
+
+	function isImageOk(img) {
+		if (!img.complete || img.naturalWidth == 0) {
+			return false;
+		}
+
+		return true;
+	}
+
+	function loadImages() {
+		const images = document.querySelectorAll('.grid-container img');
+
+		images.forEach(img => {
+			const flag = img.getAttribute('data-flag');
+
+			if (flag === '@N') {
+				img.src = '/img/card_back.png';
+				img.removeAttribute("onclick");
+				img.style.cursor = 'default';
+			}
+			else
+			{
+				img.src = img.alt;
+
+				if (flag === '@E') {
+					img.removeAttribute("onclick");
+					img.style.cursor = 'default';
+				}
+			}
+
+			img.style.visibility = 'visible';
+		});
+	}
+
+	window.addEventListener('resize', function(event) {
+		setSidebarTop();
+	}, true);
+
+	function setSidebarTop() {
+		let vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0);
+		let sh = document.getElementById('sidebar').offsetHeight;
+		let height = 100 * ((vh - sh) / 2) / vh;
+		document.getElementById('sidebar').style.top = height + '%';
+	}
+
+	let horizontal = false;
+
+	function imgFlip(num) {
+		const img = document.getElementById(num);
+		const seconds = 0.2;
+		const rotated_img = document.getElementById('sidebar_h_img');
+
+        img.style.transition = seconds.toString() + "s";
+        img.style.transform = "rotateY(90deg)";
+
+        if (num == 'sidebar_img')
+		{
+			const sidebar_img = document.getElementById('sidebar_img');
+
+			if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(90deg) rotate(90deg)";
+
+           		if (rotated_img.style.opacity != "0") {
+		            setTimeout(() => {
+		                rotated_img.style.opacity = "0";
+		                img.style.filter = "none";
+		            }, (seconds / 2) * 1000);
+		        }
+		        else {
+		        	setTimeout(() => {
+		                rotated_img.style.opacity = "1";
+		                img.style.filter = "blur(2px) brightness(0.7)";
+		            }, (seconds / 2) * 1000);
+		        }
+            }
+		}
+
+         setTimeout(function() {
+            tmp = document.getElementById(num).src;
+			document.getElementById(num).src = document.getElementById(num).dataset.alt_src;
+			document.getElementById(num).dataset.alt_src = tmp;
+
+            img.style.transition = seconds.toString() + "s";
+            img.style.transform = "rotateY(0deg)";
+
+            if (horizontal)
+            {
+            	rotated_img.style.transition = seconds.toString() + "s";
+           		rotated_img.style.transform = "rotateY(0deg) rotate(90deg)";
+            }
+        }, seconds * 1000);
+	}
+
+	function openSidebar(id, h = false) {
+		horizontal = h;
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'grid';
+
+		const rotated_img = document.getElementById('sidebar_h_img');
+		const sidebar_img = document.getElementById('sidebar_img');
+
+		sidebar_img.style.transition = "none";
+		rotated_img.style.transition = "none";
+		sidebar_img.src = document.getElementById(id).src;
+		rotated_img.src = document.getElementById(id).src.replace("_back", "_front");
+
+		if (horizontal && !sidebar_img.src.includes("_back"))
+		{
+			rotated_img.style.opacity = "1";
+			sidebar_img.style.filter = "blur(2px) brightness(0.7)";
+		}
+		else
+		{
+			rotated_img.style.opacity = "0";
+			sidebar_img.style.filter = "";
+		}
+
+		if (document.getElementById(id).dataset.alt_src)
+		{
+			document.getElementById('sidebar_img').dataset.alt_src = document.getElementById(id).dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'block';
+		}
+		else
+		{
+			delete document.getElementById('sidebar_img').dataset.alt_src;
+			document.getElementById('sidebar-flip-btn').style.display = 'none';
+		}
+		document.getElementById('main-content').style.width = '60%';
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+		setSidebarTop();
+	}
+
+	function closeSidebar() {
+		scroll_pct = window.scrollY / document.documentElement.scrollHeight;
+
+		document.getElementById('sidebar').style.display = 'none';
+		document.getElementById('main-content').style.width = '100%';
+
+
+		scroll_pos = scroll_pct * document.documentElement.scrollHeight;
+		window.scrollTo(window.scrollX, scroll_pos);
+	}
+
+	function rolldown() {
+		dropdown.style.gridTemplateColumns = "repeat(3, 1fr)";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "auto";
+			set.style.margin = "5px";
+		}
+	}
+
+	function rollup() {
+		dropdown.style.gridTemplateColumns = "1fr";
+		var sets = document.querySelectorAll('.inactive');
+		for(const set of sets)
+		{
+			set.style.height = "0px";
+			set.style.margin = "0px 5px";
+		}
+	}
+
+	document.getElementById("search").addEventListener("keypress", function(event) {
+		if (event.key === "Enter") {
+			event.preventDefault();
+			search();
+		}
+	});
+
+	function search() {
+		const url = new URL('search', window.location.origin);
+		url.searchParams.append('search', document.getElementById("search").value);
+		window.location.href = url;
+	}
+
+		function randomCard() {
+				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
+				let random_card = card_list_arrayified[i];
+
+				const url = new URL('card', window.location.origin);
+				const params = {
+					set: random_card.set,
+					num: random_card.number,
+					name: random_card.card_name
+				}
+				for (const key in params) {
+					url.searchParams.append(key, params[key]);
+				}
+
+				window.location.href = url;
+			}
+	</script>
+</body>
+</html>
