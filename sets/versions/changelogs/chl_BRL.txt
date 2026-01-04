@@ -1,4 +1,243 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+CU13 — Mandlebrot Pair added.
+CW01 — Tagoge Trainee added.
+CB08 — Big Bad Wolf added.
+CR12 — Torch the Toaster added.
+CB12 — Innocuous Prank added.
+CB16b — Attack on the Fairie Garden added.
+CG16a — Attack on Ketria Gemforest added.
+CZ07 — Geometric Geology added.
+CR06 — Electrophorese Archer added.
+CW16a — Attack on the Dawn Temple added.
+CB16a — Attack on the Fairie Garden added.
+CR16a — Attack on Emberheart-Forge added.
+CU16a — Attack on the Chalkboard added.
+CB14 — Killer Deal added.
+CB15 — Seductive Divination added.
+CB06 — Garden Gardian added.
+CB04 — Wishpering Pythonolin added.
+CB02 — Midnight Masqueraider added.
+CB03 — Dark Knight added.
+CB07 — Entreating Witch added.
+CU12 — Back to the Library added.
+CU14 — Group Study added.
+CU15 — Strange Attractors added.
+CU10 — Missing Variable added.
+CU08 — Exponentiation Professor added.
+CU05 — Animation Theorist added.
+CU06 — Quandrix Notekeeper added.
+CU01 — Toroidal Pupil added.
+CU02 — Parabolic Sophmore added.
+CW15 — Aestraste's Folly added.
+CW09 — Archon of the Rising Sun added.
+CU16b — Attack on the Chalkboard added.
+CW02 — Daxos' Pridemate added.
+CW03 — War Pegasus added.
+CW04 — Phalanx Spearmen added.
+CW05 — Griffin Scout added.
+CW08 — Nyxborn Light Seer added.
+CW16b — Attack on the Dawn Temple added.
+CW06 — Light-foot Healer added.
+CW12 — Flicker of Light added.
+CG01 — Bristling Brushwagg added.
+CG07 — Tenured Biologist added.
+CG11 — Indatha Ooze added.
+CG16b — Attack on Ketria Gemforest added.
+CG15 — Magnetic Stampede added.
+CG04 — Ketralid added.
+CB05 — Wild Hunter added.
+CG02 — Zagoth Elves added.
+CG03 — Symbiotic Shaman added.
+CG05 — Laughing Hyanther added.
+CG10 — Hungry Sandworm added.
+CW11 — Restless Sleep added.
+CR01 — Raging Gecko added.
+CR02 — Pilfering Vole added.
+CR03 — Root Maze Hatcher added.
+CR05 — Sharp Clawed Scout added.
+CR09 — Three Tree City Guard added.
+CR10 — Pond Creek Predator added.
+CR15 — Alluring Aromas added.
+CR14 — Wield the Seed Flame added.
+CR16b — Attack on Emberheart Forge added.
+CZ01 — Golden Ration added.
+CZ02 — Daxo's Freedom added.
+CZ03 — Cerluian Hynd added.
+CZ04 — Setessa Lightbringer added.
+CZ05 — Unauthorized Researcher added.
+CZ06 — Hydrodynamicist added.
+CZ08 — Haymeadow Brigand added.
+CZ09 — Soul Harvester added.
+CG12 — Establish Eludha added.
+CG06 — Girhino added.
+CG08 — Megafauna Grazer added.
+CG09 — Giangtula Bonder added.
+CG13 — Boar Over added.
+CB13 — Lure Away from Styx added.
+CB09 — Deadweight added.
+CG14 — Thunderous Stomp added.
+CR07 — Bannertail Knight added.
+CR04 — Emberheart Mouster added.
+CR08 — Burning Oak Champion added.
+CR11 — Uplift Animalfolk added.
+CR13 — Fell Comet's Warmth added.
+CB10 — Shadow Swap added.
+CB11 — Negotiated Death added.
+CW10 — Lightbathed Statue added.
+CW07 — Temple Caretaker added.
+CU11 — Rote Extra Credit added.
+CU03 — Quandrix Statue added.
+CU07 — Square Elemental added.
+CU09 — Published Analysis added.
+CU04 — Sneaky Auditor added.
+CW14 — Call the Faithful added.
+CW13 — Purge of Meletis added.
+
+
+
+VERSION 3 CHANGELOG
+====================
+
+US05 — Mutate Conspiracy added.
+US02 — Help Conspiracy added.
+RS04 — Myriad Conspiracy added.
+US01 — Shard Conspiracy added.
+RS05 — Kindred Conspiracy added.
+US03 — Bargain gift Conspiracy added.
+RS03 — Flicker Conspiracy added.
+
+
+
+VERSION 2 CHANGELOG
+====================
+
+CZ10 — Calamity Badger added.
+CB01 — Cursed Pie Baker added.
+
+US05 — Mutate Conspiracy removed.
+US02 — Help Conspiracy removed.
+RS04 — Myriad Conspiracy removed.
+CU10 — Tempting copies removed.
+CW01 — Shard Inspector removed.
+UU01 — Mutate Force Spike removed.
+US99 — Prototype Battles removed.
+CB08 — removed.
+UZ02 — Enchanment blood artist removed.
+US01 — Shard Conspiracy removed.
+UW07 — Shard Flyer removed.
+UZ01 — Shard Tempo Lord removed.
+RA## — Politics Equipment removed.
+UZ12 — For Martyrdom removed.
+UZ11 — For Wisdom removed.
+UR## — Not Lightning Bolt removed.
+UZ14 — For Flight removed.
+UZ20 — For Might removed.
+UZ13 — For Restoration removed.
+UZ15 — For Discipline removed.
+UZ17 — For Emergence removed.
+UZ19 — For Persistence removed.
+UZ16 — For Secrecy removed.
+UZ18 — For Notoriety removed.
+CR09 — Torch the Treasure removed.
+UZ05 — Helpful Wall removed.
+CZ10 — Battle Fighter removed.
+UZ17 — For Emergence other side removed.
+UZ12 — For Martyrdom other side removed.
+UZ30 — Rankle's Firstborn Bargain removed.
+CB09 — Deadweight removed.
+CB12b — Attack on the Fairie Garden removed.
+UZ18 — For Notoriety other side removed.
+CG12a — Attack on Ketria Gemforest removed.
+CZ07 — Two fractals removed.
+RG04 — removed.
+CG05 — Fighting beast removed.
+CR06 —Electrophorese Archer removed.
+CW12a — Attack on the Sun Temple removed.
+CB12a — Attack on the Fairie Garden removed.
+CR12a — Attack on Emberheart-Forge removed.
+CU12a — Attack on the Chalkboard removed.
+RS05 — Tribal Conspiracy removed.
+US03 — Bargain gift Conspiracy removed.
+RS03 — Flicker Conspiracy removed.
+RB04 — removed.
+RR04 — removed.
+RW04 — removed.
+RU04 — removed.
+UZ07 — Fractal maker removed.
+CB11 — 5cmc murder removed.
+CB10 — Tempting bones removed.
+UB08 removed.
+CB06 — Garden Gaurd Gardian removed.
+CB04 — removed.
+CB01 — removed.
+CB02 — removed.
+CB03 — removed.
+CB07 — Assist plauge crafter removed.
+CU08 — Foretell bounce removed.
+UU03 — Flux channeler removed.
+CU11 — Assist Card Draw removed.
+CU09 — Stunning fractal removed.
+CU07 — Missing Variable removed.
+CZ12 — Quandrix removed.
+CU06 — Exponentiation Professor removed.
+CU05 — Translucent Lupine removed.
+CU01 — Algebraic Ingrediant removed.
+CU04 — Unauthorized Researcher removed.
+CU02 — Toroidal Pupil removed.
+CU03 — Parabolic Gluider removed.
+UW07 — Gleaming Centaurus removed.
+CW11 — Tempting Spearmen removed.
+CW08 — Mutate Archon removed.
+CU12b — Attack on the Chalkboard removed.
+CW02 — Populate Wizard removed.
+CW03 — War Pegasus removed.
+CW04 — Nyxborn Spearmen removed.
+CW05 — Griffin Scout removed.
+UW06 — removed.
+CW07 — removed.
+CW12b — Attack on the Sun Temple removed.
+CW06 — Temple Caretaker removed.
+CW10 — Flicker of Fate removed.
+CG01 — Bristling Brushwagg removed.
+CG06 — Tenured Biologist removed.
+CG09 — beast maker removed.
+CG12b — Attack on Ketria Gemforest removed.
+CG11 — Tempting stampede removed.
+CG04 — Better fertilid removed.
+CB05 — removed.
+CG02 — Manadork removed.
+CG03 — Beast Whisperer removed.
+CG07 — removed.
+CG08 — Hungry Sandworm removed.
+UG11 — removed.
+CW09 — removed.
+CR01 — Raging Gecko removed.
+CR02 — Pilfering Vole removed.
+CR03 — Offspring removed.
+CR04 — Burrow Sentry removed.
+CR05 — Sharp Clawed Scout removed.
+CR07 — removed.
+CR08 —Bird Dragon removed.
+CR10 — Tempting smells removed.
+CR11 — Big burn spell removed.
+CR12b — Attack on Emberheart Forge removed.
+CZ01 removed.
+CZ02 removed.
+CZ03 removed.
+CZ04 removed.
+CZ05 removed.
+CZ06 removed.
+CZ08 removed.
+CZ09 removed.
+CZ11 removed.
+CZ13 removed.
+CZ14 removed.
+CZ15 removed.
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
