@@ -1,4 +1,14 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+RG04 removed.
+CW1b — Attack on the Dawn Temple removed.
+
+UG06 —
+
+
+VERSION 5 CHANGELOG
 ====================
 
 UU01 — Mutate Force Spike added.
