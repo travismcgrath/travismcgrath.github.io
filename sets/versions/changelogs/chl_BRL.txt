@@ -1,4 +1,316 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+UU01 — Mutate Force Spike added.
+UZ02 — Enchanment blood artist added.
+UW04 — added.
+UW02 — Roaring Skirmisher added.
+UZ12 — For Martyrdom added.
+UZ11 — For Wisdom added.
+UR05 — Not Lightning Bolt added.
+UZ14 — For Flight added.
+UZ20 — For Might added.
+UZ13 — For Restoration added.
+UZ15 — For Discipline added.
+UZ17 — For Emergence added.
+UZ19 — For Persistence added.
+UZ16 — For Secrecy added.
+UZ18 — For Notoriety added.
+UZ17 — For Emergence other side added.
+UZ12 — For Martyrdom other side added.
+UZ30 — Rankle's Firstborn Bargain added.
+UZ18 — For Notoriety other side added.
+RG03 — added.
+UG04 — Fighting beast added.
+RB03 — added.
+RR03 — added.
+RW03 — added.
+RU03 — added.
+UZ07 — Fractal maker added.
+CB15 — Seductive Prophecy added.
+UB05 — Knight of Night added.
+UU02 — Flux added.
+UZ06 — Quandrix added.
+UW1 — Nyxborn Flock added.
+UW03 — Temple Khorós added.
+CG10 — Indatha Ooze added.
+CG15 — Feast of the Pack added.
+CG11 — Hungry Sandworm added.
+UG05 — added.
+UR04 — Burrow Sentry added.
+UZ01 — Golden Ration added.
+UZ11 added.
+UZ09 added.
+UZ10 added.
+CZ09 — Soul Haggler added.
+UU06 — Prophetic Sight added.
+RZ05 — May I Have Your Name added.
+UB04 — Faerie Assassin added.
+UZ05 — Entrancing Faye added.
+UG06 — added.
+UU04 — Animated Pi added.
+RL01 — added.
+RL02 — Atollpology added.
+RL05 — added.
+UU05 — Translucent Lupine added.
+UW05 — Inspired by Elspeth added.
+UU03 — Freshman Meal Plan added.
+RZ11 — Daxos added.
+RZ13 — Rankle added.
+RZ14 — Mable, Valley Bread-Winner added.
+RZ15 — Umori, Glue Beast added.
+RZ12 — Zimone, added.
+RL04 — Emberheart Greatsword added.
+RL03 — added.
+RZ01 added.
+RZ02 added.
+RZ03 added.
+RZ04 added.
+RZ06 added.
+RZ07 added.
+RZ08 added.
+RZ09 added.
+RZ10 added.
+RW01 added.
+RW02 added.
+RU01 added.
+RU02 added.
+RB01 added.
+RR02 added.
+RR01 added.
+RG01 added.
+RG02 added.
+RG04 added.
+RB02 added.
+CZ01 — Discrete Theology added.
+RW04a — added.
+RB04a — added.
+RU04a — added.
+RR04a — added.
+RG04a — added.
+UW06 added.
+CW17b — Alliance of Light added.
+CW1b — Attack on the Dawn Temple added.
+CW17a — Trial of Faith added.
+!Join a team! added.
+CB17a — Trial of Guile added.
+CB17b — Fruitful Alliance added.
+CU17a — Trial of Intellect added.
+CU17b — Collaborative Scholarship added.
+CR17a — Trial Brambles added.
+CG17b — Kinship of the Herd added.
+UB01 added.
+CG17a — Trial of Might added.
+CR17b — Battleproven Duo added.
+UR01 — added.
+UR02 — added.
+UR03 — added.
+UR06 — added.
+UG01 — added.
+UG02 — added.
+UG03 — added.
+UB06 added.
+UB02 added.
+UB03 added.
+
+CB15 — Seductive Divination removed.
+CG11 — Indatha Ooze removed.
+CG15 — Magnetic Stampede removed.
+CG10 — Hungry Sandworm removed.
+CZ01 — Golden Ration removed.
+CZ09 — Soul Harvester removed.
+
+US05 — Mutate Conspiracy
+rules_text: [i](Start the game with this conspiracy face up in the command zone.)[/i]
+Each mutated creature you control has Ward {2}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.[/i]
+) => [i](Start the game with this conspiracy face up in the command zone.)[/i]
+Each mutated creature you control has Ward {2}. [i](Whenever this permanent becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+
+CW01 — Tagoge Trainee
+rules_text: When Tagoge Trainee enters, create a Shard token then put a +1/+1 counter on target creature you control. => When Tagoge Trainee enters, put a +1/+1 counter on target creature your team controls, then create a Shard token [i](It's an enchantment with “{2}, Sacrifice this enchantment: Scry 1, then draw a card.”)[/i]
+
+CB08 — Big Bad Wolf
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+This spell costs {2} less to cast if it was bargained.
+Menace
+When Big Bad Wolfenters, goad each creature target player controls. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i] => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+This spell costs {2} less to cast if it was bargained.
+Menace
+When Big Bad Wolfenters, goad each creature target opponent controls. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]
+
+CZ10 — Calamity Badger
+
+CR16a — Attack on Emberheart-Forge
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever this Siege is dealt damage, create a two Food tokens. Then the controller of the damage exiles a card from the top of their library. Until the end of their next turn, they may play that card. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever this Siege is dealt damage, create a Food token. Then the controller of the damage exiles a card from the top of their library. Until the end of their next turn, they may play that card.
+
+CB06 — Garden Gardian
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Lifelink
+When Garden Gardian enters, if it was bargained, two 1/1 black Faerie Rogue creature token with flying. => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+Lifelink
+When Garden Gardian enters, if it was bargained, a 1/1 black Faerie Rogue creature token with flying.
+
+CB04 — Wishpering Pythonolin
+rules_text: Mutate {1}{B} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+Whenever a creature you control mutates for the first time, target creature an opponent controls gets -2/-2 until end of turn. => Mutate {1}{B} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+Whenever a creature your team controls mutates for the first time, target creature an opponent controls gets -2/-2 until end of turn.
+special_text: Mutate {1}{B} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+Whenever a creature you control mutates for the first time, target creature an opponent controls gets -2/-2 until end of turn. => Mutate {1}{B} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+Whenever a creature your team controls mutates for the first time, target creature an opponent controls gets -2/-2 until end of turn.
+
+CB03 — Dark Knight
+
+CU15 — Strange Attractors
+rules_text: [i]Tempting offer[/i] — If this spell is not a copy, each opponent may copy it. For each opponent who does, you may copy it. 
+Stun target creature.
+Target player creates a 0/0 green and blue Fractal creature tokens and puts a +1/+1 counter on each Fractal they control. => [i]Tempting offer[/i] — If this spell is not a copy, each opponent may copy it. For each opponent who does, you may copy it. 
+Stun target creature.
+Target player creates a 0/0 green and blue Fractal creature token and puts a +1/+1 counter on each Fractal they control.
+
+CU05 — Animation Theorist
+rules_text: When Animation Theorist enters, target non-creature token you control becomes a creature in addition to its other types and has base power and toughness 4/4 for as long as Animation Theorist remains on the battlefield. => When Animation Theorist enters, target non-creature token your team controls becomes a creature in addition to its other types and has base power and toughness 4/4 for as long as Animation Theorist remains on the battlefield.
+
+CU06 — Quandrix Notekeeper
+rules_text: Flying
+Quandrix Notekeeper's power is equal to the number of non-creature cards in your graveyard. => Flying
+Quandrix Notekeeper's power is equal to the number of non-creature cards in your team's graveyards.
+
+CW15 — Aestraste's Folly
+rules_text: [i]Tempting offer[/i] — If this spell is not a copy, each opponent may copy it. For each opponent who does, you gain 3 life.
+Enchant creature.
+Enchanted creature can't attack or block. => [i]Tempting offer[/i] — If this spell is not a copy, each other player may copy it. For each other player who does, you gain 3 life.
+Enchant creature.
+Enchanted creature can't attack or block.
+
+CW09 — Archon of the Rising Sun
+
+CW04 — Phalanx Spearmen
+rules_text: [i]Constellation[/i] — Whenever an enchantment enters under your control, Phalanx Spearmengains first strike until end of turn.
+Phalanx Spearmen's power is equal to your devotion to white [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => 
+Phalanx Spearmen's power is equal to your team's devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+
+CW05 — Griffin Scout
+rules_text: Mutate {1}{W} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+Flying 
+When Griffin Scout enters or mutates for the first time, scry 2. => Flying 
+When Griffin Scout enters, scry 2 and create a Food token.
+special_text: Mutate {1}{W} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+Flying 
+When Griffin Scout enters or mutates for the first time, scry 2. => 
+
+CW08 — Nyxborn Light Seer
+pt: 3/6 => 2/5
+
+CW06 — Light-foot Healer
+rules_text: Whenever a creature or enchantment enters under your control, gain 1 life. If this is the third time this ability resolves this turn, draw a card. => Whenever a creature or enchantment enters under your team's control, gain 1 life. If this is the third time this ability resolves this turn, draw a card.
+
+CG01 — Bristling Brushwagg
+rules_text: Trample
+The first time Bristling Brushwagg mutates or when it leaves the battlefield, destroy target artifact or enchantment. => Trample
+The first time Bristling Brushwagg mutates or when it leaves the battlefield, destroy target artifact or enchantment an opponent controls.
+
+CG07 — Tenured Biologist
+rules_text: When a creature you control mutates, put a +1/+1 counter on it and Tenured Biologist .
+Creatures you control with a +1/+1 counter on them have trample. => When a creature mutates for the first time, put a +1/+1 counter on it and Tenured Biologist .
+Creatures you control with a +1/+1 counter on them have trample.
+
+CG03 — Symbiotic Shaman
+rules_text: Whenever a Beast you control enters or mutates, create a Shard token. => Whenever a Beast that your team controls enters or mutates, create a Shard token.
+
+CG05 — Laughing Hyanther
+
+CW11 — Restless Sleep
+rules_text: Restless Sleep deals damage to target tapped creature equal to 2 plus the number of enchantments you control. => Restless Sleep deals damage to target tapped creature equal to 2 plus the number of enchantments your team controls.
+
+CR03 — Root Maze Hatcher
+rules_text: Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Myriad => Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Myriad [i](Whenever this creature attacks, for each opponent other than defending player, you may create a token that's a copy of this creature that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)[/i]
+
+CR09 — Three Tree City Guard
+
+CR15 — Alluring Aromas
+rules_text: [i]Tempting offer[/i] — Create a 1/1 token copy of target creature you control with mana value 3 or less. Each opponent may create two Food tokens. For each who does you populate. [i](Create a token that's a copy of a creature token you control.)[/i] => [i]Tempting offer[/i] — Create a 1/1 token copy of target creature you control with mana value 3 or less. Each other player may create two Food tokens. For each who does you populate. [i](Create a token that's a copy of a creature token you control.)[/i]
+
+CR14 — Wield the Seed Flame
+rules_text: Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+Wield deals 5 damage to target creature and 2 damage to target opponent or battle. 
+Each other player who helped pay for this spell deals 2 damage to a target creature you don't control. => Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+Wield deals 5 damage to target creature and 2 damage to target opponent or battle. 
+Each other player who helped pay for this spell deals 2 damage to a target creature your team doesn't control.
+
+CZ04 — Setessa Lightbringer
+
+CZ06 — Hydrodynamicist
+rules_text: Whenever you cast a spell from anywhere other than your hand, untap Hydrodynamicist.
+{T}: Hydrodynamicist deals 1 damage to each opponent. => Whenever your team casts a spell from anywhere other than your hand, untap Hydrodynamicist.
+{T}: Hydrodynamicist deals 1 damage to each opponent.
+
+CZ08 — Haymeadow Brigand
+rules_text: First strike
+Whenever a non-token creature under your opponents control dies, create a Food token. => First strike
+Whenever a non-token creature under another player's control dies, create a Food token.
+
+CG06 — Girhino
+rules_text: Mutate {2}{G} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+ => Mutate {2}{G} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+When Girhino enters, create two Food tokens.
+special_text: Mutate {2}{G} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+ => Mutate {2}{G} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+When Girhino enters, create two Food tokens.
+
+CG08 — Megafauna Grazer
+rules_text: Vigilance, reach
+Sacrifice a token: Search your library basic land card, put it onto the battlefield tapped, then shuffle. Activate this ability only as a sorcery and only once each turn. => Vigilance, reach
+{2}, Sacrifice a token: Search your library basic land card, put it onto the battlefield tapped, then shuffle. Activate this ability only as a sorcery and only once each turn.
+
+CG09 — Giangtula Bonder
+rules_text: This spell costs {2} less if you control a creature trample.
+Flash, reach => This spell costs {2} less if your team controls a creature with trample.
+Flash, reach
+
+CG13 — Boar Over
+rules_text: Put a trample counter on target creature you control, then it deals damage equal to its power to target creature you don't control. If the creature you control is mutated, it gains hexproof and indestructible until end of turn. => Put a trample counter on target creature you control, then it deals damage equal to its power to target creature an opponent controls. If the creature you control is mutated, it gains hexproof and indestructible until end of turn.
+
+CR07 — Bannertail Knight
+rules_text: [i]Valiant[/i] — Whenever Bannertail Knight becomes target of a spell or ability you control for the first time each turn, creatures you control get +2/+0 until end of turn. => [i]Valiant[/i] — Whenever Bannertail Knight becomes target of a spell or ability your team controls for the first time each turn, creatures your team controls get +2/+0 until end of turn.
+
+CR08 — Burning Oak Champion
+rules_text: [i]Valiant[/i] — Whenever Burning Oak Champion becomes target of a spell or ability you control for the first time each turn, it gains double strike until end of turn. => [i]Valiant[/i] — Whenever Burning Oak Champion becomes target of a spell or ability your team controls for the first time each turn, it gains double strike until end of turn.
+
+CR11 — Uplift Animalfolk
+rules_text: Target player may scry 2. 
+Put a first strike counter on target non-Human creature you control. => Target player may scry 2. 
+Put a first strike counter on target non-Human creature your team controls.
+
+CU11 — Rote Extra Credit
+rules_text: Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+Proliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+Put a +1/+1 counter on target creature you control. => Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+Proliferate [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+Put a +1/+1 counter on target creature your team controls.
+
+CU07 — Square Elemental
+
+CU09 — Published Analysis
+rules_text: When Published Analysis enters, create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on each Fractal you control where X is one plus the number of non-creature cards in your graveyard. => When Published Analysis enters, create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on each Fractal your team controls where X is one plus the number of non-creature cards in your team's graveyards.
+
+CU04 — Sneaky Auditor
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, draw a card then discard a card. => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, each player on your team draws a card then discards a card.
+
+CW14 — Call the Faithful
+rules_text: Help [i](Other players can pay up to {3} of this spell's cost.)[/i]
+When Call enters, create a 2/2 white Solider tokens with vigilance.Then you and each opponent helped pay for this spell gains 3 life.
+At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Solider tokens with vigilance. => Help [i](Other players can pay up to {3} of this spell's cost.)[/i]
+When Call enters, create a 2/2 white Solider tokens with vigilance.Then you and each other player who helped pay for this spell gains 3 life.
+At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Solider tokens with vigilance.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 CU13 — Mandlebrot Pair added.
