@@ -1,4 +1,134 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+UR06 — Heartfire Bolt added.
+UG03 — Fighting beast added.
+UB04 — Knight of Night added.
+UG04 — added.
+UR01 — Root Maze Hatcher added.
+UR02 — Burrow Sentry added.
+CR16b — Emberheart Anvil added.
+UZ0 added.
+UB03 — Faerie Assassin added.
+UU04 — Translucent Lupine added.
+CR03 — added.
+UR02 — For the Valley! added.
+UR04 — ScarletSky Duo added.
+UR05 — Inspired by Ral added.
+UG05 — Inspired by Vivien added.
+UB05 — Inspired by Oko added.
+US04 — added.
+RS02 — added.
+RS01 — added.
+UZ03 — added.
+UZ04 — added.
+UZ09 — added.
+UU05 — Inspired by The Kenriths added.
+UR03 — Wiskerbow Archer added.
+
+UR05 — Not Lightning Bolt removed.
+UG04 — Fighting beast removed.
+UB05 — Knight of Night removed.
+UG05 — removed.
+CR03 — Root Maze Hatcher removed.
+UR04 — Burrow Sentry removed.
+CR16b — Attack on Emberheart Forge removed.
+UZ11 removed.
+UZ09 removed.
+UB04 — Faerie Assassin removed.
+UU04 — Animated Pi removed.
+UU05 — Translucent Lupine removed.
+UR01 — removed.
+UR02 — removed.
+UR03 — removed.
+UR06 — removed.
+UG03 — removed.
+UB03 removed.
+
+UW02 — Roaring Skirmisher
+rules_text: Whenever an enchantment enters under your control, you may stun target tapped creature. => [i]Constellation[/i] — Whenever an enchantment enters under your control, you may tap target creature.
+
+CR12 — Torch the Toaster
+rules_text: Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, they create a Food token before its other effects. It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+Torch deals 2 damage to target creature or battle. If a gift was promised, instead it deals 3 damage to that permanent and you scry 1.
+If a permanent dealt damage by Torch would die, exile it instead. => Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, they create a Food token before its other effects. It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+Torch deals 2 damage to target creature. If a gift was promised, instead it deals 3 damage to that creature and you scry 1.
+If a creature dealt damage by Torch would die, exile it instead.
+
+US03 — Bargain gift Conspiracy
+rules_text: [i](Start the game with this conspiracy face up in the command zone.)[/i]
+Whenever you cast a spell that is bargained or gives a gift, scry 2. => [i](Start the game with this conspiracy face up in the command zone.)[/i]
+Whenever you cast a spell that is bargained, haggled, or gives a gift, scry 2.
+
+RR03 —
+cost: {2}{R}{R} => {R}
+rules_text: Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Choose target permanent or player. Reveal cards from the top of your library until you reveal a non-land card, exile it, then RR03 — deals damage equal to that card's mana value to the chosen target. Then that target gains hexproof until end of turn. You may play the exiled card until the end of your next turn. => Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+
+CR08 — Burning Oak Champion
+type: Creature — Lizard Mercenary => Creature — Racoon Warrior
+
+CW14 — Call the Faithful
+rules_text: Help [i](Other players can pay up to {3} of this spell's cost.)[/i]
+When Call enters, create a 2/2 white Solider tokens with vigilance.Then you and each other player who helped pay for this spell gains 3 life.
+At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Solider tokens with vigilance. => Help [i](Other players can pay up to {3} of this spell's cost.)[/i]
+When Call the Faithful enters, create a 2/2 white Solider tokens with vigilance.Then you and each other player who helped pay for this spell gains 3 life.
+At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Solider tokens with vigilance.
+
+UW05 — Inspired by Elspeth
+rules_text: When Inspired by Elspeth enters target opponent who is not on a team, joins your team. [i](see the !Join a Team! rule card.)[/i]
+Creatures on your team get +1/+1. => When Inspired by Elspeth enters target opponent joins your team. [i](see the Join a Team! rules card.)[/i]
+Creatures on your team get +1/+1.
+
+RZ01
+type:  => Enchantment — Class
+
+RZ06
+type:  => Enchantment — Class
+
+CW17b — Alliance of Light
+rules_text: [i](Any opponent may attack this battle and any player on your team may protect it. When it's defeated, sacrifice it and dissolve your team.)[/i]
+At the beginning of the end step on each player's turn, if they are on your team, they may put a +1/+1 counter on a creature they control. => [i](Any opponent may attack this battle and any player on your team may protect it. When it's defeated, sacrifice it and disband your team.)[/i]
+At the beginning of the end step on each player's turn, if they are on your team, they may put a +1/+1 counter on a creature they control.
+
+!Join a team!
+rules_text: 
+• You cannot form a team unless you have two or more opponents.
+• If a player joins a team, they leave any team they were previously on.
+• If any player loses the game and only two player remain then all teams are dissolved. 
+• You may not attack your teammate. 
+• You may block creatures attacking your teammate, planeswalkers, or battles they control. => • You cannot form a team unless you have two or more opponents.
+• Teams cannot have more than two players.
+• If a player joins a team, they leave any team they were previously on.
+• If any player loses the game and only two player remain then all teams are disbanded.
+ • You may not attack your teammate. 
+• You may block creatures attacking your teammate, planeswalkers, or battles they control.
+
+CB17b — Fruitful Alliance
+rules_text: [i](Any opponent may attack this battle and any player on your team may protect it. When it's defeated, sacrifice it and dissolve your team.)[/i]
+Whenever a player on your team sacrifices a non-token permanent, they create a Food token. => [i](Any opponent may attack this battle and any player on your team may protect it. When it's defeated, sacrifice it and disband your team.)[/i]
+Whenever a player on your team sacrifices a non-token permanent, they create a Food token.
+
+CU17b — Collaborative Scholarship
+rules_text: [i](Any opponent may attack this battle and any player on your team may protect it. When it's defeated, sacrifice it and dissolve your team.)[/i]
+Noncreature spells your team casts have Help.
+[i](Other players can pay for the generic cost of the spell.)[/i] => [i](Any opponent may attack this battle and any player on your team may protect it. When it's defeated, sacrifice it and disband your team.)[/i]
+Noncreature spells your team casts have Help.
+[i](Other players can pay for the generic cost of the spell.)[/i]
+
+CG17b — Kinship of the Herd
+rules_text: [i](Any opponent may attack this battle and any player on your team may protect it. When it's defeated, sacrifice it and dissolve your team.)[/i]
+At the beginning of combat on each player's turn, if they are on your team, they may have target creature they control gain indestructible until end of turn. => [i](Any opponent may attack this battle and any player on your team may protect it. When it's defeated, sacrifice it and disband your team.)[/i]
+At the beginning of combat on each player's turn, if they are on your team, they may have target creature they control gain indestructible until end of turn.
+
+CR17b — Battleproven Duo
+rules_text: [i](Any opponent may attack this battle and any player on your team may protect it. When it's defeated, sacrifice it and dissolve your team.)[/i]
+Whenever a player on your team expends 4, target creature of their choice gets +1/+1 and gains trample until end of turn. => [i](Any opponent may attack this battle and any player on your team may protect it. When it's defeated, sacrifice it and disband your team.)[/i]
+Whenever a player on your team expends 4, target creature of their choice gets +1/+1 and gains trample until end of turn.
+loyalty: 4 => 3
+
+
+VERSION 6 CHANGELOG
 ====================
 
 

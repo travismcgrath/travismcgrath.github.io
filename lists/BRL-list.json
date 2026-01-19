@@ -1,1018 +1,1037 @@
 ﻿[
     {
         "card_name": "RW01",
-        "number": 27,
+        "number": 30,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RU01",
-        "number": 56,
+        "number": 59,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RB01",
-        "number": 85,
+        "number": 88,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RR01",
-        "number": 115,
+        "number": 118,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RG01",
-        "number": 144,
+        "number": 148,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RW02",
-        "number": 28,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RU02",
-        "number": 57,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RB02",
-        "number": 86,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RR02",
-        "number": 116,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RG02",
-        "number": 145,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RW03 \u2014",
-        "number": 29,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RU03 \u2014",
-        "number": 58,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RB03 \u2014",
-        "number": 87,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RR03 \u2014",
-        "number": 117,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RG03 \u2014",
-        "number": 146,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RW04a \u2014",
-        "number": 30,
-        "shape": "battle split",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RU04a \u2014",
-        "number": 59,
-        "shape": "battle split",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RB04a \u2014",
-        "number": 88,
-        "shape": "battle split",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RR04a \u2014",
-        "number": 118,
-        "shape": "battle split",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RG04a \u2014",
-        "number": 147,
-        "shape": "battle split",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "UW1 \u2014 Nyxborn Flock",
         "number": 31,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UU01 \u2014 Mutate Force Spike",
+        "card_name": "RU02",
         "number": 60,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB01",
+        "card_name": "RB02",
         "number": 89,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UR01 \u2014",
+        "card_name": "RR02",
         "number": 119,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UG01 \u2014",
+        "card_name": "RG02",
         "number": 149,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UW02 \u2014 Roaring Skirmisher",
+        "card_name": "RW03 \u2014",
         "number": 32,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UU02 \u2014 Flux",
+        "card_name": "RU03 \u2014",
         "number": 61,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB02",
+        "card_name": "RB03 \u2014",
         "number": 90,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UR02 \u2014",
+        "card_name": "RR03 \u2014",
         "number": 120,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UG02 \u2014",
+        "card_name": "RG03 \u2014",
         "number": 150,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UW03 \u2014 Temple Khor\u00f3s",
+        "card_name": "RW04a \u2014",
         "number": 33,
-        "shape": "normal",
+        "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UU03 \u2014 Freshman Meal Plan",
+        "card_name": "RU04a \u2014",
         "number": 62,
-        "shape": "normal",
+        "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB03",
+        "card_name": "RB04a \u2014",
         "number": 91,
-        "shape": "normal",
+        "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UR03 \u2014",
+        "card_name": "RR04a \u2014",
         "number": 121,
-        "shape": "normal",
+        "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UG03 \u2014",
+        "card_name": "RG04a \u2014",
         "number": 151,
-        "shape": "normal",
+        "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UW04 \u2014",
+        "card_name": "UW1 \u2014 Nyxborn Flock",
         "number": 34,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UU04 \u2014 Animated Pi",
+        "card_name": "UU01 \u2014 Mutate Force Spike",
         "number": 63,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB04 \u2014 Faerie Assassin",
+        "card_name": "UB01",
         "number": 92,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UR04 \u2014 Burrow Sentry",
+        "card_name": "UR01 \u2014 Root Maze Hatcher",
         "number": 122,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UG04 \u2014 Fighting beast",
-        "number": 152,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "UW05 \u2014 Inspired by Elspeth",
-        "number": 35,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "UU05 \u2014 Translucent Lupine",
-        "number": 64,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "UB05 \u2014 Knight of Night",
-        "number": 93,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "UR05 \u2014 Not Lightning Bolt",
-        "number": 123,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "UG05 \u2014",
+        "card_name": "UG01 \u2014",
         "number": 153,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UW06",
-        "number": 36,
+        "card_name": "UW02 \u2014 Roaring Skirmisher",
+        "number": 35,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UU06 \u2014 Prophetic Sight",
-        "number": 65,
+        "card_name": "UU02 \u2014 Flux",
+        "number": 64,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB06",
-        "number": 94,
+        "card_name": "UB02",
+        "number": 93,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UR06 \u2014",
-        "number": 124,
+        "card_name": "UR02 \u2014 Burrow Sentry",
+        "number": 123,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UG06 \u2014",
+        "card_name": "UG02 \u2014",
         "number": 154,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW01 \u2014 Tagoge Trainee",
-        "number": 8,
+        "card_name": "UW03 \u2014 Temple Khor\u00f3s",
+        "number": 36,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU01 \u2014 Toroidal Pupil",
+        "card_name": "UU03 \u2014 Freshman Meal Plan",
+        "number": 65,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "UB03 \u2014 Faerie Assassin",
+        "number": 94,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "UR02 \u2014 For the Valley!",
+        "number": 124,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "UG03 \u2014 Fighting beast",
+        "number": 155,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "UW04 \u2014",
         "number": 37,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB01 \u2014 Cursed Pie Baker",
+        "card_name": "UU04 \u2014 Translucent Lupine",
         "number": 66,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR01 \u2014 Raging Gecko",
+        "card_name": "UB04 \u2014 Knight of Night",
         "number": 95,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG01 \u2014 Bristling Brushwagg",
+        "card_name": "UR03 \u2014 Wiskerbow Archer",
         "number": 125,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW02 \u2014 Daxos' Pridemate",
-        "number": 9,
+        "card_name": "UG04 \u2014",
+        "number": 156,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU02 \u2014 Parabolic Sophmore",
+        "card_name": "UW05 \u2014 Inspired by Elspeth",
         "number": 38,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB02 \u2014 Midnight Masqueraider",
+        "card_name": "UU05 \u2014 Inspired by The Kenriths",
         "number": 67,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR02 \u2014 Pilfering Vole",
+        "card_name": "UB05 \u2014 Inspired by Oko",
         "number": 96,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG02 \u2014 Zagoth Elves",
+        "card_name": "UR04 \u2014 ScarletSky Duo",
         "number": 126,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW03 \u2014 War Pegasus",
-        "number": 10,
+        "card_name": "UG05 \u2014 Inspired by Vivien",
+        "number": 157,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU03 \u2014 Quandrix Statue",
+        "card_name": "UW06",
         "number": 39,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB03 \u2014 Dark Knight",
+        "card_name": "UU06 \u2014 Prophetic Sight",
         "number": 68,
-        "shape": "adventure",
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR03 \u2014 Root Maze Hatcher",
+        "card_name": "UB06",
         "number": 97,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG03 \u2014 Symbiotic Shaman",
+        "card_name": "UR05 \u2014 Inspired by Ral",
         "number": 127,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW04 \u2014 Phalanx Spearmen",
+        "card_name": "UG06 \u2014",
+        "number": 158,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CW01 \u2014 Tagoge Trainee",
         "number": 11,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU04 \u2014 Sneaky Auditor",
+        "card_name": "CU01 \u2014 Toroidal Pupil",
         "number": 40,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB04 \u2014 Wishpering Pythonolin",
+        "card_name": "CB01 \u2014 Cursed Pie Baker",
         "number": 69,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR04 \u2014 Emberheart Mouster",
-        "number": 98,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CG04 \u2014 Ketralid",
+        "card_name": "UR06 \u2014 Heartfire Bolt",
         "number": 128,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW05 \u2014 Griffin Scout",
-        "number": 12,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CU05 \u2014 Animation Theorist",
-        "number": 41,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CB05 \u2014 Wild Hunter",
-        "number": 70,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CR05 \u2014 Sharp Clawed Scout",
-        "number": 99,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CG05 \u2014 Laughing Hyanther",
+        "card_name": "CG01 \u2014 Bristling Brushwagg",
         "number": 129,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW06 \u2014 Light-foot Healer",
-        "number": 13,
+        "card_name": "CW02 \u2014 Daxos' Pridemate",
+        "number": 12,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU06 \u2014 Quandrix Notekeeper",
-        "number": 42,
+        "card_name": "CU02 \u2014 Parabolic Sophmore",
+        "number": 41,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB06 \u2014 Garden Gardian",
-        "number": 71,
+        "card_name": "CB02 \u2014 Midnight Masqueraider",
+        "number": 70,
         "shape": "adventure",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR06 \u2014 Electrophorese Archer",
-        "number": 100,
+        "card_name": "CR01 \u2014 Raging Gecko",
+        "number": 98,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG06 \u2014 Girhino",
+        "card_name": "CG02 \u2014 Zagoth Elves",
         "number": 130,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW07 \u2014 Temple Caretaker",
-        "number": 14,
+        "card_name": "CW03 \u2014 War Pegasus",
+        "number": 13,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU07 \u2014 Square Elemental",
-        "number": 43,
+        "card_name": "CU03 \u2014 Quandrix Statue",
+        "number": 42,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB07 \u2014 Entreating Witch",
-        "number": 72,
-        "shape": "normal",
+        "card_name": "CB03 \u2014 Dark Knight",
+        "number": 71,
+        "shape": "adventure",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR07 \u2014 Bannertail Knight",
-        "number": 101,
-        "shape": "normal",
+        "card_name": "CR02 \u2014 Pilfering Vole",
+        "number": 99,
+        "shape": "adventure",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG07 \u2014 Tenured Biologist",
+        "card_name": "CG03 \u2014 Symbiotic Shaman",
         "number": 131,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW08 \u2014 Nyxborn Light Seer",
-        "number": 15,
+        "card_name": "CW04 \u2014 Phalanx Spearmen",
+        "number": 14,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU08 \u2014 Exponentiation Professor",
-        "number": 44,
-        "shape": "adventure",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CB08 \u2014 Big Bad Wolf",
-        "number": 73,
+        "card_name": "CU04 \u2014 Sneaky Auditor",
+        "number": 43,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR08 \u2014 Burning Oak Champion",
-        "number": 102,
+        "card_name": "CB04 \u2014 Wishpering Pythonolin",
+        "number": 72,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG08 \u2014 Megafauna Grazer",
+        "card_name": "CR03 \u2014",
+        "number": 100,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CG04 \u2014 Ketralid",
         "number": 132,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW09 \u2014 Archon of the Rising Sun",
+        "card_name": "CW05 \u2014 Griffin Scout",
+        "number": 15,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CU05 \u2014 Animation Theorist",
+        "number": 44,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CB05 \u2014 Wild Hunter",
+        "number": 73,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CR04 \u2014 Emberheart Mouster",
+        "number": 101,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CG05 \u2014 Laughing Hyanther",
+        "number": 133,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CW06 \u2014 Light-foot Healer",
         "number": 16,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU09 \u2014 Published Analysis",
+        "card_name": "CU06 \u2014 Quandrix Notekeeper",
         "number": 45,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB09 \u2014 Deadweight",
+        "card_name": "CB06 \u2014 Garden Gardian",
         "number": 74,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CR09 \u2014 Three Tree City Guard",
-        "number": 103,
         "shape": "adventure",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG09 \u2014 Giangtula Bonder",
-        "number": 133,
-        "shape": "adventure",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CW10 \u2014 Lightbathed Statue",
-        "number": 17,
+        "card_name": "CR05 \u2014 Sharp Clawed Scout",
+        "number": 102,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU10 \u2014 Missing Variable",
-        "number": 46,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CB10 \u2014 Shadow Swap",
-        "number": 75,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CR10 \u2014 Pond Creek Predator",
-        "number": 104,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CG10 \u2014 Indatha Ooze",
+        "card_name": "CG06 \u2014 Girhino",
         "number": 134,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW11 \u2014 Restless Sleep",
-        "number": 18,
+        "card_name": "CW07 \u2014 Temple Caretaker",
+        "number": 17,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU11 \u2014 Rote Extra Credit",
-        "number": 47,
+        "card_name": "CU07 \u2014 Square Elemental",
+        "number": 46,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB11 \u2014 Negotiated Death",
-        "number": 76,
+        "card_name": "CB07 \u2014 Entreating Witch",
+        "number": 75,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR11 \u2014 Uplift Animalfolk",
-        "number": 105,
+        "card_name": "CR06 \u2014 Electrophorese Archer",
+        "number": 103,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG11 \u2014 Hungry Sandworm",
+        "card_name": "CG07 \u2014 Tenured Biologist",
         "number": 135,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW12 \u2014 Flicker of Light",
-        "number": 19,
+        "card_name": "CW08 \u2014 Nyxborn Light Seer",
+        "number": 18,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU12 \u2014 Back to the Library",
-        "number": 48,
+        "card_name": "CU08 \u2014 Exponentiation Professor",
+        "number": 47,
+        "shape": "adventure",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CB08 \u2014 Big Bad Wolf",
+        "number": 76,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB12 \u2014 Innocuous Prank",
-        "number": 77,
+        "card_name": "CR07 \u2014 Bannertail Knight",
+        "number": 104,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR12 \u2014 Torch the Toaster",
-        "number": 106,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CG12 \u2014 Establish Eludha",
+        "card_name": "CG08 \u2014 Megafauna Grazer",
         "number": 136,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW13 \u2014 Purge of Meletis",
+        "card_name": "CW09 \u2014 Archon of the Rising Sun",
+        "number": 19,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CU09 \u2014 Published Analysis",
+        "number": 48,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CB09 \u2014 Deadweight",
+        "number": 77,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CR08 \u2014 Burning Oak Champion",
+        "number": 105,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CG09 \u2014 Giangtula Bonder",
+        "number": 137,
+        "shape": "adventure",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CW10 \u2014 Lightbathed Statue",
         "number": 20,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU13 \u2014 Mandlebrot Pair",
+        "card_name": "CU10 \u2014 Missing Variable",
         "number": 49,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB13 \u2014 Lure Away from Styx",
+        "card_name": "CB10 \u2014 Shadow Swap",
         "number": 78,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR13 \u2014 Fell Comet's Warmth",
-        "number": 107,
-        "shape": "normal",
+        "card_name": "CR09 \u2014 Three Tree City Guard",
+        "number": 106,
+        "shape": "adventure",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG13 \u2014 Boar Over",
-        "number": 137,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CW14 \u2014 Call the Faithful",
-        "number": 21,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CU14 \u2014 Group Study",
-        "number": 50,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CB14 \u2014 Killer Deal",
-        "number": 79,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CR14 \u2014 Wield the Seed Flame",
-        "number": 108,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CG14 \u2014 Thunderous Stomp",
+        "card_name": "CG10 \u2014 Indatha Ooze",
         "number": 138,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW15 \u2014 Aestraste's Folly",
-        "number": 22,
+        "card_name": "CW11 \u2014 Restless Sleep",
+        "number": 21,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU15 \u2014 Strange Attractors",
-        "number": 51,
+        "card_name": "CU11 \u2014 Rote Extra Credit",
+        "number": 50,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB15 \u2014 Seductive Prophecy",
-        "number": 80,
+        "card_name": "CB11 \u2014 Negotiated Death",
+        "number": 79,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR15 \u2014 Alluring Aromas",
-        "number": 109,
+        "card_name": "CR10 \u2014 Pond Creek Predator",
+        "number": 107,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG15 \u2014 Feast of the Pack",
+        "card_name": "CG11 \u2014 Hungry Sandworm",
         "number": 139,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW16a \u2014 Attack on the Dawn Temple",
-        "number": 23,
-        "shape": "battle split",
+        "card_name": "CW12 \u2014 Flicker of Light",
+        "number": 22,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU16a \u2014 Attack on the Chalkboard",
-        "number": 52,
-        "shape": "battle split",
+        "card_name": "CU12 \u2014 Back to the Library",
+        "number": 51,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB16a \u2014 Attack on the Fairie Garden",
-        "number": 81,
-        "shape": "battle split",
+        "card_name": "CB12 \u2014 Innocuous Prank",
+        "number": 80,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR16a \u2014 Attack on Emberheart-Forge",
-        "number": 110,
-        "shape": "battle split",
+        "card_name": "CR11 \u2014 Uplift Animalfolk",
+        "number": 108,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG16a \u2014 Attack on Ketria Gemforest",
+        "card_name": "CG12 \u2014 Establish Eludha",
         "number": 140,
-        "shape": "battle split",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CW16b \u2014 Attack on the Dawn Temple",
-        "number": 24,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU16b \u2014 Attack on the Chalkboard",
-        "number": 53,
+        "card_name": "CW13 \u2014 Purge of Meletis",
+        "number": 23,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB16b \u2014 Attack on the Fairie Garden",
-        "number": 82,
+        "card_name": "CU13 \u2014 Mandlebrot Pair",
+        "number": 52,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR16b \u2014 Attack on Emberheart Forge",
-        "number": 111,
+        "card_name": "CB13 \u2014 Lure Away from Styx",
+        "number": 81,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG16b \u2014 Attack on Ketria Gemforest",
+        "card_name": "CR12 \u2014 Torch the Toaster",
+        "number": 109,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CG13 \u2014 Boar Over",
         "number": 141,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW17a \u2014 Trial of Faith",
-        "number": 25,
-        "shape": "battle split",
+        "card_name": "CW14 \u2014 Call the Faithful",
+        "number": 24,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU17a \u2014 Trial of Intellect",
-        "number": 54,
-        "shape": "battle split",
+        "card_name": "CU14 \u2014 Group Study",
+        "number": 53,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB17a \u2014 Trial of Guile",
-        "number": 83,
-        "shape": "battle split",
+        "card_name": "CB14 \u2014 Killer Deal",
+        "number": 82,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR17a \u2014 Trial Brambles",
-        "number": 112,
-        "shape": "battle split",
+        "card_name": "CR13 \u2014 Fell Comet's Warmth",
+        "number": 110,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG17a \u2014 Trial of Might",
+        "card_name": "CG14 \u2014 Thunderous Stomp",
         "number": 142,
-        "shape": "battle split",
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CW17b \u2014 Alliance of Light",
+        "card_name": "CW15 \u2014 Aestraste's Folly",
+        "number": 25,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CU15 \u2014 Strange Attractors",
+        "number": 54,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CB15 \u2014 Seductive Prophecy",
+        "number": 83,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CR14 \u2014 Wield the Seed Flame",
+        "number": 111,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CG15 \u2014 Feast of the Pack",
+        "number": 143,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CW16a \u2014 Attack on the Dawn Temple",
         "number": 26,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CU17b \u2014 Collaborative Scholarship",
+        "card_name": "CU16a \u2014 Attack on the Chalkboard",
         "number": 55,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CB17b \u2014 Fruitful Alliance",
+        "card_name": "CB16a \u2014 Attack on the Fairie Garden",
         "number": 84,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR17b \u2014 Battleproven Duo",
+        "card_name": "CR15 \u2014 Alluring Aromas",
+        "number": 112,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CG16a \u2014 Attack on Ketria Gemforest",
+        "number": 144,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CW16b \u2014 Attack on the Dawn Temple",
+        "number": 27,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CU16b \u2014 Attack on the Chalkboard",
+        "number": 56,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CB16b \u2014 Attack on the Fairie Garden",
+        "number": 85,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CR16a \u2014 Attack on Emberheart-Forge",
         "number": 113,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG17b \u2014 Kinship of the Herd",
-        "number": 143,
+        "card_name": "CG16b \u2014 Attack on Ketria Gemforest",
+        "number": 145,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CW17a \u2014 Trial of Faith",
+        "number": 28,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
+    },
+    {
+        "card_name": "CU17a \u2014 Trial of Intellect",
+        "number": 57,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CB17a \u2014 Trial of Guile",
+        "number": 86,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CR16b \u2014 Emberheart Anvil",
+        "number": 114,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CG17a \u2014 Trial of Might",
+        "number": 146,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CW17b \u2014 Alliance of Light",
+        "number": 29,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CU17b \u2014 Collaborative Scholarship",
+        "number": 58,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CB17b \u2014 Fruitful Alliance",
+        "number": 87,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CR17a \u2014 Trial Brambles",
+        "number": 115,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "CG17b \u2014 Kinship of the Herd",
+        "number": 147,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CR17b \u2014 Battleproven Duo",
+        "number": 116,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1029,139 +1048,143 @@
     "a->gold",
     {
         "card_name": "RZ01",
-        "number": 165,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RZ05 \u2014 May I Have Your Name",
         "number": 169,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
+        "card_name": "RZ05 \u2014 May I Have Your Name",
+        "number": 173,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
         "card_name": "RZ08",
-        "number": 172,
+        "number": 176,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RZ10",
-        "number": 174,
+        "number": 178,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RZ04",
-        "number": 168,
+        "number": 172,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ01 \u2014 Golden Ration",
-        "number": 175,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "UZ05 \u2014 Entrancing Faye",
-        "number": 177,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "UZ09",
         "number": 180,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UZ10",
-        "number": 181,
+        "card_name": "UZ05 \u2014 Entrancing Faye",
+        "number": 184,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UZ14 \u2014 For Flight",
-        "number": 186,
-        "shape": "battle split",
+        "card_name": "UZ0",
+        "number": 179,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "UZ10",
+        "number": 188,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "UZ04 \u2014",
+        "number": 183,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ11 \u2014 For Wisdom",
-        "number": 182,
+        "number": 189,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ15 \u2014 For Discipline",
-        "number": 187,
-        "shape": "battle split",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "UZ18 \u2014 For Notoriety",
-        "number": 191,
-        "shape": "battle split",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "UZ20 \u2014 For Might",
         "number": 194,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CZ04 \u2014 Setessa Lightbringer",
-        "number": 158,
-        "shape": "normal",
+        "card_name": "UZ18 \u2014 For Notoriety",
+        "number": 198,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "UZ20 \u2014 For Might",
+        "number": 201,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "UZ14 \u2014 For Flight",
+        "number": 193,
+        "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ01 \u2014 Discrete Theology",
-        "number": 155,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CZ05 \u2014 Unauthorized Researcher",
         "number": 159,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
+        "card_name": "CZ05 \u2014 Unauthorized Researcher",
+        "number": 163,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
         "card_name": "UZ18 \u2014 For Notoriety other side",
-        "number": 192,
+        "number": 199,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ10 \u2014 Calamity Badger",
-        "number": 164,
+        "number": 168,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "CZ04 \u2014 Setessa Lightbringer",
+        "number": 162,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
     },
     {
         "card_name": "e"
@@ -1171,7 +1194,7 @@
     },
     {
         "card_name": "UZ30 \u2014 Rankle's Firstborn Bargain",
-        "number": 195,
+        "number": 202,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
@@ -1190,7 +1213,7 @@
     },
     {
         "card_name": "CZ08 \u2014 Haymeadow Brigand",
-        "number": 162,
+        "number": 166,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -1218,139 +1241,147 @@
     },
     {
         "card_name": "RZ02",
-        "number": 166,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RZ06",
         "number": 170,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
+        "card_name": "RZ06",
+        "number": 174,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
         "card_name": "RZ09",
-        "number": 173,
+        "number": 177,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RZ03",
-        "number": 167,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RZ07",
         "number": 171,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
+        "card_name": "RZ07",
+        "number": 175,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
         "card_name": "UZ02 \u2014 Enchanment blood artist",
-        "number": 176,
+        "number": 181,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ06 \u2014 Quandrix",
-        "number": 178,
+        "number": 185,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UZ19 \u2014 For Persistence",
-        "number": 193,
-        "shape": "battle split",
+        "card_name": "UZ09 \u2014",
+        "number": 187,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UZ13 \u2014 For Restoration",
-        "number": 185,
-        "shape": "battle split",
+        "card_name": "UZ03 \u2014",
+        "number": 182,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ07 \u2014 Fractal maker",
-        "number": 179,
+        "number": 186,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ12 \u2014 For Martyrdom",
-        "number": 183,
+        "number": 190,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ16 \u2014 For Secrecy",
-        "number": 188,
+        "number": 195,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CZ09 \u2014 Soul Haggler",
-        "number": 163,
-        "shape": "normal",
+        "card_name": "UZ19 \u2014 For Persistence",
+        "number": 200,
+        "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CZ03 \u2014 Cerluian Hynd",
-        "number": 157,
-        "shape": "normal",
+        "card_name": "UZ13 \u2014 For Restoration",
+        "number": 192,
+        "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ17 \u2014 For Emergence",
-        "number": 189,
+        "number": 196,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ12 \u2014 For Martyrdom other side",
-        "number": 184,
+        "number": 191,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ06 \u2014 Hydrodynamicist",
-        "number": 160,
+        "number": 164,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "CZ09 \u2014 Soul Haggler",
+        "number": 167,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "CZ03 \u2014 Cerluian Hynd",
+        "number": 161,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
     },
     {
         "card_name": "UZ17 \u2014 For Emergence other side",
-        "number": 190,
+        "number": 197,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ02 \u2014 Daxo's Freedom",
-        "number": 156,
+        "number": 160,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -1366,7 +1397,7 @@
     },
     {
         "card_name": "CZ07 \u2014 Geometric Geology",
-        "number": 161,
+        "number": 165,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -1388,57 +1419,38 @@
     },
     {
         "card_name": "RZ11 \u2014 Daxos",
-        "number": 196,
+        "number": 203,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RZ12 \u2014 Zimone,",
-        "number": 197,
+        "number": 204,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RZ13 \u2014 Rankle",
-        "number": 198,
+        "number": 205,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RZ14 \u2014 Mable, Valley Bread-Winner",
-        "number": 199,
+        "number": 206,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RZ15 \u2014 Umori, Glue Beast",
-        "number": 200,
+        "number": 207,
         "shape": "normal",
         "set": "BRL",
         "position": ""
-    },
-    {
-        "card_name": "UZ11",
-        "number": 201,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1454,60 +1466,87 @@
     },
     "a->colorless",
     {
-        "card_name": "RS03 \u2014 Flicker Conspiracy",
+        "card_name": "RS01 \u2014",
         "number": 1,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "RS04 \u2014 Myriad Conspiracy",
+        "card_name": "RS02 \u2014",
         "number": 2,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "RS05 \u2014 Kindred Conspiracy",
+        "card_name": "RS03 \u2014 Flicker Conspiracy",
         "number": 3,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "US01 \u2014 Shard Conspiracy",
+        "card_name": "RS04 \u2014 Myriad Conspiracy",
         "number": 4,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "US02 \u2014 Help Conspiracy",
+        "card_name": "RS05 \u2014 Kindred Conspiracy",
         "number": 5,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "US03 \u2014 Bargain gift Conspiracy",
+        "card_name": "US01 \u2014 Shard Conspiracy",
         "number": 6,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "US05 \u2014 Mutate Conspiracy",
+        "card_name": "US02 \u2014 Help Conspiracy",
         "number": 7,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "!Join a team!",
-        "number": 205,
+        "card_name": "US03 \u2014 Bargain gift Conspiracy",
+        "number": 8,
         "shape": "normal",
         "set": "BRL",
         "position": ""
+    },
+    {
+        "card_name": "US04 \u2014",
+        "number": 9,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "US05 \u2014 Mutate Conspiracy",
+        "number": 10,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "!Join a team!",
+        "number": 211,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -1530,35 +1569,35 @@
     "a->land",
     {
         "card_name": "RL01 \u2014",
-        "number": 202,
+        "number": 208,
         "shape": "saga",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RL02 \u2014 Atollpology",
-        "number": 203,
+        "number": 209,
         "shape": "class",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RL03 \u2014",
-        "number": 204,
+        "number": 210,
         "shape": "adventure",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RL04 \u2014 Emberheart Greatsword",
-        "number": 114,
+        "number": 117,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RL05 \u2014",
-        "number": 148,
+        "number": 152,
         "shape": "normal",
         "set": "BRL",
         "position": ""
