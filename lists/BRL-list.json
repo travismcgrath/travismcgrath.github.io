@@ -29,7 +29,7 @@
     },
     {
         "card_name": "RG01",
-        "number": 148,
+        "number": 147,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -56,7 +56,7 @@
         "position": ""
     },
     {
-        "card_name": "RR02",
+        "card_name": "RR02 \u2014 For the Valley!",
         "number": 119,
         "shape": "normal",
         "set": "BRL",
@@ -64,7 +64,7 @@
     },
     {
         "card_name": "RG02",
-        "number": 149,
+        "number": 148,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -99,7 +99,7 @@
     },
     {
         "card_name": "RG03 \u2014",
-        "number": 150,
+        "number": 149,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -134,7 +134,7 @@
     },
     {
         "card_name": "RG04a \u2014",
-        "number": 151,
+        "number": 150,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
@@ -147,14 +147,14 @@
         "position": ""
     },
     {
-        "card_name": "UU01 \u2014 Mutate Force Spike",
+        "card_name": "UU01 \u2014",
         "number": 63,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB01",
+        "card_name": "UB01 \u2014 The Muffin Man",
         "number": 92,
         "shape": "normal",
         "set": "BRL",
@@ -168,8 +168,8 @@
         "position": ""
     },
     {
-        "card_name": "UG01 \u2014",
-        "number": 153,
+        "card_name": "UG01 \u2014 Chevill's Apprentice",
+        "number": 152,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -182,14 +182,14 @@
         "position": ""
     },
     {
-        "card_name": "UU02 \u2014 Flux",
+        "card_name": "UU02 \u2014 Axiom Channeler",
         "number": 64,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB02",
+        "card_name": "UB02 \u2014 Faerie Assassin",
         "number": 93,
         "shape": "normal",
         "set": "BRL",
@@ -204,7 +204,7 @@
     },
     {
         "card_name": "UG02 \u2014",
-        "number": 154,
+        "number": 153,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -217,29 +217,29 @@
         "position": ""
     },
     {
-        "card_name": "UU03 \u2014 Freshman Meal Plan",
+        "card_name": "UU03 \u2014 Translucent Lupine",
         "number": 65,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB03 \u2014 Faerie Assassin",
+        "card_name": "UB03 \u2014 Knight of Night",
         "number": 94,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UR02 \u2014 For the Valley!",
+        "card_name": "UR03 \u2014 Wiskerbow Archer",
         "number": 124,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UG03 \u2014 Fighting beast",
-        "number": 155,
+        "card_name": "UG03 \u2014 Hornbash Champion",
+        "number": 154,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -252,21 +252,21 @@
         "position": ""
     },
     {
-        "card_name": "UU04 \u2014 Translucent Lupine",
+        "card_name": "UU04 \u2014 Freshman Meal Plan",
         "number": 66,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB04 \u2014 Knight of Night",
+        "card_name": "UB04 \u2014",
         "number": 95,
-        "shape": "normal",
+        "shape": "adventure",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UR03 \u2014 Wiskerbow Archer",
+        "card_name": "UR04 \u2014 ScarletSky Duo",
         "number": 125,
         "shape": "normal",
         "set": "BRL",
@@ -274,7 +274,7 @@
     },
     {
         "card_name": "UG04 \u2014",
-        "number": 156,
+        "number": 155,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -301,7 +301,7 @@
         "position": ""
     },
     {
-        "card_name": "UR04 \u2014 ScarletSky Duo",
+        "card_name": "UR05 \u2014 Inspired by Ral",
         "number": 126,
         "shape": "normal",
         "set": "BRL",
@@ -309,7 +309,7 @@
     },
     {
         "card_name": "UG05 \u2014 Inspired by Vivien",
-        "number": 157,
+        "number": 156,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -329,14 +329,14 @@
         "position": ""
     },
     {
-        "card_name": "UB06",
+        "card_name": "UB06 \u2014 Shadow Snaffle",
         "number": 97,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UR05 \u2014 Inspired by Ral",
+        "card_name": "UR06 \u2014 Heartfire Bolt",
         "number": 127,
         "shape": "normal",
         "set": "BRL",
@@ -344,7 +344,7 @@
     },
     {
         "card_name": "UG06 \u2014",
-        "number": 158,
+        "number": 157,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -371,15 +371,15 @@
         "position": ""
     },
     {
-        "card_name": "UR06 \u2014 Heartfire Bolt",
-        "number": 128,
+        "card_name": "CR01 \u2014 Raging Gecko",
+        "number": 98,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG01 \u2014 Bristling Brushwagg",
-        "number": 129,
+        "number": 128,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -406,15 +406,15 @@
         "position": ""
     },
     {
-        "card_name": "CR01 \u2014 Raging Gecko",
-        "number": 98,
-        "shape": "normal",
+        "card_name": "CR02 \u2014 Pilfering Vole",
+        "number": 99,
+        "shape": "adventure",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG02 \u2014 Zagoth Elves",
-        "number": 130,
+        "number": 129,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -441,15 +441,15 @@
         "position": ""
     },
     {
-        "card_name": "CR02 \u2014 Pilfering Vole",
-        "number": 99,
-        "shape": "adventure",
+        "card_name": "CR03 \u2014",
+        "number": 100,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG03 \u2014 Symbiotic Shaman",
-        "number": 131,
+        "number": 130,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -476,15 +476,15 @@
         "position": ""
     },
     {
-        "card_name": "CR03 \u2014",
-        "number": 100,
+        "card_name": "CR04 \u2014 Emberheart Mouster",
+        "number": 101,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG04 \u2014 Ketralid",
-        "number": 132,
+        "number": 131,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -511,15 +511,15 @@
         "position": ""
     },
     {
-        "card_name": "CR04 \u2014 Emberheart Mouster",
-        "number": 101,
+        "card_name": "CR05 \u2014 Sharp Clawed Scout",
+        "number": 102,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG05 \u2014 Laughing Hyanther",
-        "number": 133,
+        "number": 132,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -546,15 +546,15 @@
         "position": ""
     },
     {
-        "card_name": "CR05 \u2014 Sharp Clawed Scout",
-        "number": 102,
+        "card_name": "CR06 \u2014 Electrophorese Archer",
+        "number": 103,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG06 \u2014 Girhino",
-        "number": 134,
+        "number": 133,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -581,15 +581,15 @@
         "position": ""
     },
     {
-        "card_name": "CR06 \u2014 Electrophorese Archer",
-        "number": 103,
+        "card_name": "CR07 \u2014 Bannertail Knight",
+        "number": 104,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG07 \u2014 Tenured Biologist",
-        "number": 135,
+        "number": 134,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -616,15 +616,15 @@
         "position": ""
     },
     {
-        "card_name": "CR07 \u2014 Bannertail Knight",
-        "number": 104,
+        "card_name": "CR08 \u2014 Burning Oak Champion",
+        "number": 105,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG08 \u2014 Megafauna Grazer",
-        "number": 136,
+        "number": 135,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -644,22 +644,22 @@
         "position": ""
     },
     {
-        "card_name": "CB09 \u2014 Deadweight",
+        "card_name": "CB09 \u2014 Hold This",
         "number": 77,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CR08 \u2014 Burning Oak Champion",
-        "number": 105,
-        "shape": "normal",
+        "card_name": "CR09 \u2014 Three Tree City Guard",
+        "number": 106,
+        "shape": "adventure",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG09 \u2014 Giangtula Bonder",
-        "number": 137,
+        "number": 136,
         "shape": "adventure",
         "set": "BRL",
         "position": ""
@@ -686,15 +686,15 @@
         "position": ""
     },
     {
-        "card_name": "CR09 \u2014 Three Tree City Guard",
-        "number": 106,
-        "shape": "adventure",
+        "card_name": "CR10 \u2014 Pond Creek Predator",
+        "number": 107,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG10 \u2014 Indatha Ooze",
-        "number": 138,
+        "number": 137,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -721,15 +721,15 @@
         "position": ""
     },
     {
-        "card_name": "CR10 \u2014 Pond Creek Predator",
-        "number": 107,
+        "card_name": "CR11 \u2014 Uplift Animalfolk",
+        "number": 108,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG11 \u2014 Hungry Sandworm",
-        "number": 139,
+        "number": 138,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -756,15 +756,15 @@
         "position": ""
     },
     {
-        "card_name": "CR11 \u2014 Uplift Animalfolk",
-        "number": 108,
+        "card_name": "CR12 \u2014 Torch the Toaster",
+        "number": 109,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG12 \u2014 Establish Eludha",
-        "number": 140,
+        "number": 139,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -791,15 +791,15 @@
         "position": ""
     },
     {
-        "card_name": "CR12 \u2014 Torch the Toaster",
-        "number": 109,
+        "card_name": "CR13 \u2014 Fell Comet's Warmth",
+        "number": 110,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG13 \u2014 Boar Over",
-        "number": 141,
+        "number": 140,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -826,15 +826,15 @@
         "position": ""
     },
     {
-        "card_name": "CR13 \u2014 Fell Comet's Warmth",
-        "number": 110,
+        "card_name": "CR14 \u2014 Wield the Seed Flame",
+        "number": 111,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG14 \u2014 Thunderous Stomp",
-        "number": 142,
+        "number": 141,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -861,15 +861,15 @@
         "position": ""
     },
     {
-        "card_name": "CR14 \u2014 Wield the Seed Flame",
-        "number": 111,
+        "card_name": "CR15 \u2014 Alluring Aromas",
+        "number": 112,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG15 \u2014 Feast of the Pack",
-        "number": 143,
+        "number": 142,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -896,15 +896,15 @@
         "position": ""
     },
     {
-        "card_name": "CR15 \u2014 Alluring Aromas",
-        "number": 112,
-        "shape": "normal",
+        "card_name": "CR16a \u2014 Attack on Emberheart-Forge",
+        "number": 113,
+        "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG16a \u2014 Attack on Ketria Gemforest",
-        "number": 144,
+        "number": 143,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
@@ -931,15 +931,15 @@
         "position": ""
     },
     {
-        "card_name": "CR16a \u2014 Attack on Emberheart-Forge",
-        "number": 113,
-        "shape": "battle split",
+        "card_name": "CR16b \u2014 Emberheart Anvil",
+        "number": 114,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG16b \u2014 Attack on Ketria Gemforest",
-        "number": 145,
+        "number": 144,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -966,15 +966,15 @@
         "position": ""
     },
     {
-        "card_name": "CR16b \u2014 Emberheart Anvil",
-        "number": 114,
-        "shape": "normal",
+        "card_name": "CR17a \u2014 Trial Brambles",
+        "number": 115,
+        "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CG17a \u2014 Trial of Might",
-        "number": 146,
+        "number": 145,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
@@ -1001,29 +1001,6 @@
         "position": ""
     },
     {
-        "card_name": "CR17a \u2014 Trial Brambles",
-        "number": 115,
-        "shape": "battle split",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "CG17b \u2014 Kinship of the Herd",
-        "number": 147,
-        "shape": "battle split",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "CR17b \u2014 Battleproven Duo",
         "number": 116,
         "shape": "battle split",
@@ -1031,7 +1008,11 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "CG17b \u2014 Kinship of the Herd",
+        "number": 146,
+        "shape": "battle split",
+        "set": "BRL",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -1048,140 +1029,140 @@
     "a->gold",
     {
         "card_name": "RZ01",
-        "number": 169,
-        "shape": "normal",
+        "number": 168,
+        "shape": "class",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "RZ05 \u2014 May I Have Your Name",
-        "number": 173,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RZ08",
-        "number": 176,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RZ10",
-        "number": 178,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RZ04",
+        "card_name": "RZ05 -- May I Have Your Name",
         "number": 172,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
+        "card_name": "RZ08",
+        "number": 175,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "RZ10 \u2014 Mythos of Umori",
+        "number": 177,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "RZ04",
+        "number": 171,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
         "card_name": "UZ01 \u2014 Golden Ration",
-        "number": 180,
+        "number": 178,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ05 \u2014 Entrancing Faye",
+        "number": 182,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "UZ08 \u2014 Tortiose and Hare",
         "number": 184,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UZ0",
-        "number": 179,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "UZ10",
-        "number": 188,
+        "card_name": "UZ10 \u2014 Ketria Scavenger",
+        "number": 186,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ04 \u2014",
-        "number": 183,
+        "number": 181,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ11 \u2014 For Wisdom",
-        "number": 189,
+        "number": 187,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ15 \u2014 For Discipline",
-        "number": 194,
+        "number": 192,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ18 \u2014 For Notoriety",
-        "number": 198,
+        "number": 196,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ20 \u2014 For Might",
-        "number": 201,
+        "number": 199,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ14 \u2014 For Flight",
-        "number": 193,
+        "number": 191,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ01 \u2014 Discrete Theology",
-        "number": 159,
+        "number": 158,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ05 \u2014 Unauthorized Researcher",
-        "number": 163,
+        "number": 162,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ18 \u2014 For Notoriety other side",
-        "number": 199,
+        "number": 197,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ10 \u2014 Calamity Badger",
-        "number": 168,
+        "number": 167,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ04 \u2014 Setessa Lightbringer",
-        "number": 162,
+        "number": 161,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -1194,7 +1175,7 @@
     },
     {
         "card_name": "UZ30 \u2014 Rankle's Firstborn Bargain",
-        "number": 202,
+        "number": 200,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
@@ -1213,7 +1194,7 @@
     },
     {
         "card_name": "CZ08 \u2014 Haymeadow Brigand",
-        "number": 166,
+        "number": 165,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -1241,147 +1222,147 @@
     },
     {
         "card_name": "RZ02",
-        "number": 170,
+        "number": 169,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RZ06",
-        "number": 174,
+        "number": 173,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "RZ09",
-        "number": 177,
+        "card_name": "RZ09 \u2014",
+        "number": 176,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RZ03",
-        "number": 171,
+        "number": 170,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "RZ07",
-        "number": 175,
+        "card_name": "RZ07 \u2014 Quandrix Provost",
+        "number": 174,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ02 \u2014 Enchanment blood artist",
-        "number": 181,
+        "number": 179,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UZ06 \u2014 Quandrix",
+        "card_name": "UZ06 \u2014 Mace The Exam",
+        "number": 183,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "UZ09 \u2014 Itsy Bitey Spider",
         "number": 185,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UZ09 \u2014",
-        "number": 187,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
         "card_name": "UZ03 \u2014",
-        "number": 182,
+        "number": 180,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UZ07 \u2014 Fractal maker",
-        "number": 186,
-        "shape": "normal",
+        "card_name": "UZ17 \u2014 For Emergence",
+        "number": 194,
+        "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ12 \u2014 For Martyrdom",
-        "number": 190,
+        "number": 188,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ16 \u2014 For Secrecy",
-        "number": 195,
+        "number": 193,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ19 \u2014 For Persistence",
-        "number": 200,
+        "number": 198,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ13 \u2014 For Restoration",
-        "number": 192,
+        "number": 190,
         "shape": "battle split",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UZ17 \u2014 For Emergence",
-        "number": 196,
-        "shape": "battle split",
+        "card_name": "UZ17 \u2014 For Emergence other side",
+        "number": 195,
+        "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "UZ12 \u2014 For Martyrdom other side",
-        "number": 191,
+        "number": 189,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ06 \u2014 Hydrodynamicist",
-        "number": 164,
+        "number": 163,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ09 \u2014 Soul Haggler",
-        "number": 167,
+        "number": 166,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ03 \u2014 Cerluian Hynd",
-        "number": 161,
+        "number": 160,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UZ17 \u2014 For Emergence other side",
-        "number": 197,
+        "card_name": "UZ07 \u2014 Porcupiranha",
+        "number": 206,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "CZ02 \u2014 Daxo's Freedom",
-        "number": 160,
+        "number": 159,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -1397,7 +1378,7 @@
     },
     {
         "card_name": "CZ07 \u2014 Geometric Geology",
-        "number": 165,
+        "number": 164,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -1418,36 +1399,36 @@
         "card_name": "er"
     },
     {
-        "card_name": "RZ11 \u2014 Daxos",
+        "card_name": "RZ11 \u2014 Daxos, Unmasked",
+        "number": 201,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "RZ12 \u2014 Zimone, Galeforce Researcher",
+        "number": 202,
+        "shape": "normal",
+        "set": "BRL",
+        "position": ""
+    },
+    {
+        "card_name": "RZ13 \u2014 Rankle, Trusted Borrower",
         "number": 203,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "RZ12 \u2014 Zimone,",
+        "card_name": "RZ14 \u2014 Mable, Valley Bread-Winner",
         "number": 204,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "RZ13 \u2014 Rankle",
-        "number": 205,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
-        "card_name": "RZ14 \u2014 Mable, Valley Bread-Winner",
-        "number": 206,
-        "shape": "normal",
-        "set": "BRL",
-        "position": ""
-    },
-    {
         "card_name": "RZ15 \u2014 Umori, Glue Beast",
-        "number": 207,
+        "number": 205,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -1537,7 +1518,7 @@
     },
     {
         "card_name": "!Join a team!",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "BRL",
         "position": ""
@@ -1569,21 +1550,21 @@
     "a->land",
     {
         "card_name": "RL01 \u2014",
-        "number": 208,
+        "number": 207,
         "shape": "saga",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RL02 \u2014 Atollpology",
-        "number": 209,
+        "number": 208,
         "shape": "class",
         "set": "BRL",
         "position": ""
     },
     {
         "card_name": "RL03 \u2014",
-        "number": 210,
+        "number": 209,
         "shape": "adventure",
         "set": "BRL",
         "position": ""
@@ -1597,7 +1578,7 @@
     },
     {
         "card_name": "RL05 \u2014",
-        "number": 152,
+        "number": 151,
         "shape": "normal",
         "set": "BRL",
         "position": ""

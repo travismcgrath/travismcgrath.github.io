@@ -51,13 +51,13 @@
 			}
 		},
 		{
-			"name": "UU01 — Mutate Force Spike",
+			"name": "UZ07 — Porcupiranha",
 			"rarity": "uncommon",
-			"mana_cost": "{U}",
+			"mana_cost": "{G/U}",
 			"type": "Creature",
-			"collector_number": "63",
+			"collector_number": "206",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/63_UU01 — Mutate Force Spike.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/206_UZ07 — Porcupiranha.png"
 			}
 		},
 		{
@@ -75,9 +75,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Enchantment Creature",
-			"collector_number": "181",
+			"collector_number": "179",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/181_UZ02 — Enchanment blood artist.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/179_UZ02 — Enchanment blood artist.png"
 			}
 		},
 		{
@@ -115,9 +115,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Battle — Cause",
-			"collector_number": "190",
+			"collector_number": "188",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/190_UZ12 — For Martyrdom.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/188_UZ12 — For Martyrdom.png"
 			}
 		},
 		{
@@ -125,9 +125,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Battle — Cause",
-			"collector_number": "189",
+			"collector_number": "187",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/189_UZ11 — For Wisdom.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/187_UZ11 — For Wisdom.png"
 			}
 		},
 		{
@@ -135,9 +135,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "128",
+			"collector_number": "127",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/128_UR06 — Heartfire Bolt.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/127_UR06 — Heartfire Bolt.png"
 			}
 		},
 		{
@@ -145,9 +145,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Battle — Cause",
-			"collector_number": "193",
+			"collector_number": "191",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/193_UZ14 — For Flight.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/191_UZ14 — For Flight.png"
 			}
 		},
 		{
@@ -155,9 +155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Battle — Cause",
-			"collector_number": "201",
+			"collector_number": "199",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/201_UZ20 — For Might.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/199_UZ20 — For Might.png"
 			}
 		},
 		{
@@ -165,9 +165,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Battle — Cause",
-			"collector_number": "192",
+			"collector_number": "190",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/192_UZ13 — For Restoration.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/190_UZ13 — For Restoration.png"
 			}
 		},
 		{
@@ -175,9 +175,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Battle — Cause",
-			"collector_number": "194",
+			"collector_number": "192",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/194_UZ15 — For Discipline.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/192_UZ15 — For Discipline.png"
 			}
 		},
 		{
@@ -185,9 +185,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{U}",
 			"type": "Battle — Cause",
-			"collector_number": "196",
+			"collector_number": "194",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/196_UZ17 — For Emergence.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/194_UZ17 — For Emergence.png"
 			}
 		},
 		{
@@ -195,9 +195,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{G}",
 			"type": "Battle — Cause",
-			"collector_number": "200",
+			"collector_number": "198",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/200_UZ19 — For Persistence.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/198_UZ19 — For Persistence.png"
 			}
 		},
 		{
@@ -205,9 +205,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Battle — Cause",
-			"collector_number": "195",
+			"collector_number": "193",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/195_UZ16 — For Secrecy.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/193_UZ16 — For Secrecy.png"
 			}
 		},
 		{
@@ -215,9 +215,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Battle — Cause",
-			"collector_number": "198",
+			"collector_number": "196",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/198_UZ18 — For Notoriety.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/196_UZ18 — For Notoriety.png"
 			}
 		},
 		{
@@ -235,9 +235,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Badger Beast",
-			"collector_number": "168",
+			"collector_number": "167",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/168_CZ10 — Calamity Badger.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/167_CZ10 — Calamity Badger.png"
 			}
 		},
 		{
@@ -245,9 +245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "197",
+			"collector_number": "195",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/197_UZ17 — For Emergence other side.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/195_UZ17 — For Emergence other side.png"
 			}
 		},
 		{
@@ -255,9 +255,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "191",
+			"collector_number": "189",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/191_UZ12 — For Martyrdom other side.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/189_UZ12 — For Martyrdom other side.png"
 			}
 		},
 		{
@@ -265,9 +265,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Battle — Promise",
-			"collector_number": "202",
+			"collector_number": "200",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/202_UZ30 — Rankle's Firstborn Bargain.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/200_UZ30 — Rankle's Firstborn Bargain.png"
 			}
 		},
 		{
@@ -295,9 +295,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "199",
+			"collector_number": "197",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/199_UZ18 — For Notoriety other side.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/197_UZ18 — For Notoriety other side.png"
 			}
 		},
 		{
@@ -305,9 +305,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Battle — Siege",
-			"collector_number": "144",
+			"collector_number": "143",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/144_CG16a — Attack on Ketria Gemforest.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/143_CG16a — Attack on Ketria Gemforest.png"
 			}
 		},
 		{
@@ -315,9 +315,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Sorcery",
-			"collector_number": "165",
+			"collector_number": "164",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/165_CZ07 — Geometric Geology.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/164_CZ07 — Geometric Geology.png"
 			}
 		},
 		{
@@ -325,19 +325,19 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "150",
+			"collector_number": "149",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/150_RG03 —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/149_RG03 —.png"
 			}
 		},
 		{
-			"name": "UG03 — Fighting beast",
+			"name": "UG02 —",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "155",
+			"collector_number": "153",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/155_UG03 — Fighting beast.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/153_UG02 —.png"
 			}
 		},
 		{
@@ -461,19 +461,19 @@
 			}
 		},
 		{
-			"name": "UZ07 — Fractal maker",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{U}",
+			"name": "RZ07 — Quandrix Provost",
+			"rarity": "rare",
+			"mana_cost": "{4}{G}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "186",
+			"collector_number": "174",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/186_UZ07 — Fractal maker.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/174_RZ07 — Quandrix Provost.png"
 			}
 		},
 		{
 			"name": "CB14 — Killer Deal",
 			"rarity": "common",
-			"mana_cost": "{3}{B}{B}",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Instant",
 			"collector_number": "82",
 			"image_uris": {
@@ -491,13 +491,13 @@
 			}
 		},
 		{
-			"name": "UB04 — Knight of Night",
+			"name": "UB03 — Knight of Night",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Knight Rogue",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/95_UB04 — Knight of Night.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/94_UB03 — Knight of Night.png"
 			}
 		},
 		{
@@ -571,13 +571,13 @@
 			}
 		},
 		{
-			"name": "UU02 — Flux",
+			"name": "UU01 —",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{U}",
 			"type": "Creature",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/64_UU02 — Flux.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/63_UU01 —.png"
 			}
 		},
 		{
@@ -608,16 +608,6 @@
 			"collector_number": "49",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/BRL-files/img/49_CU10 — Missing Variable.png"
-			}
-		},
-		{
-			"name": "UZ06 — Quandrix",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Otter Wizard",
-			"collector_number": "185",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/185_UZ06 — Quandrix.png"
 			}
 		},
 		{
@@ -805,9 +795,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Brushwagg",
-			"collector_number": "129",
+			"collector_number": "128",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/129_CG01 — Bristling Brushwagg.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/128_CG01 — Bristling Brushwagg.png"
 			}
 		},
 		{
@@ -815,9 +805,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Human Druid",
-			"collector_number": "135",
+			"collector_number": "134",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/135_CG07 — Tenured Biologist.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/134_CG07 — Tenured Biologist.png"
 			}
 		},
 		{
@@ -825,9 +815,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Ooze Beast",
-			"collector_number": "138",
+			"collector_number": "137",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/138_CG10 — Indatha Ooze.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/137_CG10 — Indatha Ooze.png"
 			}
 		},
 		{
@@ -835,9 +825,9 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "145",
+			"collector_number": "144",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/145_CG16b — Attack on Ketria Gemforest.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/144_CG16b — Attack on Ketria Gemforest.png"
 			}
 		},
 		{
@@ -845,9 +835,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Sorcery",
-			"collector_number": "143",
+			"collector_number": "142",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/143_CG15 — Feast of the Pack.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/142_CG15 — Feast of the Pack.png"
 			}
 		},
 		{
@@ -855,9 +845,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/132_CG04 — Ketralid.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/131_CG04 — Ketralid.png"
 			}
 		},
 		{
@@ -875,9 +865,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Elf Druid",
-			"collector_number": "130",
+			"collector_number": "129",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/130_CG02 — Zagoth Elves.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/129_CG02 — Zagoth Elves.png"
 			}
 		},
 		{
@@ -885,9 +875,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Shaman",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/131_CG03 — Symbiotic Shaman.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/130_CG03 — Symbiotic Shaman.png"
 			}
 		},
 		{
@@ -895,9 +885,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "133",
+			"collector_number": "132",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/133_CG05 — Laughing Hyanther.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/132_CG05 — Laughing Hyanther.png"
 			}
 		},
 		{
@@ -905,9 +895,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Creature — Beast Wurm",
-			"collector_number": "139",
+			"collector_number": "138",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/139_CG11 — Hungry Sandworm.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/138_CG11 — Hungry Sandworm.png"
 			}
 		},
 		{
@@ -915,9 +905,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "156",
+			"collector_number": "155",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/156_UG04 —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/155_UG04 —.png"
 			}
 		},
 		{
@@ -1035,9 +1025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "180",
+			"collector_number": "178",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/180_UZ01 — Golden Ration.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/178_UZ01 — Golden Ration.png"
 			}
 		},
 		{
@@ -1045,9 +1035,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{B}",
 			"type": "Sorcery",
-			"collector_number": "160",
+			"collector_number": "159",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/160_CZ02 — Daxo's Freedom.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/159_CZ02 — Daxo's Freedom.png"
 			}
 		},
 		{
@@ -1055,9 +1045,9 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Enchantment Creature — Elk",
-			"collector_number": "161",
+			"collector_number": "160",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/161_CZ03 — Cerluian Hynd.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/160_CZ03 — Cerluian Hynd.png"
 			}
 		},
 		{
@@ -1065,9 +1055,9 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{W}",
 			"type": "Creature — Satyr Goliath",
-			"collector_number": "162",
+			"collector_number": "161",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/162_CZ04 — Setessa Lightbringer.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/161_CZ04 — Setessa Lightbringer.png"
 			}
 		},
 		{
@@ -1075,9 +1065,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Vampire Rogue Warlock",
-			"collector_number": "163",
+			"collector_number": "162",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/163_CZ05 — Unauthorized Researcher.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/162_CZ05 — Unauthorized Researcher.png"
 			}
 		},
 		{
@@ -1085,9 +1075,9 @@
 			"rarity": "common",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Salamander Wizard",
-			"collector_number": "164",
+			"collector_number": "163",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/164_CZ06 — Hydrodynamicist.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/163_CZ06 — Hydrodynamicist.png"
 			}
 		},
 		{
@@ -1095,29 +1085,29 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Weasle Rogue",
-			"collector_number": "166",
+			"collector_number": "165",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/166_CZ08 — Haymeadow Brigand.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/165_CZ08 — Haymeadow Brigand.png"
 			}
 		},
 		{
-			"name": "UZ0",
+			"name": "UZ08 — Tortiose and Hare",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Lizard Chef Knight",
-			"collector_number": "179",
+			"type": "Creature — Rabbit Turtle",
+			"collector_number": "184",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/179_UZ0.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/184_UZ08 — Tortiose and Hare.png"
 			}
 		},
 		{
-			"name": "UZ10",
+			"name": "UZ10 — Ketria Scavenger",
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
-			"type": "Creature — Mouse Knight",
-			"collector_number": "188",
+			"type": "Creature — Mouse Scout",
+			"collector_number": "186",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/188_UZ10.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/186_UZ10 — Ketria Scavenger.png"
 			}
 		},
 		{
@@ -1125,9 +1115,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}{G}",
 			"type": "Creature — Nightmare Druid",
-			"collector_number": "167",
+			"collector_number": "166",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/167_CZ09 — Soul Haggler.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/166_CZ09 — Soul Haggler.png"
 			}
 		},
 		{
@@ -1141,23 +1131,23 @@
 			}
 		},
 		{
-			"name": "RZ05 — May I Have Your Name",
+			"name": "RZ05 -- May I Have Your Name",
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{B}",
 			"type": "Kindred Sorcery — Faerie Rogue",
-			"collector_number": "173",
+			"collector_number": "172",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/173_RZ05 — May I Have Your Name.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/172_RZ05 -- May I Have Your Name.png"
 			}
 		},
 		{
-			"name": "UB03 — Faerie Assassin",
+			"name": "UB02 — Faerie Assassin",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Creature — Faerie Assassin",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/94_UB03 — Faerie Assassin.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/93_UB02 — Faerie Assassin.png"
 			}
 		},
 		{
@@ -1165,9 +1155,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Faeire Bard",
-			"collector_number": "184",
+			"collector_number": "182",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/184_UZ05 — Entrancing Faye.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/182_UZ05 — Entrancing Faye.png"
 			}
 		},
 		{
@@ -1175,9 +1165,9 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Sorcery",
-			"collector_number": "140",
+			"collector_number": "139",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/140_CG12 — Establish Eludha.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/139_CG12 — Establish Eludha.png"
 			}
 		},
 		{
@@ -1185,9 +1175,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "134",
+			"collector_number": "133",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/134_CG06 — Girhino.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/133_CG06 — Girhino.png"
 			}
 		},
 		{
@@ -1195,9 +1185,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "136",
+			"collector_number": "135",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/136_CG08 — Megafauna Grazer.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/135_CG08 — Megafauna Grazer.png"
 			}
 		},
 		{
@@ -1205,9 +1195,9 @@
 			"rarity": "common",
 			"mana_cost": "{5}{G}",
 			"type": "Creature — Human Archer",
-			"collector_number": "137",
+			"collector_number": "136",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/137_CG09 — Giangtula Bonder.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/136_CG09 — Giangtula Bonder.png"
 			}
 		},
 		{
@@ -1215,9 +1205,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "141",
+			"collector_number": "140",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/141_CG13 — Boar Over.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/140_CG13 — Boar Over.png"
 			}
 		},
 		{
@@ -1231,13 +1221,13 @@
 			}
 		},
 		{
-			"name": "CB09 — Deadweight",
+			"name": "CB09 — Hold This",
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Enchantment — Aura",
 			"collector_number": "77",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/77_CB09 — Deadweight.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/77_CB09 — Hold This.png"
 			}
 		},
 		{
@@ -1245,9 +1235,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "142",
+			"collector_number": "141",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/142_CG14 — Thunderous Stomp.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/141_CG14 — Thunderous Stomp.png"
 			}
 		},
 		{
@@ -1255,9 +1245,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "158",
+			"collector_number": "157",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/158_UG06 —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/157_UG06 —.png"
 			}
 		},
 		{
@@ -1415,9 +1405,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Enchantment Land — Saga Plains",
-			"collector_number": "208",
+			"collector_number": "207",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/208_RL01 —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/207_RL01 —.png"
 			}
 		},
 		{
@@ -1425,9 +1415,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Enchantment Land — Class Island",
-			"collector_number": "209",
+			"collector_number": "208",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/209_RL02 — Atollpology.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/208_RL02 — Atollpology.png"
 			}
 		},
 		{
@@ -1445,19 +1435,19 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Beast",
-			"collector_number": "152",
+			"collector_number": "151",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/152_RL05 —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/151_RL05 —.png"
 			}
 		},
 		{
-			"name": "UU04 — Translucent Lupine",
+			"name": "UU03 — Translucent Lupine",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Wolf Illusion",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/66_UU04 — Translucent Lupine.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/65_UU03 — Translucent Lupine.png"
 			}
 		},
 		{
@@ -1471,33 +1461,23 @@
 			}
 		},
 		{
-			"name": "UU03 — Freshman Meal Plan",
+			"name": "UU04 — Freshman Meal Plan",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment",
-			"collector_number": "65",
+			"collector_number": "66",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/65_UU03 — Freshman Meal Plan.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/66_UU04 — Freshman Meal Plan.png"
 			}
 		},
 		{
-			"name": "RZ11 — Daxos",
+			"name": "RZ11 — Daxos, Unmasked",
 			"rarity": "rare",
 			"mana_cost": "{1}{U/B}{W}{W}",
 			"type": "Legendary Enchantment Creature — Demigod",
-			"collector_number": "203",
+			"collector_number": "201",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/203_RZ11 — Daxos.png"
-			}
-		},
-		{
-			"name": "RZ13 — Rankle",
-			"rarity": "rare",
-			"mana_cost": "{1}{U/R}{B}{B}",
-			"type": "Legendary Creature — Fairie Rogue",
-			"collector_number": "205",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/205_RZ13 — Rankle.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/201_RZ11 — Daxos, Unmasked.png"
 			}
 		},
 		{
@@ -1505,9 +1485,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G/W}{R}{R}",
 			"type": "Legendary Creature — Mouse Knight",
-			"collector_number": "206",
+			"collector_number": "204",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/206_RZ14 — Mable, Valley Bread-Winner.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/204_RZ14 — Mable, Valley Bread-Winner.png"
 			}
 		},
 		{
@@ -1515,19 +1495,19 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{B/R}{G}{G}",
 			"type": "Legendary Creature — Ooze Beast",
-			"collector_number": "207",
+			"collector_number": "205",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/207_RZ15 — Umori, Glue Beast.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/205_RZ15 — Umori, Glue Beast.png"
 			}
 		},
 		{
-			"name": "RZ12 — Zimone,",
+			"name": "RZ12 — Zimone, Galeforce Researcher",
 			"rarity": "rare",
 			"mana_cost": "{1}{G/W}{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "204",
+			"collector_number": "202",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/204_RZ12 — Zimone,.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/202_RZ12 — Zimone, Galeforce Researcher.png"
 			}
 		},
 		{
@@ -1545,9 +1525,9 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "210",
+			"collector_number": "209",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/210_RL03 —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/209_RL03 —.png"
 			}
 		},
 		{
@@ -1555,9 +1535,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Enchantment — Class",
-			"collector_number": "169",
+			"collector_number": "168",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/169_RZ01.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/168_RZ01.png"
 			}
 		},
 		{
@@ -1565,9 +1545,9 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{B}",
 			"type": "",
-			"collector_number": "170",
+			"collector_number": "169",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/170_RZ02.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/169_RZ02.png"
 			}
 		},
 		{
@@ -1575,9 +1555,9 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{W}",
 			"type": "",
-			"collector_number": "171",
+			"collector_number": "170",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/171_RZ03.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/170_RZ03.png"
 			}
 		},
 		{
@@ -1585,9 +1565,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "",
-			"collector_number": "172",
+			"collector_number": "171",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/172_RZ04.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/171_RZ04.png"
 			}
 		},
 		{
@@ -1595,19 +1575,9 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{R}",
 			"type": "Enchantment — Class",
-			"collector_number": "174",
+			"collector_number": "173",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/174_RZ06.png"
-			}
-		},
-		{
-			"name": "RZ07",
-			"rarity": "rare",
-			"mana_cost": "{G}{U}",
-			"type": "",
-			"collector_number": "175",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/175_RZ07.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/173_RZ06.png"
 			}
 		},
 		{
@@ -1615,29 +1585,29 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "",
-			"collector_number": "176",
+			"collector_number": "175",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/176_RZ08.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/175_RZ08.png"
 			}
 		},
 		{
-			"name": "RZ09",
+			"name": "RZ09 —",
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "",
-			"collector_number": "177",
+			"collector_number": "176",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/177_RZ09.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/176_RZ09 —.png"
 			}
 		},
 		{
-			"name": "RZ10",
+			"name": "RZ10 — Mythos of Umori",
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "",
-			"collector_number": "178",
+			"collector_number": "177",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/178_RZ10.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/177_RZ10 — Mythos of Umori.png"
 			}
 		},
 		{
@@ -1691,16 +1661,6 @@
 			}
 		},
 		{
-			"name": "RR02",
-			"rarity": "rare",
-			"mana_cost": "{R}",
-			"type": "",
-			"collector_number": "119",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/119_RR02.png"
-			}
-		},
-		{
 			"name": "RR01",
 			"rarity": "rare",
 			"mana_cost": "{R}",
@@ -1715,9 +1675,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "",
-			"collector_number": "148",
+			"collector_number": "147",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/148_RG01.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/147_RG01.png"
 			}
 		},
 		{
@@ -1725,9 +1685,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "",
-			"collector_number": "149",
+			"collector_number": "148",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/149_RG02.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/148_RG02.png"
 			}
 		},
 		{
@@ -1745,9 +1705,9 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Instant",
-			"collector_number": "159",
+			"collector_number": "158",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/159_CZ01 — Discrete Theology.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/158_CZ01 — Discrete Theology.png"
 			}
 		},
 		{
@@ -1795,9 +1755,9 @@
 			"rarity": "rare",
 			"mana_cost": "{G}",
 			"type": "Battle",
-			"collector_number": "151",
+			"collector_number": "150",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/151_RG04a —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/150_RG04a —.png"
 			}
 		},
 		{
@@ -1835,9 +1795,9 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Rule",
-			"collector_number": "211",
+			"collector_number": "210",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/211_!Join a team!.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/210_!Join a team!.png"
 			}
 		},
 		{
@@ -1895,19 +1855,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Battle — Alliance",
-			"collector_number": "147",
+			"collector_number": "146",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/147_CG17b — Kinship of the Herd.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/146_CG17b — Kinship of the Herd.png"
 			}
 		},
 		{
-			"name": "UB01",
+			"name": "UB01 — The Muffin Man",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "",
+			"mana_cost": "{1}{B}",
+			"type": "Creature — Human Food",
 			"collector_number": "92",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/92_UB01.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/92_UB01 — The Muffin Man.png"
 			}
 		},
 		{
@@ -1915,9 +1875,9 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Battle — Trial",
-			"collector_number": "146",
+			"collector_number": "145",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/146_CG17a — Trial of Might.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/145_CG17a — Trial of Might.png"
 			}
 		},
 		{
@@ -1941,13 +1901,13 @@
 			}
 		},
 		{
-			"name": "UR02 — For the Valley!",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
+			"name": "RR02 — For the Valley!",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}",
 			"type": "Artifact — Equipment",
-			"collector_number": "124",
+			"collector_number": "119",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/124_UR02 — For the Valley!.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/119_RR02 — For the Valley!.png"
 			}
 		},
 		{
@@ -1955,9 +1915,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{R}",
 			"type": "Creature — Bird Dragon",
-			"collector_number": "126",
+			"collector_number": "125",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/126_UR04 — ScarletSky Duo.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/125_UR04 — ScarletSky Duo.png"
 			}
 		},
 		{
@@ -1965,29 +1925,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "127",
+			"collector_number": "126",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/127_UR05 — Inspired by Ral.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/126_UR05 — Inspired by Ral.png"
 			}
 		},
 		{
-			"name": "UG01 —",
+			"name": "UG01 — Chevill's Apprentice",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
-			"type": "",
-			"collector_number": "153",
+			"mana_cost": "{1}{G}",
+			"type": "Creature — Human Rogue",
+			"collector_number": "152",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/153_UG01 —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/152_UG01 — Chevill's Apprentice.png"
 			}
 		},
 		{
-			"name": "UG02 —",
+			"name": "UG03 — Hornbash Champion",
 			"rarity": "uncommon",
-			"mana_cost": "{G}",
-			"type": "",
+			"mana_cost": "{4}{G}",
+			"type": "Creature — Human Warrior",
 			"collector_number": "154",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/154_UG02 —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/154_UG03 — Hornbash Champion.png"
 			}
 		},
 		{
@@ -1995,29 +1955,29 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "157",
+			"collector_number": "156",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/157_UG05 — Inspired by Vivien.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/156_UG05 — Inspired by Vivien.png"
 			}
 		},
 		{
-			"name": "UB06",
+			"name": "UB06 — Shadow Snaffle",
 			"rarity": "uncommon",
-			"mana_cost": "{5}{B}{B}",
-			"type": "Kindred Sorcery — Rogue",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Kindred Instant — Rogue",
 			"collector_number": "97",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/97_UB06.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/97_UB06 — Shadow Snaffle.png"
 			}
 		},
 		{
-			"name": "UB02",
+			"name": "UB04 —",
 			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "",
-			"collector_number": "93",
+			"mana_cost": "{3}{B}",
+			"type": "Creature — Egg",
+			"collector_number": "95",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/93_UB02.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/95_UB04 —.png"
 			}
 		},
 		{
@@ -2065,9 +2025,9 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "",
-			"collector_number": "182",
+			"collector_number": "180",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/182_UZ03 —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/180_UZ03 —.png"
 			}
 		},
 		{
@@ -2075,19 +2035,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "",
-			"collector_number": "183",
+			"collector_number": "181",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/183_UZ04 —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/181_UZ04 —.png"
 			}
 		},
 		{
-			"name": "UZ09 —",
+			"name": "UZ09 — Itsy Bitey Spider",
 			"rarity": "uncommon",
 			"mana_cost": "{B}{G}",
-			"type": "",
-			"collector_number": "187",
+			"type": "Creature — Spider",
+			"collector_number": "185",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/187_UZ09 —.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/185_UZ09 — Itsy Bitey Spider.png"
 			}
 		},
 		{
@@ -2105,9 +2065,39 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Mouse Archer",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/BRL-files/img/125_UR03 — Wiskerbow Archer.png"
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/124_UR03 — Wiskerbow Archer.png"
+			}
+		},
+		{
+			"name": "RZ13 — Rankle, Trusted Borrower",
+			"rarity": "rare",
+			"mana_cost": "{1}{U/R}{B}{B}",
+			"type": "Legendary Creature — Fairie Rogue",
+			"collector_number": "203",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/203_RZ13 — Rankle, Trusted Borrower.png"
+			}
+		},
+		{
+			"name": "UU02 — Axiom Channeler",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Human Wizard",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/64_UU02 — Axiom Channeler.png"
+			}
+		},
+		{
+			"name": "UZ06 — Mace The Exam",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Artifact — Equipment",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/BRL-files/img/183_UZ06 — Mace The Exam.png"
 			}
 		}
 	]
@@ -2121,15 +2111,15 @@
 	2 RR03 —
 	2 RW03 —
 	2 RU03 —
-	2 RZ05 — May I Have Your Name
+	2 RZ07 — Quandrix Provost
+	2 RZ05 -- May I Have Your Name
 	2 RL01 —
 	2 RL02 — Atollpology
 	2 RL05 —
-	2 RZ11 — Daxos
-	2 RZ13 — Rankle
+	2 RZ11 — Daxos, Unmasked
 	2 RZ14 — Mable, Valley Bread-Winner
 	2 RZ15 — Umori, Glue Beast
-	2 RZ12 — Zimone,
+	2 RZ12 — Zimone, Galeforce Researcher
 	2 RL04 — Emberheart Greatsword
 	2 RL03 —
 	2 RZ01
@@ -2137,16 +2127,14 @@
 	2 RZ03
 	2 RZ04
 	2 RZ06
-	2 RZ07
 	2 RZ08
-	2 RZ09
-	2 RZ10
+	2 RZ09 —
+	2 RZ10 — Mythos of Umori
 	2 RW01
 	2 RW02
 	2 RU01
 	2 RU02
 	2 RB01
-	2 RR02
 	2 RR01
 	2 RG01
 	2 RG02
@@ -2156,12 +2144,14 @@
 	2 RU04a —
 	2 RR04a —
 	2 RG04a —
+	2 RR02 — For the Valley!
 	2 RS02 —
 	2 RS01 —
+	2 RZ13 — Rankle, Trusted Borrower
 [uncommon(3)]
 	4 US05 — Mutate Conspiracy
 	4 US02 — Help Conspiracy
-	4 UU01 — Mutate Force Spike
+	4 UZ07 — Porcupiranha
 	4 UZ02 — Enchanment blood artist
 	4 US01 — Shard Conspiracy
 	4 UW04 —
@@ -2181,44 +2171,43 @@
 	4 UZ12 — For Martyrdom other side
 	4 UZ30 — Rankle's Firstborn Bargain
 	4 UZ18 — For Notoriety other side
-	4 UG03 — Fighting beast
+	4 UG02 —
 	4 US03 — Bargain gift Conspiracy
-	4 UZ07 — Fractal maker
-	4 UB04 — Knight of Night
-	4 UU02 — Flux
-	4 UZ06 — Quandrix
+	4 UB03 — Knight of Night
+	4 UU01 —
 	4 UW1 — Nyxborn Flock
 	4 UW03 — Temple Khorós
 	4 UG04 —
 	4 UR01 — Root Maze Hatcher
 	4 UR02 — Burrow Sentry
 	4 UZ01 — Golden Ration
-	4 UZ0
-	4 UZ10
+	4 UZ08 — Tortiose and Hare
+	4 UZ10 — Ketria Scavenger
 	4 UU06 — Prophetic Sight
-	4 UB03 — Faerie Assassin
+	4 UB02 — Faerie Assassin
 	4 UZ05 — Entrancing Faye
 	4 UG06 —
-	4 UU04 — Translucent Lupine
+	4 UU03 — Translucent Lupine
 	4 UW05 — Inspired by Elspeth
-	4 UU03 — Freshman Meal Plan
+	4 UU04 — Freshman Meal Plan
 	4 UW06
-	4 UB01
-	4 UR02 — For the Valley!
+	4 UB01 — The Muffin Man
 	4 UR04 — ScarletSky Duo
 	4 UR05 — Inspired by Ral
-	4 UG01 —
-	4 UG02 —
+	4 UG01 — Chevill's Apprentice
+	4 UG03 — Hornbash Champion
 	4 UG05 — Inspired by Vivien
-	4 UB06
-	4 UB02
+	4 UB06 — Shadow Snaffle
+	4 UB04 —
 	4 UB05 — Inspired by Oko
 	4 US04 —
 	4 UZ03 —
 	4 UZ04 —
-	4 UZ09 —
+	4 UZ09 — Itsy Bitey Spider
 	4 UU05 — Inspired by The Kenriths
 	4 UR03 — Wiskerbow Archer
+	4 UU02 — Axiom Channeler
+	4 UZ06 — Mace The Exam
 [common(7)]
 	8 CU13 — Mandlebrot Pair
 	8 CW01 — Tagoge Trainee
@@ -2295,7 +2284,7 @@
 	8 CG09 — Giangtula Bonder
 	8 CG13 — Boar Over
 	8 CB13 — Lure Away from Styx
-	8 CB09 — Deadweight
+	8 CB09 — Hold This
 	8 CG14 — Thunderous Stomp
 	8 CR07 — Bannertail Knight
 	8 CR04 — Emberheart Mouster
@@ -2331,7 +2320,7 @@
 	2 RS04 — Myriad Conspiracy
 	12 CU13 — Mandlebrot Pair
 	12 CW01 — Tagoge Trainee
-	6 UU01 — Mutate Force Spike
+	6 UZ07 — Porcupiranha
 	12 CB08 — Big Bad Wolf
 	6 UZ02 — Enchanment blood artist
 	6 US01 — Shard Conspiracy
@@ -2359,7 +2348,7 @@
 	12 CG16a — Attack on Ketria Gemforest
 	12 CZ07 — Geometric Geology
 	2 RG03 —
-	6 UG03 — Fighting beast
+	6 UG02 —
 	12 CR06 — Electrophorese Archer
 	12 CW16a — Attack on the Dawn Temple
 	12 CB16a — Attack on the Fairie Garden
@@ -2372,10 +2361,10 @@
 	2 RR03 —
 	2 RW03 —
 	2 RU03 —
-	6 UZ07 — Fractal maker
+	2 RZ07 — Quandrix Provost
 	12 CB14 — Killer Deal
 	12 CB15 — Seductive Prophecy
-	6 UB04 — Knight of Night
+	6 UB03 — Knight of Night
 	12 CB06 — Garden Gardian
 	12 CB04 — Wishpering Pythonolin
 	12 CB01 — Cursed Pie Baker
@@ -2383,11 +2372,10 @@
 	12 CB03 — Dark Knight
 	12 CB07 — Entreating Witch
 	12 CU12 — Back to the Library
-	6 UU02 — Flux
+	6 UU01 —
 	12 CU14 — Group Study
 	12 CU15 — Strange Attractors
 	12 CU10 — Missing Variable
-	6 UZ06 — Quandrix
 	12 CU08 — Exponentiation Professor
 	12 CU05 — Animation Theorist
 	6 UW1 — Nyxborn Flock
@@ -2436,12 +2424,12 @@
 	12 CZ05 — Unauthorized Researcher
 	12 CZ06 — Hydrodynamicist
 	12 CZ08 — Haymeadow Brigand
-	6 UZ0
-	6 UZ10
+	6 UZ08 — Tortiose and Hare
+	6 UZ10 — Ketria Scavenger
 	12 CZ09 — Soul Haggler
 	6 UU06 — Prophetic Sight
-	2 RZ05 — May I Have Your Name
-	6 UB03 — Faerie Assassin
+	2 RZ05 -- May I Have Your Name
+	6 UB02 — Faerie Assassin
 	6 UZ05 — Entrancing Faye
 	12 CG12 — Establish Eludha
 	12 CG06 — Girhino
@@ -2449,7 +2437,7 @@
 	12 CG09 — Giangtula Bonder
 	12 CG13 — Boar Over
 	12 CB13 — Lure Away from Styx
-	12 CB09 — Deadweight
+	12 CB09 — Hold This
 	12 CG14 — Thunderous Stomp
 	6 UG06 —
 	12 CR07 — Bannertail Knight
@@ -2471,14 +2459,13 @@
 	2 RL02 — Atollpology
 	12 CW13 — Purge of Meletis
 	2 RL05 —
-	6 UU04 — Translucent Lupine
+	6 UU03 — Translucent Lupine
 	6 UW05 — Inspired by Elspeth
-	6 UU03 — Freshman Meal Plan
-	2 RZ11 — Daxos
-	2 RZ13 — Rankle
+	6 UU04 — Freshman Meal Plan
+	2 RZ11 — Daxos, Unmasked
 	2 RZ14 — Mable, Valley Bread-Winner
 	2 RZ15 — Umori, Glue Beast
-	2 RZ12 — Zimone,
+	2 RZ12 — Zimone, Galeforce Researcher
 	2 RL04 — Emberheart Greatsword
 	2 RL03 —
 	2 RZ01
@@ -2486,16 +2473,14 @@
 	2 RZ03
 	2 RZ04
 	2 RZ06
-	2 RZ07
 	2 RZ08
-	2 RZ09
-	2 RZ10
+	2 RZ09 —
+	2 RZ10 — Mythos of Umori
 	2 RW01
 	2 RW02
 	2 RU01
 	2 RU02
 	2 RB01
-	2 RR02
 	2 RR01
 	2 RG01
 	2 RG02
@@ -2515,34 +2500,37 @@
 	12 CU17b — Collaborative Scholarship
 	12 CR17a — Trial Brambles
 	12 CG17b — Kinship of the Herd
-	6 UB01
+	6 UB01 — The Muffin Man
 	12 CG17a — Trial of Might
 	12 CR17b — Battleproven Duo
 	12 CR03 —
-	6 UR02 — For the Valley!
+	2 RR02 — For the Valley!
 	6 UR04 — ScarletSky Duo
 	6 UR05 — Inspired by Ral
-	6 UG01 —
-	6 UG02 —
+	6 UG01 — Chevill's Apprentice
+	6 UG03 — Hornbash Champion
 	6 UG05 — Inspired by Vivien
-	6 UB06
-	6 UB02
+	6 UB06 — Shadow Snaffle
+	6 UB04 —
 	6 UB05 — Inspired by Oko
 	6 US04 —
 	2 RS02 —
 	2 RS01 —
 	6 UZ03 —
 	6 UZ04 —
-	6 UZ09 —
+	6 UZ09 — Itsy Bitey Spider
 	6 UU05 — Inspired by The Kenriths
 	6 UR03 — Wiskerbow Archer
+	2 RZ13 — Rankle, Trusted Borrower
+	6 UU02 — Axiom Channeler
+	6 UZ06 — Mace The Exam
 [wildcard(1)]
 	15 US05 — Mutate Conspiracy
 	15 US02 — Help Conspiracy
 	7 RS04 — Myriad Conspiracy
 	6 CU13 — Mandlebrot Pair
 	6 CW01 — Tagoge Trainee
-	15 UU01 — Mutate Force Spike
+	15 UZ07 — Porcupiranha
 	6 CB08 — Big Bad Wolf
 	15 UZ02 — Enchanment blood artist
 	15 US01 — Shard Conspiracy
@@ -2570,7 +2558,7 @@
 	6 CG16a — Attack on Ketria Gemforest
 	6 CZ07 — Geometric Geology
 	7 RG03 —
-	15 UG03 — Fighting beast
+	15 UG02 —
 	6 CR06 — Electrophorese Archer
 	6 CW16a — Attack on the Dawn Temple
 	6 CB16a — Attack on the Fairie Garden
@@ -2583,10 +2571,10 @@
 	7 RR03 —
 	7 RW03 —
 	7 RU03 —
-	15 UZ07 — Fractal maker
+	7 RZ07 — Quandrix Provost
 	6 CB14 — Killer Deal
 	6 CB15 — Seductive Prophecy
-	15 UB04 — Knight of Night
+	15 UB03 — Knight of Night
 	6 CB06 — Garden Gardian
 	6 CB04 — Wishpering Pythonolin
 	6 CB01 — Cursed Pie Baker
@@ -2594,11 +2582,10 @@
 	6 CB03 — Dark Knight
 	6 CB07 — Entreating Witch
 	6 CU12 — Back to the Library
-	15 UU02 — Flux
+	15 UU01 —
 	6 CU14 — Group Study
 	6 CU15 — Strange Attractors
 	6 CU10 — Missing Variable
-	15 UZ06 — Quandrix
 	6 CU08 — Exponentiation Professor
 	6 CU05 — Animation Theorist
 	15 UW1 — Nyxborn Flock
@@ -2647,12 +2634,12 @@
 	6 CZ05 — Unauthorized Researcher
 	6 CZ06 — Hydrodynamicist
 	6 CZ08 — Haymeadow Brigand
-	15 UZ0
-	15 UZ10
+	15 UZ08 — Tortiose and Hare
+	15 UZ10 — Ketria Scavenger
 	6 CZ09 — Soul Haggler
 	15 UU06 — Prophetic Sight
-	7 RZ05 — May I Have Your Name
-	15 UB03 — Faerie Assassin
+	7 RZ05 -- May I Have Your Name
+	15 UB02 — Faerie Assassin
 	15 UZ05 — Entrancing Faye
 	6 CG12 — Establish Eludha
 	6 CG06 — Girhino
@@ -2660,7 +2647,7 @@
 	6 CG09 — Giangtula Bonder
 	6 CG13 — Boar Over
 	6 CB13 — Lure Away from Styx
-	6 CB09 — Deadweight
+	6 CB09 — Hold This
 	6 CG14 — Thunderous Stomp
 	15 UG06 —
 	6 CR07 — Bannertail Knight
@@ -2682,14 +2669,13 @@
 	7 RL02 — Atollpology
 	6 CW13 — Purge of Meletis
 	7 RL05 —
-	15 UU04 — Translucent Lupine
+	15 UU03 — Translucent Lupine
 	15 UW05 — Inspired by Elspeth
-	15 UU03 — Freshman Meal Plan
-	7 RZ11 — Daxos
-	7 RZ13 — Rankle
+	15 UU04 — Freshman Meal Plan
+	7 RZ11 — Daxos, Unmasked
 	7 RZ14 — Mable, Valley Bread-Winner
 	7 RZ15 — Umori, Glue Beast
-	7 RZ12 — Zimone,
+	7 RZ12 — Zimone, Galeforce Researcher
 	7 RL04 — Emberheart Greatsword
 	7 RL03 —
 	7 RZ01
@@ -2697,16 +2683,14 @@
 	7 RZ03
 	7 RZ04
 	7 RZ06
-	7 RZ07
 	7 RZ08
-	7 RZ09
-	7 RZ10
+	7 RZ09 —
+	7 RZ10 — Mythos of Umori
 	7 RW01
 	7 RW02
 	7 RU01
 	7 RU02
 	7 RB01
-	7 RR02
 	7 RR01
 	7 RG01
 	7 RG02
@@ -2726,25 +2710,28 @@
 	6 CU17b — Collaborative Scholarship
 	6 CR17a — Trial Brambles
 	6 CG17b — Kinship of the Herd
-	15 UB01
+	15 UB01 — The Muffin Man
 	6 CG17a — Trial of Might
 	6 CR17b — Battleproven Duo
 	6 CR03 —
-	15 UR02 — For the Valley!
+	7 RR02 — For the Valley!
 	15 UR04 — ScarletSky Duo
 	15 UR05 — Inspired by Ral
-	15 UG01 —
-	15 UG02 —
+	15 UG01 — Chevill's Apprentice
+	15 UG03 — Hornbash Champion
 	15 UG05 — Inspired by Vivien
-	15 UB06
-	15 UB02
+	15 UB06 — Shadow Snaffle
+	15 UB04 —
 	15 UB05 — Inspired by Oko
 	15 US04 —
 	7 RS02 —
 	7 RS01 —
 	15 UZ03 —
 	15 UZ04 —
-	15 UZ09 —
+	15 UZ09 — Itsy Bitey Spider
 	15 UU05 — Inspired by The Kenriths
 	15 UR03 — Wiskerbow Archer
+	7 RZ13 — Rankle, Trusted Borrower
+	15 UU02 — Axiom Channeler
+	15 UZ06 — Mace The Exam
 [landslot(1)]

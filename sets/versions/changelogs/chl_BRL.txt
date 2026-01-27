@@ -1,4 +1,117 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+UZ07 — Porcupiranha added.
+RZ07 — Quandrix Provost added.
+UB03 — Knight of Night added.
+UU01 — added.
+UZ08 — Tortiose and Hare added.
+UZ10 — Ketria Scavenger added.
+RZ05 -- May I Have Your Name added.
+UB02 — Faerie Assassin added.
+CB09 — Hold This added.
+UU03 — Translucent Lupine added.
+UU04 — Freshman Meal Plan added.
+RZ11 — Daxos, Unmasked added.
+RZ12 — Zimone, Galeforce Researcher added.
+RZ09 — added.
+RZ10 — Mythos of Umori added.
+UB01 — The Muffin Man added.
+RR02 — For the Valley! added.
+UG01 — Chevill's Apprentice added.
+UG03 — Hornbash Champion added.
+UB06 — Shadow Snaffle added.
+UB04 — added.
+UZ09 — Itsy Bitey Spider added.
+RZ13 — Rankle, Trusted Borrower added.
+UU02 — Axiom Channeler added.
+UZ06 — Mace The Exam added.
+
+UU01 — Mutate Force Spike removed.
+UG03 — Fighting beast removed.
+UZ07 — Fractal maker removed.
+UB04 — Knight of Night removed.
+UU02 — Flux removed.
+UZ06 — Quandrix removed.
+UZ0 removed.
+UZ10 removed.
+RZ05 — May I Have Your Name removed.
+UB03 — Faerie Assassin removed.
+CB09 — Deadweight removed.
+UU04 — Translucent Lupine removed.
+UU03 — Freshman Meal Plan removed.
+RZ11 — Daxos removed.
+RZ13 — Rankle removed.
+RZ12 — Zimone, removed.
+RZ07 removed.
+RZ09 removed.
+RZ10 removed.
+RR02 removed.
+UB01 removed.
+UR02 — For the Valley! removed.
+UG01 — removed.
+UB06 removed.
+UB02 removed.
+UZ09 — removed.
+
+UG02 —
+type:  => Creature — Beast
+cost: {G} => {3}{G}
+rules_text:  => Mutate {2}{G} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+When UG02 — enters, it deals damage equal to its power to target creature an opponent controls.
+The first time this creature mutates, it fights target creature an opponent controls.
+pt:  => 4/1
+special_text:  => Mutate {2}{G} [i](If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+When UG02 — enters, it deals damage equal to its power to target creature an opponent controls.
+The first time this creature mutates, it fights target creature an opponent controls.
+
+CB14 — Killer Deal
+cost: {3}{B}{B} => {2}{B}{B}
+
+CZ09 — Soul Haggler
+rules_text: Menace 
+Whenever a creature you control mutates, you may remove a counter from a permanent you control. If you do, draw a card. => Menace 
+Whenever a creature you control mutates or dies, you may remove a counter from a permanent you control. If you do, draw a card.
+
+CB13 — Lure Away from Styx
+rules_text: When Lure Away from Styx enters, put target creature card from any graveyard onto the battlefield under you control with a finality counter on it. => When Lure Away from Styx enters, put target creature card from any graveyard onto the battlefield under you control with a finality counter on it.
+When this enchantment leaves the battlefield, draw a card.
+
+RZ14 — Mable, Valley Bread-Winner
+rules_text: First strike
+[i]Valiant[/i] — Whenever Mable becomes target of a spell or ability your team controls for the first time each turn, create two Food tokens.
+At the beginning of combat each turn, you may sacrifice a Food. If you do, creatures target player controls get +X/+0 until end of turn where X is Mable's power. => First strike
+[i]Valiant[/i] — Whenever Mable becomes target of a spell or ability your team controls for the first time each turn, create two Food tokens.
+At the beginning of combat each turn, you may sacrifice a Food. If you do, another target creature gets +X/+0 until end of turn, where X is Mable's power.
+
+RZ01
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i](Gain the next level as a sorcery to add its ability.)[/i]
+ Level 2
+​
+ Level 3
+​
+special_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+[i](Gain the next level as a sorcery to add its ability.)[/i]
+ Level 2
+​
+ Level 3
+​
+
+CZ01 — Discrete Theology
+rules_text: Target creature your team controls gets +1/+1 and has lifelink.
+Flashback {3}{W}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Creature your team controls get +1/+1 and has lifelink until end of turn.
+Flashback {3}{W}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+UU05 — Inspired by The Kenriths
+rules_text: Target opponent joins your team. [i](see the Join a Team! rules card.)[/i]
+Up to one target creature has base power and toughness 0/2 until your next turn.
+Draw two cards. => Target opponent joins your team. [i](see the Join a Team! rules card.)[/i]
+Up to two target creatures opponents controls have base power and toughness 0/2 until your next turn.
+Each player on your team draws two cards.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 UR06 — Heartfire Bolt added.
