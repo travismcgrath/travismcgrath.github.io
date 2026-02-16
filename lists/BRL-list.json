@@ -28,7 +28,7 @@
         "position": ""
     },
     {
-        "card_name": "RG01",
+        "card_name": "RG01 \u2014 Big Cat Bonder",
         "number": 147,
         "shape": "normal",
         "set": "BRL",
@@ -63,14 +63,14 @@
         "position": ""
     },
     {
-        "card_name": "RG02",
+        "card_name": "RG02 \u2014 Fusion Mutation",
         "number": 148,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "RW03 \u2014",
+        "card_name": "RW03 \u2014 Celestial Vivification",
         "number": 32,
         "shape": "normal",
         "set": "BRL",
@@ -147,7 +147,7 @@
         "position": ""
     },
     {
-        "card_name": "UU01 \u2014",
+        "card_name": "UU01 \u2014 Axiom Channeler",
         "number": 63,
         "shape": "normal",
         "set": "BRL",
@@ -168,7 +168,7 @@
         "position": ""
     },
     {
-        "card_name": "UG01 \u2014 Chevill's Apprentice",
+        "card_name": "UG01 \u2014",
         "number": 152,
         "shape": "normal",
         "set": "BRL",
@@ -182,7 +182,7 @@
         "position": ""
     },
     {
-        "card_name": "UU02 \u2014 Axiom Channeler",
+        "card_name": "UU02 \u2014 Paperback Snake",
         "number": 64,
         "shape": "normal",
         "set": "BRL",
@@ -196,14 +196,14 @@
         "position": ""
     },
     {
-        "card_name": "UR02 \u2014 Burrow Sentry",
+        "card_name": "UR02 \u2014 Seedbed Sentry",
         "number": 123,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UG02 \u2014",
+        "card_name": "UG02 \u2014 Chevill's Apprentice",
         "number": 153,
         "shape": "normal",
         "set": "BRL",
@@ -217,7 +217,7 @@
         "position": ""
     },
     {
-        "card_name": "UU03 \u2014 Translucent Lupine",
+        "card_name": "UU03 \u2014 Freshman Meal Plan",
         "number": 65,
         "shape": "normal",
         "set": "BRL",
@@ -238,28 +238,28 @@
         "position": ""
     },
     {
-        "card_name": "UG03 \u2014 Hornbash Champion",
+        "card_name": "UG03 \u2014 Stalking Crawler",
         "number": 154,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UW04 \u2014",
+        "card_name": "UW04 \u2014 Iroas-Blessed Charger",
         "number": 37,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UU04 \u2014 Freshman Meal Plan",
+        "card_name": "UU04 \u2014 Give Insight",
         "number": 66,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB04 \u2014",
+        "card_name": "UB04 \u2014 Red Riding Hood",
         "number": 95,
         "shape": "adventure",
         "set": "BRL",
@@ -273,77 +273,77 @@
         "position": ""
     },
     {
-        "card_name": "UG04 \u2014",
+        "card_name": "UG04 \u2014 Hornbash Bonder",
         "number": 155,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UW05 \u2014 Inspired by Elspeth",
+        "card_name": "UW05 \u2014 Spears to Sickles",
         "number": 38,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UU05 \u2014 Inspired by The Kenriths",
+        "card_name": "UU05 \u2014 Two Weeks Suspension",
         "number": 67,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB05 \u2014 Inspired by Oko",
+        "card_name": "UB05 \u2014 Shadow Snaffle",
         "number": 96,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UR05 \u2014 Inspired by Ral",
+        "card_name": "UR05 \u2014 Heartfire Bolt",
         "number": 126,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UG05 \u2014 Inspired by Vivien",
+        "card_name": "UG05 \u2014 Establish Eludha",
         "number": 156,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UW06",
+        "card_name": "UW06 \u2014 Inspired by Elspeth",
         "number": 39,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UU06 \u2014 Prophetic Sight",
+        "card_name": "UU06 \u2014 Inspired by The Kenriths",
         "number": 68,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UB06 \u2014 Shadow Snaffle",
+        "card_name": "UB06 \u2014 Inspired by Oko",
         "number": 97,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UR06 \u2014 Heartfire Bolt",
+        "card_name": "UR06 \u2014 Inspired by Ral",
         "number": 127,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "UG06 \u2014",
+        "card_name": "UG06 \u2014 Inspired by Vivien",
         "number": 157,
         "shape": "normal",
         "set": "BRL",
@@ -371,14 +371,14 @@
         "position": ""
     },
     {
-        "card_name": "CR01 \u2014 Raging Gecko",
+        "card_name": "CR01 \u2014 Raging Marten",
         "number": 98,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG01 \u2014 Bristling Brushwagg",
+        "card_name": "CG01 \u2014 Hungry Brushwagg",
         "number": 128,
         "shape": "normal",
         "set": "BRL",
@@ -392,7 +392,7 @@
         "position": ""
     },
     {
-        "card_name": "CU02 \u2014 Parabolic Sophmore",
+        "card_name": "CU02 \u2014 Parabolic Sophmores",
         "number": 41,
         "shape": "normal",
         "set": "BRL",
@@ -427,7 +427,7 @@
         "position": ""
     },
     {
-        "card_name": "CU03 \u2014 Quandrix Statue",
+        "card_name": "CU03 \u2014 Quandrix Garden Gate",
         "number": 42,
         "shape": "normal",
         "set": "BRL",
@@ -441,7 +441,7 @@
         "position": ""
     },
     {
-        "card_name": "CR03 \u2014",
+        "card_name": "CR03 \u2014 Bloodlust Iguana",
         "number": 100,
         "shape": "normal",
         "set": "BRL",
@@ -504,7 +504,7 @@
         "position": ""
     },
     {
-        "card_name": "CB05 \u2014 Wild Hunter",
+        "card_name": "CB05 \u2014 The Tooth Fairie",
         "number": 73,
         "shape": "normal",
         "set": "BRL",
@@ -518,7 +518,7 @@
         "position": ""
     },
     {
-        "card_name": "CG05 \u2014 Laughing Hyanther",
+        "card_name": "CG05 \u2014 Beetle-Horned Rhino",
         "number": 132,
         "shape": "normal",
         "set": "BRL",
@@ -546,14 +546,14 @@
         "position": ""
     },
     {
-        "card_name": "CR06 \u2014 Electrophorese Archer",
+        "card_name": "CR06 \u2014 Owl-Eyed Archer",
         "number": 103,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "CG06 \u2014 Girhino",
+        "card_name": "CG06 \u2014 Zagoth Snapper",
         "number": 133,
         "shape": "normal",
         "set": "BRL",
@@ -658,7 +658,7 @@
         "position": ""
     },
     {
-        "card_name": "CG09 \u2014 Giangtula Bonder",
+        "card_name": "CG09 \u2014 Reynard Bonder",
         "number": 136,
         "shape": "adventure",
         "set": "BRL",
@@ -728,7 +728,7 @@
         "position": ""
     },
     {
-        "card_name": "CG11 \u2014 Hungry Sandworm",
+        "card_name": "CG11 \u2014 Hungry Pinekraken",
         "number": 138,
         "shape": "normal",
         "set": "BRL",
@@ -763,7 +763,7 @@
         "position": ""
     },
     {
-        "card_name": "CG12 \u2014 Establish Eludha",
+        "card_name": "CG12 \u2014 Advantageous Adaptation",
         "number": 139,
         "shape": "normal",
         "set": "BRL",
@@ -777,7 +777,7 @@
         "position": ""
     },
     {
-        "card_name": "CU13 \u2014 Mandlebrot Pair",
+        "card_name": "CU13 \u2014 Derive Mandlebrot Bears",
         "number": 52,
         "shape": "normal",
         "set": "BRL",
@@ -1070,7 +1070,7 @@
         "position": ""
     },
     {
-        "card_name": "UZ05 \u2014 Entrancing Faye",
+        "card_name": "UZ05 \u2014 Unauthorized Researcher",
         "number": 182,
         "shape": "normal",
         "set": "BRL",
@@ -1091,7 +1091,7 @@
         "position": ""
     },
     {
-        "card_name": "UZ04 \u2014",
+        "card_name": "UZ04 \u2014 Archetype of Strength",
         "number": 181,
         "shape": "normal",
         "set": "BRL",
@@ -1140,7 +1140,7 @@
         "position": ""
     },
     {
-        "card_name": "CZ05 \u2014 Unauthorized Researcher",
+        "card_name": "CZ05 \u2014 Entrancing Faye",
         "number": 162,
         "shape": "normal",
         "set": "BRL",
@@ -1154,7 +1154,7 @@
         "position": ""
     },
     {
-        "card_name": "CZ10 \u2014 Calamity Badger",
+        "card_name": "CZ10 \u2014 Calamity Panther",
         "number": 167,
         "shape": "normal",
         "set": "BRL",
@@ -1230,7 +1230,7 @@
     {
         "card_name": "RZ06",
         "number": 173,
-        "shape": "normal",
+        "shape": "class",
         "set": "BRL",
         "position": ""
     },
@@ -1256,7 +1256,7 @@
         "position": ""
     },
     {
-        "card_name": "UZ02 \u2014 Enchanment blood artist",
+        "card_name": "UZ02 \u2014 Merchant of Meletis",
         "number": 179,
         "shape": "normal",
         "set": "BRL",
@@ -1277,7 +1277,7 @@
         "position": ""
     },
     {
-        "card_name": "UZ03 \u2014",
+        "card_name": "UZ03 \u2014 Hero's Bravery",
         "number": 180,
         "shape": "normal",
         "set": "BRL",
@@ -1420,7 +1420,7 @@
         "position": ""
     },
     {
-        "card_name": "RZ14 \u2014 Mable, Valley Bread-Winner",
+        "card_name": "RZ14 \u2014 Mabel, Valley Bread-Winner",
         "number": 204,
         "shape": "normal",
         "set": "BRL",
@@ -1482,35 +1482,35 @@
         "position": ""
     },
     {
-        "card_name": "US01 \u2014 Shard Conspiracy",
+        "card_name": "US01 \u2014 Gift of the Fourth Dawn",
         "number": 6,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "US02 \u2014 Help Conspiracy",
+        "card_name": "US02 \u2014Self-Help",
         "number": 7,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "US03 \u2014 Bargain gift Conspiracy",
+        "card_name": "US03 \u2014 Frugal Savings",
         "number": 8,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "US04 \u2014",
+        "card_name": "US04 \u2014 Attrition Tactics",
         "number": 9,
         "shape": "normal",
         "set": "BRL",
         "position": ""
     },
     {
-        "card_name": "US05 \u2014 Mutate Conspiracy",
+        "card_name": "US05 \u2014 Adaptive Advantage",
         "number": 10,
         "shape": "normal",
         "set": "BRL",
@@ -1549,7 +1549,7 @@
     },
     "a->land",
     {
-        "card_name": "RL01 \u2014",
+        "card_name": "RL01 \u2014 The Dawn Temple",
         "number": 207,
         "shape": "saga",
         "set": "BRL",

@@ -1,4 +1,288 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+US05 — Adaptive Advantage added.
+US02 —Self-Help added.
+CU13 — Derive Mandlebrot Bears added.
+UZ02 — Merchant of Meletis added.
+US01 — Gift of the Fourth Dawn added.
+UW04 — Iroas-Blessed Charger added.
+UR05 — Heartfire Bolt added.
+CZ10 — Calamity Panther added.
+UG03 — Stalking Crawler added.
+CR06 — Owl-Eyed Archer added.
+US03 — Frugal Savings added.
+RW03 — Celestial Vivification added.
+UU05 — Two Weeks Suspension added.
+CU02 — Parabolic Sophmores added.
+CG01 — Hungry Brushwagg added.
+CB05 — The Tooth Fairie added.
+CG05 — Beetle-Horned Rhino added.
+CG11 — Hungry Pinekraken added.
+UG05 — Establish Eludha added.
+CR01 — Raging Marten added.
+UR02 — Seedbed Sentry added.
+UZ05 — Unauthorized Researcher added.
+UU04 — Give Insight added.
+CZ05 — Entrancing Faye added.
+CG12 — Advantageous Adaptation added.
+CG06 — Zagoth Snapper added.
+CG09 — Reynard Bonder added.
+UG01 — added.
+CU03 — Quandrix Garden Gate added.
+RL01 — The Dawn Temple added.
+UU02 — Paperback Snake added.
+UW06 — Inspired by Elspeth added.
+UU03 — Freshman Meal Plan added.
+RZ14 — Mabel, Valley Bread-Winner added.
+RG01 — Big Cat Bonder added.
+RG02 — Fusion Mutation added.
+UW05 — Spears to Sickles added.
+UR06 — Inspired by Ral added.
+UG02 — Chevill's Apprentice added.
+UG04 — Hornbash Bonder added.
+UG06 — Inspired by Vivien added.
+UB05 — Shadow Snaffle added.
+UB04 — Red Riding Hood added.
+UB06 — Inspired by Oko added.
+US04 — Attrition Tactics added.
+UZ03 — Hero's Bravery added.
+UZ04 — Archetype of Strength added.
+UU06 — Inspired by The Kenriths added.
+UU01 — Axiom Channeler added.
+
+US05 — Mutate Conspiracy removed.
+US02 — Help Conspiracy removed.
+CU13 — Mandlebrot Pair removed.
+UZ02 — Enchanment blood artist removed.
+US01 — Shard Conspiracy removed.
+UW04 — removed.
+UR06 — Heartfire Bolt removed.
+CZ10 — Calamity Badger removed.
+UG02 — removed.
+CR06 — Electrophorese Archer removed.
+US03 — Bargain gift Conspiracy removed.
+RW03 — removed.
+UU01 — removed.
+CU02 — Parabolic Sophmore removed.
+CG01 — Bristling Brushwagg removed.
+CB05 — Wild Hunter removed.
+CG05 — Laughing Hyanther removed.
+CG11 — Hungry Sandworm removed.
+UG04 — removed.
+CR01 — Raging Gecko removed.
+UR02 — Burrow Sentry removed.
+CZ05 — Unauthorized Researcher removed.
+UU06 — Prophetic Sight removed.
+UZ05 — Entrancing Faye removed.
+CG12 — Establish Eludha removed.
+CG06 — Girhino removed.
+CG09 — Giangtula Bonder removed.
+UG06 — removed.
+CU03 — Quandrix Statue removed.
+RL01 — removed.
+UU03 — Translucent Lupine removed.
+UW05 — Inspired by Elspeth removed.
+UU04 — Freshman Meal Plan removed.
+RZ14 — Mable, Valley Bread-Winner removed.
+RG01 removed.
+RG02 removed.
+UW06 removed.
+UR05 — Inspired by Ral removed.
+UG01 — Chevill's Apprentice removed.
+UG03 — Hornbash Champion removed.
+UG05 — Inspired by Vivien removed.
+UB06 — Shadow Snaffle removed.
+UB04 — removed.
+UB05 — Inspired by Oko removed.
+US04 — removed.
+UZ03 — removed.
+UZ04 — removed.
+UU05 — Inspired by The Kenriths removed.
+UU02 — Axiom Channeler removed.
+
+UZ07 — Porcupiranha
+type: Creature => Creature — Fish Beast
+
+CB08 — Big Bad Wolf
+
+CB12 — Innocuous Prank
+
+RB03 —
+
+RZ07 — Quandrix Provost
+type: Creature — Human Wizard => Creature — Bird Wizard
+rules_text: Ward {1} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, create a create a 0/0 green and blue Fractal creature token. Put a +1/+1 counter on each Fractal you control. => Flying, Ward {1}
+[i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, create a create a 0/0 green and blue Fractal creature token. Put a +1/+1 counter on each Fractal you control.
+
+CB15 — Seductive Prophecy
+
+UB03 — Knight of Night
+cost: {2}{B}{B} => {B}{B}
+rules_text: Fear [i](This creature can't be blocked except by artifact creatures and/or black creatures.)[/i]
+Whenever Knight of Night deals damage to an opponent, draw a card. => Fear [i](This creature can't be blocked except by artifact creatures and/or black creatures.)[/i]
+Whenever Knight of Night deals damage to an opponent, draw a card. Then discard a card unless you sacrifice a permanent.
+
+CB06 — Garden Gardian
+
+CB02 — Midnight Masqueraider
+type: Creature — Zombie Rogue => Creature — Human Rogue
+
+CB03 — Dark Knight
+type: Creature — Human Knight => Creature — Zombie Knight
+
+CB07 — Entreating Witch
+
+CU12 — Back to the Library
+
+CU14 — Group Study
+
+CU15 — Strange Attractors
+
+CU10 — Missing Variable
+
+CU05 — Animation Theorist
+type: Creature — Faerie Wizard => Creature — Human Wizard
+
+CU06 — Quandrix Notekeeper
+type: Creature — Djinn Wizard => Creature — Bird Wizard
+
+CU01 — Toroidal Pupil
+
+CW03 — War Pegasus
+
+CW04 — Phalanx Spearmen
+rules_text: 
+Phalanx Spearmen's power is equal to your team's devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i] => Phalanx Spearmen's power is equal to your team's devotion to white. [i](Each {W} in the mana costs of permanents you control counts toward your devotion to white.)[/i]
+
+CW05 — Griffin Scout
+
+CW08 — Nyxborn Light Seer
+
+CW12 — Flicker of Light
+
+CG07 — Tenured Biologist
+rules_text: When a creature mutates for the first time, put a +1/+1 counter on it and Tenured Biologist .
+Creatures you control with a +1/+1 counter on them have trample. => When a creature your team controls mutates for the first time, put a +1/+1 counter on it and Tenured Biologist .
+Creatures you control with a +1/+1 counter on them have trample.
+
+CG10 — Indatha Ooze
+
+CG15 — Feast of the Pack
+
+CG04 — Ketralid
+
+CG02 — Zagoth Elves
+
+CG03 — Symbiotic Shaman
+rules_text: Whenever a Beast that your team controls enters or mutates, create a Shard token. => Whenever a Beast your team controls enters or mutates, choose one — 
+• Create a Shard token.
+• Create a Food token.
+
+CR05 — Sharp Clawed Scout
+
+CR15 — Alluring Aromas
+
+CZ08 — Haymeadow Brigand
+
+CZ09 — Soul Haggler
+type: Creature — Nightmare Druid => Creature — Nightmare Cat
+
+UB02 — Faerie Assassin
+rules_text: Deathtouch
+When Faerie Assassin enters, destroy target tapped creature. If that creature was a Knight, draw a card. => Deathtouch
+When Faerie Assassin enters, destroy target tapped creature. If that creature was a Knight or Warrior, draw a card.
+
+CG08 — Megafauna Grazer
+
+CG13 — Boar Over
+
+CB09 — Hold This
+
+CG14 — Thunderous Stomp
+
+CR04 — Emberheart Mouster
+
+CR11 — Uplift Animalfolk
+
+CB10 — Shadow Swap
+rules_text: Target player may scry 2. 
+Until end of turn target creature gains “When this creature dies, return it to the battlefield under its owner's control with a decay counter on it.”. => Target player may scry 2. 
+Until end of turn target creature gains “When this creature dies, return it to the battlefield under its owner's control with a decayed counter on it.”. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+CB11 — Negotiated Death
+
+CU11 — Rote Extra Credit
+
+CU09 — Published Analysis
+
+CU04 — Sneaky Auditor
+
+RZ12 — Zimone, Galeforce Researcher
+
+RW01
+type:  => Creature
+
+RW02
+type:  => Creature
+
+RU02
+type:  => Creature — Merfolk Wizard
+
+RR01
+
+RB02
+type:  => Creature
+
+CZ01 — Discrete Theology
+rules_text: Creature your team controls get +1/+1 and has lifelink until end of turn.
+Flashback {3}{W}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i] => Creatures your team controls get +1/+1 and has lifelink until end of turn.
+Flashback {3}{W}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+CR03 — Bloodlust Iguana
+type: Creature — Lizard Warlock => Creature — Lizard Knight
+
+UZ09 — Itsy Bitey Spider
+cost: {B}{G} => {1}{B}{G}
+pt: 1/3 => 1/4
+
+RZ13 — Rankle, Trusted Borrower
+rules_text: Flying, First strike, haste
+When Rankle deals combat damage to a player, gain control of target creature that player controls until end of turn. You can't sacrifice it this turn. Put a decay counter on it and goad it. => Flying, First strike, haste
+When Rankle deals combat damage to a player, gain control of target creature that player controls until end of turn. You can't sacrifice it this turn. Put a decayed counter on it and goad it.
+
+UZ06 — Mace The Exam
+rules_text: [i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, double equipped creature's power.
+Equip {3}
+Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i] => [i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, double equipped creature's power.
+Equip {2}
+Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i]
+
+
+VERSION 9 CHANGELOG
+====================
+
+CR03 — Bloodlust Iguana added.
+
+CR03 — removed.
+
+RZ06
+rules_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+​
+ Level 2
+​
+ Level 3
+​
+special_text:  => [i](Gain the next level as a sorcery to add its ability.)[/i]
+​
+ Level 2
+​
+ Level 3
+​
+
+
+VERSION 8 CHANGELOG
 ====================
 
 UZ07 — Porcupiranha added.
