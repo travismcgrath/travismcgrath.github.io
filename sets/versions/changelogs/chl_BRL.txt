@@ -1,4 +1,69 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+RA01 — Kindred Artifact added.
+CB04 — Smiling Pythonolin added.
+RZ03 — Calamity Minotaur added.
+UA01 - Attrition Tactics added.
+
+US05 — Adaptive Advantage removed.
+US02 —Self-Help removed.
+RS04 — Myriad Conspiracy removed.
+US01 — Gift of the Fourth Dawn removed.
+RS05 — Kindred Conspiracy removed.
+RS03 — Flicker Conspiracy removed.
+CB04 — Wishpering Pythonolin removed.
+RZ03 removed.
+US04 — Attrition Tactics removed.
+RS02 — removed.
+RS01 — removed.
+
+CW01 — Tagoge Trainee
+
+UZ02 — Merchant of Meletis
+
+UW02 — Roaring Skirmisher
+type: Creature — Leonin Knight => Creature — Cat Knight
+
+US03 — Frugal Savings
+rules_text: [i](Start the game with this conspiracy face up in the command zone.)[/i]
+Whenever you cast a spell that is bargained, haggled, or gives a gift, create a Treasure token. => [i](Start the game with this conspiracy face up in the command zone.)[/i]
+Whenever you cast a spell that is bargained, haggled, helped, or gives a gift, create a Treasure token.
+
+CW15 — Aestraste's Folly
+
+CW09 — Archon of the Rising Sun
+
+CW02 — Daxos' Pridemate
+
+CW03 — War Pegasus
+
+UW03 — Temple Khorós
+
+CW06 — Light-foot Healer
+
+CW11 — Restless Sleep
+
+CZ04 — Setessa Lightbringer
+type: Creature — Satyr Goliath => Creature — Elk Goliath
+
+CW07 — Temple Caretaker
+
+CU07 — Square Elemental
+
+CW14 — Call the Faithful
+
+CW13 — Purge of Meletis
+
+RZ02
+
+UZ03 — Hero's Bravery
+
+UZ04 — Archetype of Strength
+type: Enchantment Creature — Elk Beast => Enchantment Creature — Saytr Beast
+
+
+VERSION 10 CHANGELOG
 ====================
 
 US05 — Adaptive Advantage added.
