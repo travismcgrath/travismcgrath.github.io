@@ -1351,7 +1351,7 @@
         "position": ""
     },
     {
-        "card_name": "Dynastic Inheritence",
+        "card_name": "Dynastic Inheritance",
         "number": 168,
         "shape": "normal",
         "set": "CoA",
@@ -1595,6 +1595,13 @@
         "position": ""
     },
     {
+        "card_name": "Factory BannerKnot",
+        "number": 221,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
         "card_name": "Foundry Auditor",
         "number": 224,
         "shape": "normal",
@@ -1611,6 +1618,34 @@
     {
         "card_name": "Improvised Weather Machine",
         "number": 227,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Lawful BannerKnot",
+        "number": 229,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Lawless BannerKnot",
+        "number": 230,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Market BannerKnot",
+        "number": 232,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Monastery BannerKnot",
+        "number": 234,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1651,13 +1686,6 @@
         "position": ""
     },
     {
-        "card_name": "Factory BannerKnot",
-        "number": 221,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
         "card_name": "Filigree Familiar",
         "number": 222,
         "shape": "normal",
@@ -1672,36 +1700,8 @@
         "position": ""
     },
     {
-        "card_name": "Lawful BannerKnot",
-        "number": 229,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Lawless BannerKnot",
-        "number": 230,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
         "card_name": "Lead Toothed Hyenas",
         "number": 231,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Market BannerKnot",
-        "number": 232,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Monastery BannerKnot",
-        "number": 234,
         "shape": "normal",
         "set": "CoA",
         "position": ""

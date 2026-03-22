@@ -57,12 +57,25 @@ def generateFile(code):
 				if ('!' + slot_name) in card['notes']:
 					booster[slot_name].append(card)
 
+		rating = 0
+		match card['rarity']:
+					case 'mythic':
+						rating = 5
+					case 'rare':
+						rating = 4
+					case 'uncommon':
+						rating = 3
+					case 'common':
+						rating = 2
+		if 'landslot' in card['notes']:
+			rating = 3
 		draft_string += '''	{
 			"name": "''' + card['card_name'] + '''",
 			"rarity": "''' + ('special' if card['rarity'] == 'cube' else card['rarity']) + '''",
 			"mana_cost": "''' + re.sub(h_pattern, h_replace, card['cost']) + '''",
 			"type": "''' + card['type'] + '''",
 			"collector_number": "''' + str(card['number']) + '''",
+			"rating": ''' + str(rating) + ''',
 	'''
 
 		card_file_name = (str(card['number']) + '_' + card['card_name']) if ('position' not in card) else card['position']
