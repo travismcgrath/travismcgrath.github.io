@@ -441,17 +441,6 @@
 			}
 		},
 		{
-			"name": "Howl of the Horde",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}",
-			"type": "Sorcery",
-			"collector_number": "100",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/100_Howl of the Horde.png"
-			}
-		},
-		{
 			"name": "Hooded Hydra",
 			"rarity": "rare",
 			"mana_cost": "{X}{G}{G}",
@@ -1391,10 +1380,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}",
 			"type": "Creature — Goblin Rogue",
-			"collector_number": "99",
+			"collector_number": "100",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/99_Hordeling Troublemaker.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/100_Hordeling Troublemaker.png"
 			}
 		},
 		{
@@ -1457,10 +1446,10 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "96",
+			"collector_number": "97",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/96_Fairgrounds Acrobat.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/97_Fairgrounds Acrobat.png"
 			}
 		},
 		{
@@ -1479,10 +1468,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "98",
+			"collector_number": "99",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/98_Harnessed Lightning.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/99_Harnessed Lightning.png"
 			}
 		},
 		{
@@ -2546,10 +2535,10 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Dwarf Artificer",
-			"collector_number": "95",
+			"collector_number": "96",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/95_Factory Mazdoor.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/96_Factory Mazdoor.png"
 			}
 		},
 		{
@@ -2612,10 +2601,10 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "98",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/97_Fanatical Recruitment.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/98_Fanatical Recruitment.png"
 			}
 		},
 		{
@@ -3200,6 +3189,17 @@
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/249_Devra Temple.png"
 			}
+		},
+		{
+			"name": "Eye of the Dragon",
+			"rarity": "rare",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Creature — Human Monk",
+			"collector_number": "95",
+			"rating": 4,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/95_Eye of the Dragon.png"
+			}
 		}
 	]
 
@@ -3243,7 +3243,6 @@
 	2 Fumigate
 	2 Confiscation Coup
 	2 Bloodsoaked Champion
-	2 Howl of the Horde
 	2 Hooded Hydra
 	2 Trail of Mystery
 	2 Kheru Spellsnatcher
@@ -3279,6 +3278,7 @@
 	2 Hall of The Assembly
 	2 Salt Road Shelter
 	2 Devra Temple
+	2 Eye of the Dragon
 [uncommon(3)]
 	4 Extraction Module
 	4 Execution Module
@@ -3507,7 +3507,6 @@
 	2 Fumigate
 	2 Confiscation Coup
 	2 Bloodsoaked Champion
-	2 Howl of the Horde
 	2 Hooded Hydra
 	2 Trail of Mystery
 	2 Kheru Spellsnatcher
@@ -3727,6 +3726,7 @@
 	2 Hall of The Assembly
 	2 Salt Road Shelter
 	2 Devra Temple
+	2 Eye of the Dragon
 [wildcard(1)]
 	6 Thriving Grubs
 	4 Dovin Baan, Persistent Ruler
@@ -3768,7 +3768,6 @@
 	7 Fumigate
 	7 Confiscation Coup
 	7 Bloodsoaked Champion
-	7 Howl of the Horde
 	7 Hooded Hydra
 	7 Trail of Mystery
 	7 Kheru Spellsnatcher
@@ -3988,6 +3987,7 @@
 	7 Hall of The Assembly
 	7 Salt Road Shelter
 	7 Devra Temple
+	7 Eye of the Dragon
 [landslot(1)]
 	12 Indigo Monmument
 	12 Tranquil Cove

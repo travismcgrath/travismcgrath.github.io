@@ -1,4 +1,17 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Eye of the Dragon added.
+
+Howl of the Horde removed.
+
+Pearl Lake Salar
+rules_text: As an additional cost to cast Pearl Lake Salar you may pay any amount of {E}. 
+Pearl Lake Salar deals X plus the {E} paid to any target. => Multikicker {E} [i](You may pay an additional {E} any number of times as you cast this spell.)[/i]
+Choose target creature, then choose another target creature for each time this spell was kicked. Pearl Lake Salar deals X damage to each of them.
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Dynastic Inheritance added.

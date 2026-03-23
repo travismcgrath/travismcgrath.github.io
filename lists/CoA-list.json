@@ -91,8 +91,8 @@
         "position": ""
     },
     {
-        "card_name": "Howl of the Horde",
-        "number": 100,
+        "card_name": "Eye of the Dragon",
+        "number": 95,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -372,7 +372,7 @@
     },
     {
         "card_name": "Harnessed Lightning",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -407,7 +407,7 @@
     },
     {
         "card_name": "Hordeling Troublemaker",
-        "number": 99,
+        "number": 100,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -617,7 +617,7 @@
     },
     {
         "card_name": "Factory Mazdoor",
-        "number": 95,
+        "number": 96,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -652,7 +652,7 @@
     },
     {
         "card_name": "Fairgrounds Acrobat",
-        "number": 96,
+        "number": 97,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -687,7 +687,7 @@
     },
     {
         "card_name": "Fanatical Recruitment",
-        "number": 97,
+        "number": 98,
         "shape": "normal",
         "set": "CoA",
         "position": ""
