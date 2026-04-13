@@ -1,4 +1,212 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Lobbiers's Purse added.
+Ecocidal Investor added.
+
+Briber's Purse removed.
+Zurgo's Disciple removed.
+
+Dovin Baan, Persistent Ruler
+rules_text: Whenever another nontoken permanent you control is put into a graveyard from play, you may pay 2 life. If you do, another target creature manufactures 2.
+When Dovin Baan dies, you may sacrifice four artifacts you control. If you do, return him to the battlefield tapped with a -1/-1 counter on it. => Persist
+Whenever a nontoken permanent you control is put into a graveyard from play, you may pay 2 life. If you do, another target creature manufactures 2.
+
+Narset, Panharmonastic Sage
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+[i]Raid[/i] - If you've attacked this turn, if casting a noncreature spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time. => Prowess
+[i]Raid[/i] - If you've attacked this turn, if casting a noncreature spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.
+
+Houn, Beguiling Ancestor
+rules_text: Flying, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast a noncreature spell, you may tap target creature and scry 1. => Flying, prowess
+Whenever you cast a noncreature spell, you may tap target creature and scry 1.
+
+Booming Karma
+rules_text: Booming Karma deals 2 damage to target player. That player sacrifices a creature with the greatest mana value among creatures they control. Then if they have energy counters, that player sacrifices an artifact, enchantment, or land. => Booming Karma deals 2 damage to target player. 
+Target player sacrifices a creature with the greatest mana value among creatures they control.
+Destroy target artifact, enchantment, or land.
+
+Sage of the Vitalfire
+pt: 3/4 => 4/4
+
+Chianul's Guidance
+rules_text: Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+Create a 2/2 green and white Monk creature token with prowess.
+Scry 1. => Rebound
+Create a 2/2 green and white Monk creature token with prowess.
+Scry 1.
+
+Trail of Mystery
+
+Pearl Lake Salar
+rules_text: Multikicker {E} [i](You may pay an additional {E} any number of times as you cast this spell.)[/i]
+Choose target creature, then choose another target creature for each time this spell was kicked. Pearl Lake Salar deals X damage to each of them. => Multikicker {E} 
+Choose target creature, then choose another target creature for each time this spell was kicked. Pearl Lake Salar deals X damage to each of them.
+
+Generous Angel
+rules_text: Flying, lifelink
+Morph {2}{W}{W}
+When Generous Angel enters or is turned face up, up to three target creatures you control manufacture 1. => Flying, lifelink
+Morph {3}{W}
+When Generous Angel enters or is turned face up, up to three target creatures you control manufacture 1.
+
+Mine for Solutions
+cost: {12}{U}{U} => {8}{U}{U}
+rules_text: Mine for Solutions costs {1} less to cast for each colorless permanent you control.
+Look at the top fourteen cards of your library. Put four of them into your hand and the rest on the bottom of your library in any order. => Mine for Solutions costs {1} less to cast for each colorless permanent you control.
+Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in any order.
+
+Exploration Module
+rules_text: Whenever a Thopter enters under your control, create a Map token. [i](It's an artifact with “{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery.”)[/i]
+{5},{T}: Create a 1/1 colorless Thopter artifact creature token with flying. => Whenever a Thopter enters under your control, create a Map token. 
+{5},{T}: Create a 1/1 colorless Thopter artifact creature token with flying.
+
+Nihilist Roughrider
+
+Highspire Adept
+rules_text: Trample, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => Trample, prowess
+
+Sage-Eye Apprentice
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Morph—Reveal a white card in your hand. 
+When Sage-Eye Apprentice is turned face up, you gain 2 life. => Prowess
+Morph—Reveal a white card in your hand. 
+When Sage-Eye Apprentice is turned face up, you gain 2 life.
+
+Entrant of the Way
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Whenever you cast a noncreature spell, Entrant of the Way gains lifelink until end of turn. => Prowess
+Whenever you cast a noncreature spell, Entrant of the Way gains lifelink until end of turn.
+
+Devout Kirin
+rules_text: Flying, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => Flying, prowess
+
+Denial Lobbyist
+rules_text: Flash
+When Denial Lobbyist enters or is turned face up, counter target spell.
+Morph {U}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i] => Flash
+When Denial Lobbyist enters or is turned face up, counter target spell.
+Morph {U}{U}
+
+Tenth Bridge Copter
+pt: 4/2 => 3/2
+
+Shambling Aetherborn
+
+Bloodfire Sage
+rules_text: Whenever Bloodfire Sage become the target of an instant or sorcery spell, it deals 1 damage to target creature and you scry 1. => Whenever Bloodfire Sage becomes the target of an instant or sorcery spell, it deals 1 damage to target creature and you scry 1.
+
+Fairgrounds Acrobat
+rules_text: Reach
+When Fairgrounds Acrobat enters you get {E}{E}, then you may pay {E}. If you do put a +1/+1 counter on it.
+Each creature you control with a +1/+1 counter on it has reach. => Reach
+Fairgrounds Acrobat enters with a +1/+1 counter on it.
+Each other creature you control with a +1/+1 counter on it has reach.
+Whenever a creature you control with reach blocks, you get {E}.
+
+Myopic Pillaging
+rules_text: Destroy target artifact or land. It can't be regenerated.
+You get {E}{E}. => Destroy target artifact or non-basic land. It can't be regenerated.
+You get {E}{E}.
+
+Tuskguard Colonel
+cost: {6}{G} => {5}{G}
+
+Consol's Bodyguards
+
+Mystic of The Way
+rules_text: Lifelink, prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Morph {R}{W}{G} => Lifelink, prowess
+Morph {R}{W}{G}
+
+Aether Spout Bulldozer
+rules_text: Trample
+{T}: You gain {E}.
+Pay {E}{E}: Aether Spout Bulldozer becomes an artifact creature until end of turn.
+Crew 3 [i](Tap any number of creatures you control with total power 3 or more: This Vehicle becomes an artifact creature until end of turn.)[/i] => Trample
+{T}: You gain {E}.
+Pay {E}{E}: Aether Spout Bulldozer becomes an artifact creature until end of turn.
+Crew 3
+
+Disassemble
+rules_text: Destroy target artifact, enchantment, or colorless creature, .
+You gain 2 life. => Destroy target artifact, enchantment, or colorless creature.
+You gain 2 life.
+
+Assembly's Attache
+rules_text: Double strike
+Morph {3}{W}{W} => Double strike
+Morph {4}{W} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Aristocrats' Steed
+rules_text: Morph 4{W}{W}
+When Aristocrats' Steed enters or is turned face up, up to two target creatures gains indestructible until end of turn. => Morph {5}{W} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Aristocrats' Steed enters or is turned face up, up to two target creatures gains indestructible until end of turn.
+
+Teacher of the Way
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i]
+Teacher of the Way can't attack alone. => Prowess
+Teacher of the Way can't attack alone.
+
+Dovin's Spy
+rules_text: This creature can't be blocked.
+Morph {U}
+When Dovin's Spy is turned face up, draw a card. => This creature can't be blocked.
+Morph {U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Dovin's Spy is turned face up, draw a card.
+
+Drone Vendor
+type: Creature — Vedalke Citizen => Creature — Vedalken Citizen
+
+Miasmic Cloud
+cost: {4}{B} => {3}{B}
+rules_text: When Miasmic Cloud enters or is turned face up, all creatures get -1/-1 until end of turn and you draw a card.
+Morph {3}{B} => When Miasmic Cloud is turned face up, creatures your opponents control get -1/-1 until end of turn.
+Morph {2}{B}
+At the beginning of your combat on your turn, target creature gets +2/+0 and gains deathtouch until end of turn.
+
+Defeatist Recycler
+pt: 2/3 => 2/2
+
+Narset's Student
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => Prowess
+
+Fairgrounds Security
+rules_text: Protection from colorless
+{0}: Look at face-down creature. Activate only once per turn and only as a sorcery. => Protection from colorless
+{0}: Look at target face-down creature. Activate only once per turn and only as a sorcery.
+
+Sage-Eyed Enforcer
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => Prowess
+
+Human Monk
+rules_text: Prowess [i](Whenever you cast a noncreature spell, this creature gets +1/+1 until end of turn.)[/i] => Prowess
+
+Displaced Dreadmaw
+pt: 4/4 => 5/5
+
+Sunset Smoglands
+rules_text: {T}: Add {C}.
+Morph {2} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+Basic landcycling {1} [i]({1}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => {T}: Add {C}.
+Morph {2} 
+Basic landcycling {1}
+
+Eye of the Dragon
+rules_text: Prowess
+[i]Raid[/i] — Whenever Eye attacks, the next instant or sorcery spell you cast this turn gains rebound. [i](If you cast that spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)[/i] => Prowess
+Whenever Eye of the Dragon attacks, the next instant or sorcery spell you cast this turn gains rebound. [i](If you cast that spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)[/i]
+pt: 3/3 => 3/2
+
+Sidisi, Scales of Industry
+type: Legendary Creature — Sanke Demigod => Legendary Creature — Snake Demigod
+rules_text: When Sidisi enters, she manufactures 4.
+Sacrifice a land: You get {E}{E} then you may pay {E}{E}. If you do, Servos and Thopters you control get +2/+2 until end of turn. Activate only as a sorcery and only once per turn. => When Sidisi enters or attacks, sacrifice a land, then she manufactures 2, you draw a card and get {E}{E}.
+Servos and Thopters you control get +2/+2.
+
+
+VERSION 8 CHANGELOG
 ====================
 
 Eye of the Dragon added.

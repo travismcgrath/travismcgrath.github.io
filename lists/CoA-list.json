@@ -29,7 +29,7 @@
     },
     {
         "card_name": "Longtusk Pride",
-        "number": 130,
+        "number": 131,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -99,7 +99,7 @@
     },
     {
         "card_name": "Hooded Hydra",
-        "number": 126,
+        "number": 127,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -134,7 +134,7 @@
     },
     {
         "card_name": "Snapping Sanctuary",
-        "number": 140,
+        "number": 141,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -168,8 +168,8 @@
         "position": ""
     },
     {
-        "card_name": "Trail of Mystery",
-        "number": 143,
+        "card_name": "Tuskguard Colonel",
+        "number": 145,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -204,7 +204,7 @@
     },
     {
         "card_name": "Extinction Rebellion",
-        "number": 121,
+        "number": 122,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -239,7 +239,7 @@
     },
     {
         "card_name": "Hypnotizing AetherBorealis",
-        "number": 127,
+        "number": 128,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -274,7 +274,7 @@
     },
     {
         "card_name": "Incensed Druid",
-        "number": 129,
+        "number": 130,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -309,7 +309,7 @@
     },
     {
         "card_name": "Loxodon Memorial",
-        "number": 131,
+        "number": 132,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -344,7 +344,7 @@
     },
     {
         "card_name": "Nature's Way",
-        "number": 132,
+        "number": 133,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -379,7 +379,7 @@
     },
     {
         "card_name": "Peema Colossus",
-        "number": 133,
+        "number": 134,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -414,7 +414,7 @@
     },
     {
         "card_name": "Resistance Factor",
-        "number": 135,
+        "number": 136,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -434,8 +434,8 @@
         "position": ""
     },
     {
-        "card_name": "Powered Down Timepiece",
-        "number": 78,
+        "card_name": "Miasmic Cloud",
+        "number": 76,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -449,7 +449,7 @@
     },
     {
         "card_name": "Return from the Horizon",
-        "number": 136,
+        "number": 137,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -469,8 +469,8 @@
         "position": ""
     },
     {
-        "card_name": "Ruthless Ripper",
-        "number": 79,
+        "card_name": "Powered Down Timepiece",
+        "number": 78,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -484,7 +484,7 @@
     },
     {
         "card_name": "Riparian Jaguar",
-        "number": 137,
+        "number": 138,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -504,8 +504,8 @@
         "position": ""
     },
     {
-        "card_name": "Shambling Aetherborn",
-        "number": 81,
+        "card_name": "Ruthless Ripper",
+        "number": 79,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -519,7 +519,7 @@
     },
     {
         "card_name": "Storm Harmonist",
-        "number": 141,
+        "number": 142,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -553,7 +553,7 @@
         "position": ""
     },
     {
-        "card_name": "Tuskguard Colonel",
+        "card_name": "Trail of Mystery",
         "number": 144,
         "shape": "normal",
         "set": "CoA",
@@ -693,8 +693,8 @@
         "position": ""
     },
     {
-        "card_name": "Fairgrounds Security",
-        "number": 122,
+        "card_name": "Ecocidal Investor",
+        "number": 121,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -728,7 +728,7 @@
         "position": ""
     },
     {
-        "card_name": "Ferrophage Spider",
+        "card_name": "Fairgrounds Security",
         "number": 123,
         "shape": "normal",
         "set": "CoA",
@@ -763,7 +763,7 @@
         "position": ""
     },
     {
-        "card_name": "Filigree-horn Luddite",
+        "card_name": "Ferrophage Spider",
         "number": 124,
         "shape": "normal",
         "set": "CoA",
@@ -798,7 +798,7 @@
         "position": ""
     },
     {
-        "card_name": "Gift of Sagacity",
+        "card_name": "Filigree-horn Luddite",
         "number": 125,
         "shape": "normal",
         "set": "CoA",
@@ -819,8 +819,8 @@
         "position": ""
     },
     {
-        "card_name": "Miasmic Cloud",
-        "number": 76,
+        "card_name": "Midnight Inspector",
+        "number": 77,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -833,8 +833,8 @@
         "position": ""
     },
     {
-        "card_name": "Immense Development",
-        "number": 128,
+        "card_name": "Gift of Sagacity",
+        "number": 126,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -854,8 +854,8 @@
         "position": ""
     },
     {
-        "card_name": "Midnight Inspector",
-        "number": 77,
+        "card_name": "Seize the Means",
+        "number": 80,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -868,8 +868,8 @@
         "position": ""
     },
     {
-        "card_name": "Reimmerse In Nature",
-        "number": 134,
+        "card_name": "Immense Development",
+        "number": 129,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -889,8 +889,8 @@
         "position": ""
     },
     {
-        "card_name": "Seize the Means",
-        "number": 80,
+        "card_name": "Shambling Aetherborn",
+        "number": 81,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -903,8 +903,8 @@
         "position": ""
     },
     {
-        "card_name": "Sage-Eyed Enforcer",
-        "number": 138,
+        "card_name": "Reimmerse In Nature",
+        "number": 135,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -938,7 +938,7 @@
         "position": ""
     },
     {
-        "card_name": "Savage Punch",
+        "card_name": "Sage-Eyed Enforcer",
         "number": 139,
         "shape": "normal",
         "set": "CoA",
@@ -973,8 +973,8 @@
         "position": ""
     },
     {
-        "card_name": "Tenth Bridge Turret Guard",
-        "number": 142,
+        "card_name": "Savage Punch",
+        "number": 140,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1008,8 +1008,8 @@
         "position": ""
     },
     {
-        "card_name": "Zurgo's Disciple",
-        "number": 145,
+        "card_name": "Tenth Bridge Turret Guard",
+        "number": 143,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1519,28 +1519,28 @@
     },
     {
         "card_name": "Cultivator's Caravan",
-        "number": 217,
+        "number": 216,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Exploration Module",
-        "number": 219,
+        "number": 218,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Fleetwheel Cruiser",
-        "number": 223,
+        "number": 222,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Ghostfire Blade",
-        "number": 226,
+        "number": 225,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1574,64 +1574,64 @@
         "position": ""
     },
     {
-        "card_name": "Briber's Purse",
-        "number": 216,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
         "card_name": "Execution Module",
-        "number": 218,
+        "number": 217,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Extraction Module",
-        "number": 220,
+        "number": 219,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Factory BannerKnot",
-        "number": 221,
+        "number": 220,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Foundry Auditor",
-        "number": 224,
+        "number": 223,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Ghirapur's Golden Parapets",
-        "number": 225,
+        "number": 224,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Improvised Weather Machine",
-        "number": 227,
+        "number": 226,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Lawful BannerKnot",
-        "number": 229,
+        "number": 228,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Lawless BannerKnot",
-        "number": 230,
+        "number": 229,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Lobbiers's Purse",
+        "number": 231,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1687,21 +1687,21 @@
     },
     {
         "card_name": "Filigree Familiar",
-        "number": 222,
+        "number": 221,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Lathnu Funicular",
-        "number": 228,
+        "number": 227,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Lead Toothed Hyenas",
-        "number": 231,
+        "number": 230,
         "shape": "normal",
         "set": "CoA",
         "position": ""
