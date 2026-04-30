@@ -1,4 +1,111 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+Thousand Winds added.
+Industrious Angel added.
+Subverter added.
+Purchase Armorcraft added.
+Aetherspout Bulldozer added.
+Aetherspout Eruption added.
+Kurna's Consultant added.
+Horizon Canopy added.
+Player 6 - Energy Reserve added.
+Player 3 - Energy Reserve added.
+Player 4 - Energy Reserve added.
+Player 1 - Energy Reserve added.
+Player 2 - Energy Reserve added.
+Player 13 - Energy Reserve added.
+Player 7 - Energy Reserve added.
+Player 14 - Energy Reserve added.
+Player 5 - Energy Reserve added.
+Player 16 - Energy Reserve added.
+Player 15 - Energy Reserve added.
+Player 12 - Energy Reserve added.
+Player 11 - Energy Reserve added.
+Player 8 - Energy Reserve added.
+Player 10 - Energy Reserve added.
+Player 9 - Energy Reserve added.
+
+Kheru Spellsnatcher removed.
+Generous Angel removed.
+Willbender removed.
+Armorcraft Purchase removed.
+Aether Spout Bulldozer removed.
+Aetherspout Erruption removed.
+Ecocidal Investor removed.
+Horizon Canpoy removed.
+
+Kurna Majan, Luminary Financier
+
+Winds of Industry
+
+Ancestor, Who Smirks at Law
+
+Dustblast
+
+Birth of Rebellion
+
+Chianul's Guidance
+rules_text: Rebound
+Create a 2/2 green and white Monk creature token with prowess.
+Scry 1. => Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+Create a 2/2 green and white Monk creature token with prowess, then scry 1.
+
+Chianul, Qal Sisma Mystic
+type: Legendary Creature — Human Shaman => Legendary Creature — Human Monk
+
+Mine for Solutions
+cost: {8}{U}{U} => {10}{U}{U}
+
+Innovation Setbacks
+
+Tenth Bridge Copter
+rules_text: Flying 
+Whenever Tenth Bridge Copter attacks or blocks, target creature you control gains flying and you look at up to one target face-down creature an opponent controls.
+Crew 2 => Flying 
+Whenever Tenth Bridge Copter attacks, target creature you control gains flying and you look at up to one target face-down creature an opponent controls.
+Crew 2
+
+Myopic Pillaging
+
+Incensed Druid
+type: Creature — Human Druid Beserker => Creature — Human Monk Beserker
+
+Tuskguard Colonel
+cost: {5}{G} => {4}{G}{G}
+rules_text: [i]Raid[/i] - At the beginning of your end step, if you attacked this turn, create a 4/4 green Beast creature token. => [i]Raid[/i] - At the beginning of your end step, if you attacked this turn with a nontoken creature, create a 4/4 green Beast creature token.
+
+Improvised Weather Machine
+
+Snare Thopter
+type: Artifact — Thopter => Artifact Creature — Thopter
+
+Spur to Believe
+
+Empower the Masses
+
+Tax On Action
+
+Artificer's Epiphany
+
+Die Young
+
+Seize the Means
+
+Aetherborn Bond-Kin
+cost: {5}{B} => {4}{B}
+
+Provoked Lightning
+rules_text: Trample, haste
+Morph {4}{R} => Trample, haste
+Morph {4}{R} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Rising Temperatures
+
+Highspire Mystic
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Lobbiers's Purse added.
