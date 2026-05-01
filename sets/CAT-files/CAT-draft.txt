@@ -81,7 +81,7 @@
 			"name": "Scrubland",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Plains",
+			"type": "Land — Plains Swamp",
 			"collector_number": "107",
 			"rating": 4,
 			"image_uris": {
@@ -92,7 +92,7 @@
 			"name": "Savai Triome",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Mountain Plains",
+			"type": "Land — Mountain Plains Swamp",
 			"collector_number": "106",
 			"rating": 4,
 			"image_uris": {
@@ -147,7 +147,7 @@
 			"name": "Godless Shrine",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Land — Swamp Plains",
+			"type": "Land — Plains Swamp",
 			"collector_number": "87",
 			"rating": 4,
 			"image_uris": {

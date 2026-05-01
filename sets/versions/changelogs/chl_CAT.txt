@@ -1,4 +1,48 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Ocelot Pride
+rules_text: First strike, lifelink
+Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i] [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+At the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city's blessing, for each token you control that entered this turn, create a token that's a copy of it. => First strike, lifelink
+Ascend [i](If you control ten or more permanents, you get the city's blessing for the rest of the game.)[/i]
+At the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city's blessing, for each token you control that entered this turn, create a token that's a copy of it.
+
+And They Shall Know No Fear
+
+Scrubland
+type: Land — Swamp Plains => Land — Plains Swamp
+
+Savai Triome
+type: Land — Swamp Mountain Plains => Land — Mountain Plains Swamp
+rules_text: Cycling {3} => Savai Triome enters tapped. 
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i]
+
+Bloodstained Mire
+rules_text: {T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Mountain or Swamp card, put it onto the battlefield, then shuffle. => {T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.
+
+Godless Shrine
+type: Land — Swamp Plains => Land — Plains Swamp
+
+Leonin Warleader
+
+Renewed Solidarity
+
+Skullclamp
+
+Reprieve
+
+Seht's Tiger
+rules_text: Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this creature enters, you gain protection from the color of your choice until end of turn. [i](This creature can't be blocked, targeted, dealt damage, enchanted, or equipped by anything of that color until end of turn..)[/i] => Flash [i](You may cast this spell any time you could cast an instant.)[/i]
+When this creature enters, you gain protection from the color of your choice until end of turn.
+
+Mythos of Snapdax
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
