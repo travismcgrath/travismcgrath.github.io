@@ -1047,11 +1047,11 @@
 		},
 		{
 			"name": "Sage-Eye Apprentice",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Human Monk",
 			"collector_number": "40",
-			"rating": 3,
+			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/40_Sage-Eye Apprentice.png"
 			}
@@ -1223,11 +1223,11 @@
 		},
 		{
 			"name": "Astute Fairground Vendor",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Creature — Vedalken Merchant",
 			"collector_number": "48",
-			"rating": 3,
+			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/48_Astute Fairground Vendor.png"
 			}
@@ -1300,11 +1300,11 @@
 		},
 		{
 			"name": "Ruthless Ripper",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Human Assassin",
 			"collector_number": "95",
-			"rating": 3,
+			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/95_Ruthless Ripper.png"
 			}
@@ -1366,11 +1366,11 @@
 		},
 		{
 			"name": "Hordeling Troublemaker",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Goblin Rogue",
 			"collector_number": "116",
-			"rating": 3,
+			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/116_Hordeling Troublemaker.png"
 			}
@@ -1509,11 +1509,11 @@
 		},
 		{
 			"name": "Incensed Druid",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Human Monk Beserker",
 			"collector_number": "145",
-			"rating": 3,
+			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/145_Incensed Druid.png"
 			}
@@ -3486,7 +3486,6 @@
 	4 Finance Charm
 	4 Monastic Charm
 	4 Rebelious Charm
-	4 Sage-Eye Apprentice
 	4 Entrant of the Way
 	4 Gearshift Pitcrew
 	4 Roost's Guardian
@@ -3500,19 +3499,16 @@
 	4 Innovation Setbacks
 	4 Glacial Glintfisher
 	4 Denial Lobbyist
-	4 Astute Fairground Vendor
 	4 Subverter
 	4 Filigreed Skywhale
 	4 Tenth Bridge Copter
 	4 Gonti's Illicit Ironworks
 	4 Underhanded Designs
 	4 Aether Extraction
-	4 Ruthless Ripper
 	4 Glintsleeve Bruiser
 	4 Heir of the Wastes
 	4 Bloody Auctioneer
 	4 Kheru Harvester
-	4 Hordeling Troublemaker
 	4 Aetherbomb Arsonist
 	4 War-Name Aspirant
 	4 Bloodfire Sage
@@ -3524,7 +3520,6 @@
 	4 Return from the Horizon
 	4 Nature's Way
 	4 Riparian Jaguar
-	4 Incensed Druid
 	4 Guarded Supply Freighter
 	4 Ovalchase Dragster
 	4 Bomat Bazaar Barge
@@ -3561,10 +3556,15 @@
 	4 Sunset Smoglands
 [common(7)]
 	8 Thriving Grubs
+	8 Sage-Eye Apprentice
 	8 Devout Kirin
 	8 Cogify
+	8 Astute Fairground Vendor
+	8 Ruthless Ripper
 	8 Shambling Aetherborn
+	8 Hordeling Troublemaker
 	8 Fairgrounds Acrobat
+	8 Incensed Druid
 	8 Tenth Bridge Turret Guard
 	8 Consol's Bodyguards
 	8 Alloy Loxodon
@@ -3642,22 +3642,6 @@
 	8 Mineral Appraiser
 	8 Displaced Dreadmaw
 	8 Tradewind Stalker
-	8 Player 6 - Energy Reserve
-	8 Player 3 - Energy Reserve
-	8 Player 4 - Energy Reserve
-	8 Player 1 - Energy Reserve
-	8 Player 2 - Energy Reserve
-	8 Player 13 - Energy Reserve
-	8 Player 7 - Energy Reserve
-	8 Player 14 - Energy Reserve
-	8 Player 5 - Energy Reserve
-	8 Player 16 - Energy Reserve
-	8 Player 15 - Energy Reserve
-	8 Player 12 - Energy Reserve
-	8 Player 11 - Energy Reserve
-	8 Player 8 - Energy Reserve
-	8 Player 10 - Energy Reserve
-	8 Player 9 - Energy Reserve
 [foil(1)]
 	12 Thriving Grubs
 	1 Dovin Baan, Persistent Ruler
@@ -3753,7 +3737,7 @@
 	6 Finance Charm
 	6 Monastic Charm
 	6 Rebelious Charm
-	6 Sage-Eye Apprentice
+	12 Sage-Eye Apprentice
 	6 Entrant of the Way
 	6 Gearshift Pitcrew
 	12 Devout Kirin
@@ -3769,20 +3753,20 @@
 	6 Innovation Setbacks
 	6 Glacial Glintfisher
 	6 Denial Lobbyist
-	6 Astute Fairground Vendor
+	12 Astute Fairground Vendor
 	6 Subverter
 	6 Filigreed Skywhale
 	6 Tenth Bridge Copter
 	6 Gonti's Illicit Ironworks
 	6 Underhanded Designs
 	6 Aether Extraction
-	6 Ruthless Ripper
+	12 Ruthless Ripper
 	6 Glintsleeve Bruiser
 	6 Heir of the Wastes
 	6 Bloody Auctioneer
 	12 Shambling Aetherborn
 	6 Kheru Harvester
-	6 Hordeling Troublemaker
+	12 Hordeling Troublemaker
 	6 Aetherbomb Arsonist
 	6 War-Name Aspirant
 	6 Bloodfire Sage
@@ -3795,7 +3779,7 @@
 	6 Return from the Horizon
 	6 Nature's Way
 	6 Riparian Jaguar
-	6 Incensed Druid
+	12 Incensed Druid
 	2 Tuskguard Colonel
 	12 Tenth Bridge Turret Guard
 	6 Guarded Supply Freighter
@@ -3919,22 +3903,6 @@
 	2 Devra Temple
 	2 Eye of the Dragon
 	1 Sidisi, Scales of Industry
-	12 Player 6 - Energy Reserve
-	12 Player 3 - Energy Reserve
-	12 Player 4 - Energy Reserve
-	12 Player 1 - Energy Reserve
-	12 Player 2 - Energy Reserve
-	12 Player 13 - Energy Reserve
-	12 Player 7 - Energy Reserve
-	12 Player 14 - Energy Reserve
-	12 Player 5 - Energy Reserve
-	12 Player 16 - Energy Reserve
-	12 Player 15 - Energy Reserve
-	12 Player 12 - Energy Reserve
-	12 Player 11 - Energy Reserve
-	12 Player 8 - Energy Reserve
-	12 Player 10 - Energy Reserve
-	12 Player 9 - Energy Reserve
 [wildcard(1)]
 	6 Thriving Grubs
 	4 Dovin Baan, Persistent Ruler
@@ -4030,7 +3998,7 @@
 	15 Finance Charm
 	15 Monastic Charm
 	15 Rebelious Charm
-	15 Sage-Eye Apprentice
+	6 Sage-Eye Apprentice
 	15 Entrant of the Way
 	15 Gearshift Pitcrew
 	6 Devout Kirin
@@ -4046,20 +4014,20 @@
 	15 Innovation Setbacks
 	15 Glacial Glintfisher
 	15 Denial Lobbyist
-	15 Astute Fairground Vendor
+	6 Astute Fairground Vendor
 	15 Subverter
 	15 Filigreed Skywhale
 	15 Tenth Bridge Copter
 	15 Gonti's Illicit Ironworks
 	15 Underhanded Designs
 	15 Aether Extraction
-	15 Ruthless Ripper
+	6 Ruthless Ripper
 	15 Glintsleeve Bruiser
 	15 Heir of the Wastes
 	15 Bloody Auctioneer
 	6 Shambling Aetherborn
 	15 Kheru Harvester
-	15 Hordeling Troublemaker
+	6 Hordeling Troublemaker
 	15 Aetherbomb Arsonist
 	15 War-Name Aspirant
 	15 Bloodfire Sage
@@ -4072,7 +4040,7 @@
 	15 Return from the Horizon
 	15 Nature's Way
 	15 Riparian Jaguar
-	15 Incensed Druid
+	6 Incensed Druid
 	7 Tuskguard Colonel
 	6 Tenth Bridge Turret Guard
 	15 Guarded Supply Freighter
@@ -4196,22 +4164,6 @@
 	7 Devra Temple
 	7 Eye of the Dragon
 	4 Sidisi, Scales of Industry
-	6 Player 6 - Energy Reserve
-	6 Player 3 - Energy Reserve
-	6 Player 4 - Energy Reserve
-	6 Player 1 - Energy Reserve
-	6 Player 2 - Energy Reserve
-	6 Player 13 - Energy Reserve
-	6 Player 7 - Energy Reserve
-	6 Player 14 - Energy Reserve
-	6 Player 5 - Energy Reserve
-	6 Player 16 - Energy Reserve
-	6 Player 15 - Energy Reserve
-	6 Player 12 - Energy Reserve
-	6 Player 11 - Energy Reserve
-	6 Player 8 - Energy Reserve
-	6 Player 10 - Energy Reserve
-	6 Player 9 - Energy Reserve
 [landslot(1)]
 	12 Indigo Monmument
 	12 Tranquil Cove

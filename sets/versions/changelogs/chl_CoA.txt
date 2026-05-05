@@ -1,4 +1,56 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+
+
+Sage-Eye Apprentice
+
+Astute Fairground Vendor
+
+Ruthless Ripper
+
+Hordeling Troublemaker
+
+Incensed Druid
+
+Kurna's Consultant
+rules_text: [i]Raid[/i] — When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}. => [i]Raid[/i] — When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}.
+Morph abilities cost you {1} less to activate.
+
+Player 6 - Energy Reserve
+
+Player 3 - Energy Reserve
+
+Player 4 - Energy Reserve
+
+Player 1 - Energy Reserve
+
+Player 2 - Energy Reserve
+
+Player 13 - Energy Reserve
+
+Player 7 - Energy Reserve
+
+Player 14 - Energy Reserve
+
+Player 5 - Energy Reserve
+
+Player 16 - Energy Reserve
+
+Player 15 - Energy Reserve
+
+Player 12 - Energy Reserve
+
+Player 11 - Energy Reserve
+
+Player 8 - Energy Reserve
+
+Player 10 - Energy Reserve
+
+Player 9 - Energy Reserve
+
+
+VERSION 10 CHANGELOG
 ====================
 
 Thousand Winds added.

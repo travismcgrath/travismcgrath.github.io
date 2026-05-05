@@ -1814,7 +1814,7 @@
         {
             "card_name": "Sage-Eye Apprentice",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Creature \u2014 Human Monk",
             "number": 40,
             "color_identity": "W",
@@ -2118,7 +2118,7 @@
         {
             "card_name": "Astute Fairground Vendor",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Creature \u2014 Vedalken Merchant",
             "number": 48,
             "color_identity": "U",
@@ -2251,7 +2251,7 @@
         {
             "card_name": "Ruthless Ripper",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Creature \u2014 Human Assassin",
             "number": 95,
             "color_identity": "B",
@@ -2365,7 +2365,7 @@
         {
             "card_name": "Hordeling Troublemaker",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Creature \u2014 Goblin Rogue",
             "number": 116,
             "color_identity": "R",
@@ -2612,7 +2612,7 @@
         {
             "card_name": "Incensed Druid",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Creature \u2014 Human Monk Beserker",
             "number": 145,
             "color_identity": "G",
@@ -4555,7 +4555,7 @@
             "number": 146,
             "color_identity": "WUG",
             "cost": "{3}{G}",
-            "rules_text": "[i]Raid[/i] \u2014 When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}.",
+            "rules_text": "[i]Raid[/i] \u2014 When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}.\nMorph abilities cost you {1} less to activate.",
             "flavor_text": "[i]\u201cMove fast. Break things. Profit.\u201d \u2014 motto at Kurna Enterprises [/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5552,7 +5552,7 @@
             "loyalty": "",
             "artist": "Amol Hirawadekar",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 3 - Energy Reserve",
@@ -5571,7 +5571,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 4 - Energy Reserve",
@@ -5590,7 +5590,7 @@
             "loyalty": "",
             "artist": "Ashish Boyne",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 1 - Energy Reserve",
@@ -5609,7 +5609,7 @@
             "loyalty": "",
             "artist": "Yuumei Wenqing Yan",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 2 - Energy Reserve",
@@ -5628,7 +5628,7 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 13 - Energy Reserve",
@@ -5647,7 +5647,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 7 - Energy Reserve",
@@ -5666,7 +5666,7 @@
             "loyalty": "",
             "artist": "A. Lundell",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 14 - Energy Reserve",
@@ -5685,7 +5685,7 @@
             "loyalty": "",
             "artist": "Akshaj S Nalavade",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 5 - Energy Reserve",
@@ -5704,7 +5704,7 @@
             "loyalty": "",
             "artist": "Alex Rommel",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 16 - Energy Reserve",
@@ -5723,7 +5723,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 15 - Energy Reserve",
@@ -5742,7 +5742,7 @@
             "loyalty": "",
             "artist": "Yuumei Wenqing Yan",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 12 - Energy Reserve",
@@ -5761,7 +5761,7 @@
             "loyalty": "",
             "artist": "Alex Rommel",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 11 - Energy Reserve",
@@ -5780,7 +5780,7 @@
             "loyalty": "",
             "artist": "Michael Sugianto",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 8 - Energy Reserve",
@@ -5799,7 +5799,7 @@
             "loyalty": "",
             "artist": "Mariusz Gandzel",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 10 - Energy Reserve",
@@ -5818,7 +5818,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         },
         {
             "card_name": "Player 9 - Energy Reserve",
@@ -5837,8 +5837,8 @@
             "loyalty": "",
             "artist": "Alex Rommel",
             "alias": "",
-            "notes": ""
+            "notes": "!tokenshape"
         }
     ],
-    "version": 10
+    "version": 11
 }

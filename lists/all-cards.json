@@ -4263,7 +4263,7 @@
         {
             "card_name": "Sage-Eye Apprentice",
             "color": "W",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Creature \u2013 Human Monk",
             "number": 40,
             "color_identity": "W",
@@ -4583,7 +4583,7 @@
         {
             "card_name": "Astute Fairground Vendor",
             "color": "U",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Creature \u2013 Vedalken Merchant",
             "number": 48,
             "color_identity": "U",
@@ -4723,7 +4723,7 @@
         {
             "card_name": "Ruthless Ripper",
             "color": "B",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Creature \u2013 Human Assassin",
             "number": 95,
             "color_identity": "B",
@@ -4843,7 +4843,7 @@
         {
             "card_name": "Hordeling Troublemaker",
             "color": "R",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Creature \u2013 Goblin Rogue",
             "number": 116,
             "color_identity": "R",
@@ -5103,7 +5103,7 @@
         {
             "card_name": "Incensed Druid",
             "color": "G",
-            "rarity": "uncommon",
+            "rarity": "common",
             "type": "Creature \u2013 Human Monk Beserker",
             "number": 145,
             "color_identity": "G",
@@ -7148,7 +7148,7 @@
             "number": 146,
             "color_identity": "WUG",
             "cost": "{3}{G}",
-            "rules_text": "[i]Raid[/i] \u2013 When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}.",
+            "rules_text": "[i]Raid[/i] \u2013 When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}.\nMorph abilities cost you {1} less to activate.",
             "flavor_text": "[i]\u201cMove fast. Break things. Profit.\u201d \u2014 motto at Kurna Enterprises [/i]",
             "pt": "3/3",
             "special_text": "",
@@ -8197,7 +8197,7 @@
             "loyalty": "",
             "artist": "Amol Hirawadekar",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8217,7 +8217,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8237,7 +8237,7 @@
             "loyalty": "",
             "artist": "Ashish Boyne",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8257,7 +8257,7 @@
             "loyalty": "",
             "artist": "Yuumei Wenqing Yan",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8277,7 +8277,7 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8297,7 +8297,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8317,7 +8317,7 @@
             "loyalty": "",
             "artist": "A. Lundell",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8337,7 +8337,7 @@
             "loyalty": "",
             "artist": "Akshaj S Nalavade",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8357,7 +8357,7 @@
             "loyalty": "",
             "artist": "Alex Rommel",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8377,7 +8377,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8397,7 +8397,7 @@
             "loyalty": "",
             "artist": "Yuumei Wenqing Yan",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8417,7 +8417,7 @@
             "loyalty": "",
             "artist": "Alex Rommel",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8437,7 +8437,7 @@
             "loyalty": "",
             "artist": "Michael Sugianto",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8457,7 +8457,7 @@
             "loyalty": "",
             "artist": "Mariusz Gandzel",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8477,7 +8477,7 @@
             "loyalty": "",
             "artist": "Artem Chebokha",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         },
         {
@@ -8497,7 +8497,7 @@
             "loyalty": "",
             "artist": "Alex Rommel",
             "alias": "",
-            "notes": "",
+            "notes": "!tokenshape",
             "image_type": "png"
         }
     ]
