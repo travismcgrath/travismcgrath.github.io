@@ -1,4 +1,183 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+Desert Rift added.
+Peema Boxer added.
+Kurna Headquarters added.
+Crash Down added.
+
+Obscuring Avalanche removed.
+Savage Punch removed.
+Horizon Canopy removed.
+Player 6 - Energy Reserve removed.
+Player 3 - Energy Reserve removed.
+Player 4 - Energy Reserve removed.
+Player 1 - Energy Reserve removed.
+Player 2 - Energy Reserve removed.
+Player 13 - Energy Reserve removed.
+Player 7 - Energy Reserve removed.
+Player 14 - Energy Reserve removed.
+Player 5 - Energy Reserve removed.
+Player 16 - Energy Reserve removed.
+Player 15 - Energy Reserve removed.
+Player 12 - Energy Reserve removed.
+Player 11 - Energy Reserve removed.
+Player 8 - Energy Reserve removed.
+Player 10 - Energy Reserve removed.
+Player 9 - Energy Reserve removed.
+
+Syndicate Logistician
+rules_text: {2}, Sacrifice an artifact, creature, or land: Syndicate Logistician manufactures 1 and gains indestructible until end of turn. Activate only once each turn. => {2}, Sacrifice another artifact, creature, or land: Syndicate Logistician manufactures 1 and gains indestructible until end of turn. Activate only once each turn.
+
+Sage-Eye Apprentice
+rules_text: Prowess
+Morph—Reveal a white card in your hand. 
+When Sage-Eye Apprentice is turned face up, you gain 2 life. => Lifelink
+Morph—Reveal a white card in your hand. 
+When Sage-Eye Apprentice is turned face up, it gets +1/+1 until end of turn.
+pt: 0/1 => 1/1
+
+Devout Kirin
+rules_text: Flying, prowess => Flying, vigilance, prowess
+
+Astute Fairground Vendor
+rules_text: Morph—Reveal a blue card in your hand. 
+When Astute Fairground Vendor is turned face up, until end of turn, the next face-down creature spell you cast costs you {2} less to cast and the next morph ability you activate costs {2} less to activate. => Hexproof
+Morph—Reveal a blue card in your hand. 
+When Astute Fairground Vendor is turned face up, target creature manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Tenth Bridge Copter
+rules_text: Flying 
+Whenever Tenth Bridge Copter attacks, target creature you control gains flying and you look at up to one target face-down creature an opponent controls.
+Crew 2 => Flying 
+Whenever Tenth Bridge Copter attacks, target creature you control gains flying until end of turn and you look at up to one target face-down creature an opponent controls.
+Crew 2
+
+Gonti's Illicit Ironworks
+rules_text: Whenever you attack with one or more creatures, you get {E}.
+{T}, Pay {E}{E}{E}: Target creature you control manufactures 2. => Whenever you attack with one or more creatures, you get {E}.
+{T}, Pay {E}{E}{E}: Target creature you control manufactures 2. Activate only as a sorcery.
+
+Shambling Aetherborn
+rules_text: When Shambling Aetherborn enters, it manufactures 1.
+Each creature you control with a +1/+1 counter on it has deathtouch. => When Shambling Aetherborn enters, it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+Each creature you control with a +1/+1 counter on it has deathtouch.
+
+Kheru Harvester
+rules_text: Lifelink 
+Whenever Kheru Harvester attacks or blocks, gain {E}{E}.
+Crew 2 => Whenever Kheru Harvester attacks gain {E}{E} and stun target creature.
+Crew 2
+
+Artificer's MIG
+rules_text: Whenever equipped creature attacks, it manufactures 1.
+Equip {2} => Whenever equipped creature attacks, it manufactures 1. [i](Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+Equip {2}
+
+Empower the Masses
+type: Instant => Sorcery
+
+Medatative Inspiration
+type: Sorcery => Instant
+rules_text: Creatures you control get +2/+1 until end of turn. Monks you control gain vigilance until end of turn. => Creatures you control get +2/+1 until end of turn. Untap all Monks you control.
+
+Skypatrol Aetherborn
+rules_text: Flying
+When Skypatrol Aetherborn enters, it manufactures 1. => Flying
+When Skypatrol Aetherborn enters, it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Contrive
+rules_text: Up to one target creature manufactures 1.
+Scry 1. => Up to one target creature manufactures 1. [i](Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+Scry 1.
+
+Aetherborn Incumbent
+rules_text: When Aetherborn Incumbent enters, draw a card.
+{3}{B}: Aetherborn Incumbent manufactures 1. => When Aetherborn Incumbent enters, draw a card.
+{3}{B}: Aetherborn Incumbent manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Exhausting Shift
+rules_text: Target creature gets -12/-12 until end of turn.
+Up to one target creature you control manufactures 1. => Target creature gets -12/-12 until end of turn.
+Up to one target creature you control manufactures 1. [i](Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Worker Strike
+cost: {2}{B}{B} => {1}{B}{B}
+rules_text: Choose one or both —
+• Up to two target creatures get -1/-1 until end of turn.
+• Put a +1/+1 counter on up to two target creatures. => Choose two —
+• Until end of turn, creatures can't manufacture. 
+• Target creature gets -1/-1 counter until end of turn.
+• Put a +1/+1 counter on target non-artifact creature.
+
+Sidisi's Scavenger
+rules_text: Flying
+When Sidisi's Scavenger enters, it manufactures 1. => Flying
+When Sidisi's Scavenger enters, it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Malign Aetherborn
+rules_text: When Malign Aetherborn enters, it manufactures 1.
+{1}{B}: Malign Aetherborn gains menace until end of turn. => When Malign Aetherborn enters, it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+{1}{B}: Malign Aetherborn gains menace until end of turn.
+
+Factory Mazdoor
+rules_text: When Factory Mazdoor enters you get {E}{E}{E}.
+When Factory Mazdoor attacks or blocks you may pay {E}, if you do, it manufactures 1. => When Factory Mazdoor enters you get {E}{E}{E}.
+When Factory Mazdoor attacks or blocks you may pay {E}, if you do, it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Provoked Lightning
+pt: 6/3 => 5/3
+
+Kurna's Consultant
+rules_text: [i]Raid[/i] — When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}.
+Morph abilities cost you {1} less to activate. => [i]Raid[/i] — When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}.
+Morph costs cost you {1} less. [i](This doesn't affect the cost to cast creature spells face down.)[/i]
+
+Ferrophage Spider
+pt: 1/3 => 1/4
+
+Immense Development
+rules_text: Put a +1/+1 counter and a trample counter on target creature. If it's colorless, it gets +2/+2 until end of turn. => Put a +1/+1 counter and it gets trample until end of turn. If it's colorless, it gets +2/+2 until end of turn.
+
+Aether Dart
+rules_text: Aether Dart deals 1 damage to target creature. If this spell was cast from a graveyard, it deals 2 damage instead.
+Flashback—Sacrifice a Mountain. => Aether Dart deals 1 damage to target creature. If this spell was cast from a graveyard, it deals 2 damage instead.
+Flashback—{R}, Sacrifice a Mountain.
+
+Displaced Dreadmaw
+rules_text: Menace
+{B}, Sacrifice a nontoken creature: Target creature gets -1/-1 until end of turn and Displaced Dreadmaw manufactures 1. Activate only as a sorcery. => Menace
+{B}, Sacrifice a nontoken creature: Target creature gets -1/-1 until end of turn and Displaced Dreadmaw manufactures 1. Activate only as a sorcery. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Dusk Factory
+rules_text: {T}, Pay 1 life: Add {U} or {B}.
+{1},{T}, Sacrifice Dusk Factory: Draw a card. => This land enters tapped unless you control an Island or a Mountain 
+{T}: Add {B}.
+{U}{R}, {T}: Put a +1/+1 counter on target creature you control.
+
+Hall of The Assembly
+rules_text: {T}, Pay 1 life: Add {W} or {U}.
+{1},{T}, Sacrifice Hall of The Assembly: Draw a card. => This land enters tapped unless you control a Plains or a Swamp.
+{T}: Add {U}.
+{W}{B}, {T}: Servos and Thopters you control get +1/+1 until end of turn.
+
+Salt Road Shelter
+rules_text: {T}, Pay 1 life: Add {B} or {R}.
+{1},{T}, Sacrifice Salt Road Shelter: Draw a card. => This land enters tapped unless you control a Forest or a Swamp.
+{T}: Add {R}.
+{B}{G}, {T}: Aetherborn and Vehicle creatures you control get +1/+1 until end of turn.
+
+Devra Temple
+rules_text: {T}, Pay 1 life: Add {R} or {G}.
+{1},{T}, Sacrifice Devra Temple: Draw a card. => This land enters tapped unless you control a Forest or a Mountain
+{T}: Add {W}.
+{R}{G}, {T}: Humans and Monks you control get +1/+1 until end of turn.
+
+Chief of the Hammer
+rules_text: [i]Raid[/i] - If you've attacked this turn, other creatures under your control that are one or more colors enter with an additional +1/+1 counter on them. => Creatures you control that are one or more colors get +1/+0.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 

@@ -9,6 +9,11 @@
             "set_code": "CoA",
             "set_name": "Change on Avishkar",
             "formats": ""
+        },
+        {
+            "set_code": "FOOD",
+            "set_name": "Food Fight",
+            "formats": ""
         }
     ]
 }
