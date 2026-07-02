@@ -31,7 +31,7 @@ Changes of Avishkar comes with three new keywords:
 
 <img alt="{G}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/88/G.svg/" width="15" height="15" style="display:inline;">
 <img alt="{W}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/8e/W.svg/" width="15" height="15" style="display:inline;">
-<img alt="{U}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9f/U.svg/" width="15" height="15" style="display:inline;"> **Morph Mid-range.** Lead by an unnamed Naga, this faction represents the financieers and rich elites who profit from anonymity, hidden information, and controlling politics.
+<img alt="{U}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9f/U.svg/" width="15" height="15" style="display:inline;"> **Maufacture +1/+1 Counters.** Lead by Kurna Majan, this faction represents the financieers and corporations who grow huge, literally, from the industrial political system.
 
 <img alt="{W}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/8e/W.svg/" width="15" height="15" style="display:inline;">
 <img alt="{U}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9f/U.svg/" width="15" height="15" style="display:inline;">
@@ -39,7 +39,7 @@ Changes of Avishkar comes with three new keywords:
 
 <img alt="{U}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/9/9f/U.svg/" width="15" height="15" style="display:inline;">
 <img alt="{B}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/2/2f/B.svg/" width="15" height="15" style="display:inline;">
-<img alt="{R}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/87/R.svg/" width="15" height="15" style="display:inline;"> **Energy Control.** Lead by Rakshasa itself, this faction represents the barons of industry. Willing to destroy land and laborers for the resources they can reap from them to fuel their factories.
+<img alt="{R}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/87/R.svg/" width="15" height="15" style="display:inline;"> **Energy Control.** Lead by Sidisi, this faction represents the barons of industry. Willing to destroy land and laborers for the resources they can reap from them to fuel their factories.
 
 <img alt="{B}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/2/2f/B.svg/" width="15" height="15" style="display:inline;">
 <img alt="{R}" src="https://static.wikia.nocookie.net/mtgsalvation_gamepedia/images/8/87/R.svg/" width="15" height="15" style="display:inline;">
