@@ -1,4 +1,16 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+
+99 - Utter Silence removed.
+
+Filigreed Skywhale
+rules_text: Flying
+When Filigreed Skywhale enters, stun up to one target creature and it manufactures 1. => Flying
+When Filigreed Skywhale enters, it manufactures 1, then stun up to one target creature.
+
+
+VERSION 13 CHANGELOG
 ====================
 
 Sai's Patronage added.

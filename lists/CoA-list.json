@@ -1029,232 +1029,213 @@
     "a->gold",
     {
         "card_name": "Torrential Ice Wave",
-        "number": 204,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Noxious Duststorm",
-        "number": 188,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Combustible Lightning",
-        "number": 164,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Verdurous Wildfire",
-        "number": 207,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Cataclysmic Earthquake",
-        "number": 159,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "99 - Utter Silence",
-        "number": 146,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Bear Market",
-        "number": 155,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Empty The Vault",
-        "number": 170,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Birth of Rebellion",
-        "number": 156,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Chianul's Guidance",
-        "number": 160,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Bull Market",
-        "number": 158,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Self-regulated Saftey",
-        "number": 198,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Impulsive Fracking",
-        "number": 177,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Yasova, Firebrand Zealot",
-        "number": 210,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Oviya Pashiri, Onlooking Spiritcrafter",
-        "number": 189,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Sai's Patronage",
-        "number": 195,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Contraband Kingpin",
-        "number": 165,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Ashcloud Dragster",
-        "number": 151,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Chief of the Hammer",
-        "number": 161,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Highspire Adept",
-        "number": 173,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Assembly's Gryphoner",
-        "number": 153,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Icefeather Carrion",
-        "number": 175,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Baral, Renegade Brawler",
-        "number": 154,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Guarded Supply Freighter",
-        "number": 172,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Inventor's Mantle",
-        "number": 179,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Chief of the Nail",
-        "number": 162,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Kheru Harvester",
-        "number": 180,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Unlicensed Syphoning",
-        "number": 205,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Smash Up",
-        "number": 200,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Salt Road Tank",
-        "number": 196,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Tenth Bridge Copter",
         "number": 203,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Noxious Duststorm",
+        "number": 187,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Combustible Lightning",
+        "number": 163,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Verdurous Wildfire",
+        "number": 206,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "Cataclysmic Earthquake",
+        "number": 158,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Bull Market",
+        "number": 157,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Bear Market",
+        "number": 154,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Empty The Vault",
+        "number": 169,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Birth of Rebellion",
+        "number": 155,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Chianul's Guidance",
+        "number": 159,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Sai's Patronage",
+        "number": 194,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Self-regulated Saftey",
+        "number": 197,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Impulsive Fracking",
+        "number": 176,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Yasova, Firebrand Zealot",
+        "number": 209,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Oviya Pashiri, Onlooking Spiritcrafter",
+        "number": 188,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Assembly's Gryphoner",
+        "number": 152,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Contraband Kingpin",
+        "number": 164,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Ashcloud Dragster",
+        "number": 150,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Chief of the Hammer",
+        "number": 160,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Highspire Adept",
+        "number": 172,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Chief of the Nail",
+        "number": 161,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Icefeather Carrion",
+        "number": 174,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Baral, Renegade Brawler",
+        "number": 153,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Guarded Supply Freighter",
+        "number": 171,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Inventor's Mantle",
+        "number": 178,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Tenth Bridge Copter",
+        "number": 202,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Kheru Harvester",
+        "number": 179,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Unlicensed Syphoning",
+        "number": 204,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Smash Up",
+        "number": 199,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Salt Road Tank",
+        "number": 195,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -1273,245 +1254,245 @@
     },
     {
         "card_name": "Dovin Baan, Persistent Ruler",
-        "number": 166,
+        "number": 165,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Sidisi, Scales of Industry",
-        "number": 199,
+        "number": 198,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Zurgo, Anarchist Leader",
-        "number": 211,
+        "number": 210,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Narset, Panharmonastic Sage",
-        "number": 186,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Kurna Majan, Luminary Financier",
-        "number": 182,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Anafenza, Generous Ancestor",
-        "number": 149,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Adi Thandray, Platinum Ancestor",
-        "number": 147,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Ancestor, Who Smirks at Law",
-        "number": 150,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Dragonfist Technique",
-        "number": 167,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Dustblast",
-        "number": 168,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Assemblyman of Preservation",
-        "number": 152,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Sagu Deforester",
-        "number": 194,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Booming Karma",
-        "number": 157,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Houn, Beguiling Ancestor",
-        "number": 174,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Dynastic Inheritance",
-        "number": 169,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Supplant Worker",
-        "number": 201,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Savage Union Busters",
-        "number": 197,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Kneecap Blaster",
-        "number": 181,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Sage of the Vitalfire",
-        "number": 193,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Surrak, Pelt-Clad Ancestor",
-        "number": 202,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Political Charm",
-        "number": 191,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Aetherborn Dreamwalker",
-        "number": 148,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Nihilist Roughrider",
-        "number": 187,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Monastic Charm",
-        "number": 184,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Citizen's Companion",
-        "number": 163,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Whisper Virtuoso",
-        "number": 209,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Labor Charm",
-        "number": 183,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Rebelious Charm",
-        "number": 192,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Warden of the Scrolls",
-        "number": 208,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Finance Charm",
-        "number": 171,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Inspector Brigade",
-        "number": 178,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Vedalken Aetherlooter",
-        "number": 206,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Peema Woods Champions",
-        "number": 190,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Mystic of The Way",
         "number": 185,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
+        "card_name": "Kurna Majan, Luminary Financier",
+        "number": 181,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Anafenza, Generous Ancestor",
+        "number": 148,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Adi Thandray, Platinum Ancestor",
+        "number": 146,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Ancestor, Who Smirks at Law",
+        "number": 149,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Dragonfist Technique",
+        "number": 166,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Dustblast",
+        "number": 167,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Assemblyman of Preservation",
+        "number": 151,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Sagu Deforester",
+        "number": 193,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Booming Karma",
+        "number": 156,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Houn, Beguiling Ancestor",
+        "number": 173,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Dynastic Inheritance",
+        "number": 168,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Supplant Worker",
+        "number": 200,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Savage Union Busters",
+        "number": 196,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Kneecap Blaster",
+        "number": 180,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Sage of the Vitalfire",
+        "number": 192,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Surrak, Pelt-Clad Ancestor",
+        "number": 201,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Political Charm",
+        "number": 190,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Aetherborn Dreamwalker",
+        "number": 147,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Nihilist Roughrider",
+        "number": 186,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Monastic Charm",
+        "number": 183,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Citizen's Companion",
+        "number": 162,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Whisper Virtuoso",
+        "number": 208,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Labor Charm",
+        "number": 182,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Rebelious Charm",
+        "number": 191,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Warden of the Scrolls",
+        "number": 207,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Finance Charm",
+        "number": 170,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Inspector Brigade",
+        "number": 177,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Vedalken Aetherlooter",
+        "number": 205,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Peema Woods Champions",
+        "number": 189,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Mystic of The Way",
+        "number": 184,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
         "card_name": "Illusion of Luxury",
-        "number": 176,
+        "number": 175,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1531,252 +1512,252 @@
     "a->colorless",
     {
         "card_name": "Altar of the Brood",
-        "number": 213,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Cultivator's Caravan",
-        "number": 217,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Exploration Module",
-        "number": 219,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Fleetwheel Cruiser",
-        "number": 223,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Ghostfire Blade",
-        "number": 226,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Metallic Mimic",
-        "number": 234,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Skysovereign, Grounded Flagship",
-        "number": 242,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Smuggler's ATV",
-        "number": 243,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Bomat Bazaar Barge",
-        "number": 215,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Execution Module",
-        "number": 218,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Extraction Module",
-        "number": 220,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Factory BannerKnot",
-        "number": 221,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Improvised Weather Machine",
-        "number": 227,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Lawful BannerKnot",
-        "number": 229,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Lawless BannerKnot",
-        "number": 230,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Lobbiers's Purse",
-        "number": 232,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Market BannerKnot",
-        "number": 233,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Monastery BannerKnot",
-        "number": 235,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Ovalchase Dragster",
-        "number": 236,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Owl-Strix Archers",
-        "number": 237,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Adara Cable Car",
         "number": 212,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
-        "card_name": "Artificer's MIG",
-        "number": 214,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Brass Winged Vulture",
+        "card_name": "Cultivator's Caravan",
         "number": 216,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
-        "card_name": "Filigree Familiar",
+        "card_name": "Exploration Module",
+        "number": 218,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Fleetwheel Cruiser",
         "number": 222,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
-        "card_name": "Foundry Auditor",
-        "number": 224,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Ghirapur's Golden Parapets",
+        "card_name": "Ghostfire Blade",
         "number": 225,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
-        "card_name": "Lathnu Funicular",
-        "number": 228,
+        "card_name": "Metallic Mimic",
+        "number": 233,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
-        "card_name": "Lead Toothed Hyenas",
-        "number": 231,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Prophetic Prism",
-        "number": 238,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Scouting Servo",
-        "number": 239,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Self-Assembler",
-        "number": 240,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Silver Tusked Walrus",
+        "card_name": "Skysovereign, Grounded Flagship",
         "number": 241,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
+        "card_name": "Smuggler's ATV",
+        "number": 242,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Bomat Bazaar Barge",
+        "number": 214,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Execution Module",
+        "number": 217,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Extraction Module",
+        "number": 219,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Factory BannerKnot",
+        "number": 220,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Improvised Weather Machine",
+        "number": 226,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Lawful BannerKnot",
+        "number": 228,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Lawless BannerKnot",
+        "number": 229,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Lobbiers's Purse",
+        "number": 231,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Market BannerKnot",
+        "number": 232,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Monastery BannerKnot",
+        "number": 234,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Ovalchase Dragster",
+        "number": 235,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Owl-Strix Archers",
+        "number": 236,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Adara Cable Car",
+        "number": 211,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Artificer's MIG",
+        "number": 213,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Brass Winged Vulture",
+        "number": 215,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Filigree Familiar",
+        "number": 221,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Foundry Auditor",
+        "number": 223,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Ghirapur's Golden Parapets",
+        "number": 224,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Lathnu Funicular",
+        "number": 227,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Lead Toothed Hyenas",
+        "number": 230,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Prophetic Prism",
+        "number": 237,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Scouting Servo",
+        "number": 238,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Self-Assembler",
+        "number": 239,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Silver Tusked Walrus",
+        "number": 240,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
         "card_name": "Snare Thopter",
-        "number": 244,
+        "number": 243,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Steel Horned Ibex",
-        "number": 245,
+        "number": 244,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Wrought Iron Rhino",
-        "number": 246,
+        "number": 245,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Feedback",
-        "number": 280,
+        "number": 274,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1810,35 +1791,35 @@
     },
     {
         "card_name": "Tranquil Cove",
-        "number": 273,
+        "number": 272,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Dismal Backwater",
-        "number": 266,
+        "number": 265,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Bloodfell Caves",
-        "number": 264,
+        "number": 263,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Rugged Highlands",
-        "number": 269,
+        "number": 268,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Blossoming Sands",
-        "number": 265,
+        "number": 264,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1860,35 +1841,35 @@
     },
     {
         "card_name": "Scoured Barrens",
-        "number": 270,
+        "number": 269,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Swiftwater Cliffs",
-        "number": 271,
+        "number": 270,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Jungle Hollow",
-        "number": 268,
+        "number": 267,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Wind-Scarred Crag",
-        "number": 274,
+        "number": 273,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Thornwood Falls",
-        "number": 272,
+        "number": 271,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -1910,126 +1891,126 @@
     },
     {
         "card_name": "Desert Rift",
-        "number": 251,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Devra Temple",
-        "number": 252,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Dusk Factory",
-        "number": 253,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Hall of The Assembly",
-        "number": 254,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Kurna Headquarters",
-        "number": 256,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Salt Road Shelter",
-        "number": 257,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Waste Land",
-        "number": 261,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Aether Hub",
-        "number": 247,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Arcane Sanctum",
-        "number": 248,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Corrupted Workshop",
-        "number": 249,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Crumbling Necropolis",
         "number": 250,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
-        "card_name": "Jungle Shrine",
+        "card_name": "Devra Temple",
+        "number": 251,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Dusk Factory",
+        "number": 252,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Hall of The Assembly",
+        "number": 253,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Kurna Headquarters",
         "number": 255,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
-        "card_name": "Savage Lands",
-        "number": 258,
+        "card_name": "Salt Road Shelter",
+        "number": 256,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
-        "card_name": "Seaside Citadel",
-        "number": 259,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Sunset Smoglands",
+        "card_name": "Waste Land",
         "number": 260,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
+        "card_name": "Aether Hub",
+        "number": 246,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Arcane Sanctum",
+        "number": 247,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Corrupted Workshop",
+        "number": 248,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Crumbling Necropolis",
+        "number": 249,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Jungle Shrine",
+        "number": 254,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Savage Lands",
+        "number": 257,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Seaside Citadel",
+        "number": 258,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
+        "card_name": "Sunset Smoglands",
+        "number": 259,
+        "shape": "normal",
+        "set": "CoA",
+        "position": ""
+    },
+    {
         "card_name": "Zurgo's Encampment",
-        "number": 262,
+        "number": 261,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Aradara Station",
-        "number": 263,
+        "number": 262,
         "shape": "normal",
         "set": "CoA",
         "position": ""
     },
     {
         "card_name": "Indigo Monmument",
-        "number": 267,
+        "number": 266,
         "shape": "normal",
         "set": "CoA",
         "position": ""
@@ -2039,56 +2020,6 @@
     },
     {
         "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "Plains",
-        "number": 275,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Mountain",
-        "number": 278,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Forest",
-        "number": 279,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Swamp",
-        "number": 277,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
-    },
-    {
-        "card_name": "Island",
-        "number": 276,
-        "shape": "normal",
-        "set": "CoA",
-        "position": ""
     },
     {
         "card_name": "er"
