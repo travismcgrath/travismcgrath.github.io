@@ -27,10 +27,10 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Human Monk",
-			"collector_number": "189",
+			"collector_number": "186",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/189_Narset, Panharmonastic Sage.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/186_Narset, Panharmonastic Sage.png"
 			}
 		},
 		{
@@ -49,10 +49,10 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}{U}",
 			"type": "Legendary Creature — Human Merchant",
-			"collector_number": "184",
+			"collector_number": "182",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/184_Kurna Majan, Luminary Financier.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/182_Kurna Majan, Luminary Financier.png"
 			}
 		},
 		{
@@ -60,10 +60,10 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "261",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/260_Waste Land.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/261_Waste Land.png"
 			}
 		},
 		{
@@ -82,10 +82,10 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Artifact Creature — Elemental Servo",
-			"collector_number": "191",
+			"collector_number": "188",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/191_Noxious Duststorm.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/188_Noxious Duststorm.png"
 			}
 		},
 		{
@@ -93,10 +93,10 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Artifact Creature — Elemental Servo",
-			"collector_number": "205",
+			"collector_number": "204",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/205_Torrential Ice Wave.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/204_Torrential Ice Wave.png"
 			}
 		},
 		{
@@ -104,10 +104,10 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Artifact Creature — Elemental Servo",
-			"collector_number": "208",
+			"collector_number": "207",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/208_Verdurous Wildfire.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/207_Verdurous Wildfire.png"
 			}
 		},
 		{
@@ -170,10 +170,10 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Cat",
-			"collector_number": "132",
+			"collector_number": "133",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/132_Longtusk Pride.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/133_Longtusk Pride.png"
 			}
 		},
 		{
@@ -191,7 +191,7 @@
 			"name": "Anafenza, Generous Ancestor",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{B}",
-			"type": "Legendary Creature — Spirit Noble",
+			"type": "Legendary Creature — Angel Nobel",
 			"collector_number": "149",
 			"rating": 4,
 			"image_uris": {
@@ -203,10 +203,10 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}{U}",
 			"type": "Legendary Creature — Bear Spirit",
-			"collector_number": "203",
+			"collector_number": "202",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/203_Surrak, Pelt-Clad Ancestor.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/202_Surrak, Pelt-Clad Ancestor.png"
 			}
 		},
 		{
@@ -214,10 +214,10 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}{W}",
 			"type": "Legendary Creature — Spirit Monk",
-			"collector_number": "177",
+			"collector_number": "174",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/177_Houn, Beguiling Ancestor.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/174_Houn, Beguiling Ancestor.png"
 			}
 		},
 		{
@@ -234,7 +234,7 @@
 		{
 			"name": "Dustblast",
 			"rarity": "rare",
-			"mana_cost": "{2}{G}{W}{U}",
+			"mana_cost": "{3}{G}{W}{U}",
 			"type": "Sorcery",
 			"collector_number": "168",
 			"rating": 4,
@@ -256,12 +256,12 @@
 		{
 			"name": "Supplant Worker",
 			"rarity": "rare",
-			"mana_cost": "{U}{B}{R}",
+			"mana_cost": "{W}{U}{B}",
 			"type": "Instant",
-			"collector_number": "202",
+			"collector_number": "201",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/202_Supplant Worker.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/201_Supplant Worker.png"
 			}
 		},
 		{
@@ -289,12 +289,12 @@
 		{
 			"name": "Sagu Deforester",
 			"rarity": "rare",
-			"mana_cost": "{4}{W}{U}{B}",
+			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Artifact Creature — Beast Golem",
-			"collector_number": "196",
+			"collector_number": "194",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/196_Sagu Deforester.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/194_Sagu Deforester.png"
 			}
 		},
 		{
@@ -302,10 +302,10 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Creature — Goblin Beserker",
-			"collector_number": "183",
+			"collector_number": "181",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/183_Kneecap Blaster.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/181_Kneecap Blaster.png"
 			}
 		},
 		{
@@ -324,10 +324,10 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Creature — Djinn Wizard",
-			"collector_number": "195",
+			"collector_number": "193",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/195_Sage of the Vitalfire.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/193_Sage of the Vitalfire.png"
 			}
 		},
 		{
@@ -335,21 +335,21 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Creature — Ogre Mercenary",
-			"collector_number": "198",
+			"collector_number": "197",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/198_Savage Union Busters.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/197_Savage Union Busters.png"
 			}
 		},
 		{
-			"name": "Gonti's Patronage",
+			"name": "Sai's Patronage",
 			"rarity": "rare",
-			"mana_cost": "{2}{U}{B}",
+			"mana_cost": "{2}{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "174",
+			"collector_number": "195",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/174_Gonti's Patronage.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/195_Sai's Patronage.png"
 			}
 		},
 		{
@@ -357,10 +357,10 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Instant",
-			"collector_number": "180",
+			"collector_number": "177",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/180_Impulsive Fracking.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/177_Impulsive Fracking.png"
 			}
 		},
 		{
@@ -386,14 +386,14 @@
 			}
 		},
 		{
-			"name": "Utter Silence",
+			"name": "99 - Utter Silence",
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{U}",
 			"type": "Instant",
-			"collector_number": "207",
+			"collector_number": "146",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/207_Utter Silence.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/146_99 - Utter Silence.png"
 			}
 		},
 		{
@@ -441,14 +441,14 @@
 			}
 		},
 		{
-			"name": "Trail of Mystery",
+			"name": "Liberated Dreadnought",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Enchantment",
-			"collector_number": "145",
+			"mana_cost": "{G}",
+			"type": "Artifact — Vehicle",
+			"collector_number": "132",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/145_Trail of Mystery.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/132_Liberated Dreadnought.png"
 			}
 		},
 		{
@@ -540,14 +540,14 @@
 			}
 		},
 		{
-			"name": "Bloodfire Master",
+			"name": "Gremlin Anarchist",
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{R}",
-			"type": "Creature — Spirit Monk",
-			"collector_number": "92",
+			"type": "Creature — Giant Gremlin",
+			"collector_number": "98",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/92_Bloodfire Master.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/98_Gremlin Anarchist.png"
 			}
 		},
 		{
@@ -643,10 +643,10 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "241",
+			"collector_number": "242",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/241_Skysovereign, Grounded Flagship.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/242_Skysovereign, Grounded Flagship.png"
 			}
 		},
 		{
@@ -654,10 +654,10 @@
 			"rarity": "rare",
 			"mana_cost": "{2}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "242",
+			"collector_number": "243",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/242_Smuggler's ATV.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/243_Smuggler's ATV.png"
 			}
 		},
 		{
@@ -720,10 +720,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "248",
+			"collector_number": "249",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/248_Corrupted Workshop.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/249_Corrupted Workshop.png"
 			}
 		},
 		{
@@ -731,10 +731,10 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Legendary Land — Desert",
-			"collector_number": "250",
+			"collector_number": "251",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/250_Desert Rift.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/251_Desert Rift.png"
 			}
 		},
 		{
@@ -742,10 +742,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "258",
+			"collector_number": "259",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/258_Seaside Citadel.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/259_Seaside Citadel.png"
 			}
 		},
 		{
@@ -753,10 +753,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "247",
+			"collector_number": "248",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/247_Arcane Sanctum.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/248_Arcane Sanctum.png"
 			}
 		},
 		{
@@ -764,10 +764,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "249",
+			"collector_number": "250",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/249_Crumbling Necropolis.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/250_Crumbling Necropolis.png"
 			}
 		},
 		{
@@ -775,10 +775,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "258",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/257_Savage Lands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/258_Savage Lands.png"
 			}
 		},
 		{
@@ -786,10 +786,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "255",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/254_Jungle Shrine.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/255_Jungle Shrine.png"
 			}
 		},
 		{
@@ -797,10 +797,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "246",
+			"collector_number": "247",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/246_Aether Hub.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/247_Aether Hub.png"
 			}
 		},
 		{
@@ -808,10 +808,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "262",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/261_Zurgo's Encampment.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/262_Zurgo's Encampment.png"
 			}
 		},
 		{
@@ -819,27 +819,27 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Artifact Land",
-			"collector_number": "266",
+			"collector_number": "267",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/266_Indigo Monmument.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/267_Indigo Monmument.png"
 			}
 		},
 		{
-			"name": "Manufacturing Virtuoso",
-			"rarity": "uncommon",
+			"name": "Vedalken Aetherlooter",
+			"rarity": "common",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Creature — Vedalken Artificer",
-			"collector_number": "186",
-			"rating": 3,
+			"collector_number": "206",
+			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/186_Manufacturing Virtuoso.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/206_Vedalken Aetherlooter.png"
 			}
 		},
 		{
 			"name": "Citizen's Companion",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{U}{B}",
+			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Artifact Creature — Servo Advisor",
 			"collector_number": "163",
 			"rating": 3,
@@ -848,25 +848,25 @@
 			}
 		},
 		{
-			"name": "Financial Soothsayer",
+			"name": "Whisper Virtuoso",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{W}{U}",
+			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Creature — Snake Noble",
-			"collector_number": "173",
+			"collector_number": "209",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/173_Financial Soothsayer.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/209_Whisper Virtuoso.png"
 			}
 		},
 		{
 			"name": "Warden of the Scrolls",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}{W}",
-			"type": "Creature — Djinn Wizard",
-			"collector_number": "209",
+			"type": "Creature — Djinn Monk",
+			"collector_number": "208",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/209_Warden of the Scrolls.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/208_Warden of the Scrolls.png"
 			}
 		},
 		{
@@ -874,10 +874,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Creature — Orc Beserker",
-			"collector_number": "190",
+			"collector_number": "187",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/190_Nihilist Roughrider.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/187_Nihilist Roughrider.png"
 			}
 		},
 		{
@@ -885,43 +885,43 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Instant",
-			"collector_number": "206",
+			"collector_number": "205",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/206_Unlicensed Syphoning.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/205_Unlicensed Syphoning.png"
 			}
 		},
 		{
-			"name": "Bear Market",
+			"name": "Bull Market",
 			"rarity": "rare",
-			"mana_cost": "{W}{U}",
+			"mana_cost": "{1}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "155",
+			"collector_number": "158",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/155_Bear Market.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/158_Bull Market.png"
 			}
 		},
 		{
-			"name": "Self-regulated Saftey",
+			"name": "Icefeather Carrion",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{B}",
-			"type": "Sorcery",
-			"collector_number": "199",
+			"mana_cost": "{U}{B}",
+			"type": "Creature — Bird Zombie Shaman",
+			"collector_number": "175",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/199_Self-regulated Saftey.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/175_Icefeather Carrion.png"
 			}
 		},
 		{
-			"name": "Engineer's Prowess",
+			"name": "Inventor's Mantle",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{W}",
-			"type": "Sorcery",
-			"collector_number": "171",
+			"mana_cost": "{G}{W}",
+			"type": "Instant",
+			"collector_number": "179",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/171_Engineer's Prowess.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/179_Inventor's Mantle.png"
 			}
 		},
 		{
@@ -929,10 +929,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}",
 			"type": "Instant",
-			"collector_number": "201",
+			"collector_number": "200",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/201_Smash Up.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/200_Smash Up.png"
 			}
 		},
 		{
@@ -947,25 +947,14 @@
 			}
 		},
 		{
-			"name": "Icefeather Exporter",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{U}",
-			"type": "Creature — Bird Merchant",
-			"collector_number": "178",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/178_Icefeather Exporter.png"
-			}
-		},
-		{
 			"name": "Highspire Adept",
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Insect Monk",
-			"collector_number": "176",
+			"collector_number": "173",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/176_Highspire Adept.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/173_Highspire Adept.png"
 			}
 		},
 		{
@@ -984,21 +973,21 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}{R}",
 			"type": "Instant",
-			"collector_number": "185",
+			"collector_number": "183",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/185_Labor Charm.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/183_Labor Charm.png"
 			}
 		},
 		{
-			"name": "Assembly's Charm",
+			"name": "Political Charm",
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}",
 			"type": "Instant",
-			"collector_number": "153",
+			"collector_number": "191",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/153_Assembly's Charm.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/191_Political Charm.png"
 			}
 		},
 		{
@@ -1006,10 +995,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Instant",
-			"collector_number": "172",
+			"collector_number": "171",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/172_Finance Charm.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/171_Finance Charm.png"
 			}
 		},
 		{
@@ -1017,10 +1006,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{G}{W}",
 			"type": "Instant",
-			"collector_number": "187",
+			"collector_number": "184",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/187_Monastic Charm.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/184_Monastic Charm.png"
 			}
 		},
 		{
@@ -1028,10 +1017,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}{G}",
 			"type": "Instant",
-			"collector_number": "194",
+			"collector_number": "192",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/194_Rebelious Charm.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/192_Rebelious Charm.png"
 			}
 		},
 		{
@@ -1048,7 +1037,7 @@
 		{
 			"name": "Entrant of the Way",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
+			"mana_cost": "{2}{W}",
 			"type": "Creature — Human Monk",
 			"collector_number": "12",
 			"rating": 3,
@@ -1090,17 +1079,6 @@
 			}
 		},
 		{
-			"name": "Army for Hire",
-			"rarity": "uncommon",
-			"mana_cost": "{5}{W}",
-			"type": "Sorcery",
-			"collector_number": "4",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/4_Army for Hire.png"
-			}
-		},
-		{
 			"name": "Ghostfire's Light",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
@@ -1116,10 +1094,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "138",
+			"collector_number": "139",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/138_Resistance Factor.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/139_Resistance Factor.png"
 			}
 		},
 		{
@@ -1138,10 +1116,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "197",
+			"collector_number": "196",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/197_Salt Road Tank.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/196_Salt Road Tank.png"
 			}
 		},
 		{
@@ -1248,10 +1226,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "204",
+			"collector_number": "203",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/204_Tenth Bridge Copter.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/203_Tenth Bridge Copter.png"
 			}
 		},
 		{
@@ -1345,12 +1323,12 @@
 		{
 			"name": "Kheru Harvester",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
+			"mana_cost": "{1}{U}{B}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "182",
+			"collector_number": "180",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/182_Kheru Harvester.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/180_Kheru Harvester.png"
 			}
 		},
 		{
@@ -1391,16 +1369,16 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Djinn Monk",
-			"collector_number": "93",
+			"collector_number": "92",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/93_Bloodfire Sage.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/92_Bloodfire Sage.png"
 			}
 		},
 		{
 			"name": "Ashcloud Dragster",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{B}",
+			"mana_cost": "{1}{B}{R}",
 			"type": "Artifact — Vehicle",
 			"collector_number": "151",
 			"rating": 3,
@@ -1424,10 +1402,10 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Human Rogue",
-			"collector_number": "97",
+			"collector_number": "96",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/97_Fairgrounds Acrobat.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/96_Fairgrounds Acrobat.png"
 			}
 		},
 		{
@@ -1464,25 +1442,14 @@
 			}
 		},
 		{
-			"name": "Return from the Horizon",
+			"name": "Guardian of the Cowl's",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Sorcery",
-			"collector_number": "139",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Elf Elemental",
+			"collector_number": "126",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/139_Return from the Horizon.png"
-			}
-		},
-		{
-			"name": "Nature's Way",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "134",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/134_Nature's Way.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/126_Guardian of the Cowl's.png"
 			}
 		},
 		{
@@ -1512,10 +1479,10 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "146",
+			"collector_number": "145",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/146_Tuskguard Colonel.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/145_Tuskguard Colonel.png"
 			}
 		},
 		{
@@ -1534,10 +1501,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Artifact — Vehicle",
-			"collector_number": "175",
+			"collector_number": "172",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/175_Guarded Supply Freighter.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/172_Guarded Supply Freighter.png"
 			}
 		},
 		{
@@ -1630,11 +1597,11 @@
 		},
 		{
 			"name": "Ghirapur's Golden Parapets",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Wall",
 			"collector_number": "225",
-			"rating": 3,
+			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/225_Ghirapur's Golden Parapets.png"
 			}
@@ -1644,10 +1611,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}",
 			"type": "Artifact",
-			"collector_number": "133",
+			"collector_number": "134",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/133_Loxodon Memorial.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/134_Loxodon Memorial.png"
 			}
 		},
 		{
@@ -1666,10 +1633,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "272",
+			"collector_number": "273",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/272_Tranquil Cove.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/273_Tranquil Cove.png"
 			}
 		},
 		{
@@ -1677,10 +1644,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "266",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/265_Dismal Backwater.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/266_Dismal Backwater.png"
 			}
 		},
 		{
@@ -1688,10 +1655,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "264",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/263_Bloodfell Caves.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/264_Bloodfell Caves.png"
 			}
 		},
 		{
@@ -1699,10 +1666,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "268",
+			"collector_number": "269",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/268_Rugged Highlands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/269_Rugged Highlands.png"
 			}
 		},
 		{
@@ -1710,10 +1677,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "264",
+			"collector_number": "265",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/264_Blossoming Sands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/265_Blossoming Sands.png"
 			}
 		},
 		{
@@ -1721,10 +1688,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "269",
+			"collector_number": "270",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/269_Scoured Barrens.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/270_Scoured Barrens.png"
 			}
 		},
 		{
@@ -1732,10 +1699,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "270",
+			"collector_number": "271",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/270_Swiftwater Cliffs.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/271_Swiftwater Cliffs.png"
 			}
 		},
 		{
@@ -1743,10 +1710,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "267",
+			"collector_number": "268",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/267_Jungle Hollow.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/268_Jungle Hollow.png"
 			}
 		},
 		{
@@ -1754,10 +1721,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "273",
+			"collector_number": "274",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/273_Wind-Scarred Crag.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/274_Wind-Scarred Crag.png"
 			}
 		},
 		{
@@ -1765,10 +1732,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "271",
+			"collector_number": "272",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/271_Thornwood Falls.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/272_Thornwood Falls.png"
 			}
 		},
 		{
@@ -1831,19 +1798,19 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "263",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/262_Aradara Station.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/263_Aradara Station.png"
 			}
 		},
 		{
 			"name": "Aetherborn Dreamwalker",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}{R}",
 			"type": "Creature — Aetherborn Nightmare",
 			"collector_number": "148",
-			"rating": 2,
+			"rating": 3,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/148_Aetherborn Dreamwalker.png"
 			}
@@ -1853,10 +1820,10 @@
 			"rarity": "common",
 			"mana_cost": "{2}{W}{U}{B}",
 			"type": "Creature — Vedalken Artificer",
-			"collector_number": "181",
+			"collector_number": "178",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/181_Inspector Brigade.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/178_Inspector Brigade.png"
 			}
 		},
 		{
@@ -1864,10 +1831,10 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Creature — Naga Illusion",
-			"collector_number": "179",
+			"collector_number": "176",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/179_Illusion of Luxury.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/176_Illusion of Luxury.png"
 			}
 		},
 		{
@@ -1875,21 +1842,21 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Creature — Human Monk",
-			"collector_number": "188",
+			"collector_number": "185",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/188_Mystic of The Way.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/185_Mystic of The Way.png"
 			}
 		},
 		{
-			"name": "Peema Woods Defenders",
+			"name": "Peema Woods Champions",
 			"rarity": "common",
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Creature — Ape Warrior",
-			"collector_number": "193",
+			"collector_number": "190",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/193_Peema Woods Defenders.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/190_Peema Woods Champions.png"
 			}
 		},
 		{
@@ -1963,10 +1930,10 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Goat",
-			"collector_number": "244",
+			"collector_number": "245",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/244_Steel Horned Ibex.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/245_Steel Horned Ibex.png"
 			}
 		},
 		{
@@ -1974,10 +1941,10 @@
 			"rarity": "common",
 			"mana_cost": "{1}",
 			"type": "Artifact Creature — Walrus",
-			"collector_number": "240",
+			"collector_number": "241",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/240_Silver Tusked Walrus.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/241_Silver Tusked Walrus.png"
 			}
 		},
 		{
@@ -1985,10 +1952,10 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Rhino",
-			"collector_number": "245",
+			"collector_number": "246",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/245_Wrought Iron Rhino.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/246_Wrought Iron Rhino.png"
 			}
 		},
 		{
@@ -2059,11 +2026,11 @@
 		},
 		{
 			"name": "Foundry Auditor",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Assembly-Worker",
 			"collector_number": "224",
-			"rating": 3,
+			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/224_Foundry Auditor.png"
 			}
@@ -2073,10 +2040,10 @@
 			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Artifact Creature — Assembly-Worker",
-			"collector_number": "239",
+			"collector_number": "240",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/239_Self-Assembler.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/240_Self-Assembler.png"
 			}
 		},
 		{
@@ -2084,10 +2051,10 @@
 			"rarity": "common",
 			"mana_cost": "{4}",
 			"type": "Artifact Creature — Thopter",
-			"collector_number": "243",
+			"collector_number": "244",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/243_Snare Thopter.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/244_Snare Thopter.png"
 			}
 		},
 		{
@@ -2103,11 +2070,11 @@
 		},
 		{
 			"name": "Empower the Masses",
-			"rarity": "common",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "11",
-			"rating": 2,
+			"rating": 3,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/11_Empower the Masses.png"
 			}
@@ -2191,11 +2158,11 @@
 		},
 		{
 			"name": "Charming Kata",
-			"rarity": "uncommon",
+			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Snake Monk",
 			"collector_number": "7",
-			"rating": 3,
+			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/7_Charming Kata.png"
 			}
@@ -2513,10 +2480,10 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Dwarf Artificer",
-			"collector_number": "96",
+			"collector_number": "95",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/96_Factory Mazdoor.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/95_Factory Mazdoor.png"
 			}
 		},
 		{
@@ -2579,10 +2546,10 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Sorcery",
-			"collector_number": "98",
+			"collector_number": "97",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/98_Fanatical Recruitment.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/97_Fanatical Recruitment.png"
 			}
 		},
 		{
@@ -2601,10 +2568,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "136",
+			"collector_number": "137",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/136_Peema Colossus.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/137_Peema Colossus.png"
 			}
 		},
 		{
@@ -2612,10 +2579,10 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}",
 			"type": "Creature — Human Warrior",
-			"collector_number": "123",
+			"collector_number": "122",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/123_Fairgrounds Security.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/122_Fairgrounds Security.png"
 			}
 		},
 		{
@@ -2634,10 +2601,10 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Artifact Creature — Spider Servo",
-			"collector_number": "124",
+			"collector_number": "123",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/124_Ferrophage Spider.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/123_Ferrophage Spider.png"
 			}
 		},
 		{
@@ -2645,10 +2612,10 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Bear",
-			"collector_number": "121",
+			"collector_number": "120",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/121_Disrupted Hibernator.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/120_Disrupted Hibernator.png"
 			}
 		},
 		{
@@ -2656,10 +2623,10 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Centaur Rebel",
-			"collector_number": "125",
+			"collector_number": "124",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/125_Filigree-horn Luddite.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/124_Filigree-horn Luddite.png"
 			}
 		},
 		{
@@ -2678,10 +2645,10 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Instant",
-			"collector_number": "137",
+			"collector_number": "138",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/137_Reimmerse In Nature.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/138_Reimmerse In Nature.png"
 			}
 		},
 		{
@@ -2689,21 +2656,21 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "126",
+			"collector_number": "125",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/126_Gift of Sagacity.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/125_Gift of Sagacity.png"
 			}
 		},
 		{
 			"name": "Devolution",
 			"rarity": "common",
-			"mana_cost": "{1}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "120",
+			"collector_number": "119",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/120_Devolution.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/119_Devolution.png"
 			}
 		},
 		{
@@ -2711,10 +2678,10 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Bear",
-			"collector_number": "135",
+			"collector_number": "136",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/135_Peema Boxer.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/136_Peema Boxer.png"
 			}
 		},
 		{
@@ -2733,10 +2700,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
-			"collector_number": "122",
+			"collector_number": "121",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/122_Extinction Rebellion.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/121_Extinction Rebellion.png"
 			}
 		},
 		{
@@ -2764,7 +2731,7 @@
 		{
 			"name": "Hypnotizing AetherBorealis",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
+			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
 			"collector_number": "128",
 			"rating": 3,
@@ -2777,21 +2744,21 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "94",
+			"collector_number": "93",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/94_Ceaseless Fires.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/93_Ceaseless Fires.png"
 			}
 		},
 		{
-			"name": "Bull Market",
+			"name": "Bear Market",
 			"rarity": "rare",
-			"mana_cost": "{U}{B}",
+			"mana_cost": "{1}{U}{B}",
 			"type": "Artifact",
-			"collector_number": "158",
+			"collector_number": "155",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/158_Bull Market.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/155_Bear Market.png"
 			}
 		},
 		{
@@ -2821,10 +2788,10 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Spirit Mystic",
-			"collector_number": "192",
+			"collector_number": "189",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/192_Oviya Pashiri, Onlooking Spiritcrafter.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/189_Oviya Pashiri, Onlooking Spiritcrafter.png"
 			}
 		},
 		{
@@ -2852,7 +2819,7 @@
 		{
 			"name": "Highspire Mystic",
 			"rarity": "common",
-			"mana_cost": "{W}",
+			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Monk",
 			"collector_number": "15",
 			"rating": 2,
@@ -3052,10 +3019,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "274",
+			"collector_number": "275",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/274_Plains.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/275_Plains.png"
 			}
 		},
 		{
@@ -3063,10 +3030,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "277",
+			"collector_number": "278",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/277_Mountain.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/278_Mountain.png"
 			}
 		},
 		{
@@ -3074,10 +3041,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "278",
+			"collector_number": "279",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/278_Forest.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/279_Forest.png"
 			}
 		},
 		{
@@ -3085,10 +3052,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "276",
+			"collector_number": "277",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/276_Swamp.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/277_Swamp.png"
 			}
 		},
 		{
@@ -3096,10 +3063,10 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "275",
+			"collector_number": "276",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/275_Island.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/276_Island.png"
 			}
 		},
 		{
@@ -3107,10 +3074,10 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "260",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/259_Sunset Smoglands.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/260_Sunset Smoglands.png"
 			}
 		},
 		{
@@ -3118,10 +3085,10 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "252",
+			"collector_number": "253",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/252_Dusk Factory.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/253_Dusk Factory.png"
 			}
 		},
 		{
@@ -3129,10 +3096,10 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "256",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/255_Kurna Headquarters.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/256_Kurna Headquarters.png"
 			}
 		},
 		{
@@ -3140,10 +3107,10 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "254",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/253_Hall of The Assembly.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/254_Hall of The Assembly.png"
 			}
 		},
 		{
@@ -3151,10 +3118,10 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "257",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/256_Salt Road Shelter.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/257_Salt Road Shelter.png"
 			}
 		},
 		{
@@ -3162,10 +3129,10 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "252",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/251_Devra Temple.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/252_Devra Temple.png"
 			}
 		},
 		{
@@ -3173,10 +3140,10 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Creature — Human Monk",
-			"collector_number": "95",
+			"collector_number": "94",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/95_Eye of the Dragon.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/94_Eye of the Dragon.png"
 			}
 		},
 		{
@@ -3184,10 +3151,197 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Legendary Creature — Snake Demigod",
-			"collector_number": "200",
+			"collector_number": "199",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/200_Sidisi, Scales of Industry.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/199_Sidisi, Scales of Industry.png"
+			}
+		},
+		{
+			"name": "Player 6 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "10",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/10_Player 6 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 3 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "7",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/7_Player 3 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 4 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "8",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/8_Player 4 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 1 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "5",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/5_Player 1 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 2 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "6",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/6_Player 2 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 13 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "17",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/17_Player 13 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 7 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "11",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/11_Player 7 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 14 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "18",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/18_Player 14 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 5 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "9",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/9_Player 5 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 16 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "20",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/20_Player 16 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 15 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "19",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/19_Player 15 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 12 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "16",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/16_Player 12 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 11 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "15",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/15_Player 11 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 8 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "12",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/12_Player 8 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 10 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "14",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/14_Player 10 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Player 9 - Energy Reserve",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token",
+			"collector_number": "13",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/13_Player 9 - Energy Reserve.png"
+			}
+		},
+		{
+			"name": "Feedback",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Archtypes",
+			"collector_number": "280",
+			"rating": 0,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/280_Feedback.png"
 			}
 		},
 		{
@@ -3202,14 +3356,58 @@
 			}
 		},
 		{
-			"name": "Crash Down",
+			"name": "Nature's Glare",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "119",
+			"collector_number": "135",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CoA-files/img/119_Crash Down.png"
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/135_Nature's Glare.png"
+			}
+		},
+		{
+			"name": "Self-regulated Saftey",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{B}",
+			"type": "Sorcery",
+			"collector_number": "198",
+			"rating": 4,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/198_Self-regulated Saftey.png"
+			}
+		},
+		{
+			"name": "Assembly's Gryphoner",
+			"rarity": "uncommon",
+			"mana_cost": "{W}{U}",
+			"type": "Creature — Human Merchant",
+			"collector_number": "153",
+			"rating": 3,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/153_Assembly's Gryphoner.png"
+			}
+		},
+		{
+			"name": "Army for Hire",
+			"rarity": "uncommon",
+			"mana_cost": "{5}{W}",
+			"type": "Sorcery",
+			"collector_number": "4",
+			"rating": 3,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/4_Army for Hire.png"
+			}
+		},
+		{
+			"name": "Scouting Servo",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Servo Assembly-Worker",
+			"collector_number": "239",
+			"rating": 2,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/CoA-files/img/239_Scouting Servo.png"
 			}
 		}
 	]
@@ -3245,11 +3443,11 @@
 	2 Assemblyman of Preservation
 	2 Sage of the Vitalfire
 	2 Savage Union Busters
-	2 Gonti's Patronage
+	2 Sai's Patronage
 	2 Impulsive Fracking
 	2 Birth of Rebellion
 	2 Chianul's Guidance
-	2 Utter Silence
+	2 99 - Utter Silence
 	2 Fumigate
 	2 Confiscation Coup
 	2 Bloodsoaked Champion
@@ -3262,7 +3460,7 @@
 	2 Machiavellian Will
 	2 Unscrupulous Puppeteer
 	2 Pearl Lake Salar
-	2 Bloodfire Master
+	2 Gremlin Anarchist
 	2 The Assembly's Orator
 	2 Syndicate Logistician
 	2 Snapping Sanctuary
@@ -3277,9 +3475,9 @@
 	2 Altar of the Brood
 	2 Ghostfire Blade
 	2 Desert Rift
-	2 Bear Market
-	2 Tuskguard Colonel
 	2 Bull Market
+	2 Tuskguard Colonel
+	2 Bear Market
 	2 Empty The Vault
 	2 Yasova, Firebrand Zealot
 	2 Oviya Pashiri, Onlooking Spiritcrafter
@@ -3290,8 +3488,9 @@
 	2 Devra Temple
 	2 Eye of the Dragon
 	1 Sidisi, Scales of Industry
+	2 Self-regulated Saftey
 [uncommon(3)]
-	4 Trail of Mystery
+	4 Liberated Dreadnought
 	4 Extraction Module
 	4 Execution Module
 	4 Corrupted Workshop
@@ -3302,28 +3501,25 @@
 	4 Jungle Shrine
 	4 Aether Hub
 	4 Zurgo's Encampment
-	4 Manufacturing Virtuoso
 	4 Citizen's Companion
-	4 Financial Soothsayer
+	4 Whisper Virtuoso
 	4 Warden of the Scrolls
 	4 Nihilist Roughrider
 	4 Unlicensed Syphoning
-	4 Self-regulated Saftey
-	4 Engineer's Prowess
+	4 Icefeather Carrion
+	4 Inventor's Mantle
 	4 Smash Up
 	4 Contraband Kingpin
-	4 Icefeather Exporter
 	4 Highspire Adept
 	4 Baral, Renegade Brawler
 	4 Labor Charm
-	4 Assembly's Charm
+	4 Political Charm
 	4 Finance Charm
 	4 Monastic Charm
 	4 Rebelious Charm
 	4 Entrant of the Way
 	4 Gearshift Pitcrew
 	4 Roost's Guardian
-	4 Army for Hire
 	4 Ghostfire's Light
 	4 Resistance Factor
 	4 Skywhaler's Shot
@@ -3351,8 +3547,7 @@
 	4 Myopic Pillaging
 	4 Harnessed Lightning
 	4 Purchase Armorcraft
-	4 Return from the Horizon
-	4 Nature's Way
+	4 Guardian of the Cowl's
 	4 Riparian Jaguar
 	4 Guarded Supply Freighter
 	4 Ovalchase Dragster
@@ -3360,20 +3555,19 @@
 	4 Owl-Strix Archers
 	4 Powered Down Timepiece
 	4 Improvised Weather Machine
-	4 Ghirapur's Golden Parapets
 	4 Loxodon Memorial
 	4 Lobbiers's Purse
 	4 Irreversible Nightmare
 	4 Chief of the Nail
 	4 Rocslide
+	4 Aetherborn Dreamwalker
 	4 Factory BannerKnot
 	4 Lawful BannerKnot
 	4 Market BannerKnot
 	4 Monastery BannerKnot
 	4 Lawless BannerKnot
 	4 Aetherspout Bulldozer
-	4 Foundry Auditor
-	4 Charming Kata
+	4 Empower the Masses
 	4 Teacher of the Way
 	4 Polluting Byproduct
 	4 Minister of Flight
@@ -3389,9 +3583,12 @@
 	4 Storm Harmonist
 	4 Sunset Smoglands
 	4 Chief of the Hammer
-	4 Crash Down
+	4 Nature's Glare
+	4 Assembly's Gryphoner
+	4 Army for Hire
 [common(7)]
 	8 Thriving Grubs
+	8 Vedalken Aetherlooter
 	8 Sage-Eye Apprentice
 	8 Devout Kirin
 	8 Cogify
@@ -3405,13 +3602,13 @@
 	8 Consol's Bodyguards
 	8 Alloy Loxodon
 	8 Filigree Familiar
+	8 Ghirapur's Golden Parapets
 	8 Backslide
 	8 Thriving Rats
-	8 Aetherborn Dreamwalker
 	8 Inspector Brigade
 	8 Illusion of Luxury
 	8 Mystic of The Way
-	8 Peema Woods Defenders
+	8 Peema Woods Champions
 	8 Brass Winged Vulture
 	8 Steel Horned Ibex
 	8 Silver Tusked Walrus
@@ -3421,10 +3618,10 @@
 	8 Lathnu Funicular
 	8 Adara Cable Car
 	8 Prophetic Prism
+	8 Foundry Auditor
 	8 Self-Assembler
 	8 Snare Thopter
 	8 Spur to Believe
-	8 Empower the Masses
 	8 Tax On Action
 	8 Disassemble
 	8 Medatative Inspiration
@@ -3432,6 +3629,7 @@
 	8 Assembly's Attache
 	8 Skypatrol Aetherborn
 	8 Aristocrats' Steed
+	8 Charming Kata
 	8 Contrive
 	8 Artificer's Epiphany
 	8 Failed Inspection
@@ -3478,6 +3676,7 @@
 	8 Mineral Appraiser
 	8 Displaced Dreadmaw
 	8 Tradewind Stalker
+	8 Scouting Servo
 [foil(1)]
 	12 Thriving Grubs
 	1 Dovin Baan, Persistent Ruler
@@ -3510,16 +3709,16 @@
 	2 Assemblyman of Preservation
 	2 Sage of the Vitalfire
 	2 Savage Union Busters
-	2 Gonti's Patronage
+	2 Sai's Patronage
 	2 Impulsive Fracking
 	2 Birth of Rebellion
 	2 Chianul's Guidance
-	2 Utter Silence
+	2 99 - Utter Silence
 	2 Fumigate
 	2 Confiscation Coup
 	2 Bloodsoaked Champion
 	2 Hooded Hydra
-	6 Trail of Mystery
+	6 Liberated Dreadnought
 	2 Thousand Winds
 	2 Jeering Instigator
 	2 Grim Haruspex
@@ -3528,7 +3727,7 @@
 	2 Machiavellian Will
 	2 Unscrupulous Puppeteer
 	2 Pearl Lake Salar
-	2 Bloodfire Master
+	2 Gremlin Anarchist
 	2 The Assembly's Orator
 	2 Syndicate Logistician
 	2 Snapping Sanctuary
@@ -3553,22 +3752,21 @@
 	6 Jungle Shrine
 	6 Aether Hub
 	6 Zurgo's Encampment
-	6 Manufacturing Virtuoso
+	12 Vedalken Aetherlooter
 	6 Citizen's Companion
-	6 Financial Soothsayer
+	6 Whisper Virtuoso
 	6 Warden of the Scrolls
 	6 Nihilist Roughrider
 	6 Unlicensed Syphoning
-	2 Bear Market
-	6 Self-regulated Saftey
-	6 Engineer's Prowess
+	2 Bull Market
+	6 Icefeather Carrion
+	6 Inventor's Mantle
 	6 Smash Up
 	6 Contraband Kingpin
-	6 Icefeather Exporter
 	6 Highspire Adept
 	6 Baral, Renegade Brawler
 	6 Labor Charm
-	6 Assembly's Charm
+	6 Political Charm
 	6 Finance Charm
 	6 Monastic Charm
 	6 Rebelious Charm
@@ -3577,7 +3775,6 @@
 	6 Gearshift Pitcrew
 	12 Devout Kirin
 	6 Roost's Guardian
-	6 Army for Hire
 	6 Ghostfire's Light
 	6 Resistance Factor
 	6 Skywhaler's Shot
@@ -3611,8 +3808,7 @@
 	6 Myopic Pillaging
 	6 Harnessed Lightning
 	6 Purchase Armorcraft
-	6 Return from the Horizon
-	6 Nature's Way
+	6 Guardian of the Cowl's
 	6 Riparian Jaguar
 	12 Incensed Druid
 	2 Tuskguard Colonel
@@ -3626,7 +3822,7 @@
 	6 Improvised Weather Machine
 	12 Alloy Loxodon
 	12 Filigree Familiar
-	6 Ghirapur's Golden Parapets
+	12 Ghirapur's Golden Parapets
 	6 Loxodon Memorial
 	6 Lobbiers's Purse
 	12 Backslide
@@ -3634,11 +3830,11 @@
 	6 Irreversible Nightmare
 	6 Chief of the Nail
 	6 Rocslide
-	12 Aetherborn Dreamwalker
+	6 Aetherborn Dreamwalker
 	12 Inspector Brigade
 	12 Illusion of Luxury
 	12 Mystic of The Way
-	12 Peema Woods Defenders
+	12 Peema Woods Champions
 	6 Factory BannerKnot
 	6 Lawful BannerKnot
 	6 Market BannerKnot
@@ -3654,11 +3850,11 @@
 	6 Aetherspout Bulldozer
 	12 Adara Cable Car
 	12 Prophetic Prism
-	6 Foundry Auditor
+	12 Foundry Auditor
 	12 Self-Assembler
 	12 Snare Thopter
 	12 Spur to Believe
-	12 Empower the Masses
+	6 Empower the Masses
 	12 Tax On Action
 	12 Disassemble
 	12 Medatative Inspiration
@@ -3666,7 +3862,7 @@
 	12 Assembly's Attache
 	12 Skypatrol Aetherborn
 	12 Aristocrats' Steed
-	6 Charming Kata
+	12 Charming Kata
 	6 Teacher of the Way
 	6 Polluting Byproduct
 	12 Contrive
@@ -3720,7 +3916,7 @@
 	6 Raise the Alms
 	6 Hypnotizing AetherBorealis
 	6 Ceaseless Fires
-	2 Bull Market
+	2 Bear Market
 	2 Empty The Vault
 	2 Yasova, Firebrand Zealot
 	2 Oviya Pashiri, Onlooking Spiritcrafter
@@ -3739,7 +3935,11 @@
 	2 Eye of the Dragon
 	1 Sidisi, Scales of Industry
 	6 Chief of the Hammer
-	6 Crash Down
+	6 Nature's Glare
+	2 Self-regulated Saftey
+	6 Assembly's Gryphoner
+	6 Army for Hire
+	12 Scouting Servo
 [wildcard(1)]
 	6 Thriving Grubs
 	4 Dovin Baan, Persistent Ruler
@@ -3772,16 +3972,16 @@
 	7 Assemblyman of Preservation
 	7 Sage of the Vitalfire
 	7 Savage Union Busters
-	7 Gonti's Patronage
+	7 Sai's Patronage
 	7 Impulsive Fracking
 	7 Birth of Rebellion
 	7 Chianul's Guidance
-	7 Utter Silence
+	7 99 - Utter Silence
 	7 Fumigate
 	7 Confiscation Coup
 	7 Bloodsoaked Champion
 	7 Hooded Hydra
-	15 Trail of Mystery
+	15 Liberated Dreadnought
 	7 Thousand Winds
 	7 Jeering Instigator
 	7 Grim Haruspex
@@ -3790,7 +3990,7 @@
 	7 Machiavellian Will
 	7 Unscrupulous Puppeteer
 	7 Pearl Lake Salar
-	7 Bloodfire Master
+	7 Gremlin Anarchist
 	7 The Assembly's Orator
 	7 Syndicate Logistician
 	7 Snapping Sanctuary
@@ -3815,22 +4015,21 @@
 	15 Jungle Shrine
 	15 Aether Hub
 	15 Zurgo's Encampment
-	15 Manufacturing Virtuoso
+	6 Vedalken Aetherlooter
 	15 Citizen's Companion
-	15 Financial Soothsayer
+	15 Whisper Virtuoso
 	15 Warden of the Scrolls
 	15 Nihilist Roughrider
 	15 Unlicensed Syphoning
-	7 Bear Market
-	15 Self-regulated Saftey
-	15 Engineer's Prowess
+	7 Bull Market
+	15 Icefeather Carrion
+	15 Inventor's Mantle
 	15 Smash Up
 	15 Contraband Kingpin
-	15 Icefeather Exporter
 	15 Highspire Adept
 	15 Baral, Renegade Brawler
 	15 Labor Charm
-	15 Assembly's Charm
+	15 Political Charm
 	15 Finance Charm
 	15 Monastic Charm
 	15 Rebelious Charm
@@ -3839,7 +4038,6 @@
 	15 Gearshift Pitcrew
 	6 Devout Kirin
 	15 Roost's Guardian
-	15 Army for Hire
 	15 Ghostfire's Light
 	15 Resistance Factor
 	15 Skywhaler's Shot
@@ -3873,8 +4071,7 @@
 	15 Myopic Pillaging
 	15 Harnessed Lightning
 	15 Purchase Armorcraft
-	15 Return from the Horizon
-	15 Nature's Way
+	15 Guardian of the Cowl's
 	15 Riparian Jaguar
 	6 Incensed Druid
 	7 Tuskguard Colonel
@@ -3888,7 +4085,7 @@
 	15 Improvised Weather Machine
 	6 Alloy Loxodon
 	6 Filigree Familiar
-	15 Ghirapur's Golden Parapets
+	6 Ghirapur's Golden Parapets
 	15 Loxodon Memorial
 	15 Lobbiers's Purse
 	6 Backslide
@@ -3896,11 +4093,11 @@
 	15 Irreversible Nightmare
 	15 Chief of the Nail
 	15 Rocslide
-	6 Aetherborn Dreamwalker
+	15 Aetherborn Dreamwalker
 	6 Inspector Brigade
 	6 Illusion of Luxury
 	6 Mystic of The Way
-	6 Peema Woods Defenders
+	6 Peema Woods Champions
 	15 Factory BannerKnot
 	15 Lawful BannerKnot
 	15 Market BannerKnot
@@ -3916,11 +4113,11 @@
 	15 Aetherspout Bulldozer
 	6 Adara Cable Car
 	6 Prophetic Prism
-	15 Foundry Auditor
+	6 Foundry Auditor
 	6 Self-Assembler
 	6 Snare Thopter
 	6 Spur to Believe
-	6 Empower the Masses
+	15 Empower the Masses
 	6 Tax On Action
 	6 Disassemble
 	6 Medatative Inspiration
@@ -3928,7 +4125,7 @@
 	6 Assembly's Attache
 	6 Skypatrol Aetherborn
 	6 Aristocrats' Steed
-	15 Charming Kata
+	6 Charming Kata
 	15 Teacher of the Way
 	15 Polluting Byproduct
 	6 Contrive
@@ -3982,7 +4179,7 @@
 	15 Raise the Alms
 	15 Hypnotizing AetherBorealis
 	15 Ceaseless Fires
-	7 Bull Market
+	7 Bear Market
 	7 Empty The Vault
 	7 Yasova, Firebrand Zealot
 	7 Oviya Pashiri, Onlooking Spiritcrafter
@@ -4001,7 +4198,11 @@
 	7 Eye of the Dragon
 	4 Sidisi, Scales of Industry
 	15 Chief of the Hammer
-	15 Crash Down
+	15 Nature's Glare
+	7 Self-regulated Saftey
+	15 Assembly's Gryphoner
+	15 Army for Hire
+	6 Scouting Servo
 [landslot(1)]
 	12 Indigo Monmument
 	12 Tranquil Cove

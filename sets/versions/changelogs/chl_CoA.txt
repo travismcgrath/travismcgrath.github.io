@@ -1,4 +1,352 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+Sai's Patronage added.
+99 - Utter Silence added.
+Liberated Dreadnought added.
+Gremlin Anarchist added.
+Vedalken Aetherlooter added.
+Whisper Virtuoso added.
+Icefeather Carrion added.
+Inventor's Mantle added.
+Political Charm added.
+Guardian of the Cowl's added.
+Peema Woods Champions added.
+Player 6 - Energy Reserve added.
+Player 3 - Energy Reserve added.
+Player 4 - Energy Reserve added.
+Player 1 - Energy Reserve added.
+Player 2 - Energy Reserve added.
+Player 13 - Energy Reserve added.
+Player 7 - Energy Reserve added.
+Player 14 - Energy Reserve added.
+Player 5 - Energy Reserve added.
+Player 16 - Energy Reserve added.
+Player 15 - Energy Reserve added.
+Player 12 - Energy Reserve added.
+Player 11 - Energy Reserve added.
+Player 8 - Energy Reserve added.
+Player 10 - Energy Reserve added.
+Player 9 - Energy Reserve added.
+Feedback added.
+Nature's Glare added.
+Assembly's Gryphoner added.
+Scouting Servo added.
+
+Gonti's Patronage removed.
+Utter Silence removed.
+Trail of Mystery removed.
+Bloodfire Master removed.
+Manufacturing Virtuoso removed.
+Financial Soothsayer removed.
+Engineer's Prowess removed.
+Icefeather Exporter removed.
+Assembly's Charm removed.
+Return from the Horizon removed.
+Nature's Way removed.
+Peema Woods Defenders removed.
+Crash Down removed.
+
+Thriving Grubs
+
+Kurna Majan, Luminary Financier
+rules_text: Morph {2}{G}{U}{W}
+At the beginning of your upkeep, look at the top card of your library. You may pay {2}. If you do, manifest it. Otherwise, put it into your hand. => Ward {2} 
+Whenever an opponent casts a spell, choose one that hasn't been chosen this turn —
+• Gain 4 life.
+• Scry 2, then draw a card.
+• Move a counter from target creature onto a second target creature.
+pt: 5/5 => 4/4
+
+Anafenza, Generous Ancestor
+type: Legendary Creature — Spirit Noble => Legendary Creature — Angel Nobel
+
+Dustblast
+cost: {2}{G}{W}{U} => {3}{G}{W}{U}
+rules_text: Return all creatures with power 3 or greater to their owner's hands. => Return each creature without a +1/+1 counter on it to its owner's hand.
+
+Supplant Worker
+cost: {U}{B}{R} => {W}{U}{B}
+
+Sagu Deforester
+cost: {4}{W}{U}{B} => {4}{U}{B}{R}
+rules_text: Flying, ward {2}
+Morph {4}{W}{U} => Flying, ward {2}
+Morph {4}{R}{U}
+
+Assemblyman of Preservation
+
+Pearl Lake Salar
+rules_text: Multikicker {E} 
+Choose target creature, then choose another target creature for each time this spell was kicked. Pearl Lake Salar deals X damage to each of them. => Multikicker {E} [i](You may pay an additional {E} any number of times as you cast this spell.)[/i]
+Choose target creature, then choose another target creature for each time this spell was kicked. Pearl Lake Salar deals X damage to each of them.
+
+Desert Rift
+rules_text: Face-down creature spells you cast cost you {1} less to cast.
+{T}: Add {C} => Colorless spells you cast cost you {1} less to cast.
+{T}: Add {C}
+
+Citizen's Companion
+cost: {2}{W}{U}{B} => {2}{G}{W}{U}
+
+Warden of the Scrolls
+type: Creature — Djinn Wizard => Creature — Djinn Monk
+
+Nihilist Roughrider
+rules_text: Whenever Nihilist Roughrider attacks, tap up to one target vehicle you control. It becomes an attacking artifact creature until end of turn.
+Whenever Nihilist Roughrider attacks, target creature can't block this turn. => Whenever Nihilist Roughrider attacks, tap up to one target vehicle you control. It becomes an attacking artifact creature until end of turn.
+{E}{E}: Target creature can't block this turn. Activate only as a sorcery
+
+Bull Market
+type: Artifact => Enchantment
+cost: {U}{B} => {1}{W}{U}
+rules_text: Artifact creatures you control get +1/+0.
+Whenever a creature you control manufactures for the first time each turn, it manufactures an additional time.
+{3}{T}, Discard a card: Target creature manufactures 1. => Whenever a creature you control manufactures for the first time each turn, it manufactures an additional time.
+{3}, {T}, Discard a card: Target creature manufactures 1.
+
+Labor Charm
+rules_text: Choose one —
+• Labor Charm deals 4 damage to target creature.
+• Put two +1/+1 counters on target creature you control.
+• Target opponent reveals their hand. You choose a noncreature, nonland card from it. That player discards that card. => Choose one —
+• Destroy target attacking creature.
+• Counter target spell unless its controller pays {3}.
+• Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.
+
+Finance Charm
+rules_text: Choose one —
+• Draw two cards.
+• Exile target creature with mana value 3 or less.
+• Manifest the top card of your library. => Choose one —
+• Draw two cards.
+• Exile target creature with mana value 3 or less.
+• Distribute two +1/+1 counters among one or two target creatures.
+
+Rebelious Charm
+rules_text: Choose one —
+• Destroy target multicolored creature.
+• Target creature cannot block this turn.
+• Exile the top two cards of your library. You may play them until the end of your next turn. => Choose one —
+• Each creature deals 1 damage to its controller.
+• Destroy target creature that is one or more colors.
+• Exile the top three cards of your library. You may play them until the end of your next turn.
+
+Entrant of the Way
+cost: {1}{W} => {2}{W}
+rules_text: Prowess
+Whenever you cast a noncreature spell, Entrant of the Way gains lifelink until end of turn. => Vigilance
+When Entrant of the Way enters, another target creature manufactures 1.
+Each creature you control with a +1/+1 counter on it has vigilance.
+
+Filigreed Skywhale
+rules_text: Flying
+When Filigreed Skywhale enters, it manufactures 1.
+Each creature you control with a +1/+1 counter on it has flying. => Flying
+When Filigreed Skywhale enters, stun up to one target creature and it manufactures 1.
+
+Shambling Aetherborn
+rules_text: When Shambling Aetherborn enters, it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+Each creature you control with a +1/+1 counter on it has deathtouch. => Deathtouch
+Whenever an artifact or land is put into a graveyard from the battlefield, you may have target opponent lose 1 life.
+
+Kheru Harvester
+cost: {1}{B}{R} => {1}{U}{B}
+rules_text: Whenever Kheru Harvester attacks gain {E}{E} and stun target creature.
+Crew 2 => Whenever Kheru Harvester blocks a creature, stun that creature then you gain {E}{E}.
+Crew 2
+
+Ashcloud Dragster
+cost: {1}{U}{B} => {1}{B}{R}
+
+Fairgrounds Acrobat
+rules_text: Reach
+Fairgrounds Acrobat enters with a +1/+1 counter on it.
+Each other creature you control with a +1/+1 counter on it has reach.
+Whenever a creature you control with reach blocks, you get {E}. => Reach
+Whenever a creature you control with reach blocks, you get {E}.
+pt: 2/2 => 3/3
+
+Incensed Druid
+pt: 3/2 => 2/2
+
+Ghirapur's Golden Parapets
+
+Aetherborn Dreamwalker
+rules_text: Flying, vigilance
+Whenever you gain one or more {E}, Aetherborn Dreamwalker gets +2/+0 until end of turn. 
+Morph {U}{R}{B} => Flying, vigilance
+Whenever you gain one or more {E}, Aetherborn Dreamwalker gets +2/+0 until end of turn.
+pt: 1/5 => 3/5
+
+Inspector Brigade
+rules_text: When Inspector Brigade enters or is turned face up, create two 1/1 colorless Servo artifact creature tokens.
+Morph {W}{U}{B} => Lifelink 
+When Inspector Brigade enters or is turned face up, create two 1/1 colorless Servo artifact creature tokens.
+Morph {W}{U}{B} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Illusion of Luxury
+rules_text: Flying
+Whenever Illusion of Luxury deals combat damage to a player, you may draw a card. If you do, discard a card.
+Morph {G}{W}{U} => Flying
+Whenever Illusion of Luxury deals combat damage to a player, you may draw a card. If you do, remove a +1/+1 counter from a creature you control or discard a card.
+Morph {G}{W}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Mystic of The Way
+rules_text: Lifelink, prowess
+Morph {R}{W}{G} => Haste, prowess
+When Inspector Brigade enters or is turned face up, target creature gains lifelink until end of turn.
+Morph {R}{W}{G} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+pt: 3/2 => 4/2
+
+Lawful BannerKnot
+rules_text: When Lawful BannerKnot enters, target creature you control manufactures 1.
+{T}: Add {U}, {W}, or {B}.
+{W}{U}{B}, Sacrifice Lawful BannerKnot: Draw a card. => When Lawful BannerKnot enters, create a 1/1 colorless Thopter artifact creature token with flying.
+{T}: Add {U}, {W}, or {B}.
+{W}{U}{B}, Sacrifice Lawful BannerKnot: Draw a card.
+
+Market BannerKnot
+rules_text: When Market BannerKnot enters, create a 1/1 colorless Thopter artifact creature token with flying.
+{T}: Add {U}, {W}, or {G}.
+{U}{W}{G}, Sacrifice Market BannerKnot: Draw a card. => When Market BannerKnot enters, target creature you control manufactures 1.
+{T}: Add {U}, {W}, or {G}.
+{U}{W}{G}, Sacrifice Market BannerKnot: Draw a card.
+
+Foundry Auditor
+
+Empower the Masses
+
+Charming Kata
+rules_text: {G}: Charming Kata gains deathtouch until end of turn. => {3}{G}: Put a +1/+1 counter on Charming Kata and it gains deathtouch until end of turn.
+pt: 2/1 => 1/1
+
+Drone Vendor
+rules_text: When Drone Vendor enters, you may pay {W} or sacrifice a Servo. If you do, create a 1/1 colorless Thopter creature token with flying. => When Drone Vendor enters, you may pay {B} or sacrifice a Servo. If you do, create a 1/1 colorless Thopter creature token with flying.
+
+Aetherborn Incumbent
+rules_text: When Aetherborn Incumbent enters, draw a card.
+{3}{B}: Aetherborn Incumbent manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i] => When Aetherborn Incumbent enters, draw a card.
+{3}{WB}: Aetherborn Incumbent manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Minister of Flight
+rules_text: Flying 
+Morph {5}{U}
+When Minister of Flight is turned face up, it manufactures 2. => Flying 
+Morph {5}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Minister of Flight is turned face up, it manufactures 2.
+
+Midnight Inspector
+
+Defeatist Recycler
+rules_text: {1}{R}, {T}, Sacrifice a permanent: Each opponent loses 2 life and you gain 2 life. => {1}{UR}, {T}, Sacrifice a permanent: Each opponent loses 2 life and you gain 2 life.
+
+Pupil of the Hidden Eye
+rules_text: {G}: Look at target face-down creature. => {1}{BG}: Look at up to one target face-down creature and target opponent reveals one card from their hand at random.
+
+Inauspicious Skyclaw
+rules_text: First strike
+Inauspicious Skyclaw enters with a +1/+1 counter on it. 
+{1}, Remove a +1/+1 counter from Inauspicious Skyclaw: You gain {E}{E}. => First strike, Reach
+Inauspicious Skyclaw enters with a +1/+1 counter on it. 
+{1}, Remove a +1/+1 counter from Inauspicious Skyclaw: You gain {E}{E}.
+
+Malign Aetherborn
+
+Summit Postulant
+rules_text: When Summit Postulant enters, you get {E}.
+Pay {E}: Target creature gains haste until end of turn. => When Summit Postulant enters or attacks, you get {E}{E}.
+Pay {E}{E}{E}{E}: Exile the top card of your library. You may play that card this turn
+pt: 5/4 => 4/4
+
+Kurna's Consultant
+rules_text: [i]Raid[/i] — When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}.
+Morph costs cost you {1} less. [i](This doesn't affect the cost to cast creature spells face down.)[/i] => Kurna's Consultant enters with a +1/+1 counters on it.
+[i]Raid[/i] — When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}.
+pt: 3/3 => 2/2
+
+Filigree-horn Luddite
+rules_text: {1}{R}: Filigree-horn Luddite gets +1/+0 until end of turn. => {2}{RW}: Filigree-horn Luddite gets +1/+0 and gains first strike until end of turn.
+
+Devolution
+cost: {1}{G} => {2}{G}
+
+Extinction Rebellion
+
+Hypnotizing AetherBorealis
+cost: {3}{G} => {2}{G}
+
+Bear Market
+type: Enchantment => Artifact
+cost: {W}{U} => {1}{U}{B}
+rules_text: Nonartifact colorless creatures you control get +0/+1 and are every creature type except Human.
+{4}, {T}: Manifest the top card of your library. => Artifact creatures you control get +1/+1.
+Whenever a creature you control dies, target player loses 1 life and you gain 1 life.
+{3}, {T}, Sacrifice a creature you control: Draw a card.
+
+Yasova, Firebrand Zealot
+rules_text: Non-creature spells cost you {1} less to cast.
+Monk creatures you control gain trample.
+Non-Monk creatures you control gain prowess. => Non-creature spells cost you {1} less to cast.
+Monk creatures you control have trample.
+Non-Monk creatures you control have prowess.
+
+Oviya Pashiri, Onlooking Spiritcrafter
+rules_text: {1}{W}{T}: Create a 1/1 white Human Monk creature tokens with prowess.
+{3}{G}{G}{T}: Create an Eternal Witness token. => {1}{W}{T}: Create a 1/1 white Human Monk creature tokens with prowess.
+{3}{G}{G}{T}: Create an Eternal Witness token. Activate only as a sorcery.
+
+Highspire Mystic
+cost: {W} => {1}{W}
+rules_text: {3}{U},{T}: Turn target creature with morph face down. This ability costs {2} less to activate if you control that creature. Activate only as a sorcery. => Highspire Mystic enters with a +1/+1 counter on it.
+{2}{GU}: Highspire Mystic gains flying until end of turn.
+pt: 1/2 => 2/0
+
+Displaced Dreadmaw
+rules_text: Menace
+{B}, Sacrifice a nontoken creature: Target creature gets -1/-1 until end of turn and Displaced Dreadmaw manufactures 1. Activate only as a sorcery. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i] => Menace
+{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn and you get {E}{E}. Activate only as a sorcery.
+
+Dusk Factory
+rules_text: This land enters tapped unless you control an Island or a Mountain 
+{T}: Add {B}.
+{U}{R}, {T}: Put a +1/+1 counter on target creature you control. => This land enters tapped unless you control an Island or a Mountain 
+{T}: Add {B}.
+{1}{U}{R}, {T}: You get {E}{E}, draw a card then discard a card.
+
+Kurna Headquarters
+rules_text: This land enters tapped unless you control a Plains or an Island 
+{T}: Add {G}.
+{W}{U}, {T}: Non-artifact, non-Human creatures you control get +1/+1 until end of turn. => This land enters tapped unless you control a Plains or an Island 
+{T}: Add {G}.
+{1}{W}{U}, {T}: Put a +1/+1 counter on up to two target creatures you control.
+
+Hall of The Assembly
+rules_text: This land enters tapped unless you control a Plains or a Swamp.
+{T}: Add {U}.
+{W}{B}, {T}: Servos and Thopters you control get +1/+1 until end of turn. => This land enters tapped unless you control a Plains or a Swamp.
+{T}: Add {U}.
+{1}{W}{B}, {T}: Servos and Thopters you control get +1/+1 until end of turn.
+
+Salt Road Shelter
+rules_text: This land enters tapped unless you control a Forest or a Swamp.
+{T}: Add {R}.
+{B}{G}, {T}: Aetherborn and Vehicle creatures you control get +1/+1 until end of turn. => This land enters tapped unless you control a Forest or a Swamp.
+{T}: Add {R}.
+{1}{B}{G}, {T}: Proliferate.
+
+Devra Temple
+rules_text: This land enters tapped unless you control a Forest or a Mountain
+{T}: Add {W}.
+{R}{G}, {T}: Humans and Monks you control get +1/+1 until end of turn. => This land enters tapped unless you control a Forest or a Mountain
+{T}: Add {W}.
+{1}{R}{G}, {T}: Humans and Monks you control get +1/+1 until end of turn.
+
+Self-regulated Saftey
+rules_text: Creatures with no counters on them get -2/-2 until end of turn. => Each player chooses a creature they control, then sacrifices the rest.
+
+
+VERSION 12 CHANGELOG
 ====================
 
 Desert Rift added.
