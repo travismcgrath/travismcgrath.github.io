@@ -1,4 +1,143 @@
-﻿VERSION 14 CHANGELOG
+﻿VERSION 15 CHANGELOG
+====================
+
+Yahenni, Altruistic Ancestor added.
+Temporize Activist added.
+Guardian of the Cowl added.
+Map added.
+
+Anafenza, Generous Ancestor removed.
+Supplant Worker removed.
+Guardian of the Cowl's removed.
+Bear Market Manifest removed.
+Manifest removed.
+
+Kurna Majan, Luminary Financier
+rules_text: Ward {2} 
+Whenever an opponent casts a spell, choose one that hasn't been chosen this turn —
+• Gain 4 life.
+• Scry 2, then draw a card.
+• Move a counter from target creature onto a second target creature. => Ward {2}
+Whenever you cast a spell, choose one that hasn't been chosen this turn —
+• Proliferate.
+• Gain 4 life.
+• Scry 2, then draw a card.
+
+Sagu Deforester
+rules_text: Flying, ward {2}
+Morph {4}{R}{U} => Flying, ward {2}
+Morph {3}{U}{B}{R}
+
+Liberated Dreadnought
+
+Desert Rift
+rules_text: Colorless spells you cast cost you {1} less to cast.
+{T}: Add {C} => Colorless spells you cast cost you {1} less to cast.
+{T}: Add {C}.
+
+Citizen's Companion
+rules_text: When Citizen's Companion enters, it manufactures 3. => When Citizen's Companion enters, it manufactures 3. [i](Put three +1/+1 counters on this creature, or create three 1/1 colorless Servo artifact creature tokens.)[/i]
+
+Whisper Virtuoso
+rules_text: At the beginning of your upkeep you may pay {3}. If you do, Whisper Virtuoso manufactures 2. 
+Servos you control have menace. => First strike 
+At the beginning of your upkeep you may pay {3}. If you do, Whisper Virtuoso manufactures 2. 
+Servos you control have menace.
+
+Bull Market
+rules_text: Whenever a creature you control manufactures for the first time each turn, it manufactures an additional time.
+{3}, {T}, Discard a card: Target creature manufactures 1. => Whenever a creature you control manufactures for the first time each turn, it manufactures an additional time.
+{3}, Discard a card: Target creature manufactures 1.
+
+Icefeather Carrion
+rules_text: Flying
+Morph {U}{B}
+When Icefeather Carrion is turned face up, you may return target creature card from your graveyard to your hand. => Flying
+Morph {U}{B} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Icefeather Carrion is turned face up, you may return target creature card from your graveyard to your hand.
+
+Tenth Bridge Copter
+rules_text: Flying 
+Whenever Tenth Bridge Copter attacks, target creature you control gains flying until end of turn and you look at up to one target face-down creature an opponent controls.
+Crew 2 => Flying 
+Whenever Tenth Bridge Copter attacks, target creature you control gains flying until end of turn and you may look at up to one target face-down creature.
+Crew 2
+
+Kheru Harvester
+
+Riparian Jaguar
+rules_text: When Riparian Jaguar enters, it fights target creature an opponent controls. => When Riparian Jaguar enters, it fights up to one target creature an opponent controls.
+
+Incensed Druid
+pt: 2/2 => 3/2
+
+Jungle Hollow
+rules_text: Jungle Hollow enters tapped.
+When Jungle Hollow enters, you gain 1 life.
+{T}: Add {B} or {G}. => wJungle Hollow enters tapped.
+When Jungle Hollow enters, you gain 1 life.
+{T}: Add {B} or {G}.
+
+Inspector Brigade
+rules_text: Lifelink 
+When Inspector Brigade enters or is turned face up, create two 1/1 colorless Servo artifact creature tokens.
+Morph {W}{U}{B} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i] => Vigilance
+When Inspector Brigade enters or is turned face up, create two 1/1 colorless Servo artifact creature tokens.
+Morph {W}{U}{B} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+
+Minister of Flight
+rules_text: Flying 
+Morph {5}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Minister of Flight is turned face up, it manufactures 2. => Flying 
+Morph {5}{U} [i](You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)[/i]
+When Minister of Flight is turned face up, it manufactures 2. [i](Put two +1/+1 counters on this creature, or create two 1/1 colorless Servo artifact creature tokens.)[/i]
+
+Miasmic Cloud
+cost: {3}{B} => {2}{B}
+
+Sidisi's Scavenger
+type: Creature — Bird Servo => Artifact Creature — Bird Servo
+
+Kurna's Consultant
+rules_text: Kurna's Consultant enters with a +1/+1 counters on it.
+[i]Raid[/i] — When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}. => Kurna's Consultant enters with a +1/+1 counter on it.
+[i]Raid[/i] — When Kurna's Consultant enters, if you attacked this turn, add {G}{W}{U}.
+
+Bear Market
+rules_text: Artifact creatures you control get +1/+1.
+Whenever a creature you control dies, target player loses 1 life and you gain 1 life.
+{3}, {T}, Sacrifice a creature you control: Draw a card. => Artifact creatures you control get +1/+1.
+Whenever a creature you control dies, target player loses 1 life and you gain 1 life.
+{3}, Sacrifice a creature you control: Draw a card.
+
+Aether Dart
+rules_text: Aether Dart deals 1 damage to target creature. If this spell was cast from a graveyard, it deals 2 damage instead.
+Flashback—{R}, Sacrifice a Mountain. => Aether Dart deals 1 damage to target creature. If this spell was cast from a graveyard, it deals 2 damage instead.
+Flashback—{R}, Sacrifice a Mountain. [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+Dusk Factory
+rules_text: This land enters tapped unless you control an Island or a Mountain 
+{T}: Add {B}.
+{1}{U}{R}, {T}: You get {E}{E}, draw a card then discard a card. => This land enters tapped unless you control an Island or a Mountain.
+{T}: Add {B}.
+{1}{U}{R}, {T}: You get {E}{E}, draw a card then discard a card.
+
+Kurna Headquarters
+rules_text: This land enters tapped unless you control a Plains or an Island 
+{T}: Add {G}.
+{1}{W}{U}, {T}: Put a +1/+1 counter on up to two target creatures you control. => This land enters tapped unless you control a Plains or an Island 
+{T}: Add {G}.
+{1}{W}{U}, {T}: Put a +1/+1 counter on target creatures you control.
+
+Devra Temple
+rules_text: This land enters tapped unless you control a Forest or a Mountain
+{T}: Add {W}.
+{1}{R}{G}, {T}: Humans and Monks you control get +1/+1 until end of turn. => This land enters tapped unless you control a Forest or a Mountain.
+{T}: Add {W}.
+{1}{R}{G}, {T}: Humans and Monks you control get +1/+1 until end of turn.
+
+
+VERSION 14 CHANGELOG
 ====================
 
 
