@@ -1,4 +1,782 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+RZ10 — Find the Magic Acorn added.
+
+CU09 — Re-Hash removed.
+CW07 — Devote Evangelist removed.
+UZ07 — removed.
+CB08 — Big Bad Ouphe removed.
+UW04 — removed.
+UW02 — removed.
+UZ12a — removed.
+UZ11a — removed.
+UR05 — Heartfire Bolt removed.
+UZ14a — removed.
+UZ20a — removed.
+UZ13a — removed.
+UZ15a — removed.
+UZ17a — removed.
+UZ19a — removed.
+UZ16a — removed.
+UZ18a — removed.
+CR12 — Fling a Pie removed.
+CB05 — Innocuous Prankster removed.
+CB16b — Rankle's Reveal removed.
+UZ18b — removed.
+CG16a — Raid on Ketria Gemgrove removed.
+RG04 — Biomewide Migration removed.
+UG03 — removed.
+CR05 — Owl-Eyed Archer removed.
+CW16a — Raid on the Fifth Sphere removed.
+CB16a — Raid on the Fairie Garden removed.
+CR16a — Raid on Emberheart-Oven removed.
+CU16a — Raid on the Potions Class removed.
+RB04 — removed.
+RR04 — removed.
+RW02 — Flavor of Orthodoxy removed.
+RU04 — removed.
+RZ07 — Quandrix Provost removed.
+UB08 — Killer Deal removed.
+UB09 — Seductive Prophecy removed.
+UB02 — Knight of Night removed.
+CB07 — Professor From Another Realm removed.
+CB03 — Mellow-o-Wisps removed.
+CB02 — Midnight Snacqueraider removed.
+CB01 — Plague Knight removed.
+CB14 — Entreating Witch removed.
+CU08 — Check your work! removed.
+UU06 — Two Weeks Suspension removed.
+CU14 — Group Study removed.
+UU10 — Attracting Fixed Point removed.
+CU07 — Missing Ingredient removed.
+CU06 — Exponentiation Professor removed.
+CU05 — Professor of Culinary Arts removed.
+UW01 — removed.
+UU05 — Snapping Torus removed.
+CU02 — Arithmetic Frogression removed.
+CU12 — Call Campus Saftey removed.
+CW10 — Served In Ice removed.
+CW08 — Sleeperagent Skymount removed.
+CU16b — Zimone Gets Even removed.
+CW01 — Phyrexian Pridemate removed.
+CW02 — Bladed Ambassador removed.
+CW03 — Autocatalytic Hare removed.
+CW04 — Celestial Crier removed.
+UW03 — removed.
+UW07 — Unappetizing Juggernaut removed.
+CW16b — Mother's Retribution removed.
+CW05 — Elder Cenobite removed.
+CW09 — Preator's Glory removed.
+CG01 — Hungry Brushwagg removed.
+UG08 — Tenured Bondologist removed.
+CG08 — Indatha Ooze removed.
+CG16b — Umori Snaps Back removed.
+UG10 — Feast of the Pack removed.
+CG04 — Webbonder removed.
+CB06 — The Tooth Faerie removed.
+CG02 — Thornvault Anomaly removed.
+CG03 — Symbiotic Shaman removed.
+CG05 — Beetle-Horned Rhino removed.
+CG10 — Hungry Pinekraken removed.
+UG05 — Establish Eludha removed.
+CW11 — Hunger of Mites removed.
+CR01 — Raging Marten removed.
+CR02 — Pilfering Vole removed.
+UR01 — Root Maze Hatcher removed.
+UR02 — Seedbed Sentry removed.
+CR04 — Sharp Clawed Scout removed.
+CR08 — Three Tree City Guard removed.
+CR10 — Pond Creek Predator removed.
+UR10 — Alluring Aromas removed.
+CR14 — Wield the Seed Flame removed.
+CR16b — Mabel's Rise removed.
+CZ03 — Consummate Bladetail removed.
+CZ04 — OilFang Bonder removed.
+UZ05 — Book Thief removed.
+CZ06 — Hydrodynamicist removed.
+CZ08 — Haymeadow Brigand removed.
+UZ08 — Tortiose and Hare removed.
+UZ10 — removed.
+UU04 — Give Insight removed.
+RZ05 -- May I Have Your Name removed.
+UB03 — Faerie Assassin removed.
+CZ05 — Entrancing Faye removed.
+CG11 — Advantageous Adaptation removed.
+CG06 — Zagoth Snapper removed.
+CG07 — Megafauna Grazer removed.
+CG09 — Reynard Bonder removed.
+CG11 — Bite Down removed.
+CB13 — I'm Eternally Grateful removed.
+CB10 — Delicious Apples removed.
+CG14 — Thunderous Stomp removed.
+UG01 — Venom Meringue Pie removed.
+CR06 —Shrunken Field Reasearcher removed.
+CR03 — Emberheart Mouster removed.
+CR07 — Burning Oak Duo removed.
+CR11 — Uplift Animalfolk removed.
+CR13 — Rally the Squirrels removed.
+CB09 — Shadow Swap removed.
+CB11 — Negotiated Death removed.
+CW12 — Phyrexian Chalice removed.
+CW06 — Lorehold Paleodietitian removed.
+CU13 — Inspiring Lemma Beans removed.
+CU01 — Quandrix Garden Gate removed.
+UU07 — Square Elemental removed.
+CU11 — Publish Analysis removed.
+CU04 — Sneaky Researcher removed.
+CW14 — Oleaginous Portal removed.
+RL01 — The Holy Oil Spring removed.
+RL02 — Atollpology removed.
+CW13 — Open Wide removed.
+RL05 — Living Great Tree removed.
+UU02 — Paperback Snake removed.
+CU10 — Freshman Meal Plan removed.
+MZ11 — Elesh Norn, Essence Cenobite removed.
+MZ14 — Mabel, Valley's Champion removed.
+MZ15 — Umori, Glue Beast removed.
+MZ12 — Zimone, Galeforce Researcher removed.
+RL04 — Emberheart Greatsword removed.
+RL03 — The Dusk Woods removed.
+RZ01 removed.
+RZ03 — Calamity X removed.
+RZ04 removed.
+RZ06 removed.
+RZ09 — removed.
+RZ10 — removed.
+RW01 — Mondrak, Impassable Horror removed.
+RW04 — Begin the Feast removed.
+RU01 removed.
+RU02 — Pensive Professor removed.
+RB01 — Agatha, Cauldron Witch removed.
+UR01 removed.
+RG02 — WildCat Bonder removed.
+RG01 — Kogla, the Titan Appe removed.
+RB02 — Gumdrop Poisoner removed.
+UZ01 — removed.
+UW08 — Spears to Sickles removed.
+CW15b — Lifeforce Alliance removed.
+CW15a — Trial of Faith removed.
+CB15a — Trial of Guile removed.
+CB15b — Fruitful Alliance removed.
+CU15a — Test of Intellect removed.
+CU15b — Collaborative Scholarship removed.
+CR15a — Trial of Scurry removed.
+CG15b — Kinship of the Herd removed.
+UB01 — The Muffin Man removed.
+CG15a — Trial of Might removed.
+CR15b — Battleproven Duo removed.
+UR03 — Bloodlust Iguana removed.
+RR03 — Sword from the Pond removed.
+UR04 — ScarletSky Duo removed.
+UG02 — Chevill's Apprentice removed.
+UG04 — removed.
+UB10 — removed.
+UB05 — Red Riding Hood removed.
+UZ03 — removed.
+UZ04 — removed.
+UZ09 — Itsy Bitey Spider removed.
+UR03 — Wiskerbow Archer removed.
+MZ13 — Rankle, Trusted Borrower removed.
+UU01 — Axiom Channeler removed.
+UZ06 — removed.
+CZ07 — Strix Bonder removed.
+CZ09 — Stag Bonder removed.
+CZ10 — Frenzied Bonder removed.
+CG13— Surivor's Bond removed.
+CB04 — Oilsworn Paladin removed.
+CZ02 — Liturgy Preparer removed.
+UA01 — Eriette's Tempting Apple removed.
+CU03 — Quaildratic Formula removed.
+UU09 — Stress of Finals Week removed.
+UW10 — Call to Compleation removed.
+UW10 — removed.
+CR09 — Oilslick Watchfrog removed.
+CB12 — Baked into a Pie removed.
+UR08 — Return the Flavor removed.
+UU08 — Doesn't Count removed.
+UA06 — Giant Loaf removed.
+UZ02 — removed.
+CZ01 — Biblopex Caterer removed.
+RZ08 — Sand Witch removed.
+M02 — Ms. Bumbleflower, Generous Hare removed.
+M03 — Gyruda, Oscilating Wave removed.
+M01 — Ixhel, Porcelain Angel removed.
+M04 — Cruelclaw, Leader of the Red Scarves removed.
+M05 — Kaheera, Monster Paragon removed.
+M06 — Urabrask, Rebel Praetor removed.
+M07 — Quandrix, Resonance Maestro removed.
+M08 — Eriette of Love's Bite removed.
+M09 — Quintorious, Defender of History removed.
+M10 - The Golden Goose removed.
+UB07 — Back for Seconds removed.
+UR07 — removed.
+UZ19b — removed.
+UZ17b — removed.
+UZ16b — removed.
+UZ13b — removed.
+UZ12b — removed.
+RB03 — Magic Piggies removed.
+UB06 — Moonlight Adder removed.
+UZ22 — Compleat Revival removed.
+UZ21 — removed.
+UZ23 — removed.
+UZ26 — Mace The Exam removed.
+UZ24 — removed.
+UZ25 — removed.
+UW05 — removed.
+CL01 — Raugrin Lavaflats removed.
+CL02 — The Woods at Twilight removed.
+CL03 — Department of Environmental Sciences removed.
+CL04 — Phyrexian Passage removed.
+CL05 — The Valley Market removed.
+UZ27 — removed.
+UZ28 — removed.
+UZ29 — removed.
+UZ30 — removed.
+CL06 — Norn's Basilica removed.
+CL07 — Bilbelopex removed.
+CL08 — Witches Hut removed.
+CL09 — The Valley removed.
+CL10 — Ketria removed.
+UG07 — removed.
+UG09 — removed.
+UU03 — removed.
+CA02 — removed.
+CA04 — Ginger Snaposaurus removed.
+UA02 — removed.
+UA03 — Triple Berry Patrol removed.
+UA04 — Her Royal Meringue removed.
+UA05 — removed.
+UA07 — removed.
+UA08 — removed.
+UG06 — removed.
+RZ02 — removed.
+RW03 — Mite Overseer removed.
+RG03 — Umori's Hunger removed.
+RR01 — Whisker, the Fearless removed.
+RR02 — Sunspine Lynx removed.
+RU02 removed.
+
+
+VERSION 2 CHANGELOG
+====================
+
+CU09 — Re-Hash added.
+CW07 — Devote Evangelist added.
+UZ12a — added.
+UZ11a — added.
+UZ14a — added.
+UZ20a — added.
+UZ13a — added.
+UZ15a — added.
+UZ17a — added.
+UZ19a — added.
+UZ16a — added.
+UZ18a — added.
+CR12 — Fling a Pie added.
+CB05 — Innocuous Prankster added.
+CB16b — Rankle's Reveal added.
+UZ18b — added.
+CG16a — Raid on Ketria Gemgrove added.
+RG04 — Biomewide Migration added.
+UG03 — added.
+CR05 — Owl-Eyed Archer added.
+CW16a — Raid on the Fifth Sphere added.
+CB16a — Raid on the Fairie Garden added.
+CR16a — Raid on Emberheart-Oven added.
+CU16a — Raid on the Potions Class added.
+RB04 — added.
+RR04 — added.
+RW02 — Flavor of Orthodoxy added.
+RU04 — added.
+UB08 — Killer Deal added.
+UB09 — Seductive Prophecy added.
+UB02 — Knight of Night added.
+CB03 — Mellow-o-Wisps added.
+CB01 — Plague Knight added.
+CB14 — Entreating Witch added.
+CU08 — Check your work! added.
+UU06 — Two Weeks Suspension added.
+CU14 — Group Study added.
+UU10 — Attracting Fixed Point added.
+CU07 — Missing Ingredient added.
+CU06 — Exponentiation Professor added.
+CU05 — Professor of Culinary Arts added.
+UW01 — added.
+UU05 — Snapping Torus added.
+CU12 — Call Campus Saftey added.
+CW10 — Served In Ice added.
+CW08 — Sleeperagent Skymount added.
+CU16b — Zimone Gets Even added.
+UW07 — Unappetizing Juggernaut added.
+CW16b — Mother's Retribution added.
+CW09 — Preator's Glory added.
+UG08 — Tenured Bondologist added.
+CG08 — Indatha Ooze added.
+CG16b — Umori Snaps Back added.
+UG10 — Feast of the Pack added.
+CG04 — Webbonder added.
+CB06 — The Tooth Faerie added.
+CG10 — Hungry Pinekraken added.
+CW11 — Hunger of Mites added.
+CR04 — Sharp Clawed Scout added.
+CR08 — Three Tree City Guard added.
+CR10 — Pond Creek Predator added.
+UR10 — Alluring Aromas added.
+CR14 — Wield the Seed Flame added.
+CR16b — Mabel's Rise added.
+CZ03 — Consummate Bladetail added.
+UZ05 — Book Thief added.
+UZ10 — added.
+UB03 — Faerie Assassin added.
+CG11 — Advantageous Adaptation added.
+CG09 — Reynard Bonder added.
+CG11 — Bite Down added.
+CB13 — I'm Eternally Grateful added.
+CB10 — Delicious Apples added.
+CG14 — Thunderous Stomp added.
+CR06 —Shrunken Field Reasearcher added.
+CR03 — Emberheart Mouster added.
+CR07 — Burning Oak Duo added.
+CR11 — Uplift Animalfolk added.
+CR13 — Rally the Squirrels added.
+CB09 — Shadow Swap added.
+CW12 — Phyrexian Chalice added.
+CU13 — Inspiring Lemma Beans added.
+CU11 — Publish Analysis added.
+CW14 — Oleaginous Portal added.
+RL01 — The Holy Oil Spring added.
+CW13 — Open Wide added.
+RL05 — Living Great Tree added.
+CU10 — Freshman Meal Plan added.
+MZ11 — Elesh Norn, Essence Cenobite added.
+MZ14 — Mabel, Valley's Champion added.
+MZ15 — Umori, Glue Beast added.
+MZ12 — Zimone, Galeforce Researcher added.
+RL03 — The Dusk Woods added.
+RZ10 — added.
+RW01 — Mondrak, Impassable Horror added.
+RW04 — Begin the Feast added.
+RU02 — Pensive Professor added.
+RB01 — Agatha, Cauldron Witch added.
+UR01 added.
+RG02 — WildCat Bonder added.
+RG01 — Kogla, the Titan Appe added.
+RB02 — Gumdrop Poisoner added.
+UW08 — Spears to Sickles added.
+CW15b — Lifeforce Alliance added.
+CW15a — Trial of Faith added.
+CB15a — Trial of Guile added.
+CB15b — Fruitful Alliance added.
+CU15a — Test of Intellect added.
+CU15b — Collaborative Scholarship added.
+CR15a — Trial of Scurry added.
+CG15b — Kinship of the Herd added.
+CG15a — Trial of Might added.
+CR15b — Battleproven Duo added.
+UR03 — Bloodlust Iguana added.
+RR03 — Sword from the Pond added.
+UB10 — added.
+UB05 — Red Riding Hood added.
+MZ13 — Rankle, Trusted Borrower added.
+UZ06 — added.
+CZ07 — Strix Bonder added.
+CZ09 — Stag Bonder added.
+CZ10 — Frenzied Bonder added.
+CG13— Surivor's Bond added.
+CB04 — Oilsworn Paladin added.
+CZ02 — Liturgy Preparer added.
+CA01 — Egg BombBomb added.
+UU09 — Stress of Finals Week added.
+UW10 — Call to Compleation added.
+CR09 — Oilslick Watchfrog added.
+CB12 — Baked into a Pie added.
+UR08 — Return the Flavor added.
+UU08 — Doesn't Count added.
+UA06 — Giant Loaf added.
+CZ01 — Biblopex Caterer added.
+RZ08 — Sand Witch added.
+M02 — Ms. Bumbleflower, Generous Hare added.
+M03 — Gyruda, Oscilating Wave added.
+M01 — Ixhel, Porcelain Angel added.
+M04 — Cruelclaw, Leader of the Red Scarves added.
+M05 — Kaheera, Monster Paragon added.
+M06 — Urabrask, Rebel Praetor added.
+M07 — Quandrix, Resonance Maestro added.
+M08 — Eriette of Love's Bite added.
+M09 — Quintorious, Defender of History added.
+M10 - The Golden Goose added.
+UB07 — Back for Seconds added.
+UR07 — added.
+UZ19b — added.
+UZ17b — added.
+UZ16b — added.
+UZ13b — added.
+UZ12b — added.
+RB03 — Magic Piggies added.
+UB06 — Moonlight Adder added.
+UZ22 — Compleat Revival added.
+UZ21 — added.
+UZ23 — added.
+UZ26 — Mace The Exam added.
+UZ24 — added.
+UZ25 — added.
+UW05 — added.
+CL01 — Raugrin Lavaflats added.
+CL02 — The Woods at Twilight added.
+CL03 — Department of Environmental Sciences added.
+CL04 — Phyrexian Passage added.
+CL05 — The Valley Market added.
+UZ27 — added.
+UZ28 — added.
+UZ29 — added.
+UZ30 — added.
+CL06 — Norn's Basilica added.
+CL07 — Bilbelopex added.
+CL08 — Witches Hut added.
+CL09 — The Valley added.
+CL10 — Ketria added.
+UG07 — added.
+UG09 — added.
+UU03 — added.
+CA02 — added.
+CA03 — Cabbatrice added.
+CA04 — Ginger Snaposaurus added.
+UA02 — added.
+UA03 — Triple Berry Patrol added.
+UA04 — Her Royal Meringue added.
+UA05 — added.
+UA07 — added.
+UA08 — added.
+UG06 — added.
+RZ02 — added.
+RW03 — Mite Overseer added.
+RG03 — Umori's Hunger added.
+RR01 — Whisker, the Fearless added.
+RR02 — Sunspine Lynx added.
+
+CU10 — Re-Hash removed.
+CW08 — Devote Evangelist removed.
+UZ12 — For Martyrdom removed.
+UZ11 — For Wisdom removed.
+UZ14 — For Flight removed.
+UZ20 — For Might removed.
+UZ13 — For Restoration removed.
+UZ15 — For Discipline removed.
+UZ17 — For Emergence removed.
+UZ19 — For Persistence removed.
+UZ16 — For Secrecy removed.
+UZ18 — For Notoriety removed.
+CR13 — Fling a Pie removed.
+CZ10 — removed.
+UZ17 — For Emergence other side removed.
+UZ12 — For Martyrdom other side removed.
+UZ30 — Rankle's Firstborn Bargain removed.
+CB12 — Innocuous Prank removed.
+CB18b — Rankle's Reveal removed.
+UZ18 — For Notoriety other side removed.
+CG18a — Raid on Ketria Gemgrove removed.
+CZ07 — Geometric Geology removed.
+RG03 — removed.
+UG03 — Stalking Crawler removed.
+CR06 — Owl-Eyed Archer removed.
+CW18a — Raid on the Fifth Sphere removed.
+CB18a — Raid on the Fairie Garden removed.
+CR18a — Raid on Emberheart-Forge removed.
+CU18a — Raid on the Bibleoplex Dinning Hall removed.
+RA01 — Kindred Artifact removed.
+RB03 — removed.
+RR03 — removed.
+RW03 — Celestial Vivification removed.
+RU03 — removed.
+UB13 — Killer Deal removed.
+CB16 — Seductive Prophecy removed.
+UB03 — Knight of Night removed.
+CB04 — Mellow-o-Wisps removed.
+CB01 — Cursed Butcher removed.
+CB03 — Dark Knight removed.
+CB15 — Entreating Witch removed.
+CU09 — Check your work! removed.
+UU05 — Two Weeks Suspension removed.
+CU15 — Group Study removed.
+CU16 — Attracting Fixed Point removed.
+CU08 — Missing Ingredient removed.
+CU07 — Exponentiation Professor removed.
+CU06 — Animation Theorist removed.
+UW1 — removed.
+CU05 — Snapping Torus removed.
+CU13 — Call Campus Saftey removed.
+CW11 — Served In Ice removed.
+CW09 — Sleeperagent Skymount removed.
+CU18b — Zimone Gets Even removed.
+CW07 — Unappetizing Juggernaut removed.
+CW18b — Mother's Retribution removed.
+CW10 — Preator's Glory removed.
+CG08 — Tenured Bondologist removed.
+CG09 — Indatha Ooze removed.
+CG18b — Umori Snaps Back removed.
+CG16 — Feast of the Pack removed.
+CG04 — Ketralid removed.
+CB06 — The Tooth Fairie removed.
+CG11 — Hungry Pinekraken removed.
+CW12 — Hunger of Mites removed.
+CR05 — Sharp Clawed Scout removed.
+CR09 — Three Tree City Guard removed.
+CR11 — Pond Creek Predator removed.
+CR16 — Alluring Aromas removed.
+CR15 — Wield the Seed Flame removed.
+CR18b — Mabel's Rise removed.
+CZ02 — EleshNorn's Freedom removed.
+CZ03 — removed.
+UZ05 — Unauthorized Researcher removed.
+UZ10 — Calamity removed.
+CZ09 — Soul Haggler removed.
+UB02 — Faerie Assassin removed.
+CG12 — Advantageous Adaptation removed.
+CG10 — Reynard Bonder removed.
+CG13 — Bite Down removed.
+CB14 — I'm Eternally Grateful removed.
+CB09 — Delicious Apple removed.
+CG15 — Thunderous Stomp removed.
+CR07 —Shrunken Field Reasearcher removed.
+CR04 — Emberheart Mouster removed.
+CR08 — Burning Oak Duo removed.
+CR12 — Uplift Animalfolk removed.
+CR14 — Rally the Squirrels removed.
+CB10 — Shadow Swap removed.
+CW13 — Phyrexian Chalice removed.
+CU14 — Inspiring Lemma Beans removed.
+CU12 — Publish Analysis removed.
+CW15 — Oleaginous Portal removed.
+RL01 — removed.
+CW14 — Open Wide removed.
+RL05 — removed.
+UW06 — Inspired by Elspeth removed.
+CU11 — Freshman Meal Plan removed.
+RZ11 — Elesh Norn removed.
+RZ14 — Mabel, Valley Bread-Winner removed.
+RZ15 — Umori, Glue Beast removed.
+RZ12 — Zimone, Galeforce Researcher removed.
+RL03 — removed.
+RZ02 removed.
+RZ08 removed.
+RZ10 — Mythos of Umori removed.
+RW01 removed.
+RW02 — Begin the Feast removed.
+RB01 removed.
+RR01 removed.
+RG01 — Big Cat Bonder removed.
+RG02 — removed.
+RB02 removed.
+CZ01 — Discrete removed.
+RW04a — removed.
+RB04a — removed.
+RU04a — removed.
+RR04a — removed.
+RG04a — removed.
+UW05 — Spears to Sickles removed.
+CW17b — Lifeforce Alliance removed.
+CW17a — Trial of Faith removed.
+!Join a team! removed.
+CB17a — Trial of Guile removed.
+CB17b — Fruitful Alliance removed.
+CU17a — Trial of Intellect removed.
+CU17b — Collaborative Scholarship removed.
+CR17a — Trial of Scurry removed.
+CG17b — Kinship of the Herd removed.
+CG17a — Trial of Might removed.
+CR17b — Battleproven Duo removed.
+CR03 — Bloodlust Iguana removed.
+RR02 — For the Valley! removed.
+UR06 — Inspired by Ral removed.
+UG06 — Inspired by Vivien removed.
+UB05 — Shadow Snaffle removed.
+UB04 — Red Riding Hood removed.
+UB06 — Inspired by Oko removed.
+UA01 - Attrition Tactics removed.
+UU06 — Inspired by The Kenriths removed.
+RZ13 — Rankle, Trusted Borrower removed.
+UZ06 — Mace The Exam removed.
+!U — keywords removed.
+CZ07 — Quandrix Bonder removed.
+CZ09 — X Bonder removed.
+CZ10 — Y Bonder removed.
+CG14— Surivor's Bond removed.
+CB05 — Oilsworn Paladin removed.
+CB13 — Nocturnal Hunger removed.
+ZG — Ooze removed.
+CZ03 removed.
+CA01 — Shell Shocker removed.
+UU08 — Stress of Finals Week removed.
+UB08 — Three brave pigs removed.
+CW16 — Call to Compleation removed.
+CR10 — Oilslick Watchfrog removed.
+
+CB02 — Midnight Snacqueraider
+
+CU02 — Arithmetic Frogression
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.
+When a counter is put on Arithmetic Frogression, create a Food token. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.
+When a counter is put on Arithmetic Frogression for the first time each turn, create a Food token.
+
+CW01 — Phyrexian Pridemate
+
+CW05 — Elder Cenobite
+rules_text: Whenever a creature or Food enters under your team's control, gain 1 life. If this is the third time you've gained life this turn, draw a card. => Whenever a creature or Food enters under your control, gain 1 life. If this is the third time you've gained life this turn, draw a card.
+
+CG03 — Symbiotic Shaman
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature your team controls when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+When this creature deals combat damage to a player, create a Food token.. => Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+When this creature deals combat damage to a player, create a Food token..
+
+UG05 — Establish Eludha
+rules_text: Scry 2
+Up to one target non-human creature gains hexproof and indestructible until end of turn.
+Up to one target human gets +3/+3 until end of turn. => Up to one target non-human creature gains hexproof and indestructible until end of turn.
+Up to one target human creature gets +3/+3 until end of turn.
+
+UR02 — Seedbed Sentry
+pt: 2/3 => 3/3
+
+CZ04 — OilFang Bonder
+cost: {2}{G}{W} => {1}{G}{GW}{W}
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature your team controls when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+ Toxic 2. [i](Players dealt combat damage by this creature also get two poison counters.)[/i] => Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+ Toxic 2. [i](Players dealt combat damage by this creature also get two poison counters.)[/i]
+
+CZ06 — Hydrodynamicist
+cost: {U}{R} => {U}{UR}{R}
+rules_text: Whenever your team casts a spell from anywhere other than your hand, untap Hydrodynamicist.
+{T}: Hydrodynamicist deals 1 damage to each opponent. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, untap Hydrodynamicist.
+{T}: Hydrodynamicist deals 1 damage to each opponent.
+pt: 1/3 => 2/3
+
+CZ08 — Haymeadow Brigand
+cost: {1}{B}{R} => {B}{BR}{R}
+rules_text: First strike
+Whenever a non-token creature under another player's control dies, create a Food token. => First strike
+Whenever a creature token dies, you may haggle. If you do, create a Food token. [i](To haggle, remove a counter from a permanent you control.)[/i]
+pt: 3/1 => 3/2
+
+CZ05 — Entrancing Faye
+cost: {1}{U}{B} => {U}{UB}{B}
+rules_text: Flying 
+When Entrancing Faye enters, stun up to two target creatures. [i](Tap them then put a stun counter on them.)[/i] => Flash
+Flying 
+{UB}: Return Entrancing Faye to its owner's hand.
+pt: 1/1 => 2/2
+
+CG07 — Megafauna Grazer
+type: Creature — Cat Beast => Creature — Cat Fractal Beast
+rules_text: Vigilance, reach
+{2}, Sacrifice a Food: Search your library basic land card, put it onto the battlefield tapped, then shuffle. Activate this ability only as a sorcery and only once each turn. => Megafauna Grazer enters with four +1/+1 counters on it.
+Vigilance
+{2}, Sacrifice a Food: Reveal the top five cards of your library. You may put a land card from among them into your hand. Put the rest on the bottom of your library in a random order.
+pt: 2/4 => 0/0
+
+UG01 — Venom Meringue Pie
+rules_text: Deathtouch
+{2}, {T}, sacrifice Venom Meringue Pie: You gain 3 life. => Deathtouch
+{2}, {T}, Sacrifice Venom Meringue Pie: You gain 3 life.
+
+CW06 — Lorehold Paleodietitian
+rules_text: Vigilance
+Whenever Lorehold Paleodietitian blocks, put two +1/+1 counters on target non-creature artifact you control and it gains “{2}: Transform this token into a 0/0 Phyrexian artifact creature.” => Vigilance
+Whenever Lorehold Paleodietitian blocks, Incubate Food 2 [i](Put two +1/+1 counters on target non-creature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i]
+
+UU07 — Square Elemental
+rules_text: Flying => Plot {2}{U} [i](You may pay {2}{U} and exile this card from your hand. Cast it as a sorcery on a later turn without paying its mana cost. Plot only as a sorcery.)[/i]
+Flying
+
+CU04 — Sneaky Researcher
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+[i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, each player on your team draws a card then discards a card. => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+[i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, you draw a card then discard a card.
+
+RL02 — Atollpology
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+{T}: Add {U}.
+{1}{U}{U} [b]Level 2[/b]
+When Atollpology becomes level 2, draw two cards then discard a card.
+ Level 3
+​
+{2}{U}{U} Level 3
+Creatures you control with base power or toughness zero have flying. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Atollpology isn't an enchantment at level 1.
+{T}: Add {U}.
+{2}{U}{U} [b]Level 2[/b]
+When Atollpology becomes level 2, draw two cards then discard a card.
+ Level 3
+​
+{4}{U}{U} Level 3
+Each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to its mana cost.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+{T}: Add {U}.
+{1}{U}{U} [b]Level 2[/b]
+When Atollpology becomes level 2, draw two cards then discard a card.
+ Level 3
+​
+{2}{U}{U} Level 3
+Creatures you control with base power or toughness zero have flying. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+Atollpology isn't an enchantment at level 1.
+{T}: Add {U}.
+{2}{U}{U} [b]Level 2[/b]
+When Atollpology becomes level 2, draw two cards then discard a card.
+ Level 3
+​
+{4}{U}{U} Level 3
+Each instant and sorcery card in your graveyard has flashback. The flashback cost is equal to its mana cost.
+
+RL04 — Emberheart Greatsword
+
+RZ03 — Calamity X
+type: Creature — Minotaur => Creature
+
+RZ09 —
+type:  => Creature
+
+RU01
+type:  => Legendary Creature
+
+UZ01 —
+type:  => Creature
+cost: {W}{U} => {2}{W}{U}
+
+UB01 — The Muffin Man
+rules_text: Defender
+{T}, put a -1/-1 on The Muffin Man: Create a Gingerbrute token. => Defender
+{T}, Put a -1/-1 on The Muffin Man: Create a Gingerbrute token.
+
+UZ03 —
+type: Enchantment — Aura => Creature
+rules_text: Enchant creature
+Enchanted creature has haste, vigilance, and battle cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Escape—- {RW}, Exile two other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => 
+
+UZ04 —
+type: Creature — Beast => Creature
+
+UZ09 — Itsy Bitey Spider
+rules_text: Deathtouch, Reach
+Whenever a creature an opponent controls with flying dies, its controller loses 1 life. => Deathtouch, Reach
+Whenever a creature an opponent controls with flying dies, its controller loses 1 life and you gain 1 life.
+
+UU01 — Axiom Channeler
+rules_text: [i]Magecraft[/i] — Whenever you cast or copy an instant or sorcery spell, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => [i]Conjecture[/i] — Whenever you cast a spell from anywhere but your hand, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+
+UZ02 —
+type: Enchantment Creature — Human Citizen => Creature — Phyrexian Knight
+cost: {1}{W}{B} => {1}{W}{WB}{B}
+rules_text:  => When you gain life for the first time each turn, return this card from your graveyard to your hand.
+Cycling {W}{B} [i]({W}{B}, Discard this card: Draw a card.)[/i]
+pt:  => 4/2
+
+RU02
+type: Creature — Merfolk Wizard => 
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
