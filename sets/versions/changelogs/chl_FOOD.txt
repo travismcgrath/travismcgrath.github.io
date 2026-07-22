@@ -1,4 +1,171 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+CU09 — Re-Hash added.
+CW07 — Devote Evangelist added.
+CB08 — Big Bad Ouphe added.
+CR12 — Fling a Pie added.
+CB05 — Innocuous Prankster added.
+CB16b — Rankle's Reveal added.
+CG16a — Raid on Ketria Gemgrove added.
+RG04 — Biomewide Migration added.
+CR05 — Owl-Eyed Archer added.
+CW16a — Raid on the Fifth Sphere added.
+CB16a — Raid on the Fairie Garden added.
+CR16a — Raid on Emberheart-Oven added.
+CU16a — Raid on the Potions Class added.
+RB04 — Careful What You Ask For added.
+RR04 — Flavor of Autumn added.
+RW02 — Flavor of Orthodoxy added.
+RU04 — Chronicle added.
+RZ07 — Reason added.
+CB07 — Professor From Another Realm added.
+CB03 — Mellow-o-Wisps added.
+CB02 — Midnight Snacqueraider added.
+CB01 — Plague Knight added.
+CB14 — Entreating Witch added.
+CU08 — Check your work! added.
+CU14 — Group Study added.
+CU07 — Missing Ingredient added.
+CU06 — Exponentiation Professor added.
+CU05 — Professor of Culinary Arts added.
+CU02 — Arithmetic Frogression added.
+CU12 — Call Campus Saftey added.
+CW10 — Served In Ice added.
+CW08 — Sleeperagent Skymount added.
+CU16b — Zimone Gets Even added.
+CW01 — Phyrexian Pridemate added.
+CW02 — Bladed Ambassador added.
+CW03 — Autocatalytic Hare added.
+CW04 — Celestial Crier added.
+CW16b — Mother's Retribution added.
+CW05 — Elder Cenobite added.
+CW09 — Preator's Glory added.
+CG01 — Hungry Brushwagg added.
+CG08 — Indatha Ooze added.
+CG16b — Umori Snaps Back added.
+CG04 — Webbonder added.
+CB06 — The Tooth Faerie added.
+CG02 — Thornvault Anomaly added.
+CG03 — Symbiotic Shaman added.
+CG05 — Beetle-Horned Rhino added.
+CG10 — Hungry Pinekraken added.
+CW11 — Hunger of Mites added.
+CR01 — Raging Marten added.
+CR02 — Pilfering Vole added.
+CR04 — Sharp Clawed Scout added.
+CR08 — Three Tree City Guard added.
+CR10 — Pond Creek Predator added.
+CR14 — Wield the Seed Flame added.
+CR16b — Mabel's Rise added.
+CZ03 — Consummate Bladetail added.
+CZ04 — OilFang Bonder added.
+CZ06 — Hydrodynamicist added.
+CZ08 — Haymeadow Brigand added.
+RZ05 -- May I Have Your Name added.
+CZ05 — Entrancing Faye added.
+CG11 — Advantageous Adaptation added.
+CG06 — Zagoth Snapper added.
+CG07 — Megafauna Grazer added.
+CG09 — Reynard Bonder added.
+CG11 — Devour Whole added.
+CB13 — I'm Eternally Grateful added.
+CB10 — Delicious Apples added.
+CG14 — Thunderous Stomp added.
+CR06 —Shrunken Field Reasearcher added.
+CR03 — Emberheart Mouster added.
+CR07 — Burning Oak Duo added.
+CR11 — Uplift Animalfolk added.
+CR13 — Rally the Squirrels added.
+CB09 — Shadow Swap added.
+CB11 — Negotiated Death added.
+CW12 — Phyrexian Chalice added.
+CW06 — Lorehold Paleodietitian added.
+CU13 — Inspiring Lemma Beans added.
+CU01 — Quandrix Garden Gate added.
+CU11 — Publish Analysis added.
+CU04 — Sneaky Researcher added.
+CW14 — Oleaginous Portal added.
+RL01 — The Holy Oil Spring added.
+CW13 — Open Wide added.
+RL05 — Living Great Tree added.
+CU10 — Freshman Meal Plan added.
+MZ11 — Elesh Norn, Essence Cenobite added.
+MZ14 — Mabel, Valley's Champion added.
+MZ15 — Umori, Glue Beast added.
+MZ12 — Zimone, Galeforce Researcher added.
+RL04 — Emberheart Greatsword added.
+RL03 — The Dusk Woods added.
+RZ01 — Holy Relics Masterclass added.
+RZ03 — Blight Rabbit added.
+RZ04 — Wormcoil Hydra added.
+RZ06 — Advanced Bravery added.
+RZ09 — Esdragon added.
+RW01 — Mondrak, Impassable Horror added.
+RW04 — Begin the Feast added.
+RU01 — Larine Arneza, Valedictorian added.
+RU02 — Pensive Professor added.
+RB01 — Agatha, Cauldron Witch added.
+RG02 — WildCat Bonder added.
+RG01 — Kogla, the Titan Appe added.
+RB02 — Gumdrop Poisoner added.
+CW15b — Lifeforce Alliance added.
+CW15a — Trial of Faith added.
+CB15a — Trial of Guile added.
+CB15b — Fruitful Alliance added.
+CU15a — Test of Intellect added.
+CU15b — Collaborative Scholarship added.
+CR15a — Trial of Scurry added.
+CG15b — Kinship of the Herd added.
+CG15a — Trial of Might added.
+CR15b — Battleproven Duo added.
+RR03 — Sword from the Pond added.
+MZ13 — Rankle, Trusted Borrower added.
+CZ07 — Strix Bonder added.
+CZ09 — Stag Bonder added.
+CZ10 — Frenzied Bonder added.
+CG13— Surivor's Bond added.
+CB04 — Oilsworn Paladin added.
+CZ02 — Liturgy Preparer added.
+CU03 — Quaildratic Formula added.
+CR09 — Oilslick Watchfrog added.
+CB12 — Baked into a Pie added.
+CZ01 — Biblopex Caterer added.
+RZ08 — Sand Witch added.
+M02 — Ms. Bumbleflower, Generous Hare added.
+M03 — Gyruda, Oscilating Wave added.
+M01 — Ixhel, Porcelain Angel added.
+M04 — Cruelclaw, Leader of the Red Scarves added.
+M05 — Kaheera, Monster Paragon added.
+M06 — Urabrask, Rebel Praetor added.
+M07 — Quandrix, Resonance Maestro added.
+M08 — Eriette of Love's Bite added.
+M09 — Quintorious, Defender of History added.
+M10 - The Golden Goose added.
+RB03 — Magic Piggies added.
+CL01 — Raugrin Lavaflats added.
+CL02 — The Woods at Twilight added.
+CL03 — Department of Environmental Sciences added.
+CL04 — Phyrexian Passage added.
+CL05 — The Valley Market added.
+CL06 — Norn's Basilica added.
+CL07 — Bilbelopex added.
+CL08 — Witches Hut added.
+CL09 — The Valley added.
+CL10 — Ketria added.
+CA02 — added.
+CA04 — Ginger Snaposaurus added.
+RZ02 — Duskhunter Bat added.
+RW03 — Mite Overseer added.
+RG03 — Umori's Hunger added.
+RR01 — Whisker, the Fearless added.
+RR02 — Sunspine Lynx added.
+RU03 — Cosmophysicist added.
+RL02 — Atollpology added.
+
+
+
+VERSION 3 CHANGELOG
 ====================
 
 RZ10 — Find the Magic Acorn added.
