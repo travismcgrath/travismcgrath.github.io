@@ -1,4 +1,238 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+UW05 — Auriok Descendant added.
+UW02 — Porcelain Myr added.
+UR07 — Heartfire Bolt added.
+UG04 — Dualcat added.
+CR05 — Owl-Eyed Bowman added.
+CB16a — Raid on the Faerie Garden added.
+UB08 — Killer Deal added.
+UU08 — Two Weeks Suspension added.
+UU10 — Calculate A Prophecy added.
+UW01 — Hosting Hawk added.
+UU02 — Snapping Torus added.
+UW03 — Charging Invader added.
+UG06 —Drannith Mess Sergeant added.
+UG10 — Feast of the Pack added.
+CG10 — Peckish Pinekraken added.
+UG08 — Establish Eludha added.
+UR01 — Root Maze Hatcher added.
+UR03 — Seedbed Sentry added.
+UR10 — Alluring Aromas added.
+UU07 — Give Insight added.
+UB03 — Faerie Assassin added.
+CG07 — Mandelbrot Grazer added.
+UG01 — Venom Meringue Pie added.
+UU04 — Square Elemental added.
+UU03 — Paperback Snake added.
+MW11 — Elesh Norn, Essence Cenobite added.
+MR14 — Mabel, Valley's Champion added.
+MG15 — Umori, Glue Beast added.
+MU12 — Zimone, Galeforce Researcher added.
+RZ09 — Esdragot added.
+RR02 — Calamity Lavabuck added.
+UR04 — Riverbank Paladin added.
+UR06 — ScarletSky Duo added.
+UG02 — Chevill's Apprentice added.
+UG03 —Ravenous Hyena added.
+UB09 — Graverob added.
+UB05 — Red Riding Hood added.
+UR05 — Wiskerbow Archer added.
+MB13 — Rankle, Trusted Borrower added.
+UU01 — Axiom Channeler added.
+CZ09 — Elder Bonder added.
+UA05 — Eriette's Tempting Apple added.
+UU06 — Stress of Finals Week added.
+UW10 — Call to Compleation added.
+UW09 — Punishment Sphere added.
+UR08 — Return the Flavor added.
+UU09 — Doesn't Count added.
+UA02 — Giant Loaf added.
+RZ07 — Quandrix Illusionist added.
+MZ02 — Ms. Bumbleflower, Generous Hare added.
+MZ03 — Gyruda, Oscilating Wave added.
+MZ01 — Ixhel, Porcelain Angel added.
+MZ04 — Cruelclaw, Leader of the Red Scarves added.
+MZ05 — Kaheera, Monster Paragon added.
+MZ06 — Urabrask, Rebel Praetor added.
+MZ07 — Quandrix, Resonance Maestro added.
+MZ08 — Eriette of Love's Bite added.
+MZ09 — Quintorious, Defender of History added.
+MZ10 - The Golden Goose added.
+UB07 — Back for Seconds added.
+UB04 — Hell's Sous Chef added.
+UW07 — Oily Shimmer added.
+CL09 — Oystershroom Lodge added.
+CL10 — Ketria Bosque added.
+UG09 — Snap Up added.
+UU05 — Tater Tot Monitor added.
+CA02 — Magic Fruit Stand added.
+UA01 — Chef's Knife added.
+UA03 — Triple Berry Patrol added.
+UA05 — Her Royal Meringue added.
+UA06 — Toffee Golem added.
+UG07 — Enraged Rex added.
+RW03 — Chef of Machines added.
+UR02 — Agate Instigator added.
+UG05 — Razorback Bonder added.
+UB02 — Night Knight added.
+UB01 — Gingerbread Cabin added.
+UR09 — Slay The Beast added.
+UB06 — Dark Lilly Ambushers added.
+UW06 — Compleated Butcher added.
+RW05 — Blood added.
+UW04 — Mite Overseer added.
+RU05 — Isometric Transformation added.
+RR05 — Topple The Tall added.
+RB05 — Wicked Famine added.
+RG05 — Savai Stampede added.
+UB10 — Tempting Offer added.
+UW08 — Uncork added.
+
+CR05 — Owl-Eyed Archer removed.
+CB16a — Raid on the Fairie Garden removed.
+RZ07 — Reason removed.
+CG10 — Hungry Pinekraken removed.
+CG07 — Megafauna Grazer removed.
+MZ11 — Elesh Norn, Essence Cenobite removed.
+MZ14 — Mabel, Valley's Champion removed.
+MZ15 — Umori, Glue Beast removed.
+MZ12 — Zimone, Galeforce Researcher removed.
+RZ09 — Esdragon removed.
+MZ13 — Rankle, Trusted Borrower removed.
+CZ09 — Stag Bonder removed.
+M02 — Ms. Bumbleflower, Generous Hare removed.
+M03 — Gyruda, Oscilating Wave removed.
+M01 — Ixhel, Porcelain Angel removed.
+M04 — Cruelclaw, Leader of the Red Scarves removed.
+M05 — Kaheera, Monster Paragon removed.
+M06 — Urabrask, Rebel Praetor removed.
+M07 — Quandrix, Resonance Maestro removed.
+M08 — Eriette of Love's Bite removed.
+M09 — Quintorious, Defender of History removed.
+M10 - The Golden Goose removed.
+CL09 — The Valley removed.
+CL10 — Ketria removed.
+CA02 — removed.
+RW03 — Mite Overseer removed.
+RR02 — Sunspine Lynx removed.
+
+CB05 — Innocuous Prankster
+rules_text: You may cast this spell as though it had flash if you haggle. [i](To haggle, remove a counter from a non-battle permanent you control.)[/i]
+Flying 
+When Innocuous Prankster enters, remove a counter from target permanent an opponent controls. => You may cast this spell as though it had flash if you haggle. [i](To haggle, remove a counter from a non-battle permanent you control.)[/i]
+Flying 
+When Innocuous Prankster enters, remove a counter from target non-battle permanent an opponent controls.
+
+CG16a — Raid on Ketria Gemgrove
+cost: {3}{G} => {1}{G}{G}
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever this Battle is dealt damage, you and the controller of the damage each create a Food token. Then you each may return a land card from your graveyard to your hand. => [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever this Battle is dealt damage, you and the controller of the damage each create a Food token. Then you each may put a land from your hand onto the battlefield tapped or return a land card from your graveyard to your hand.
+
+RB04 — Careful What You Ask For
+rules_text: Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Return target creature card with the greatest mana value from any graveyard to the battlefield. You lose life equal to twice its mana value unless you haggle. [i](To haggle, remove a counter from a non-battle permanent you control.)[/i] => Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Return target creature card with the greatest mana value from any graveyard to the battlefield. You lose life equal to its mana value unless you haggle. [i](To haggle, remove a counter from a non-battle permanent you control.)[/i]
+
+CB02 — Midnight Snacqueraider
+rules_text: When Midnight Snacqueraider enters, it deals 2 damage to up to one target Battle. => When Midnight Snacqueraider enters, it deals 2 damage to up to one target battle.
+
+CU02 — Arithmetic Frogression
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.
+When a counter is put on Arithmetic Frogression for the first time each turn, create a Food token. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.
+When a counter is put on Arithmetic Frogression for the first time each turn, you may Gift a Food. If you do, create a Food token.
+
+CW01 — Phyrexian Pridemate
+
+CW03 — Autocatalytic Hare
+rules_text: Offspring—Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+When Autocatalytic Hare enters, create a Food token. => Offspring—Sacrifice a Food [i](You may Sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+When Autocatalytic Hare enters, create a Food token.
+
+CG08 — Indatha Ooze
+cost: {5}{G} => {4}{G}{G}
+pt: 6/6 => 5/5
+
+CR14 — Wield the Seed Flame
+rules_text: Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+Wield deals 5 damage to target creature an opponent controls and 2 damage to target opponent or battle. 
+You and each player who helped pay for this spell creates a Food token. => Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+Wield deals 6 damage to target creature an opponent controls and 2 damage to target opponent or battle. 
+You and each player who helped pay for this spell creates a Food token.
+
+CZ06 — Hydrodynamicist
+
+CZ05 — Entrancing Faye
+type: Creature — Faeire Bard => Creature — Faerie Bard
+
+CG11 — Devour Whole
+rules_text: Target creature you control deals damage equal to its power to target creature or battle you don't own. => Target creature you control deals damage equal to its power to target creature or battle.
+
+CB13 — I'm Eternally Grateful
+rules_text: When “I'm Eternally Grateful” enters, put target creature card from any graveyard onto the battlefield under you control with a finality counter on it.
+When this enchantment leaves the battlefield, draw a card. => When “I'm Eternally Grateful” enters, put target creature card from any graveyard onto the battlefield under you control with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+When this enchantment leaves the battlefield, draw a card.
+
+CR03 — Emberheart Mouster
+rules_text: Offspring—Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+{T}: Target creature gains haste until end of turn. => Offspring—Sacrifice a Food [i](You may Sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+{T}: Target creature gains haste until end of turn.
+
+CR07 — Burning Oak Duo
+
+CB11 — Negotiated Death
+type: Sorcery => Instant
+
+RW01 — Mondrak, Impassable Horror
+rules_text: Defender, reach
+If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+{2}{WP}{WP}: Mondrak gains persist until end of turn. [i](When this creature dies, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)[/i] => Defender, reach
+If one or more tokens would be created under your control, twice that many of those tokens are created instead.
+{2}{WP}{WP}: Mondrak gains undying until end of turn. [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+pt: 4/5 => 3/4
+
+RU01 — Larine Arneza, Valedictorian
+
+RG01 — Kogla, the Titan Appe
+type: Legendary Creature => Legendary Creature — Ape
+
+CU15a — Test of Intellect
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+At the beginning of your upkeep, look at the top card of your library. You may pay {2} to foretell that card. If you do, its foretell cost is equal to its mana cost. => [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+At the beginning of your upkeep, look at the top card of your library. You may pay {2} to foretell that card. If you do, its foretell cost is equal to its mana cost reduced by {2}.
+
+CR15a — Trial of Scurry
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+Creatures your team controls with base power 2 or less have haste and get +1/+0. => [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+Creatures you control with base power 2 or less have haste and get +1/+0.
+
+CA01 — Egg BombBomb
+
+CR09 — Oilslick Watchfrog
+type: Creature — Frog => Creature — Phyrexian Frog
+
+CZ01 — Biblopex Caterer
+
+CA04 — Ginger Snaposaurus
+
+RR01 — Whisker, the Fearless
+cost: {1}{R} => {2}{R}
+
+RU03 — Cosmophysicist
+rules_text: Ward— Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Stun a creature.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card. => Ward— Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player stuns a creature they control.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card.
+
+RZ08 — Sand Witch
+
+
+VERSION 4 CHANGELOG
 ====================
 
 CU09 — Re-Hash added.
