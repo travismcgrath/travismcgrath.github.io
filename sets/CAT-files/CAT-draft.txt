@@ -1,1306 +1,1540 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Sword of Hearth and Home",
-			"rarity": "mythic",
-			"mana_cost": "{3}",
-			"type": "Artifact — Equipment",
-			"collector_number": "76",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/76_Sword of Hearth and Home.png"
-			}
-		},
-		{
-			"name": "Buster Sword",
-			"rarity": "mythic",
-			"mana_cost": "{3}",
-			"type": "Artifact — Equipment",
-			"collector_number": "73",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/73_Buster Sword.png"
-			}
-		},
-		{
-			"name": "Ocelot Pride",
-			"rarity": "mythic",
-			"mana_cost": "{W}",
-			"type": "Creature — Cat",
-			"collector_number": "36",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/36_Ocelot Pride.png"
-			}
-		},
-		{
-			"name": "Three Tree City",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "115",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/115_Three Tree City.png"
-			}
-		},
-		{
-			"name": "CAThar's Crusade",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Enchantment",
-			"collector_number": "18",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/18_CAThar's Crusade.png"
-			}
-		},
-		{
-			"name": "And They Shall Know No Fear",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Instant",
-			"collector_number": "4",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/4_And They Shall Know No Fear.png"
-			}
-		},
-		{
-			"name": "Badlands",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Swamp Mountain",
-			"collector_number": "81",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/81_Badlands.png"
-			}
-		},
-		{
-			"name": "Scrubland",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Plains Swamp",
-			"collector_number": "107",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/107_Scrubland.png"
-			}
-		},
-		{
-			"name": "Savai Triome",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Mountain Plains Swamp",
-			"collector_number": "106",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/106_Savai Triome.png"
-			}
-		},
-		{
-			"name": "Marsh Flats",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "90",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/90_Marsh Flats.png"
-			}
-		},
-		{
-			"name": "Bloodstained Mire",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "84",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/84_Bloodstained Mire.png"
-			}
-		},
-		{
-			"name": "Arid Mesa",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "80",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/80_Arid Mesa.png"
-			}
-		},
-		{
-			"name": "Plateau",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Mountain Plains",
-			"collector_number": "103",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/103_Plateau.png"
-			}
-		},
-		{
-			"name": "Godless Shrine",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Plains Swamp",
-			"collector_number": "87",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/87_Godless Shrine.png"
-			}
-		},
-		{
-			"name": "Bleachbone Verge",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "82",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/82_Bleachbone Verge.png"
-			}
-		},
-		{
-			"name": "Isolated Chapel",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "88",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/88_Isolated Chapel.png"
-			}
-		},
-		{
-			"name": "Sacred Foundry",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Mountain Plains",
-			"collector_number": "105",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/105_Sacred Foundry.png"
-			}
-		},
-		{
-			"name": "Leonin Warleader",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Cat Solider",
-			"collector_number": "31",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/31_Leonin Warleader.png"
-			}
-		},
-		{
-			"name": "Ajani, Nacatl Pariah",
-			"rarity": "mythic",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Cat Warrior",
-			"collector_number": "2",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/2_Ajani, Nacatl Pariah.png"
-			}
-		},
-		{
-			"name": "Renewed Solidarity",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}",
-			"type": "Enchantment",
-			"collector_number": "42",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/42_Renewed Solidarity.png"
-			}
-		},
-		{
-			"name": "Minas Tirith",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Legendary Land",
-			"collector_number": "91",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/91_Minas Tirith.png"
-			}
-		},
-		{
-			"name": "Ajani, Nacatl Avenger",
-			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Legendary Planeswalker — Ajani",
-			"collector_number": "0",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/0_Ajani, Nacatl Avenger.png"
-			}
-		},
-		{
-			"name": "Enduring Innocence",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{W}",
-			"type": "Enchantment Creature — Sheep Glimmer",
-			"collector_number": "22",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/22_Enduring Innocence.png"
-			}
-		},
-		{
-			"name": "Ephemerate",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Instant",
-			"collector_number": "24",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/24_Ephemerate.png"
-			}
-		},
-		{
-			"name": "Phelia, Exuberant Shepherd",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}",
-			"type": "Legendary Creature — Dog",
-			"collector_number": "40",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/40_Phelia, Exuberant Shepherd.png"
-			}
-		},
-		{
-			"name": "Skullclamp",
-			"rarity": "uncommon",
-			"mana_cost": "{1}",
-			"type": "Artifact",
-			"collector_number": "74",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/74_Skullclamp.png"
-			}
-		},
-		{
-			"name": "Vanquisher's Banner",
-			"rarity": "rare",
-			"mana_cost": "{5}",
-			"type": "Artifact",
-			"collector_number": "78",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/78_Vanquisher's Banner.png"
-			}
-		},
-		{
-			"name": "Animal Sanctuary",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "79",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/79_Animal Sanctuary.png"
-			}
-		},
-		{
-			"name": "Tocasia's Welcome",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}",
-			"type": "Enchantment",
-			"collector_number": "46",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/46_Tocasia's Welcome.png"
-			}
-		},
-		{
-			"name": "Lurrus of the Dream-Den",
-			"rarity": "rare",
-			"mana_cost": "{1}{W/B}{W/B}",
-			"type": "Legendary Creature — Cat Nightmare",
-			"collector_number": "72",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/72_Lurrus of the Dream-Den.png"
-			}
-		},
-		{
-			"name": "Not Dead After All",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Instant",
-			"collector_number": "59",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/59_Not Dead After All.png"
-			}
-		},
-		{
-			"name": "Welcoming Vampire",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Vampire",
-			"collector_number": "47",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/47_Welcoming Vampire.png"
-			}
-		},
-		{
-			"name": "Reprieve",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Instant",
-			"collector_number": "43",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/43_Reprieve.png"
-			}
-		},
-		{
-			"name": "Lion Sash",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Equipment Cat",
-			"collector_number": "32",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/32_Lion Sash.png"
-			}
-		},
-		{
-			"name": "Elas il-Kor, Sadistic Pilgrim",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{B}",
-			"type": "Legendary Creature — Phyrexian Kor Cleric",
-			"collector_number": "67",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/67_Elas il-Kor, Sadistic Pilgrim.png"
-			}
-		},
-		{
-			"name": "Cloudshift",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Instant",
-			"collector_number": "19",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/19_Cloudshift.png"
-			}
-		},
-		{
-			"name": "Alms Collector",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Cat Cleric",
-			"collector_number": "3",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/3_Alms Collector.png"
-			}
-		},
-		{
-			"name": "Night's Whispuuurrrr",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "58",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/58_Night's Whispuuurrrr.png"
-			}
-		},
-		{
-			"name": "Solemn Simulacrum",
-			"rarity": "rare",
-			"mana_cost": "{4}",
-			"type": "Artifact Creature — Golem",
-			"collector_number": "75",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/75_Solemn Simulacrum.png"
-			}
-		},
-		{
-			"name": "Merchant of Venom",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Cat Warlock",
-			"collector_number": "55",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/55_Merchant of Venom.png"
-			}
-		},
-		{
-			"name": "Umbral Expanse",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Plains Swamp",
-			"collector_number": "116",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/116_Umbral Expanse.png"
-			}
-		},
-		{
-			"name": "Command Tower",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "86",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/86_Command Tower.png"
-			}
-		},
-		{
-			"name": "Blood Crypt",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Swamp Mountain",
-			"collector_number": "83",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/83_Blood Crypt.png"
-			}
-		},
-		{
-			"name": "Tainted Peak",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "114",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/114_Tainted Peak.png"
-			}
-		},
-		{
-			"name": "Tainted Field",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "113",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/113_Tainted Field.png"
-			}
-		},
-		{
-			"name": "Prismatic Vista",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "104",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/104_Prismatic Vista.png"
-			}
-		},
-		{
-			"name": "Bojuka Bog",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "85",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/85_Bojuka Bog.png"
-			}
-		},
-		{
-			"name": "From the CATacombs",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "52",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/52_From the CATacombs.png"
-			}
-		},
-		{
-			"name": "Luminous Broodmoth",
-			"rarity": "mythic",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Insect",
-			"collector_number": "33",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/33_Luminous Broodmoth.png"
-			}
-		},
-		{
-			"name": "Divine Reckoning",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "21",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/21_Divine Reckoning.png"
-			}
-		},
-		{
-			"name": "Parting Gust",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{W}",
-			"type": "Instant",
-			"collector_number": "38",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/38_Parting Gust.png"
-			}
-		},
-		{
-			"name": "Vault of the Archangel",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "117",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/117_Vault of the Archangel.png"
-			}
-		},
-		{
-			"name": "Flicker of Fate",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Instant",
-			"collector_number": "26",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/26_Flicker of Fate.png"
-			}
-		},
-		{
-			"name": "Arahbo, the First Fang",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}",
-			"type": "Legendary Creature — Cat Avatar",
-			"collector_number": "5",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/5_Arahbo, the First Fang.png"
-			}
-		},
-		{
-			"name": "Mirrir the Cursed",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Legendary Creature — Vampire Cat",
-			"collector_number": "57",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/57_Mirrir the Cursed.png"
-			}
-		},
-		{
-			"name": "Seht's Tiger",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Cat",
-			"collector_number": "44",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/44_Seht's Tiger.png"
-			}
-		},
-		{
-			"name": "Mindleecher",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Nightmare",
-			"collector_number": "56",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/56_Mindleecher.png"
-			}
-		},
-		{
-			"name": "Regal Caracal",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Creature — Cat",
-			"collector_number": "41",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/41_Regal Caracal.png"
-			}
-		},
-		{
-			"name": "Mythos of Snapdax",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "35",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/35_Mythos of Snapdax.png"
-			}
-		},
-		{
-			"name": "Despark",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{B}",
-			"type": "Instant",
-			"collector_number": "66",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/66_Despark.png"
-			}
-		},
-		{
-			"name": "Oreskos Explorer",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Cat Scout",
-			"collector_number": "37",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/37_Oreskos Explorer.png"
-			}
-		},
-		{
-			"name": "Black Cat, Cunning Thief",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}{B}",
-			"type": "Legendary Creature — Human Rogue Villian",
-			"collector_number": "51",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/51_Black Cat, Cunning Thief.png"
-			}
-		},
-		{
-			"name": "Cubwarden",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Cat",
-			"collector_number": "20",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/20_Cubwarden.png"
-			}
-		},
-		{
-			"name": "King of the Pride",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Cat",
-			"collector_number": "29",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/29_King of the Pride.png"
-			}
-		},
-		{
-			"name": "Rakshasa Debaser",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Creature — Cat Demon",
-			"collector_number": "60",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/60_Rakshasa Debaser.png"
-			}
-		},
-		{
-			"name": "Path of Ancestry",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "93",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/93_Path of Ancestry.png"
-			}
-		},
-		{
-			"name": "Barbed Servitor",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}",
-			"type": "Artifact Creature — Construct",
-			"collector_number": "50",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/50_Barbed Servitor.png"
-			}
-		},
-		{
-			"name": "Lion Vulture",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Cat Bird",
-			"collector_number": "53",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/53_Lion Vulture.png"
-			}
-		},
-		{
-			"name": "Supernatural Stamina",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Instant",
-			"collector_number": "64",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/64_Supernatural Stamina.png"
-			}
-		},
-		{
-			"name": "Mentor of the Meek",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Human Solider",
-			"collector_number": "34",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/34_Mentor of the Meek.png"
-			}
-		},
-		{
-			"name": "Helpful Hunter",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Cat",
-			"collector_number": "27",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/27_Helpful Hunter.png"
-			}
-		},
-		{
-			"name": "Leonin Relic-Warder",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{W}",
-			"type": "Creature — Cat Cleric",
-			"collector_number": "30",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/30_Leonin Relic-Warder.png"
-			}
-		},
-		{
-			"name": "Enlightened Ascetic",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Cat Monk",
-			"collector_number": "23",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/23_Enlightened Ascetic.png"
-			}
-		},
-		{
-			"name": "Path to Exile",
-			"rarity": "uncommon",
-			"mana_cost": "{W}",
-			"type": "Instant",
-			"collector_number": "39",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/39_Path to Exile.png"
-			}
-		},
-		{
-			"name": "Whitemane Lion",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Cat",
-			"collector_number": "48",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/48_Whitemane Lion.png"
-			}
-		},
-		{
-			"name": "Necropanther",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Creature — Cat Nightmare",
-			"collector_number": "69",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/69_Necropanther.png"
-			}
-		},
-		{
-			"name": "Spectral Lynx",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Cat Spirit",
-			"collector_number": "45",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/45_Spectral Lynx.png"
-			}
-		},
-		{
-			"name": "Regal Leosaur",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
-			"type": "Creature — Dinosaur Cat",
-			"collector_number": "70",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/70_Regal Leosaur.png"
-			}
-		},
-		{
-			"name": "Huntmaster Liger",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Cat",
-			"collector_number": "28",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/28_Huntmaster Liger.png"
-			}
-		},
-		{
-			"name": "Snapdax, Apex of the Hunt",
-			"rarity": "mythic",
-			"mana_cost": "{1}{R}{W}{B}",
-			"type": "Legendary Creature — Dinosaur Cat Nightmare",
-			"collector_number": "71",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/71_Snapdax, Apex of the Hunt.png"
-			}
-		},
-		{
-			"name": "Malakir Rebirth",
-			"rarity": "uncommon",
-			"mana_cost": "{B}",
-			"type": "Instant",
-			"collector_number": "54",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/54_Malakir Rebirth.png"
-			}
-		},
-		{
-			"name": "Malakir Mire",
-			"rarity": "uncommon",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "89",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/89_Malakir Mire.png"
-			}
-		},
-		{
-			"name": "Cat",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat",
-			"collector_number": "13",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/13_Cat.png"
-			}
-		},
-		{
-			"name": "Rakshasa Debaser",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Token Creature — Cat Demon",
-			"collector_number": "62",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/62_Rakshasa Debaser.png"
-			}
-		},
-		{
-			"name": "Rakshasa Debaser",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Token Creature — Cat Demon",
-			"collector_number": "61",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/61_Rakshasa Debaser.png"
-			}
-		},
-		{
-			"name": "Rakshasa Debaser",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Token Creature — Cat Demon",
-			"collector_number": "63",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/63_Rakshasa Debaser.png"
-			}
-		},
-		{
-			"name": "Cat Warrior",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat Warrior",
-			"collector_number": "15",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/15_Cat Warrior.png"
-			}
-		},
-		{
-			"name": "Cat",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat",
-			"collector_number": "9",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/9_Cat.png"
-			}
-		},
-		{
-			"name": "Fish",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Fish",
-			"collector_number": "49",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/49_Fish.png"
-			}
-		},
-		{
-			"name": "Wicked Role",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Token Enchantment — Aura Role",
-			"collector_number": "1",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/1_Wicked Role.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "112",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/112_Swamp.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "95",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/95_Plains.png"
-			}
-		},
-		{
-			"name": "Anguished Unmaking",
-			"rarity": "rare",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Instant",
-			"collector_number": "65",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/65_Anguished Unmaking.png"
-			}
-		},
-		{
-			"name": "Sword of the Animis",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Legendary Artifact — Equipment",
-			"collector_number": "77",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/77_Sword of the Animis.png"
-			}
-		},
-		{
-			"name": "Ketramose, the New Dawn",
-			"rarity": "mythic",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — God",
-			"collector_number": "68",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/68_Ketramose, the New Dawn.png"
-			}
-		},
-		{
-			"name": "Felidar Retreat",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}",
-			"type": "Enchantment",
-			"collector_number": "25",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/25_Felidar Retreat.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "92",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/92_Mountain.png"
-			}
-		},
-		{
-			"name": "Shattered Landscape",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "108",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/108_Shattered Landscape.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "111",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/111_Swamp.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "109",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/109_Swamp.png"
-			}
-		},
-		{
-			"name": "Swamp",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Swamp",
-			"collector_number": "110",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/110_Swamp.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "101",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/101_Plains.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "96",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/96_Plains.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "102",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/102_Plains.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "97",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/97_Plains.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "94",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/94_Plains.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "98",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/98_Plains.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "99",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/99_Plains.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "100",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/100_Plains.png"
-			}
-		},
-		{
-			"name": "Cat",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat",
-			"collector_number": "6",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/6_Cat.png"
-			}
-		},
-		{
-			"name": "Cat",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat",
-			"collector_number": "12",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/12_Cat.png"
-			}
-		},
-		{
-			"name": "Cat",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat",
-			"collector_number": "11",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/11_Cat.png"
-			}
-		},
-		{
-			"name": "Cat",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat",
-			"collector_number": "10",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/10_Cat.png"
-			}
-		},
-		{
-			"name": "Cat",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat",
-			"collector_number": "8",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/8_Cat.png"
-			}
-		},
-		{
-			"name": "Cat",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat",
-			"collector_number": "7",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/7_Cat.png"
-			}
-		},
-		{
-			"name": "Cat Warrior",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat Warrior",
-			"collector_number": "14",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/14_Cat Warrior.png"
-			}
-		},
-		{
-			"name": "Cat Warrior",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat Warrior",
-			"collector_number": "17",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/17_Cat Warrior.png"
-			}
-		},
-		{
-			"name": "Cat Warrior",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Token Creature — Cat Warrior",
-			"collector_number": "16",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/CAT-files/img/16_Cat Warrior.png"
-			}
-		}
-	]
+				"name": "Sword of Hearth and Home",
+				"rarity": "mythic",
+				"mana_cost": "{3}",
+				"type": "Artifact — Equipment",
+				"collector_number": "76",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/76_Sword of Hearth and Home.png"
+				}
+			},
+		]
 
-[rare(1)]
+		{
+				"name": "Buster Sword",
+				"rarity": "mythic",
+				"mana_cost": "{3}",
+				"type": "Artifact — Equipment",
+				"collector_number": "73",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/73_Buster Sword.png"
+				}
+			},
+		]
+
+		{
+				"name": "Ocelot Pride",
+				"rarity": "mythic",
+				"mana_cost": "{W}",
+				"type": "Creature — Cat",
+				"collector_number": "36",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/36_Ocelot Pride.png"
+				}
+			},
+		]
+
+		{
+				"name": "Three Tree City",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Legendary Land",
+				"collector_number": "115",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/115_Three Tree City.png"
+				}
+			},
+		]
+
+		{
+				"name": "CAThar's Crusade",
+				"rarity": "rare",
+				"mana_cost": "{3}{W}{W}",
+				"type": "Enchantment",
+				"collector_number": "18",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/18_CAThar's Crusade.png"
+				}
+			},
+		]
+
+		{
+				"name": "And They Shall Know No Fear",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}",
+				"type": "Instant",
+				"collector_number": "4",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/4_And They Shall Know No Fear.png"
+				}
+			},
+		]
+
+		{
+				"name": "Badlands",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land — Swamp Mountain",
+				"collector_number": "81",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/81_Badlands.png"
+				}
+			},
+		]
+
+		{
+				"name": "Scrubland",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land — Plains Swamp",
+				"collector_number": "107",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/107_Scrubland.png"
+				}
+			},
+		]
+
+		{
+				"name": "Savai Triome",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land — Mountain Plains Swamp",
+				"collector_number": "106",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/106_Savai Triome.png"
+				}
+			},
+		]
+
+		{
+				"name": "Marsh Flats",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "90",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/90_Marsh Flats.png"
+				}
+			},
+		]
+
+		{
+				"name": "Bloodstained Mire",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "84",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/84_Bloodstained Mire.png"
+				}
+			},
+		]
+
+		{
+				"name": "Arid Mesa",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "80",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/80_Arid Mesa.png"
+				}
+			},
+		]
+
+		{
+				"name": "Plateau",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land — Mountain Plains",
+				"collector_number": "103",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/103_Plateau.png"
+				}
+			},
+		]
+
+		{
+				"name": "Godless Shrine",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land — Plains Swamp",
+				"collector_number": "87",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/87_Godless Shrine.png"
+				}
+			},
+		]
+
+		{
+				"name": "Bleachbone Verge",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "82",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/82_Bleachbone Verge.png"
+				}
+			},
+		]
+
+		{
+				"name": "Isolated Chapel",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "88",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/88_Isolated Chapel.png"
+				}
+			},
+		]
+
+		{
+				"name": "Sacred Foundry",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land — Mountain Plains",
+				"collector_number": "105",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/105_Sacred Foundry.png"
+				}
+			},
+		]
+
+		{
+				"name": "Leonin Warleader",
+				"rarity": "rare",
+				"mana_cost": "{2}{W}{W}",
+				"type": "Creature — Cat Solider",
+				"collector_number": "31",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/31_Leonin Warleader.png"
+				}
+			},
+		]
+
+		{
+				"name": "Ajani, Nacatl Pariah",
+				"rarity": "mythic",
+				"mana_cost": "{1}{W}",
+				"type": "Legendary Creature — Cat Warrior",
+				"collector_number": "2",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/2_Ajani, Nacatl Pariah.png"
+				}
+			},
+		]
+
+		{
+				"name": "Renewed Solidarity",
+				"rarity": "rare",
+				"mana_cost": "{2}{W}",
+				"type": "Enchantment",
+				"collector_number": "42",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/42_Renewed Solidarity.png"
+				}
+			},
+		]
+
+		{
+				"name": "Minas Tirith",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Legendary Land",
+				"collector_number": "91",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/91_Minas Tirith.png"
+				}
+			},
+		]
+
+		{
+				"name": "Ajani, Nacatl Avenger",
+				"rarity": "mythic",
+				"mana_cost": "",
+				"type": "Legendary Planeswalker — Ajani",
+				"collector_number": "0",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/0_Ajani, Nacatl Avenger.png"
+				}
+			},
+		]
+
+		{
+				"name": "Enduring Innocence",
+				"rarity": "rare",
+				"mana_cost": "{1}{W}{W}",
+				"type": "Enchantment Creature — Sheep Glimmer",
+				"collector_number": "22",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/22_Enduring Innocence.png"
+				}
+			},
+		]
+
+		{
+				"name": "Ephemerate",
+				"rarity": "common",
+				"mana_cost": "{W}",
+				"type": "Instant",
+				"collector_number": "24",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/24_Ephemerate.png"
+				}
+			},
+		]
+
+		{
+				"name": "Phelia, Exuberant Shepherd",
+				"rarity": "rare",
+				"mana_cost": "{1}{W}",
+				"type": "Legendary Creature — Dog",
+				"collector_number": "40",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/40_Phelia, Exuberant Shepherd.png"
+				}
+			},
+		]
+
+		{
+				"name": "Skullclamp",
+				"rarity": "uncommon",
+				"mana_cost": "{1}",
+				"type": "Artifact",
+				"collector_number": "74",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/74_Skullclamp.png"
+				}
+			},
+		]
+
+		{
+				"name": "Vanquisher's Banner",
+				"rarity": "rare",
+				"mana_cost": "{5}",
+				"type": "Artifact",
+				"collector_number": "78",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/78_Vanquisher's Banner.png"
+				}
+			},
+		]
+
+		{
+				"name": "Animal Sanctuary",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "79",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/79_Animal Sanctuary.png"
+				}
+			},
+		]
+
+		{
+				"name": "Tocasia's Welcome",
+				"rarity": "rare",
+				"mana_cost": "{2}{W}",
+				"type": "Enchantment",
+				"collector_number": "46",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/46_Tocasia's Welcome.png"
+				}
+			},
+		]
+
+		{
+				"name": "Lurrus of the Dream-Den",
+				"rarity": "rare",
+				"mana_cost": "{1}{W/B}{W/B}",
+				"type": "Legendary Creature — Cat Nightmare",
+				"collector_number": "72",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/72_Lurrus of the Dream-Den.png"
+				}
+			},
+		]
+
+		{
+				"name": "Not Dead After All",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Instant",
+				"collector_number": "59",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/59_Not Dead After All.png"
+				}
+			},
+		]
+
+		{
+				"name": "Welcoming Vampire",
+				"rarity": "rare",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Vampire",
+				"collector_number": "47",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/47_Welcoming Vampire.png"
+				}
+			},
+		]
+
+		{
+				"name": "Reprieve",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}",
+				"type": "Instant",
+				"collector_number": "43",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/43_Reprieve.png"
+				}
+			},
+		]
+
+		{
+				"name": "Lion Sash",
+				"rarity": "rare",
+				"mana_cost": "{1}{W}",
+				"type": "Artifact Creature — Equipment Cat",
+				"collector_number": "32",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/32_Lion Sash.png"
+				}
+			},
+		]
+
+		{
+				"name": "Elas il-Kor, Sadistic Pilgrim",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{B}",
+				"type": "Legendary Creature — Phyrexian Kor Cleric",
+				"collector_number": "67",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/67_Elas il-Kor, Sadistic Pilgrim.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cloudshift",
+				"rarity": "common",
+				"mana_cost": "{W}",
+				"type": "Instant",
+				"collector_number": "19",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/19_Cloudshift.png"
+				}
+			},
+		]
+
+		{
+				"name": "Alms Collector",
+				"rarity": "rare",
+				"mana_cost": "{3}{W}",
+				"type": "Creature — Cat Cleric",
+				"collector_number": "3",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/3_Alms Collector.png"
+				}
+			},
+		]
+
+		{
+				"name": "Night's Whispuuurrrr",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Sorcery",
+				"collector_number": "58",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/58_Night's Whispuuurrrr.png"
+				}
+			},
+		]
+
+		{
+				"name": "Solemn Simulacrum",
+				"rarity": "rare",
+				"mana_cost": "{4}",
+				"type": "Artifact Creature — Golem",
+				"collector_number": "75",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/75_Solemn Simulacrum.png"
+				}
+			},
+		]
+
+		{
+				"name": "Merchant of Venom",
+				"rarity": "rare",
+				"mana_cost": "{3}{B}",
+				"type": "Creature — Cat Warlock",
+				"collector_number": "55",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/55_Merchant of Venom.png"
+				}
+			},
+		]
+
+		{
+				"name": "Umbral Expanse",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land — Plains Swamp",
+				"collector_number": "116",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/116_Umbral Expanse.png"
+				}
+			},
+		]
+
+		{
+				"name": "Command Tower",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "86",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/86_Command Tower.png"
+				}
+			},
+		]
+
+		{
+				"name": "Blood Crypt",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land — Swamp Mountain",
+				"collector_number": "83",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/83_Blood Crypt.png"
+				}
+			},
+		]
+
+		{
+				"name": "Tainted Peak",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "114",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/114_Tainted Peak.png"
+				}
+			},
+		]
+
+		{
+				"name": "Tainted Field",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "113",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/113_Tainted Field.png"
+				}
+			},
+		]
+
+		{
+				"name": "Prismatic Vista",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "104",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/104_Prismatic Vista.png"
+				}
+			},
+		]
+
+		{
+				"name": "Bojuka Bog",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "85",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/85_Bojuka Bog.png"
+				}
+			},
+		]
+
+		{
+				"name": "From the CATacombs",
+				"rarity": "rare",
+				"mana_cost": "{3}{B}{B}",
+				"type": "Sorcery",
+				"collector_number": "52",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/52_From the CATacombs.png"
+				}
+			},
+		]
+
+		{
+				"name": "Luminous Broodmoth",
+				"rarity": "mythic",
+				"mana_cost": "{2}{W}{W}",
+				"type": "Creature — Insect",
+				"collector_number": "33",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/33_Luminous Broodmoth.png"
+				}
+			},
+		]
+
+		{
+				"name": "Divine Reckoning",
+				"rarity": "rare",
+				"mana_cost": "{2}{W}{W}",
+				"type": "Sorcery",
+				"collector_number": "21",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/21_Divine Reckoning.png"
+				}
+			},
+		]
+
+		{
+				"name": "Parting Gust",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{W}",
+				"type": "Instant",
+				"collector_number": "38",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/38_Parting Gust.png"
+				}
+			},
+		]
+
+		{
+				"name": "Vault of the Archangel",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "117",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/117_Vault of the Archangel.png"
+				}
+			},
+		]
+
+		{
+				"name": "Flicker of Fate",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Instant",
+				"collector_number": "26",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/26_Flicker of Fate.png"
+				}
+			},
+		]
+
+		{
+				"name": "Arahbo, the First Fang",
+				"rarity": "rare",
+				"mana_cost": "{2}{W}",
+				"type": "Legendary Creature — Cat Avatar",
+				"collector_number": "5",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/5_Arahbo, the First Fang.png"
+				}
+			},
+		]
+
+		{
+				"name": "Mirrir the Cursed",
+				"rarity": "rare",
+				"mana_cost": "{2}{B}{B}",
+				"type": "Legendary Creature — Vampire Cat",
+				"collector_number": "57",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/57_Mirrir the Cursed.png"
+				}
+			},
+		]
+
+		{
+				"name": "Seht's Tiger",
+				"rarity": "rare",
+				"mana_cost": "{2}{W}{W}",
+				"type": "Creature — Cat",
+				"collector_number": "44",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/44_Seht's Tiger.png"
+				}
+			},
+		]
+
+		{
+				"name": "Mindleecher",
+				"rarity": "rare",
+				"mana_cost": "{4}{B}{B}",
+				"type": "Creature — Nightmare",
+				"collector_number": "56",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/56_Mindleecher.png"
+				}
+			},
+		]
+
+		{
+				"name": "Regal Caracal",
+				"rarity": "rare",
+				"mana_cost": "{3}{W}{W}",
+				"type": "Creature — Cat",
+				"collector_number": "41",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/41_Regal Caracal.png"
+				}
+			},
+		]
+
+		{
+				"name": "Mythos of Snapdax",
+				"rarity": "rare",
+				"mana_cost": "{2}{W}{W}",
+				"type": "Sorcery",
+				"collector_number": "35",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/35_Mythos of Snapdax.png"
+				}
+			},
+		]
+
+		{
+				"name": "Despark",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{B}",
+				"type": "Instant",
+				"collector_number": "66",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/66_Despark.png"
+				}
+			},
+		]
+
+		{
+				"name": "Oreskos Explorer",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Cat Scout",
+				"collector_number": "37",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/37_Oreskos Explorer.png"
+				}
+			},
+		]
+
+		{
+				"name": "Black Cat, Cunning Thief",
+				"rarity": "rare",
+				"mana_cost": "{3}{B}{B}",
+				"type": "Legendary Creature — Human Rogue Villian",
+				"collector_number": "51",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/51_Black Cat, Cunning Thief.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cubwarden",
+				"rarity": "rare",
+				"mana_cost": "{3}{W}",
+				"type": "Creature — Cat",
+				"collector_number": "20",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/20_Cubwarden.png"
+				}
+			},
+		]
+
+		{
+				"name": "King of the Pride",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Cat",
+				"collector_number": "29",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/29_King of the Pride.png"
+				}
+			},
+		]
+
+		{
+				"name": "Rakshasa Debaser",
+				"rarity": "rare",
+				"mana_cost": "{4}{B}{B}",
+				"type": "Creature — Cat Demon",
+				"collector_number": "60",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/60_Rakshasa Debaser.png"
+				}
+			},
+		]
+
+		{
+				"name": "Path of Ancestry",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "93",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/93_Path of Ancestry.png"
+				}
+			},
+		]
+
+		{
+				"name": "Barbed Servitor",
+				"rarity": "rare",
+				"mana_cost": "{3}{B}",
+				"type": "Artifact Creature — Construct",
+				"collector_number": "50",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/50_Barbed Servitor.png"
+				}
+			},
+		]
+
+		{
+				"name": "Lion Vulture",
+				"rarity": "rare",
+				"mana_cost": "{3}{B}",
+				"type": "Creature — Cat Bird",
+				"collector_number": "53",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/53_Lion Vulture.png"
+				}
+			},
+		]
+
+		{
+				"name": "Supernatural Stamina",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Instant",
+				"collector_number": "64",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/64_Supernatural Stamina.png"
+				}
+			},
+		]
+
+		{
+				"name": "Mentor of the Meek",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Human Solider",
+				"collector_number": "34",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/34_Mentor of the Meek.png"
+				}
+			},
+		]
+
+		{
+				"name": "Helpful Hunter",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Cat",
+				"collector_number": "27",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/27_Helpful Hunter.png"
+				}
+			},
+		]
+
+		{
+				"name": "Leonin Relic-Warder",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{W}",
+				"type": "Creature — Cat Cleric",
+				"collector_number": "30",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/30_Leonin Relic-Warder.png"
+				}
+			},
+		]
+
+		{
+				"name": "Enlightened Ascetic",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Cat Monk",
+				"collector_number": "23",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/23_Enlightened Ascetic.png"
+				}
+			},
+		]
+
+		{
+				"name": "Path to Exile",
+				"rarity": "uncommon",
+				"mana_cost": "{W}",
+				"type": "Instant",
+				"collector_number": "39",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/39_Path to Exile.png"
+				}
+			},
+		]
+
+		{
+				"name": "Whitemane Lion",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Cat",
+				"collector_number": "48",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/48_Whitemane Lion.png"
+				}
+			},
+		]
+
+		{
+				"name": "Necropanther",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}{B}",
+				"type": "Creature — Cat Nightmare",
+				"collector_number": "69",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/69_Necropanther.png"
+				}
+			},
+		]
+
+		{
+				"name": "Spectral Lynx",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Cat Spirit",
+				"collector_number": "45",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/45_Spectral Lynx.png"
+				}
+			},
+		]
+
+		{
+				"name": "Regal Leosaur",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{W}",
+				"type": "Creature — Dinosaur Cat",
+				"collector_number": "70",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/70_Regal Leosaur.png"
+				}
+			},
+		]
+
+		{
+				"name": "Huntmaster Liger",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{W}",
+				"type": "Creature — Cat",
+				"collector_number": "28",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/28_Huntmaster Liger.png"
+				}
+			},
+		]
+
+		{
+				"name": "Snapdax, Apex of the Hunt",
+				"rarity": "mythic",
+				"mana_cost": "{1}{R}{W}{B}",
+				"type": "Legendary Creature — Dinosaur Cat Nightmare",
+				"collector_number": "71",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/71_Snapdax, Apex of the Hunt.png"
+				}
+			},
+		]
+
+		{
+				"name": "Malakir Rebirth",
+				"rarity": "uncommon",
+				"mana_cost": "{B}",
+				"type": "Instant",
+				"collector_number": "54",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/54_Malakir Rebirth.png"
+				}
+			},
+		]
+
+		{
+				"name": "Malakir Mire",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "89",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/89_Malakir Mire.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat",
+				"collector_number": "13",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/13_Cat.png"
+				}
+			},
+		]
+
+		{
+				"name": "Rakshasa Debaser",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Token Creature — Cat Demon",
+				"collector_number": "62",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/62_Rakshasa Debaser.png"
+				}
+			},
+		]
+
+		{
+				"name": "Rakshasa Debaser",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Token Creature — Cat Demon",
+				"collector_number": "61",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/61_Rakshasa Debaser.png"
+				}
+			},
+		]
+
+		{
+				"name": "Rakshasa Debaser",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Token Creature — Cat Demon",
+				"collector_number": "63",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/63_Rakshasa Debaser.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat Warrior",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat Warrior",
+				"collector_number": "15",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/15_Cat Warrior.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat",
+				"collector_number": "9",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/9_Cat.png"
+				}
+			},
+		]
+
+		{
+				"name": "Fish",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Fish",
+				"collector_number": "49",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/49_Fish.png"
+				}
+			},
+		]
+
+		{
+				"name": "Wicked Role",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Token Enchantment — Aura Role",
+				"collector_number": "1",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/1_Wicked Role.png"
+				}
+			},
+		]
+
+		{
+				"name": "Swamp",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Swamp",
+				"collector_number": "112",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/112_Swamp.png"
+				}
+			},
+		]
+
+		{
+				"name": "Plains",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Plains",
+				"collector_number": "95",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/95_Plains.png"
+				}
+			},
+		]
+
+		{
+				"name": "Anguished Unmaking",
+				"rarity": "rare",
+				"mana_cost": "{1}{W}{B}",
+				"type": "Instant",
+				"collector_number": "65",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/65_Anguished Unmaking.png"
+				}
+			},
+		]
+
+		{
+				"name": "Sword of the Animis",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Legendary Artifact — Equipment",
+				"collector_number": "77",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/77_Sword of the Animis.png"
+				}
+			},
+		]
+
+		{
+				"name": "Ketramose, the New Dawn",
+				"rarity": "mythic",
+				"mana_cost": "{1}{W}{B}",
+				"type": "Legendary Creature — God",
+				"collector_number": "68",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/68_Ketramose, the New Dawn.png"
+				}
+			},
+		]
+
+		{
+				"name": "Felidar Retreat",
+				"rarity": "rare",
+				"mana_cost": "{3}{W}",
+				"type": "Enchantment",
+				"collector_number": "25",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/25_Felidar Retreat.png"
+				}
+			},
+		]
+
+		{
+				"name": "Mountain",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Mountain",
+				"collector_number": "92",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/92_Mountain.png"
+				}
+			},
+		]
+
+		{
+				"name": "Shattered Landscape",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "108",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/108_Shattered Landscape.png"
+				}
+			},
+		]
+
+		{
+				"name": "Swamp",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Swamp",
+				"collector_number": "111",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/111_Swamp.png"
+				}
+			},
+		]
+
+		{
+				"name": "Swamp",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Swamp",
+				"collector_number": "109",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/109_Swamp.png"
+				}
+			},
+		]
+
+		{
+				"name": "Swamp",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Swamp",
+				"collector_number": "110",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/110_Swamp.png"
+				}
+			},
+		]
+
+		{
+				"name": "Plains",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Plains",
+				"collector_number": "101",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/101_Plains.png"
+				}
+			},
+		]
+
+		{
+				"name": "Plains",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Plains",
+				"collector_number": "96",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/96_Plains.png"
+				}
+			},
+		]
+
+		{
+				"name": "Plains",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Plains",
+				"collector_number": "102",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/102_Plains.png"
+				}
+			},
+		]
+
+		{
+				"name": "Plains",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Plains",
+				"collector_number": "97",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/97_Plains.png"
+				}
+			},
+		]
+
+		{
+				"name": "Plains",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Plains",
+				"collector_number": "94",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/94_Plains.png"
+				}
+			},
+		]
+
+		{
+				"name": "Plains",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Plains",
+				"collector_number": "98",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/98_Plains.png"
+				}
+			},
+		]
+
+		{
+				"name": "Plains",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Plains",
+				"collector_number": "99",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/99_Plains.png"
+				}
+			},
+		]
+
+		{
+				"name": "Plains",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Basic Land — Plains",
+				"collector_number": "100",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/100_Plains.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat",
+				"collector_number": "6",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/6_Cat.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat",
+				"collector_number": "12",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/12_Cat.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat",
+				"collector_number": "11",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/11_Cat.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat",
+				"collector_number": "10",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/10_Cat.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat",
+				"collector_number": "8",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/8_Cat.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat",
+				"collector_number": "7",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/7_Cat.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat Warrior",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat Warrior",
+				"collector_number": "14",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/14_Cat Warrior.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat Warrior",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat Warrior",
+				"collector_number": "17",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/17_Cat Warrior.png"
+				}
+			},
+		]
+
+		{
+				"name": "Cat Warrior",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Token Creature — Cat Warrior",
+				"collector_number": "16",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/CAT-files/img/16_Cat Warrior.png"
+				}
+			}
+		]
+
+	[rare(1)]
 	1 Sword of Hearth and Home
 	1 Buster Sword
 	1 Ocelot Pride

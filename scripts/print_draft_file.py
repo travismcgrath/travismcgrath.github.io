@@ -44,64 +44,65 @@ def generateFile(code):
 		h_pattern = r'\{([A-Z0-9])([A-Z])\}'
 		h_replace = r'{\1/\2}'
 
-		for slot in structure:
-			slot_name = slot['name']
-			if slot_name in [ 'wildcard', 'foil' ] and not filtered(card, filters) and not 'Basic' in card['type'] and not 'basic' in card['rarity'] and not 'landslot' in card['notes']and not 'token' in card['shape']and not 'tokenshape' in card['notes']:
-				booster[slot_name].append(card)
-			elif not slot['custom']:
-				if ((card['rarity'] == 'mythic' and slot_name == 'rare') or card['rarity'] == slot_name) and not filtered(card, filters) and not 'Basic' in card['type'] and not 'landslot' in card['notes'] and not 'token' in card['shape']and not 'tokenshape' in card['notes']:
+		if'Skip,' not in card['notes']:
+			for slot in structure:
+				slot_name = slot['name']
+				if slot_name in [ 'wildcard', 'foil' ] and not filtered(card, filters) and not 'Basic' in card['type'] and not 'basic' in card['rarity'] and not 'landslot' in card['notes']and not 'token' in card['shape']and not 'tokenshape' in card['notes']:
 					booster[slot_name].append(card)
-			elif slot_name == 'landslot' and 'landslot' in card['notes']:
-				booster[slot_name].append(card)
-			else:
-				if ('!' + slot_name) in card['notes']:
+				elif not slot['custom']:
+					if ((card['rarity'] == 'mythic' and slot_name == 'rare') or card['rarity'] == slot_name) and not filtered(card, filters) and not 'Basic' in card['type'] and not 'landslot' in card['notes'] and not 'token' in card['shape']and not 'tokenshape' in card['notes']:
+						booster[slot_name].append(card)
+				elif slot_name == 'landslot' and 'landslot' in card['notes']:
 					booster[slot_name].append(card)
+				else:
+					if ('!' + slot_name) in card['notes']:
+						booster[slot_name].append(card)
 
-		rating = 0
-		match card['rarity']:
-					case 'mythic':
-						rating = 5
-					case 'rare':
-						rating = 4
-					case 'uncommon':
-						rating = 3
-					case 'common':
-						rating = 2
-		if 'landslot' in card['notes']:
-			rating = 3
-		draft_string += '''	{
-			"name": "''' + card['card_name'] + '''",
-			"rarity": "''' + ('special' if card['rarity'] == 'cube' else card['rarity']) + '''",
-			"mana_cost": "''' + re.sub(h_pattern, h_replace, card['cost']) + '''",
-			"type": "''' + card['type'] + '''",
-			"collector_number": "''' + str(card['number']) + '''",
-			"rating": ''' + str(rating) + ''',
-	'''
+			rating = 0
+			match card['rarity']:
+						case 'mythic':
+							rating = 5
+						case 'rare':
+							rating = 4
+						case 'uncommon':
+							rating = 3
+						case 'common':
+							rating = 2
+			if 'landslot' in card['notes']:
+				rating = 3
+			draft_string += '''	{
+				"name": "''' + card['card_name'] + '''",
+				"rarity": "''' + ('special' if card['rarity'] == 'cube' else card['rarity']) + '''",
+				"mana_cost": "''' + re.sub(h_pattern, h_replace, card['cost']) + '''",
+				"type": "''' + card['type'] + '''",
+				"collector_number": "''' + str(card['number']) + '''",
+				"rating": ''' + str(rating) + ''',
+		'''
 
-		card_file_name = (str(card['number']) + '_' + card['card_name']) if ('position' not in card) else card['position']
-		if 'double' in card['shape']:
-			draft_string += '''		"back": {
-				"name": "",
-				"type": "",
+			card_file_name = (str(card['number']) + '_' + card['card_name']) if ('position' not in card) else card['position']
+			if 'double' in card['shape']:
+				draft_string += '''		"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''_back.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
+					}
+				},
 				"image_uris": {
-					"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''_back.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
+					"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''_front.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
 				}
 			},
-			"image_uris": {
-				"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''_front.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
-			}
-		},
-	'''
-		else:
-			draft_string += '''		"image_uris": {
-				"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
-			}
-		}''' + (''',''' if x != len(set_data['cards']) - 1 else '''''') + '''
-	'''
+		'''
+			else:
+				draft_string += '''		"image_uris": {
+					"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
+				}
+			}''' + (''',''' if x != len(set_data['cards']) - 1 else '''''') + '''
+		'''
 
-	draft_string += ''']
+		draft_string += ''']
 
-'''
+	'''
 	
 	p1p1 = []
 	for slot in structure:

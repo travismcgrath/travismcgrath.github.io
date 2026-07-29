@@ -1,4 +1,69 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+UZ12a — added.
+UZ11a — Raid on added.
+UZ14a — Raid on added.
+UZ20a — Raid on Dandelion Pond added.
+UZ13a — added.
+UZ15a — Raid on Your Dreams added.
+UZ17a — added.
+UZ19a — added.
+UZ16a — Thesis Defense added.
+UZ18a — Raid on added.
+UZ18b — added.
+UZ19b — added.
+UZ17b — added.
+UZ16b — Prismari Flourish added.
+UZ13b — added.
+UZ12b — added.
+UZ15b — Sleep Study added.
+UZ20b — Mutative Advantage added.
+UZ11b — added.
+UZ14b — added.
+
+
+CG16a — Raid on Ketria Gemgrove
+
+CW16a — Raid on the Fifth Sphere
+
+CB16a — Raid on the Faerie Garden
+
+CR16a — Raid on Emberheart-Oven
+
+CU16a — Raid on the Potions Class
+
+CW05 — Elder Cenobite
+type: Creature — Phyrexian Knight => Creature — Human Cleric
+
+CB06 — The Tooth Faerie
+type: Creature — Faerie Knight => Creature — Faerie Rogue
+
+RB02 — Gumdrop Poisoner
+cost: {B} => {2}{B}
+
+CW15b — Lifeforce Alliance
+
+CW15a — Trial of Faith
+
+CB15a — Trial of Guile
+
+CB15b — Fruitful Alliance
+
+CU15a — Test of Intellect
+
+CU15b — Collaborative Scholarship
+
+CR15a — Trial of Scurry
+
+CG15b — Kinship of the Herd
+
+CG15a — Trial of Might
+
+CR15b — Battleproven Duo
+
+
+VERSION 6 CHANGELOG
 ====================
 
 UZ07 — Tenured Bondologist added.

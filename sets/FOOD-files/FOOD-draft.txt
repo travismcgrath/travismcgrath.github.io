@@ -1,2780 +1,3418 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "CU09 — Re-Hash",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "48",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/48_CU09 — Re-Hash.png"
-			}
-		},
-		{
-			"name": "CW07 — Devote Evangelist",
-			"rarity": "common",
-			"mana_cost": "{4}{W}",
-			"type": "Creature — Human Cleric",
-			"collector_number": "11",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/11_CW07 — Devote Evangelist.png"
-			}
-		},
-		{
-			"name": "UZ07 — Tenured Bondologist",
-			"rarity": "uncommon",
-			"mana_cost": "{G}{U}",
-			"type": "Creature — Human Druid",
-			"collector_number": "211",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/211_UZ07 — Tenured Bondologist.png"
-			}
-		},
-		{
-			"name": "CB08 — Big Bad Ouphe",
-			"rarity": "common",
-			"mana_cost": "{5}{B}{B}",
-			"type": "Creature — Ouphe Wolf Beast",
-			"collector_number": "86",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/86_CB08 — Big Bad Ouphe.png"
-			}
-		},
-		{
-			"name": "UW05 — Auriok Descendant",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}{W}",
-			"type": "Artifact Creature — Human Artificer",
-			"collector_number": "33",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/33_UW05 — Auriok Descendant.png"
-			}
-		},
-		{
-			"name": "UW02 — Porcelain Myr",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Myr",
-			"collector_number": "30",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/30_UW02 — Porcelain Myr.png"
-			}
-		},
-		{
-			"name": "UR07 — Heartfire Bolt",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "145",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/145_UR07 — Heartfire Bolt.png"
-			}
-		},
-		{
-			"name": "CR12 — Fling a Pie",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Instant",
-			"collector_number": "125",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/125_CR12 — Fling a Pie.png"
-			}
-		},
-		{
-			"name": "CB05 — Innocuous Prankster",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Faerie Rogue",
-			"collector_number": "83",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/83_CB05 — Innocuous Prankster.png"
-			}
-		},
-		{
-			"name": "CB16b — Rankle's Reveal",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Sorcery",
-			"collector_number": "96",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/96_CB16b — Rankle's Reveal.png"
-			}
-		},
-		{
-			"name": "CG16a — Raid on Ketria Gemgrove",
-			"rarity": "common",
-			"mana_cost": "{1}{G}{G}",
-			"type": "Battle — Raid",
-			"collector_number": "166",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/166_CG16a — Raid on Ketria Gemgrove.png"
-			}
-		},
-		{
-			"name": "RG04 — Biomewide Migration",
-			"rarity": "rare",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Sorcery",
-			"collector_number": "172",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/172_RG04 — Biomewide Migration.png"
-			}
-		},
-		{
-			"name": "UG04 — Dualcat",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Cat Beast",
-			"collector_number": "178",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/178_UG04 — Dualcat.png"
-			}
-		},
-		{
-			"name": "CR05 — Owl-Eyed Bowman",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Bird Archer",
-			"collector_number": "118",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/118_CR05 — Owl-Eyed Bowman.png"
-			}
-		},
-		{
-			"name": "CW16a — Raid on the Fifth Sphere",
-			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Battle — Raid",
-			"collector_number": "21",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/21_CW16a — Raid on the Fifth Sphere.png"
-			}
-		},
-		{
-			"name": "CB16a — Raid on the Faerie Garden",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Battle — Raid",
-			"collector_number": "95",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/95_CB16a — Raid on the Faerie Garden.png"
-			}
-		},
-		{
-			"name": "CR16a — Raid on Emberheart-Oven",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Battle — Raid",
-			"collector_number": "130",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/130_CR16a — Raid on Emberheart-Oven.png"
-			}
-		},
-		{
-			"name": "CU16a — Raid on the Potions Class",
-			"rarity": "common",
-			"mana_cost": "{2}{U}",
-			"type": "Battle — Raid",
-			"collector_number": "56",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/56_CU16a — Raid on the Potions Class.png"
-			}
-		},
-		{
-			"name": "RB04 — Careful What You Ask For",
-			"rarity": "rare",
-			"mana_cost": "{4}{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "101",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/101_RB04 — Careful What You Ask For.png"
-			}
-		},
-		{
-			"name": "RR04 — Flavor of Autumn",
-			"rarity": "rare",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "137",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/137_RR04 — Flavor of Autumn.png"
-			}
-		},
-		{
-			"name": "RW02 — Flavor of Orthodoxy",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Phyrexian",
-			"collector_number": "25",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/25_RW02 — Flavor of Orthodoxy.png"
-			}
-		},
-		{
-			"name": "RU04 — Chronicle",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Instant",
-			"collector_number": "62",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/62_RU04 — Chronicle.png"
-			}
-		},
-		{
-			"name": "UZ27 — Reason",
-			"rarity": "uncommon",
-			"mana_cost": "{U}",
-			"type": "Sorcery",
-			"collector_number": "74",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/74_UZ27 — Reason.png"
-			}
-		},
-		{
-			"name": "UB08 — Killer Deal",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Instant",
-			"collector_number": "110",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/110_UB08 — Killer Deal.png"
-			}
-		},
-		{
-			"name": "CB07 — Professor From Another Realm",
-			"rarity": "common",
-			"mana_cost": "{4}{B}",
-			"type": "Creature — Faerie Wizard",
-			"collector_number": "85",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/85_CB07 — Professor From Another Realm.png"
-			}
-		},
-		{
-			"name": "CB03 — Mellow-o-Wisps",
-			"rarity": "common",
-			"mana_cost": "{2}{B}",
-			"type": "Artifact Creature — Spirit Food",
-			"collector_number": "81",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/81_CB03 — Mellow-o-Wisps.png"
-			}
-		},
-		{
-			"name": "CB02 — Midnight Snacqueraider",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "80",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/80_CB02 — Midnight Snacqueraider.png"
-			}
-		},
-		{
-			"name": "CB01 — Plague Knight",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Creature — Rat Knight",
-			"collector_number": "79",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/79_CB01 — Plague Knight.png"
-			}
-		},
-		{
-			"name": "CB14 — Entreating Witch",
-			"rarity": "common",
-			"mana_cost": "{5}{B}",
-			"type": "Creature — Human Rogue Warlock",
-			"collector_number": "92",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/92_CB14 — Entreating Witch.png"
-			}
-		},
-		{
-			"name": "CU08 — Check your work!",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Sorcery",
-			"collector_number": "47",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/47_CU08 — Check your work!.png"
-			}
-		},
-		{
-			"name": "UU08 — Two Weeks Suspension",
-			"rarity": "uncommon",
-			"mana_cost": "{U}{U}",
-			"type": "Instant",
-			"collector_number": "71",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/71_UU08 — Two Weeks Suspension.png"
-			}
-		},
-		{
-			"name": "CU14 — Group Study",
-			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Instant",
-			"collector_number": "53",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/53_CU14 — Group Study.png"
-			}
-		},
-		{
-			"name": "UU10 — Calculate A Prophecy",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
-			"type": "Sorcery",
-			"collector_number": "73",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/73_UU10 — Calculate A Prophecy.png"
-			}
-		},
-		{
-			"name": "CU07 — Missing Ingredient",
-			"rarity": "common",
-			"mana_cost": "{U}",
-			"type": "Instant",
-			"collector_number": "46",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/46_CU07 — Missing Ingredient.png"
-			}
-		},
-		{
-			"name": "CU06 — Exponentiation Professor",
-			"rarity": "common",
-			"mana_cost": "{5}{U}",
-			"type": "Creature — Giant Wizard",
-			"collector_number": "45",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/45_CU06 — Exponentiation Professor.png"
-			}
-		},
-		{
-			"name": "CU05 — Professor of Culinary Arts",
-			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "44",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/44_CU05 — Professor of Culinary Arts.png"
-			}
-		},
-		{
-			"name": "UW01 — Hosting Hawk",
-			"rarity": "uncommon",
-			"mana_cost": "{W}",
-			"type": "Creature — Phyrexian Bird",
-			"collector_number": "29",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/29_UW01 — Hosting Hawk.png"
-			}
-		},
-		{
-			"name": "UU02 — Snapping Torus",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}",
-			"type": "Creature — Fractal Turtle",
-			"collector_number": "65",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/65_UU02 — Snapping Torus.png"
-			}
-		},
-		{
-			"name": "CU02 — Arithmetic Frogression",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Frog Fractal",
-			"collector_number": "41",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/41_CU02 — Arithmetic Frogression.png"
-			}
-		},
-		{
-			"name": "CU12 — Call Campus Saftey",
-			"rarity": "common",
-			"mana_cost": "{4}{U}",
-			"type": "Sorcery",
-			"collector_number": "51",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/51_CU12 — Call Campus Saftey.png"
-			}
-		},
-		{
-			"name": "CW10 — Served In Ice",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Enchantment — Aura",
-			"collector_number": "14",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/14_CW10 — Served In Ice.png"
-			}
-		},
-		{
-			"name": "CW08 — Sleeperagent Skymount",
-			"rarity": "common",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Creature — Phyrexian Bird",
-			"collector_number": "12",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/12_CW08 — Sleeperagent Skymount.png"
-			}
-		},
-		{
-			"name": "CU16b — Zimone Gets Even",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Sorcery",
-			"collector_number": "57",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/57_CU16b — Zimone Gets Even.png"
-			}
-		},
-		{
-			"name": "CW01 — Phyrexian Pridemate",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Artifact Creature — Phyrexian Cat",
-			"collector_number": "5",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/5_CW01 — Phyrexian Pridemate.png"
-			}
-		},
-		{
-			"name": "CW02 — Bladed Ambassador",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Creature — Phyrexian Solider",
-			"collector_number": "6",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/6_CW02 — Bladed Ambassador.png"
-			}
-		},
-		{
-			"name": "CW03 — Autocatalytic Hare",
-			"rarity": "common",
-			"mana_cost": "{W}{W}",
-			"type": "Creature — Phyrexian Rabbit",
-			"collector_number": "7",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/7_CW03 — Autocatalytic Hare.png"
-			}
-		},
-		{
-			"name": "CW04 — Celestial Crier",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Griffin",
-			"collector_number": "8",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/8_CW04 — Celestial Crier.png"
-			}
-		},
-		{
-			"name": "UW03 — Charging Invader",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Phyrexian Knight",
-			"collector_number": "31",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/31_UW03 — Charging Invader.png"
-			}
-		},
-		{
-			"name": "CW16b — Mother's Retribution",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Sorcery",
-			"collector_number": "22",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/22_CW16b — Mother's Retribution.png"
-			}
-		},
-		{
-			"name": "CW05 — Elder Cenobite",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Creature — Phyrexian Knight",
-			"collector_number": "9",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/9_CW05 — Elder Cenobite.png"
-			}
-		},
-		{
-			"name": "CW09 — Preator's Glory",
-			"rarity": "common",
-			"mana_cost": "{W}",
-			"type": "Instant",
-			"collector_number": "13",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/13_CW09 — Preator's Glory.png"
-			}
-		},
-		{
-			"name": "CG01 — Hungry Brushwagg",
-			"rarity": "common",
-			"mana_cost": "{G}",
-			"type": "Creature — Brushwagg",
-			"collector_number": "150",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/150_CG01 — Hungry Brushwagg.png"
-			}
-		},
-		{
-			"name": "UG06 —Drannith Mess Sergeant",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{G}",
-			"type": "Creature — Human Solider Chef",
-			"collector_number": "180",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/180_UG06 —Drannith Mess Sergeant.png"
-			}
-		},
-		{
-			"name": "CG08 — Indatha Ooze",
-			"rarity": "common",
-			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Phyrexian Ooze Horror",
-			"collector_number": "157",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/157_CG08 — Indatha Ooze.png"
-			}
-		},
-		{
-			"name": "CG16b — Umori Snaps Back",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Sorcery",
-			"collector_number": "167",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/167_CG16b — Umori Snaps Back.png"
-			}
-		},
-		{
-			"name": "UG10 — Feast of the Pack",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Sorcery",
-			"collector_number": "184",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/184_UG10 — Feast of the Pack.png"
-			}
-		},
-		{
-			"name": "CG04 — Webbonder",
-			"rarity": "common",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "153",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/153_CG04 — Webbonder.png"
-			}
-		},
-		{
-			"name": "CB06 — The Tooth Faerie",
-			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Faerie Knight",
-			"collector_number": "84",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/84_CB06 — The Tooth Faerie.png"
-			}
-		},
-		{
-			"name": "CG02 — Thornvault Anomaly",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Squirrel Beast",
-			"collector_number": "151",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/151_CG02 — Thornvault Anomaly.png"
-			}
-		},
-		{
-			"name": "CG03 — Symbiotic Shaman",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Shaman",
-			"collector_number": "152",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/152_CG03 — Symbiotic Shaman.png"
-			}
-		},
-		{
-			"name": "CG05 — Beetle-Horned Rhino",
-			"rarity": "common",
-			"mana_cost": "{1}{G}{G}",
-			"type": "Creature — Insect Beast",
-			"collector_number": "154",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/154_CG05 — Beetle-Horned Rhino.png"
-			}
-		},
-		{
-			"name": "CG10 — Peckish Pinekraken",
-			"rarity": "common",
-			"mana_cost": "{5}{G}{G}",
-			"type": "Creature — Kraken Elemental",
-			"collector_number": "159",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/159_CG10 — Peckish Pinekraken.png"
-			}
-		},
-		{
-			"name": "UG08 — Establish Eludha",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Instant",
-			"collector_number": "182",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/182_UG08 — Establish Eludha.png"
-			}
-		},
-		{
-			"name": "CW11 — Hunger of Mites",
-			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Sorcery",
-			"collector_number": "15",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/15_CW11 — Hunger of Mites.png"
-			}
-		},
-		{
-			"name": "CR01 — Raging Marten",
-			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Creature — Mouse Knight",
-			"collector_number": "114",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/114_CR01 — Raging Marten.png"
-			}
-		},
-		{
-			"name": "CR02 — Pilfering Vole",
-			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Creature — Mouse Rogue",
-			"collector_number": "115",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/115_CR02 — Pilfering Vole.png"
-			}
-		},
-		{
-			"name": "UR01 — Root Maze Hatcher",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Racoon Rogue",
-			"collector_number": "139",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/139_UR01 — Root Maze Hatcher.png"
-			}
-		},
-		{
-			"name": "UR03 — Seedbed Sentry",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Badger Knight",
-			"collector_number": "141",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/141_UR03 — Seedbed Sentry.png"
-			}
-		},
-		{
-			"name": "CR04 — Sharp Clawed Scout",
-			"rarity": "common",
-			"mana_cost": "{2}{R}",
-			"type": "Creature — Weasle Rogue Scout",
-			"collector_number": "117",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/117_CR04 — Sharp Clawed Scout.png"
-			}
-		},
-		{
-			"name": "CR08 — Three Tree City Guard",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Badger Knight",
-			"collector_number": "121",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/121_CR08 — Three Tree City Guard.png"
-			}
-		},
-		{
-			"name": "CR10 — Pond Creek Predator",
-			"rarity": "common",
-			"mana_cost": "{4}{R}{R}",
-			"type": "Creature — Lizard Dragon",
-			"collector_number": "123",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/123_CR10 — Pond Creek Predator.png"
-			}
-		},
-		{
-			"name": "UR10 — Alluring Aromas",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Sorcery",
-			"collector_number": "148",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/148_UR10 — Alluring Aromas.png"
-			}
-		},
-		{
-			"name": "CR14 — Wield the Seed Flame",
-			"rarity": "common",
-			"mana_cost": "{5}{R}",
-			"type": "Sorcery",
-			"collector_number": "127",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/127_CR14 — Wield the Seed Flame.png"
-			}
-		},
-		{
-			"name": "CR16b — Mabel's Rise",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Sorcery",
-			"collector_number": "131",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/131_CR16b — Mabel's Rise.png"
-			}
-		},
-		{
-			"name": "CZ03 — Consummate Bladetail",
-			"rarity": "common",
-			"mana_cost": "{2}{R}{R/W}{W}",
-			"type": "Creature — Mouse Knight",
-			"collector_number": "243",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/243_CZ03 — Consummate Bladetail.png"
-			}
-		},
-		{
-			"name": "CZ04 — OilFang Bonder",
-			"rarity": "common",
-			"mana_cost": "{1}{G}{G/W}{W}",
-			"type": "Creature — Phyrexian Human Druid",
-			"collector_number": "244",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/244_CZ04 — OilFang Bonder.png"
-			}
-		},
-		{
-			"name": "UZ05 — Book Thief",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{B}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "209",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/209_UZ05 — Book Thief.png"
-			}
-		},
-		{
-			"name": "CZ06 — Hydrodynamicist",
-			"rarity": "common",
-			"mana_cost": "{U}{U/R}{R}",
-			"type": "Creature — Salamander Wizard",
-			"collector_number": "246",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/246_CZ06 — Hydrodynamicist.png"
-			}
-		},
-		{
-			"name": "CZ08 — Haymeadow Brigand",
-			"rarity": "common",
-			"mana_cost": "{B}{B/R}{R}",
-			"type": "Creature — Weasle Rogue",
-			"collector_number": "248",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/248_CZ08 — Haymeadow Brigand.png"
-			}
-		},
-		{
-			"name": "UZ08 — Tortiose and Hare",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Creature — Rabbit Turtle",
-			"collector_number": "212",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/212_UZ08 — Tortiose and Hare.png"
-			}
-		},
-		{
-			"name": "UZ10 — Gnaw Bonder",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{G}",
-			"type": "Creature — Human Scout",
-			"collector_number": "214",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/214_UZ10 — Gnaw Bonder.png"
-			}
-		},
-		{
-			"name": "UU07 — Give Insight",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Instant",
-			"collector_number": "70",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/70_UU07 — Give Insight.png"
-			}
-		},
-		{
-			"name": "RZ05 -- May I Have Your Name",
-			"rarity": "rare",
-			"mana_cost": "{4}{U}{B}",
-			"type": "Kindred Sorcery — Faerie Rogue",
-			"collector_number": "200",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/200_RZ05 -- May I Have Your Name.png"
-			}
-		},
-		{
-			"name": "UB03 — Faerie Assassin",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Faerie Assassin",
-			"collector_number": "105",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/105_UB03 — Faerie Assassin.png"
-			}
-		},
-		{
-			"name": "CZ05 — Entrancing Faye",
-			"rarity": "common",
-			"mana_cost": "{U}{U/B}{B}",
-			"type": "Creature — Faerie Bard",
-			"collector_number": "245",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/245_CZ05 — Entrancing Faye.png"
-			}
-		},
-		{
-			"name": "CG11 — Advantageous Adaptation",
-			"rarity": "common",
-			"mana_cost": "{G}",
-			"type": "Sorcery",
-			"collector_number": "160",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/160_CG11 — Advantageous Adaptation.png"
-			}
-		},
-		{
-			"name": "CG06 — Zagoth Snapper",
-			"rarity": "common",
-			"mana_cost": "{3}{G}",
-			"type": "Creature — Turtle Beast",
-			"collector_number": "155",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/155_CG06 — Zagoth Snapper.png"
-			}
-		},
-		{
-			"name": "CG07 — Mandelbrot Grazer",
-			"rarity": "common",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Creature — Elk Fractal Beast",
-			"collector_number": "156",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/156_CG07 — Mandelbrot Grazer.png"
-			}
-		},
-		{
-			"name": "CG09 — Reynard Bonder",
-			"rarity": "common",
-			"mana_cost": "{5}{G}",
-			"type": "Creature — Human Archer",
-			"collector_number": "158",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/158_CG09 — Reynard Bonder.png"
-			}
-		},
-		{
-			"name": "CG11 — Devour Whole",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Instant",
-			"collector_number": "161",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/161_CG11 — Devour Whole.png"
-			}
-		},
-		{
-			"name": "CB13 — I'm Eternally Grateful",
-			"rarity": "common",
-			"mana_cost": "{3}{B}{B}",
-			"type": "Enchantment",
-			"collector_number": "91",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/91_CB13 — I'm Eternally Grateful.png"
-			}
-		},
-		{
-			"name": "CB10 — Delicious Apples",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Enchantment — Aura Food",
-			"collector_number": "88",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/88_CB10 — Delicious Apples.png"
-			}
-		},
-		{
-			"name": "CG14 — Thunderous Stomp",
-			"rarity": "common",
-			"mana_cost": "{3}{G}",
-			"type": "Sorcery",
-			"collector_number": "163",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/163_CG14 — Thunderous Stomp.png"
-			}
-		},
-		{
-			"name": "UG01 — Venom Meringue Pie",
-			"rarity": "uncommon",
-			"mana_cost": "{G}",
-			"type": "Artifact Creature — Snake Food",
-			"collector_number": "175",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/175_UG01 — Venom Meringue Pie.png"
-			}
-		},
-		{
-			"name": "CR06 —Shrunken Field Reasearcher",
-			"rarity": "common",
-			"mana_cost": "{1}{R}{R}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "119",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/119_CR06 —Shrunken Field Reasearcher.png"
-			}
-		},
-		{
-			"name": "CR03 — Emberheart Mouster",
-			"rarity": "common",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Mouse Bard",
-			"collector_number": "116",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/116_CR03 — Emberheart Mouster.png"
-			}
-		},
-		{
-			"name": "CR07 — Burning Oak Duo",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Rabbit Racoon Knight",
-			"collector_number": "120",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/120_CR07 — Burning Oak Duo.png"
-			}
-		},
-		{
-			"name": "CR11 — Uplift Animalfolk",
-			"rarity": "common",
-			"mana_cost": "{R}",
-			"type": "Instant",
-			"collector_number": "124",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/124_CR11 — Uplift Animalfolk.png"
-			}
-		},
-		{
-			"name": "CR13 — Rally the Squirrels",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Instant",
-			"collector_number": "126",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/126_CR13 — Rally the Squirrels.png"
-			}
-		},
-		{
-			"name": "CB09 — Shadow Swap",
-			"rarity": "common",
-			"mana_cost": "{B}",
-			"type": "Instant",
-			"collector_number": "87",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/87_CB09 — Shadow Swap.png"
-			}
-		},
-		{
-			"name": "CB11 — Negotiated Death",
-			"rarity": "common",
-			"mana_cost": "{1}{B}",
-			"type": "Instant",
-			"collector_number": "89",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/89_CB11 — Negotiated Death.png"
-			}
-		},
-		{
-			"name": "CW12 — Phyrexian Chalice",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Artifact",
-			"collector_number": "16",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/16_CW12 — Phyrexian Chalice.png"
-			}
-		},
-		{
-			"name": "CW06 — Lorehold Paleodietitian",
-			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Elephant Chef",
-			"collector_number": "10",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/10_CW06 — Lorehold Paleodietitian.png"
-			}
-		},
-		{
-			"name": "CU13 — Inspiring Lemma Beans",
-			"rarity": "common",
-			"mana_cost": "{5}{U}",
-			"type": "Artifact — Food",
-			"collector_number": "52",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/52_CU13 — Inspiring Lemma Beans.png"
-			}
-		},
-		{
-			"name": "CU01 — Quandrix Garden Gate",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Fractal Wall",
-			"collector_number": "40",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/40_CU01 — Quandrix Garden Gate.png"
-			}
-		},
-		{
-			"name": "UU04 — Square Elemental",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Fractal Elemental Bird",
-			"collector_number": "67",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/67_UU04 — Square Elemental.png"
-			}
-		},
-		{
-			"name": "CU11 — Publish Analysis",
-			"rarity": "common",
-			"mana_cost": "{3}{U}",
-			"type": "Sorcery",
-			"collector_number": "50",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/50_CU11 — Publish Analysis.png"
-			}
-		},
-		{
-			"name": "CU04 — Sneaky Researcher",
-			"rarity": "common",
-			"mana_cost": "{1}{U/P}{U}",
-			"type": "Creature — Human Phyrexian Rogue",
-			"collector_number": "43",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/43_CU04 — Sneaky Researcher.png"
-			}
-		},
-		{
-			"name": "CW14 — Oleaginous Portal",
-			"rarity": "common",
-			"mana_cost": "{3}{W}",
-			"type": "Enchantment",
-			"collector_number": "18",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/18_CW14 — Oleaginous Portal.png"
-			}
-		},
-		{
-			"name": "RL01 — The Holy Oil Spring",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Enchantment Land — Plains",
-			"collector_number": "277",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/277_RL01 — The Holy Oil Spring.png"
-			}
-		},
-		{
-			"name": "CW13 — Open Wide",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Sorcery",
-			"collector_number": "17",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/17_CW13 — Open Wide.png"
-			}
-		},
-		{
-			"name": "RL05 — Living Great Tree",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Forest Treefolk Beast",
-			"collector_number": "174",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/174_RL05 — Living Great Tree.png"
-			}
-		},
-		{
-			"name": "UU03 — Paperback Snake",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}",
-			"type": "Creature — Snake Elemental",
-			"collector_number": "66",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/66_UU03 — Paperback Snake.png"
-			}
-		},
-		{
-			"name": "CU10 — Freshman Meal Plan",
-			"rarity": "common",
-			"mana_cost": "{1}{U}",
-			"type": "Enchantment",
-			"collector_number": "49",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/49_CU10 — Freshman Meal Plan.png"
-			}
-		},
-		{
-			"name": "MW11 — Elesh Norn, Essence Cenobite",
-			"rarity": "mythic",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Legendary Creature — Phyrexian Praetor",
-			"collector_number": "23",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/23_MW11 — Elesh Norn, Essence Cenobite.png"
-			}
-		},
-		{
-			"name": "MR14 — Mabel, Valley's Champion",
-			"rarity": "mythic",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Legendary Creature — Mouse Knight",
-			"collector_number": "132",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/132_MR14 — Mabel, Valley's Champion.png"
-			}
-		},
-		{
-			"name": "MG15 — Umori, Glue Beast",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}{G}",
-			"type": "Legendary Creature — Ooze Beast",
-			"collector_number": "168",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/168_MG15 — Umori, Glue Beast.png"
-			}
-		},
-		{
-			"name": "MU12 — Zimone, Galeforce Researcher",
-			"rarity": "mythic",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "58",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/58_MU12 — Zimone, Galeforce Researcher.png"
-			}
-		},
-		{
-			"name": "RL04 — Emberheart Greatsword",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Artifact Land — Mountain Equipment",
-			"collector_number": "133",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/133_RL04 — Emberheart Greatsword.png"
-			}
-		},
-		{
-			"name": "RL03 — The Dusk Woods",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Land — Swamp",
-			"collector_number": "279",
-			"rating": 4,
-			"back": {
-				"name": "",
-				"type": "",
+				"name": "CU09 — Re-Hash",
+				"rarity": "common",
+				"mana_cost": "{1}{U}",
+				"type": "Instant",
+				"collector_number": "48",
+				"rating": 2,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/279_RL03 — The Dusk Woods_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/48_CU09 — Re-Hash.png"
 				}
 			},
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/279_RL03 — The Dusk Woods_front.png"
-			}
-		},
+		]
+
 		{
-			"name": "RZ01 — Holy Relics Masterclass",
-			"rarity": "rare",
-			"mana_cost": "{W}{U}",
-			"type": "Enchantment — Class",
-			"collector_number": "196",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/196_RZ01 — Holy Relics Masterclass.png"
-			}
-		},
-		{
-			"name": "RZ03 — Blight Rabbit",
-			"rarity": "rare",
-			"mana_cost": "{R}{W}",
-			"type": "Creature — Rabbit Horror",
-			"collector_number": "198",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/198_RZ03 — Blight Rabbit.png"
-			}
-		},
-		{
-			"name": "RZ04 — Wormcoil Hydra",
-			"rarity": "rare",
-			"mana_cost": "{3}{G}{W}",
-			"type": "Artifact Creature — Phyrexian Hydra",
-			"collector_number": "199",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/199_RZ04 — Wormcoil Hydra.png"
-			}
-		},
-		{
-			"name": "RZ06 — Advanced Bravery",
-			"rarity": "rare",
-			"mana_cost": "{U}{R}",
-			"type": "Enchantment — Class",
-			"collector_number": "201",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/201_RZ06 — Advanced Bravery.png"
-			}
-		},
-		{
-			"name": "RZ09 — Esdragot",
-			"rarity": "rare",
-			"mana_cost": "{B}{G}",
-			"type": "Creature — Snail Dragon",
-			"collector_number": "204",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/204_RZ09 — Esdragot.png"
-			}
-		},
-		{
-			"name": "RZ10 — Find the Magic Acorn",
-			"rarity": "rare",
-			"mana_cost": "{4}{R}{G}",
-			"type": "Sorcery",
-			"collector_number": "205",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/205_RZ10 — Find the Magic Acorn.png"
-			}
-		},
-		{
-			"name": "RW01 — Mondrak, Impassable Horror",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Legendary Creature — Phyrexian Horror",
-			"collector_number": "24",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/24_RW01 — Mondrak, Impassable Horror.png"
-			}
-		},
-		{
-			"name": "RW04 — Begin the Feast",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "27",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/27_RW04 — Begin the Feast.png"
-			}
-		},
-		{
-			"name": "RU01 — Larine Arneza, Valedictorian",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}",
-			"type": "Legendary Creature — Human Wizard",
-			"collector_number": "59",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/59_RU01 — Larine Arneza, Valedictorian.png"
-			}
-		},
-		{
-			"name": "RU02 — Pensive Professor",
-			"rarity": "rare",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Creature — Merfolk Wizard",
-			"collector_number": "60",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/60_RU02 — Pensive Professor.png"
-			}
-		},
-		{
-			"name": "RB01 — Agatha, Cauldron Witch",
-			"rarity": "rare",
-			"mana_cost": "{1}{B}",
-			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "98",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/98_RB01 — Agatha, Cauldron Witch.png"
-			}
-		},
-		{
-			"name": "RR02 — Calamity Lavabuck",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}{R}",
-			"type": "Creature — Elemental Cat",
-			"collector_number": "135",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/135_RR02 — Calamity Lavabuck.png"
-			}
-		},
-		{
-			"name": "RG02 — WildCat Bonder",
-			"rarity": "rare",
-			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "170",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/170_RG02 — WildCat Bonder.png"
-			}
-		},
-		{
-			"name": "RG01 — Kogla, the Titan Appe",
-			"rarity": "rare",
-			"mana_cost": "{3}{G}{G}{G}",
-			"type": "Legendary Creature — Ape",
-			"collector_number": "169",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/169_RG01 — Kogla, the Titan Appe.png"
-			}
-		},
-		{
-			"name": "RB02 — Gumdrop Poisoner",
-			"rarity": "rare",
-			"mana_cost": "{B}",
-			"type": "Creature — Human Warlock",
-			"collector_number": "99",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/99_RB02 — Gumdrop Poisoner.png"
-			}
-		},
-		{
-			"name": "UZ01 — Bibliochef",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Creature — Human Chef",
-			"collector_number": "206",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/206_UZ01 — Bibliochef.png"
-			}
-		},
-		{
-			"name": "CW15b — Lifeforce Alliance",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Battle — Alliance",
-			"collector_number": "20",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/20_CW15b — Lifeforce Alliance.png"
-			}
-		},
-		{
-			"name": "CW15a — Trial of Faith",
-			"rarity": "common",
-			"mana_cost": "{2}{W}",
-			"type": "Battle — Trial",
-			"collector_number": "19",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/19_CW15a — Trial of Faith.png"
-			}
-		},
-		{
-			"name": "CB15a — Trial of Guile",
-			"rarity": "common",
-			"mana_cost": "{3}{B}",
-			"type": "Battle — Trial",
-			"collector_number": "93",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/93_CB15a — Trial of Guile.png"
-			}
-		},
-		{
-			"name": "CB15b — Fruitful Alliance",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Battle — Alliance",
-			"collector_number": "94",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/94_CB15b — Fruitful Alliance.png"
-			}
-		},
-		{
-			"name": "CU15a — Test of Intellect",
-			"rarity": "common",
-			"mana_cost": "{4}{U}",
-			"type": "Battle — Trial",
-			"collector_number": "54",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/54_CU15a — Test of Intellect.png"
-			}
-		},
-		{
-			"name": "CU15b — Collaborative Scholarship",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Battle — Alliance",
-			"collector_number": "55",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/55_CU15b — Collaborative Scholarship.png"
-			}
-		},
-		{
-			"name": "CR15a — Trial of Scurry",
-			"rarity": "common",
-			"mana_cost": "{3}{R}",
-			"type": "Battle — Trial",
-			"collector_number": "128",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/128_CR15a — Trial of Scurry.png"
-			}
-		},
-		{
-			"name": "CG15b — Kinship of the Herd",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Battle — Alliance",
-			"collector_number": "165",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/165_CG15b — Kinship of the Herd.png"
-			}
-		},
-		{
-			"name": "CG15a — Trial of Might",
-			"rarity": "common",
-			"mana_cost": "{3}{G}",
-			"type": "Battle — Trial",
-			"collector_number": "164",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/164_CG15a — Trial of Might.png"
-			}
-		},
-		{
-			"name": "CR15b — Battleproven Duo",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Battle — Alliance",
-			"collector_number": "129",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/129_CR15b — Battleproven Duo.png"
-			}
-		},
-		{
-			"name": "UR04 — Riverbank Paladin",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}",
-			"type": "Creature — Frog Knight",
-			"collector_number": "142",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/142_UR04 — Riverbank Paladin.png"
-			}
-		},
-		{
-			"name": "RR03 — Sword from the Pond",
-			"rarity": "rare",
-			"mana_cost": "{1}{R}",
-			"type": "Artifact — Equipment",
-			"collector_number": "136",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/136_RR03 — Sword from the Pond.png"
-			}
-		},
-		{
-			"name": "UR06 — ScarletSky Duo",
-			"rarity": "uncommon",
-			"mana_cost": "{6}{R}",
-			"type": "Creature — Bird Beast",
-			"collector_number": "144",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/144_UR06 — ScarletSky Duo.png"
-			}
-		},
-		{
-			"name": "UG02 — Chevill's Apprentice",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Creature — Human Rogue",
-			"collector_number": "176",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/176_UG02 — Chevill's Apprentice.png"
-			}
-		},
-		{
-			"name": "UG03 —Ravenous Hyena",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}",
-			"type": "Creature — Dog Beast",
-			"collector_number": "177",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/177_UG03 —Ravenous Hyena.png"
-			}
-		},
-		{
-			"name": "UB09 — Graverob",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{B}",
-			"type": "Kindred Instant — Rogue",
-			"collector_number": "111",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/111_UB09 — Graverob.png"
-			}
-		},
-		{
-			"name": "UB05 — Red Riding Hood",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{B}",
-			"type": "Creature — Human Knight",
-			"collector_number": "107",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/107_UB05 — Red Riding Hood.png"
-			}
-		},
-		{
-			"name": "UZ03 — Soul Rodent",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{W}",
-			"type": "Creature — Mouse Cleric",
-			"collector_number": "207",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/207_UZ03 — Soul Rodent.png"
-			}
-		},
-		{
-			"name": "UZ04 — Tithe Monster",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}{W}",
-			"type": "Creature — Phyrexian Skelenton Beast",
-			"collector_number": "208",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/208_UZ04 — Tithe Monster.png"
-			}
-		},
-		{
-			"name": "UZ09 — Itsy Bitey Spider",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Creature — Spider",
-			"collector_number": "213",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/213_UZ09 — Itsy Bitey Spider.png"
-			}
-		},
-		{
-			"name": "UR05 — Wiskerbow Archer",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{R}",
-			"type": "Creature — Rabbit Archer",
-			"collector_number": "143",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/143_UR05 — Wiskerbow Archer.png"
-			}
-		},
-		{
-			"name": "MB13 — Rankle, Trusted Borrower",
-			"rarity": "mythic",
-			"mana_cost": "{3}{B}{B}",
-			"type": "Legendary Creature — Faerie Rogue",
-			"collector_number": "97",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/97_MB13 — Rankle, Trusted Borrower.png"
-			}
-		},
-		{
-			"name": "UU01 — Axiom Channeler",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "64",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/64_UU01 — Axiom Channeler.png"
-			}
-		},
-		{
-			"name": "UZ06 — Swirl Pond Enforcer",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{R}",
-			"type": "Creature — Frog Warrior",
-			"collector_number": "210",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/210_UZ06 — Swirl Pond Enforcer.png"
-			}
-		},
-		{
-			"name": "CZ07 — Strix Bonder",
-			"rarity": "common",
-			"mana_cost": "{G}{G/U}{U}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "247",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/247_CZ07 — Strix Bonder.png"
-			}
-		},
-		{
-			"name": "CZ09 — Elder Bonder",
-			"rarity": "common",
-			"mana_cost": "{3}{B}{B/G}{G}",
-			"type": "Creature — Human Druid",
-			"collector_number": "249",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/249_CZ09 — Elder Bonder.png"
-			}
-		},
-		{
-			"name": "CZ10 — Frenzied Bonder",
-			"rarity": "common",
-			"mana_cost": "{R}{R/G}{G}",
-			"type": "Creature — Human Berserker",
-			"collector_number": "250",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/250_CZ10 — Frenzied Bonder.png"
-			}
-		},
-		{
-			"name": "CG13— Surivor's Bond",
-			"rarity": "common",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "162",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/162_CG13— Surivor's Bond.png"
-			}
-		},
-		{
-			"name": "CB04 — Oilsworn Paladin",
-			"rarity": "common",
-			"mana_cost": "{1}{B}{B}",
-			"type": "Creature — Phyrexian Human Knight",
-			"collector_number": "82",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/82_CB04 — Oilsworn Paladin.png"
-			}
-		},
-		{
-			"name": "CZ02 — Liturgy Preparer",
-			"rarity": "common",
-			"mana_cost": "{W}{W/B}{B}",
-			"type": "Creature — Human Cleric",
-			"collector_number": "242",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/242_CZ02 — Liturgy Preparer.png"
-			}
-		},
-		{
-			"name": "CA01 — Egg BombBomb",
-			"rarity": "common",
-			"mana_cost": "{2}",
-			"type": "Artifact — Food",
-			"collector_number": "255",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/255_CA01 — Egg BombBomb.png"
-			}
-		},
-		{
-			"name": "UA05 — Eriette's Tempting Apple",
-			"rarity": "uncommon",
-			"mana_cost": "{4}",
-			"type": "Legendary Artifact — Food",
-			"collector_number": "262",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/262_UA05 — Eriette's Tempting Apple.png"
-			}
-		},
-		{
-			"name": "CU03 — Quaildratic Formula",
-			"rarity": "common",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Creature — Fractal Bird",
-			"collector_number": "42",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/42_CU03 — Quaildratic Formula.png"
-			}
-		},
-		{
-			"name": "UU06 — Stress of Finals Week",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}",
-			"type": "Enchantment",
-			"collector_number": "69",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/69_UU06 — Stress of Finals Week.png"
-			}
-		},
-		{
-			"name": "UW10 — Call to Compleation",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "38",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/38_UW10 — Call to Compleation.png"
-			}
-		},
-		{
-			"name": "UW09 — Punishment Sphere",
-			"rarity": "uncommon",
-			"mana_cost": "{W}",
-			"type": "Enchantment",
-			"collector_number": "37",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/37_UW09 — Punishment Sphere.png"
-			}
-		},
-		{
-			"name": "CR09 — Oilslick Watchfrog",
-			"rarity": "common",
-			"mana_cost": "{4}{R}",
-			"type": "Creature — Phyrexian Frog",
-			"collector_number": "122",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/122_CR09 — Oilslick Watchfrog.png"
-			}
-		},
-		{
-			"name": "CB12 — Baked into a Pie",
-			"rarity": "common",
-			"mana_cost": "{2}{B}{B}",
-			"type": "Instant",
-			"collector_number": "90",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/90_CB12 — Baked into a Pie.png"
-			}
-		},
-		{
-			"name": "UR08 — Return the Flavor",
-			"rarity": "uncommon",
-			"mana_cost": "{R}{R}",
-			"type": "Instant",
-			"collector_number": "146",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/146_UR08 — Return the Flavor.png"
-			}
-		},
-		{
-			"name": "UU09 — Doesn't Count",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{U}{U}",
-			"type": "Instant",
-			"collector_number": "72",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/72_UU09 — Doesn't Count.png"
-			}
-		},
-		{
-			"name": "UA02 — Giant Loaf",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Artifact — Food",
-			"collector_number": "260",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/260_UA02 — Giant Loaf.png"
-			}
-		},
-		{
-			"name": "UZ02 — Dawn Knight",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{W/B}{B}",
-			"type": "Creature — Phyrexian Knight",
-			"collector_number": "251",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/251_UZ02 — Dawn Knight.png"
-			}
-		},
-		{
-			"name": "CZ01 — Biblopex Caterer",
-			"rarity": "common",
-			"mana_cost": "{W}{W/U}{U}",
-			"type": "Creature — Goblin Chef",
-			"collector_number": "241",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/241_CZ01 — Biblopex Caterer.png"
-			}
-		},
-		{
-			"name": "RZ07 — Quandrix Illusionist",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}{U}",
-			"type": "Creature — Human Illusion Wizard",
-			"collector_number": "202",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/202_RZ07 — Quandrix Illusionist.png"
-			}
-		},
-		{
-			"name": "MZ02 — Ms. Bumbleflower, Generous Hare",
-			"rarity": "mythic",
-			"mana_cost": "{3}{W}{U}",
-			"type": "Legendary Creature — Rabbit Noble",
-			"collector_number": "187",
-			"rating": 5,
-			"back": {
-				"name": "",
-				"type": "",
+				"name": "CW07 — Devote Evangelist",
+				"rarity": "common",
+				"mana_cost": "{4}{W}",
+				"type": "Creature — Human Cleric",
+				"collector_number": "11",
+				"rating": 2,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/187_MZ02 — Ms. Bumbleflower, Generous Hare_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/11_CW07 — Devote Evangelist.png"
 				}
 			},
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/187_MZ02 — Ms. Bumbleflower, Generous Hare_front.png"
-			}
-		},
+		]
+
 		{
-			"name": "MZ03 — Gyruda, Oscilating Wave",
-			"rarity": "mythic",
-			"mana_cost": "{4}{U}{B}",
-			"type": "Legendary Creature — Demon Kraken",
-			"collector_number": "188",
-			"rating": 5,
-			"back": {
-				"name": "",
-				"type": "",
+				"name": "UZ07 — Tenured Bondologist",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{U}",
+				"type": "Creature — Human Druid",
+				"collector_number": "211",
+				"rating": 3,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/188_MZ03 — Gyruda, Oscilating Wave_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/211_UZ07 — Tenured Bondologist.png"
 				}
 			},
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/188_MZ03 — Gyruda, Oscilating Wave_front.png"
-			}
-		},
+		]
+
 		{
-			"name": "MZ01 — Ixhel, Porcelain Angel",
-			"rarity": "mythic",
-			"mana_cost": "{2}{G}{W}",
-			"type": "Legendary Creature — Phyrexian Angel",
-			"collector_number": "186",
-			"rating": 5,
-			"back": {
-				"name": "",
-				"type": "",
+				"name": "CB08 — Big Bad Ouphe",
+				"rarity": "common",
+				"mana_cost": "{5}{B}{B}",
+				"type": "Creature — Ouphe Wolf Beast",
+				"collector_number": "86",
+				"rating": 2,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/186_MZ01 — Ixhel, Porcelain Angel_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/86_CB08 — Big Bad Ouphe.png"
 				}
 			},
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/186_MZ01 — Ixhel, Porcelain Angel_front.png"
-			}
-		},
+		]
+
 		{
-			"name": "MZ04 — Cruelclaw, Leader of the Red Scarves",
-			"rarity": "mythic",
-			"mana_cost": "{1}{B}{R}",
-			"type": "Legendary Creature — Weasle Mercenary",
-			"collector_number": "189",
-			"rating": 5,
-			"back": {
-				"name": "",
-				"type": "",
+				"name": "UW05 — Auriok Descendant",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{W}{W}",
+				"type": "Artifact Creature — Human Artificer",
+				"collector_number": "33",
+				"rating": 3,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/189_MZ04 — Cruelclaw, Leader of the Red Scarves_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/33_UW05 — Auriok Descendant.png"
 				}
 			},
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/189_MZ04 — Cruelclaw, Leader of the Red Scarves_front.png"
-			}
-		},
+		]
+
 		{
-			"name": "MZ05 — Kaheera, Monster Paragon",
-			"rarity": "mythic",
-			"mana_cost": "{3}{R}{G}",
-			"type": "Legendary Creature — Cat Beast",
-			"collector_number": "190",
-			"rating": 5,
-			"back": {
-				"name": "",
-				"type": "",
+				"name": "UW02 — Porcelain Myr",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}",
+				"type": "Artifact Creature — Myr",
+				"collector_number": "30",
+				"rating": 3,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/190_MZ05 — Kaheera, Monster Paragon_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/30_UW02 — Porcelain Myr.png"
 				}
 			},
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/190_MZ05 — Kaheera, Monster Paragon_front.png"
-			}
-		},
+		]
+
 		{
-			"name": "MZ06 — Urabrask, Rebel Praetor",
-			"rarity": "mythic",
-			"mana_cost": "{3}{R}{W}",
-			"type": "Legendary Creature — Phyrexian Praetor",
-			"collector_number": "191",
-			"rating": 5,
-			"back": {
-				"name": "",
-				"type": "",
+				"name": "UZ12a —",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}{B}",
+				"type": "Battle — Trial",
+				"collector_number": "217",
+				"rating": 3,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/191_MZ06 — Urabrask, Rebel Praetor_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/217_UZ12a —.png"
 				}
 			},
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/191_MZ06 — Urabrask, Rebel Praetor_front.png"
-			}
-		},
+		]
+
 		{
-			"name": "MZ07 — Quandrix, Resonance Maestro",
-			"rarity": "mythic",
-			"mana_cost": "{5}{G}{U}",
-			"type": "Legendary Creature — Elder Dragon",
-			"collector_number": "192",
-			"rating": 5,
-			"back": {
-				"name": "",
-				"type": "",
+				"name": "UZ11a — Raid on",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{U}",
+				"type": "Battle — Raid",
+				"collector_number": "215",
+				"rating": 3,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/192_MZ07 — Quandrix, Resonance Maestro_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/215_UZ11a — Raid on.png"
 				}
 			},
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/192_MZ07 — Quandrix, Resonance Maestro_front.png"
-			}
-		},
+		]
+
 		{
-			"name": "MZ08 — Eriette of Love's Bite",
-			"rarity": "mythic",
-			"mana_cost": "{1}{W}{B}",
-			"type": "Legendary Creature — Human Warlock",
-			"collector_number": "193",
-			"rating": 5,
-			"back": {
-				"name": "",
-				"type": "",
+				"name": "UR07 — Heartfire Bolt",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}",
+				"type": "Instant",
+				"collector_number": "145",
+				"rating": 3,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/193_MZ08 — Eriette of Love's Bite_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/145_UR07 — Heartfire Bolt.png"
 				}
 			},
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/193_MZ08 — Eriette of Love's Bite_front.png"
-			}
-		},
+		]
+
 		{
-			"name": "MZ09 — Quintorious, Defender of History",
-			"rarity": "mythic",
-			"mana_cost": "{2}{R}{W}",
-			"type": "Legendary Creature — Elephant Knight",
-			"collector_number": "194",
-			"rating": 5,
-			"back": {
-				"name": "",
-				"type": "",
+				"name": "UZ14a — Raid on",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{G}{W}",
+				"type": "Battle — Raid",
+				"collector_number": "221",
+				"rating": 3,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/194_MZ09 — Quintorious, Defender of History_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/221_UZ14a — Raid on.png"
 				}
 			},
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/194_MZ09 — Quintorious, Defender of History_front.png"
-			}
-		},
+		]
+
 		{
-			"name": "MZ10 - The Golden Goose",
-			"rarity": "mythic",
-			"mana_cost": "{X}{G}{U}",
-			"type": "Legendary Creature — Bird Hydra",
-			"collector_number": "195",
-			"rating": 5,
-			"back": {
-				"name": "",
-				"type": "",
+				"name": "UZ20a — Raid on Dandelion Pond",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}{G}",
+				"type": "Battle — Raid",
+				"collector_number": "233",
+				"rating": 3,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/195_MZ10 - The Golden Goose_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/233_UZ20a — Raid on Dandelion Pond.png"
 				}
 			},
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/195_MZ10 - The Golden Goose_front.png"
-			}
-		},
+		]
+
 		{
-			"name": "UB07 — Back for Seconds",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
-			"type": "Sorcery",
-			"collector_number": "109",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/109_UB07 — Back for Seconds.png"
-			}
-		},
+				"name": "UZ13a —",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{W}",
+				"type": "Battle — Trial",
+				"collector_number": "219",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/219_UZ13a —.png"
+				}
+			},
+		]
+
 		{
-			"name": "RB03 — Magic Piggies",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}",
-			"type": "Enchantment Creature — Boar Coward",
-			"collector_number": "100",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/100_RB03 — Magic Piggies.png"
-			}
-		},
+				"name": "UZ15a — Raid on Your Dreams",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{U}{B}",
+				"type": "Battle — Raid",
+				"collector_number": "223",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/223_UZ15a — Raid on Your Dreams.png"
+				}
+			},
+		]
+
 		{
-			"name": "UB04 — Hell's Sous Chef",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{B}",
-			"type": "Creature — Demon Chef",
-			"collector_number": "106",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/106_UB04 — Hell's Sous Chef.png"
-			}
-		},
+				"name": "UZ17a —",
+				"rarity": "uncommon",
+				"mana_cost": "{G}{U}",
+				"type": "Battle — Trial",
+				"collector_number": "227",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/227_UZ17a —.png"
+				}
+			},
+		]
+
 		{
-			"name": "UZ22 — Compleat Revival",
-			"rarity": "uncommon",
-			"mana_cost": "{W}{W/B}{B}",
-			"type": "Sorcery",
-			"collector_number": "252",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/252_UZ22 — Compleat Revival.png"
-			}
-		},
+				"name": "UZ19a —",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{B}{G}",
+				"type": "Battle — Trial",
+				"collector_number": "231",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/231_UZ19a —.png"
+				}
+			},
+		]
+
 		{
-			"name": "UZ21 — Skeptic",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}{U}",
-			"type": "Instant",
-			"collector_number": "235",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/235_UZ21 — Skeptic.png"
-			}
-		},
+				"name": "UZ16a — Thesis Defense",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}{R}",
+				"type": "Battle — Trial",
+				"collector_number": "225",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/225_UZ16a — Thesis Defense.png"
+				}
+			},
+		]
+
 		{
-			"name": "UZ23 — Nightwatch Blade",
-			"rarity": "uncommon",
-			"mana_cost": "{R/W}{R/W}",
-			"type": "Enchantment — Aura",
-			"collector_number": "253",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/253_UZ23 — Nightwatch Blade.png"
-			}
-		},
+				"name": "UZ18a — Raid on",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{B}{R}",
+				"type": "Battle — Raid",
+				"collector_number": "229",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/229_UZ18a — Raid on.png"
+				}
+			},
+		]
+
 		{
-			"name": "UZ26 — Mace The Exam",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{U}{R}",
-			"type": "Artifact — Equipment",
-			"collector_number": "237",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/237_UZ26 — Mace The Exam.png"
-			}
-		},
+				"name": "CR12 — Fling a Pie",
+				"rarity": "common",
+				"mana_cost": "{1}{R}",
+				"type": "Instant",
+				"collector_number": "125",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/125_CR12 — Fling a Pie.png"
+				}
+			},
+		]
+
 		{
-			"name": "UZ24 — Boarish Roar",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{G}{G/W}{W}",
-			"type": "Sorcery",
-			"collector_number": "254",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/254_UZ24 — Boarish Roar.png"
-			}
-		},
+				"name": "CB05 — Innocuous Prankster",
+				"rarity": "common",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Faerie Rogue",
+				"collector_number": "83",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/83_CB05 — Innocuous Prankster.png"
+				}
+			},
+		]
+
 		{
-			"name": "UZ25 — Plagiarism",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{U}{B}",
-			"type": "Instant",
-			"collector_number": "236",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/236_UZ25 — Plagiarism.png"
-			}
-		},
+				"name": "CB16b — Rankle's Reveal",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Sorcery",
+				"collector_number": "96",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/96_CB16b — Rankle's Reveal.png"
+				}
+			},
+		]
+
 		{
-			"name": "UW07 — Oily Shimmer",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{W}",
-			"type": "Instant",
-			"collector_number": "35",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/35_UW07 — Oily Shimmer.png"
-			}
-		},
+				"name": "UZ18b —",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Enchantment",
+				"collector_number": "230",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/230_UZ18b —.png"
+				}
+			},
+		]
+
 		{
-			"name": "CL01 — Raugrin Lavaflats",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "267",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/267_CL01 — Raugrin Lavaflats.png"
-			}
-		},
+				"name": "CG16a — Raid on Ketria Gemgrove",
+				"rarity": "common",
+				"mana_cost": "{1}{G}{G}",
+				"type": "Battle — Raid",
+				"collector_number": "166",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/166_CG16a — Raid on Ketria Gemgrove.png"
+				}
+			},
+		]
+
 		{
-			"name": "CL02 — The Woods at Twilight",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "268",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/268_CL02 — The Woods at Twilight.png"
-			}
-		},
+				"name": "RG04 — Biomewide Migration",
+				"rarity": "rare",
+				"mana_cost": "{3}{G}{G}",
+				"type": "Sorcery",
+				"collector_number": "172",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/172_RG04 — Biomewide Migration.png"
+				}
+			},
+		]
+
 		{
-			"name": "CL03 — Department of Environmental Sciences",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "269",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/269_CL03 — Department of Environmental Sciences.png"
-			}
-		},
+				"name": "UG04 — Dualcat",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Cat Beast",
+				"collector_number": "178",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/178_UG04 — Dualcat.png"
+				}
+			},
+		]
+
 		{
-			"name": "CL04 — Phyrexian Passage",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "270",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/270_CL04 — Phyrexian Passage.png"
-			}
-		},
+				"name": "CR05 — Owl-Eyed Bowman",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Creature — Bird Archer",
+				"collector_number": "118",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/118_CR05 — Owl-Eyed Bowman.png"
+				}
+			},
+		]
+
 		{
-			"name": "CL05 — The Valley Market",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "271",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/271_CL05 — The Valley Market.png"
-			}
-		},
+				"name": "CW16a — Raid on the Fifth Sphere",
+				"rarity": "common",
+				"mana_cost": "{3}{W}",
+				"type": "Battle — Raid",
+				"collector_number": "21",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/21_CW16a — Raid on the Fifth Sphere.png"
+				}
+			},
+		]
+
 		{
-			"name": "UZ29 — Hoot of the Horned Owl",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Enchantment",
-			"collector_number": "239",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/239_UZ29 — Hoot of the Horned Owl.png"
-			}
-		},
+				"name": "CB16a — Raid on the Faerie Garden",
+				"rarity": "common",
+				"mana_cost": "{2}{B}",
+				"type": "Battle — Raid",
+				"collector_number": "95",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/95_CB16a — Raid on the Faerie Garden.png"
+				}
+			},
+		]
+
 		{
-			"name": "UZ30 — Mythos of Kogla",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{G}",
-			"type": "Instant",
-			"collector_number": "240",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/240_UZ30 — Mythos of Kogla.png"
-			}
-		},
+				"name": "CR16a — Raid on Emberheart-Oven",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Battle — Raid",
+				"collector_number": "130",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/130_CR16a — Raid on Emberheart-Oven.png"
+				}
+			},
+		]
+
 		{
-			"name": "CL06 — Norn's Basilica",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "272",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/272_CL06 — Norn's Basilica.png"
-			}
-		},
+				"name": "CU16a — Raid on the Potions Class",
+				"rarity": "common",
+				"mana_cost": "{2}{U}",
+				"type": "Battle — Raid",
+				"collector_number": "56",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/56_CU16a — Raid on the Potions Class.png"
+				}
+			},
+		]
+
 		{
-			"name": "CL07 — Bilbelopex",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "273",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/273_CL07 — Bilbelopex.png"
-			}
-		},
+				"name": "RB04 — Careful What You Ask For",
+				"rarity": "rare",
+				"mana_cost": "{4}{B}{B}",
+				"type": "Sorcery",
+				"collector_number": "101",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/101_RB04 — Careful What You Ask For.png"
+				}
+			},
+		]
+
 		{
-			"name": "CL08 — Witches Hut",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "274",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/274_CL08 — Witches Hut.png"
-			}
-		},
+				"name": "RR04 — Flavor of Autumn",
+				"rarity": "rare",
+				"mana_cost": "{4}{R}{R}",
+				"type": "Sorcery",
+				"collector_number": "137",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/137_RR04 — Flavor of Autumn.png"
+				}
+			},
+		]
+
 		{
-			"name": "CL09 — Oystershroom Lodge",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "275",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/275_CL09 — Oystershroom Lodge.png"
-			}
-		},
+				"name": "RW02 — Flavor of Orthodoxy",
+				"rarity": "rare",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Phyrexian",
+				"collector_number": "25",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/25_RW02 — Flavor of Orthodoxy.png"
+				}
+			},
+		]
+
 		{
-			"name": "CL10 — Ketria Bosque",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Land",
-			"collector_number": "276",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/276_CL10 — Ketria Bosque.png"
-			}
-		},
+				"name": "RU04 — Chronicle",
+				"rarity": "rare",
+				"mana_cost": "{3}{U}{U}",
+				"type": "Instant",
+				"collector_number": "62",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/62_RU04 — Chronicle.png"
+				}
+			},
+		]
+
 		{
-			"name": "UG09 — Snap Up",
-			"rarity": "uncommon",
-			"mana_cost": "{G}",
-			"type": "Instant",
-			"collector_number": "183",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/183_UG09 — Snap Up.png"
-			}
-		},
+				"name": "UZ27 — Reason",
+				"rarity": "uncommon",
+				"mana_cost": "{U}",
+				"type": "Sorcery",
+				"collector_number": "74",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/74_UZ27 — Reason.png"
+				}
+			},
+		]
+
 		{
-			"name": "UU05 — Tater Tot Monitor",
-			"rarity": "uncommon",
-			"mana_cost": "{6}{U}",
-			"type": "Artifact Creature — Food",
-			"collector_number": "68",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/68_UU05 — Tater Tot Monitor.png"
-			}
-		},
+				"name": "UB08 — Killer Deal",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{B}{B}",
+				"type": "Instant",
+				"collector_number": "110",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/110_UB08 — Killer Deal.png"
+				}
+			},
+		]
+
 		{
-			"name": "CA02 — Magic Fruit Stand",
-			"rarity": "common",
-			"mana_cost": "{3}",
-			"type": "Artifact",
-			"collector_number": "256",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/256_CA02 — Magic Fruit Stand.png"
-			}
-		},
+				"name": "CB07 — Professor From Another Realm",
+				"rarity": "common",
+				"mana_cost": "{4}{B}",
+				"type": "Creature — Faerie Wizard",
+				"collector_number": "85",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/85_CB07 — Professor From Another Realm.png"
+				}
+			},
+		]
+
 		{
-			"name": "CA03 — Cabbatrice",
-			"rarity": "common",
-			"mana_cost": "{5}",
-			"type": "Artifact Creature — Food Nightmare",
-			"collector_number": "257",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/257_CA03 — Cabbatrice.png"
-			}
-		},
+				"name": "CB03 — Mellow-o-Wisps",
+				"rarity": "common",
+				"mana_cost": "{2}{B}",
+				"type": "Artifact Creature — Spirit Food",
+				"collector_number": "81",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/81_CB03 — Mellow-o-Wisps.png"
+				}
+			},
+		]
+
 		{
-			"name": "CA04 — Ginger Snaposaurus",
-			"rarity": "common",
-			"mana_cost": "{8}",
-			"type": "Creature Artifact — Dinosaur Food",
-			"collector_number": "258",
-			"rating": 2,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/258_CA04 — Ginger Snaposaurus.png"
-			}
-		},
+				"name": "CB02 — Midnight Snacqueraider",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "80",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/80_CB02 — Midnight Snacqueraider.png"
+				}
+			},
+		]
+
 		{
-			"name": "UA01 — Chef's Knife",
-			"rarity": "uncommon",
-			"mana_cost": "{2}",
-			"type": "Artifact — Equipment",
-			"collector_number": "259",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/259_UA01 — Chef's Knife.png"
-			}
-		},
+				"name": "CB01 — Plague Knight",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Creature — Rat Knight",
+				"collector_number": "79",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/79_CB01 — Plague Knight.png"
+				}
+			},
+		]
+
 		{
-			"name": "UA03 — Triple Berry Patrol",
-			"rarity": "uncommon",
-			"mana_cost": "{3}",
-			"type": "Artifact Creature — Food Knight Wizard",
-			"collector_number": "261",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/261_UA03 — Triple Berry Patrol.png"
-			}
-		},
+				"name": "CB14 — Entreating Witch",
+				"rarity": "common",
+				"mana_cost": "{5}{B}",
+				"type": "Creature — Human Rogue Warlock",
+				"collector_number": "92",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/92_CB14 — Entreating Witch.png"
+				}
+			},
+		]
+
 		{
-			"name": "UA05 — Her Royal Meringue",
-			"rarity": "uncommon",
-			"mana_cost": "{5}",
-			"type": "Legendary Artifact Creature — Food Nobel",
-			"collector_number": "263",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/263_UA05 — Her Royal Meringue.png"
-			}
-		},
+				"name": "CU08 — Check your work!",
+				"rarity": "common",
+				"mana_cost": "{1}{U}",
+				"type": "Sorcery",
+				"collector_number": "47",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/47_CU08 — Check your work!.png"
+				}
+			},
+		]
+
 		{
-			"name": "UA06 — Toffee Golem",
-			"rarity": "uncommon",
-			"mana_cost": "{7}",
-			"type": "Artifact Creature — Food Golem",
-			"collector_number": "264",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/264_UA06 — Toffee Golem.png"
-			}
-		},
+				"name": "UU08 — Two Weeks Suspension",
+				"rarity": "uncommon",
+				"mana_cost": "{U}{U}",
+				"type": "Instant",
+				"collector_number": "71",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/71_UU08 — Two Weeks Suspension.png"
+				}
+			},
+		]
+
 		{
-			"name": "UG07 — Enraged Rex",
-			"rarity": "uncommon",
-			"mana_cost": "{8}{G}{G}",
-			"type": "Creature — Dinosaur Beast",
-			"collector_number": "181",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/181_UG07 — Enraged Rex.png"
-			}
-		},
+				"name": "CU14 — Group Study",
+				"rarity": "common",
+				"mana_cost": "{3}{U}",
+				"type": "Instant",
+				"collector_number": "53",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/53_CU14 — Group Study.png"
+				}
+			},
+		]
+
 		{
-			"name": "RZ02 — Duskhunter Bat",
-			"rarity": "rare",
-			"mana_cost": "{2}{W}{B}",
-			"type": "Creature — Phyrexian Bat Horror",
-			"collector_number": "197",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/197_RZ02 — Duskhunter Bat.png"
-			}
-		},
+				"name": "UU10 — Calculate A Prophecy",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}",
+				"type": "Sorcery",
+				"collector_number": "73",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/73_UU10 — Calculate A Prophecy.png"
+				}
+			},
+		]
+
 		{
-			"name": "RW03 — Chef of Machines",
-			"rarity": "rare",
-			"mana_cost": "{4}{W}{W}",
-			"type": "Enchantment — Saga",
-			"collector_number": "26",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/26_RW03 — Chef of Machines.png"
-			}
-		},
+				"name": "CU07 — Missing Ingredient",
+				"rarity": "common",
+				"mana_cost": "{U}",
+				"type": "Instant",
+				"collector_number": "46",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/46_CU07 — Missing Ingredient.png"
+				}
+			},
+		]
+
 		{
-			"name": "RG03 — Umori's Hunger",
-			"rarity": "rare",
-			"mana_cost": "{2}{G}",
-			"type": "Enchantment",
-			"collector_number": "171",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/171_RG03 — Umori's Hunger.png"
-			}
-		},
+				"name": "CU06 — Exponentiation Professor",
+				"rarity": "common",
+				"mana_cost": "{5}{U}",
+				"type": "Creature — Giant Wizard",
+				"collector_number": "45",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/45_CU06 — Exponentiation Professor.png"
+				}
+			},
+		]
+
 		{
-			"name": "RR01 — Whisker, the Fearless",
-			"rarity": "rare",
-			"mana_cost": "{2}{R}",
-			"type": "Legendary Creature — M ouse Knight",
-			"collector_number": "134",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/134_RR01 — Whisker, the Fearless.png"
-			}
-		},
+				"name": "CU05 — Professor of Culinary Arts",
+				"rarity": "common",
+				"mana_cost": "{3}{U}",
+				"type": "Creature — Human Wizard",
+				"collector_number": "44",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/44_CU05 — Professor of Culinary Arts.png"
+				}
+			},
+		]
+
 		{
-			"name": "UR02 — Agate Instigator",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{R}",
-			"type": "Creature — Lizard Rogue",
-			"collector_number": "140",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/140_UR02 — Agate Instigator.png"
-			}
-		},
+				"name": "UW01 — Hosting Hawk",
+				"rarity": "uncommon",
+				"mana_cost": "{W}",
+				"type": "Creature — Phyrexian Bird",
+				"collector_number": "29",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/29_UW01 — Hosting Hawk.png"
+				}
+			},
+		]
+
 		{
-			"name": "RU03 — Cosmophysicist",
-			"rarity": "rare",
-			"mana_cost": "{3}{U}{U}",
-			"type": "Creature — Human Wizard",
-			"collector_number": "61",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/61_RU03 — Cosmophysicist.png"
-			}
-		},
+				"name": "UU02 — Snapping Torus",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{U}",
+				"type": "Creature — Fractal Turtle",
+				"collector_number": "65",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/65_UU02 — Snapping Torus.png"
+				}
+			},
+		]
+
 		{
-			"name": "UG05 — Razorback Bonder",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{G}",
-			"type": "Creature — Human Warrior",
-			"collector_number": "179",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/179_UG05 — Razorback Bonder.png"
-			}
-		},
+				"name": "CU02 — Arithmetic Frogression",
+				"rarity": "common",
+				"mana_cost": "{1}{U}",
+				"type": "Creature — Frog Fractal",
+				"collector_number": "41",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/41_CU02 — Arithmetic Frogression.png"
+				}
+			},
+		]
+
 		{
-			"name": "UB02 — Night Knight",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{B}",
-			"type": "Creature — Human Knight Rogue",
-			"collector_number": "104",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/104_UB02 — Night Knight.png"
-			}
-		},
+				"name": "CU12 — Call Campus Saftey",
+				"rarity": "common",
+				"mana_cost": "{4}{U}",
+				"type": "Sorcery",
+				"collector_number": "51",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/51_CU12 — Call Campus Saftey.png"
+				}
+			},
+		]
+
 		{
-			"name": "RL02 — Atollpology",
-			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Enchantment Lannd — Class Island",
-			"collector_number": "278",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/278_RL02 — Atollpology.png"
-			}
-		},
+				"name": "CW10 — Served In Ice",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Enchantment — Aura",
+				"collector_number": "14",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/14_CW10 — Served In Ice.png"
+				}
+			},
+		]
+
 		{
-			"name": "RZ08 — Sand Witch",
-			"rarity": "rare",
-			"mana_cost": "{2}{B}{R}",
-			"type": "Creature — Human Warlock",
-			"collector_number": "203",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/203_RZ08 — Sand Witch.png"
-			}
-		},
+				"name": "CW08 — Sleeperagent Skymount",
+				"rarity": "common",
+				"mana_cost": "{4}{W}{W}",
+				"type": "Creature — Phyrexian Bird",
+				"collector_number": "12",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/12_CW08 — Sleeperagent Skymount.png"
+				}
+			},
+		]
+
 		{
-			"name": "UB01 — Gingerbread Cabin",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Enchantment Creature — Food Wall",
-			"collector_number": "103",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/103_UB01 — Gingerbread Cabin.png"
-			}
-		},
+				"name": "CU16b — Zimone Gets Even",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Sorcery",
+				"collector_number": "57",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/57_CU16b — Zimone Gets Even.png"
+				}
+			},
+		]
+
 		{
-			"name": "UR09 — Slay The Beast",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{R}",
-			"type": "Instant",
-			"collector_number": "147",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/147_UR09 — Slay The Beast.png"
-			}
-		},
+				"name": "CW01 — Phyrexian Pridemate",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Artifact Creature — Phyrexian Cat",
+				"collector_number": "5",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/5_CW01 — Phyrexian Pridemate.png"
+				}
+			},
+		]
+
 		{
-			"name": "UB06 — Dark Lilly Ambushers",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{B}{B}",
-			"type": "Creature",
-			"collector_number": "108",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/108_UB06 — Dark Lilly Ambushers.png"
-			}
-		},
+				"name": "CW02 — Bladed Ambassador",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Creature — Phyrexian Solider",
+				"collector_number": "6",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/6_CW02 — Bladed Ambassador.png"
+				}
+			},
+		]
+
 		{
-			"name": "UW06 — Compleated Butcher",
-			"rarity": "uncommon",
-			"mana_cost": "{4}{W}",
-			"type": "Creature — Phyrexian Human Chef",
-			"collector_number": "34",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/34_UW06 — Compleated Butcher.png"
-			}
-		},
+				"name": "CW03 — Autocatalytic Hare",
+				"rarity": "common",
+				"mana_cost": "{W}{W}",
+				"type": "Creature — Phyrexian Rabbit",
+				"collector_number": "7",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/7_CW03 — Autocatalytic Hare.png"
+				}
+			},
+		]
+
 		{
-			"name": "RW05 — Blood",
-			"rarity": "rare",
-			"mana_cost": "{3}{W}{W}",
-			"type": "Sorcery",
-			"collector_number": "28",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/28_RW05 — Blood.png"
-			}
-		},
+				"name": "CW04 — Celestial Crier",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Griffin",
+				"collector_number": "8",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/8_CW04 — Celestial Crier.png"
+				}
+			},
+		]
+
 		{
-			"name": "UW04 — Mite Overseer",
-			"rarity": "uncommon",
-			"mana_cost": "{3}{W}",
-			"type": "Creature — Phyrexian Solider",
-			"collector_number": "32",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/32_UW04 — Mite Overseer.png"
-			}
-		},
+				"name": "UW03 — Charging Invader",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Phyrexian Knight",
+				"collector_number": "31",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/31_UW03 — Charging Invader.png"
+				}
+			},
+		]
+
 		{
-			"name": "RU05 — Isometric Transformation",
-			"rarity": "rare",
-			"mana_cost": "{4}{U}{U}",
-			"type": "Sorcery",
-			"collector_number": "63",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/63_RU05 — Isometric Transformation.png"
-			}
-		},
+				"name": "CW16b — Mother's Retribution",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Sorcery",
+				"collector_number": "22",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/22_CW16b — Mother's Retribution.png"
+				}
+			},
+		]
+
 		{
-			"name": "RR05 — Topple The Tall",
-			"rarity": "rare",
-			"mana_cost": "{6}{R}{R}",
-			"type": "Sorcery",
-			"collector_number": "138",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/138_RR05 — Topple The Tall.png"
-			}
-		},
+				"name": "CW05 — Elder Cenobite",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Creature — Human Cleric",
+				"collector_number": "9",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/9_CW05 — Elder Cenobite.png"
+				}
+			},
+		]
+
 		{
-			"name": "RB05 — Wicked Famine",
-			"rarity": "rare",
-			"mana_cost": "{3}{B}{B}",
-			"type": "Sorcery",
-			"collector_number": "102",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/102_RB05 — Wicked Famine.png"
-			}
-		},
+				"name": "CW09 — Preator's Glory",
+				"rarity": "common",
+				"mana_cost": "{W}",
+				"type": "Instant",
+				"collector_number": "13",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/13_CW09 — Preator's Glory.png"
+				}
+			},
+		]
+
 		{
-			"name": "RG05 — Savai Stampede",
-			"rarity": "rare",
-			"mana_cost": "{4}{G}{G}",
-			"type": "Creature — Bison Beast",
-			"collector_number": "173",
-			"rating": 4,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/173_RG05 — Savai Stampede.png"
-			}
-		},
+				"name": "CG01 — Hungry Brushwagg",
+				"rarity": "common",
+				"mana_cost": "{G}",
+				"type": "Creature — Brushwagg",
+				"collector_number": "150",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/150_CG01 — Hungry Brushwagg.png"
+				}
+			},
+		]
+
 		{
-			"name": "UB10 — Tempting Offer",
-			"rarity": "uncommon",
-			"mana_cost": "{1}{B}",
-			"type": "Sorcery",
-			"collector_number": "112",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/112_UB10 — Tempting Offer.png"
-			}
-		},
+				"name": "UG06 —Drannith Mess Sergeant",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{G}{G}",
+				"type": "Creature — Human Solider Chef",
+				"collector_number": "180",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/180_UG06 —Drannith Mess Sergeant.png"
+				}
+			},
+		]
+
 		{
-			"name": "UW08 — Uncork",
-			"rarity": "uncommon",
-			"mana_cost": "{2}{W}",
-			"type": "Instant",
-			"collector_number": "36",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/36_UW08 — Uncork.png"
-			}
-		},
+				"name": "CG08 — Indatha Ooze",
+				"rarity": "common",
+				"mana_cost": "{4}{G}{G}",
+				"type": "Creature — Phyrexian Ooze Horror",
+				"collector_number": "157",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/157_CG08 — Indatha Ooze.png"
+				}
+			},
+		]
+
 		{
-			"name": "UZ28 — The Girl Who Cried Ouphe",
-			"rarity": "uncommon",
-			"mana_cost": "{B}{R}",
-			"type": "Enchantment — Saga",
-			"collector_number": "238",
-			"rating": 3,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/238_UZ28 — The Girl Who Cried Ouphe.png"
-			}
-		}
+				"name": "CG16b — Umori Snaps Back",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Sorcery",
+				"collector_number": "167",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/167_CG16b — Umori Snaps Back.png"
+				}
+			},
+		]
+
+		{
+				"name": "UG10 — Feast of the Pack",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{G}",
+				"type": "Sorcery",
+				"collector_number": "184",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/184_UG10 — Feast of the Pack.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG04 — Webbonder",
+				"rarity": "common",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Human Warrior",
+				"collector_number": "153",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/153_CG04 — Webbonder.png"
+				}
+			},
+		]
+
+		{
+				"name": "CB06 — The Tooth Faerie",
+				"rarity": "common",
+				"mana_cost": "{3}{B}",
+				"type": "Creature — Faerie Rogue",
+				"collector_number": "84",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/84_CB06 — The Tooth Faerie.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG02 — Thornvault Anomaly",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Creature — Squirrel Beast",
+				"collector_number": "151",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/151_CG02 — Thornvault Anomaly.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG03 — Symbiotic Shaman",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Creature — Human Shaman",
+				"collector_number": "152",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/152_CG03 — Symbiotic Shaman.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG05 — Beetle-Horned Rhino",
+				"rarity": "common",
+				"mana_cost": "{1}{G}{G}",
+				"type": "Creature — Insect Beast",
+				"collector_number": "154",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/154_CG05 — Beetle-Horned Rhino.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG10 — Peckish Pinekraken",
+				"rarity": "common",
+				"mana_cost": "{5}{G}{G}",
+				"type": "Creature — Kraken Elemental",
+				"collector_number": "159",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/159_CG10 — Peckish Pinekraken.png"
+				}
+			},
+		]
+
+		{
+				"name": "UG08 — Establish Eludha",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{G}",
+				"type": "Instant",
+				"collector_number": "182",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/182_UG08 — Establish Eludha.png"
+				}
+			},
+		]
+
+		{
+				"name": "CW11 — Hunger of Mites",
+				"rarity": "common",
+				"mana_cost": "{1}{W}",
+				"type": "Sorcery",
+				"collector_number": "15",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/15_CW11 — Hunger of Mites.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR01 — Raging Marten",
+				"rarity": "common",
+				"mana_cost": "{R}",
+				"type": "Creature — Mouse Knight",
+				"collector_number": "114",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/114_CR01 — Raging Marten.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR02 — Pilfering Vole",
+				"rarity": "common",
+				"mana_cost": "{R}",
+				"type": "Creature — Mouse Rogue",
+				"collector_number": "115",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/115_CR02 — Pilfering Vole.png"
+				}
+			},
+		]
+
+		{
+				"name": "UR01 — Root Maze Hatcher",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}",
+				"type": "Creature — Racoon Rogue",
+				"collector_number": "139",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/139_UR01 — Root Maze Hatcher.png"
+				}
+			},
+		]
+
+		{
+				"name": "UR03 — Seedbed Sentry",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{R}",
+				"type": "Creature — Badger Knight",
+				"collector_number": "141",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/141_UR03 — Seedbed Sentry.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR04 — Sharp Clawed Scout",
+				"rarity": "common",
+				"mana_cost": "{2}{R}",
+				"type": "Creature — Weasle Rogue Scout",
+				"collector_number": "117",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/117_CR04 — Sharp Clawed Scout.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR08 — Three Tree City Guard",
+				"rarity": "common",
+				"mana_cost": "{3}{R}",
+				"type": "Creature — Badger Knight",
+				"collector_number": "121",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/121_CR08 — Three Tree City Guard.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR10 — Pond Creek Predator",
+				"rarity": "common",
+				"mana_cost": "{4}{R}{R}",
+				"type": "Creature — Lizard Dragon",
+				"collector_number": "123",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/123_CR10 — Pond Creek Predator.png"
+				}
+			},
+		]
+
+		{
+				"name": "UR10 — Alluring Aromas",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}",
+				"type": "Sorcery",
+				"collector_number": "148",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/148_UR10 — Alluring Aromas.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR14 — Wield the Seed Flame",
+				"rarity": "common",
+				"mana_cost": "{5}{R}",
+				"type": "Sorcery",
+				"collector_number": "127",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/127_CR14 — Wield the Seed Flame.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR16b — Mabel's Rise",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Sorcery",
+				"collector_number": "131",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/131_CR16b — Mabel's Rise.png"
+				}
+			},
+		]
+
+		{
+				"name": "CZ03 — Consummate Bladetail",
+				"rarity": "common",
+				"mana_cost": "{2}{R}{R/W}{W}",
+				"type": "Creature — Mouse Knight",
+				"collector_number": "243",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/243_CZ03 — Consummate Bladetail.png"
+				}
+			},
+		]
+
+		{
+				"name": "CZ04 — OilFang Bonder",
+				"rarity": "common",
+				"mana_cost": "{1}{G}{G/W}{W}",
+				"type": "Creature — Phyrexian Human Druid",
+				"collector_number": "244",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/244_CZ04 — OilFang Bonder.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ05 — Book Thief",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}{B}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "209",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/209_UZ05 — Book Thief.png"
+				}
+			},
+		]
+
+		{
+				"name": "CZ06 — Hydrodynamicist",
+				"rarity": "common",
+				"mana_cost": "{U}{U/R}{R}",
+				"type": "Creature — Salamander Wizard",
+				"collector_number": "246",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/246_CZ06 — Hydrodynamicist.png"
+				}
+			},
+		]
+
+		{
+				"name": "CZ08 — Haymeadow Brigand",
+				"rarity": "common",
+				"mana_cost": "{B}{B/R}{R}",
+				"type": "Creature — Weasle Rogue",
+				"collector_number": "248",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/248_CZ08 — Haymeadow Brigand.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ08 — Tortiose and Hare",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}{R}",
+				"type": "Creature — Rabbit Turtle",
+				"collector_number": "212",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/212_UZ08 — Tortiose and Hare.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ10 — Gnaw Bonder",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{G}",
+				"type": "Creature — Human Scout",
+				"collector_number": "214",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/214_UZ10 — Gnaw Bonder.png"
+				}
+			},
+		]
+
+		{
+				"name": "UU07 — Give Insight",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}",
+				"type": "Instant",
+				"collector_number": "70",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/70_UU07 — Give Insight.png"
+				}
+			},
+		]
+
+		{
+				"name": "RZ05 -- May I Have Your Name",
+				"rarity": "rare",
+				"mana_cost": "{4}{U}{B}",
+				"type": "Kindred Sorcery — Faerie Rogue",
+				"collector_number": "200",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/200_RZ05 -- May I Have Your Name.png"
+				}
+			},
+		]
+
+		{
+				"name": "UB03 — Faerie Assassin",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}{B}",
+				"type": "Creature — Faerie Assassin",
+				"collector_number": "105",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/105_UB03 — Faerie Assassin.png"
+				}
+			},
+		]
+
+		{
+				"name": "CZ05 — Entrancing Faye",
+				"rarity": "common",
+				"mana_cost": "{U}{U/B}{B}",
+				"type": "Creature — Faerie Bard",
+				"collector_number": "245",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/245_CZ05 — Entrancing Faye.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG11 — Advantageous Adaptation",
+				"rarity": "common",
+				"mana_cost": "{G}",
+				"type": "Sorcery",
+				"collector_number": "160",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/160_CG11 — Advantageous Adaptation.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG06 — Zagoth Snapper",
+				"rarity": "common",
+				"mana_cost": "{3}{G}",
+				"type": "Creature — Turtle Beast",
+				"collector_number": "155",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/155_CG06 — Zagoth Snapper.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG07 — Mandelbrot Grazer",
+				"rarity": "common",
+				"mana_cost": "{2}{G}{G}",
+				"type": "Creature — Elk Fractal Beast",
+				"collector_number": "156",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/156_CG07 — Mandelbrot Grazer.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG09 — Reynard Bonder",
+				"rarity": "common",
+				"mana_cost": "{5}{G}",
+				"type": "Creature — Human Archer",
+				"collector_number": "158",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/158_CG09 — Reynard Bonder.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG11 — Devour Whole",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Instant",
+				"collector_number": "161",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/161_CG11 — Devour Whole.png"
+				}
+			},
+		]
+
+		{
+				"name": "CB13 — I'm Eternally Grateful",
+				"rarity": "common",
+				"mana_cost": "{3}{B}{B}",
+				"type": "Enchantment",
+				"collector_number": "91",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/91_CB13 — I'm Eternally Grateful.png"
+				}
+			},
+		]
+
+		{
+				"name": "CB10 — Delicious Apples",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Enchantment — Aura Food",
+				"collector_number": "88",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/88_CB10 — Delicious Apples.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG14 — Thunderous Stomp",
+				"rarity": "common",
+				"mana_cost": "{3}{G}",
+				"type": "Sorcery",
+				"collector_number": "163",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/163_CG14 — Thunderous Stomp.png"
+				}
+			},
+		]
+
+		{
+				"name": "UG01 — Venom Meringue Pie",
+				"rarity": "uncommon",
+				"mana_cost": "{G}",
+				"type": "Artifact Creature — Snake Food",
+				"collector_number": "175",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/175_UG01 — Venom Meringue Pie.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR06 —Shrunken Field Reasearcher",
+				"rarity": "common",
+				"mana_cost": "{1}{R}{R}",
+				"type": "Creature — Human Wizard",
+				"collector_number": "119",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/119_CR06 —Shrunken Field Reasearcher.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR03 — Emberheart Mouster",
+				"rarity": "common",
+				"mana_cost": "{1}{R}",
+				"type": "Creature — Mouse Bard",
+				"collector_number": "116",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/116_CR03 — Emberheart Mouster.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR07 — Burning Oak Duo",
+				"rarity": "common",
+				"mana_cost": "{3}{R}",
+				"type": "Creature — Rabbit Racoon Knight",
+				"collector_number": "120",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/120_CR07 — Burning Oak Duo.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR11 — Uplift Animalfolk",
+				"rarity": "common",
+				"mana_cost": "{R}",
+				"type": "Instant",
+				"collector_number": "124",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/124_CR11 — Uplift Animalfolk.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR13 — Rally the Squirrels",
+				"rarity": "common",
+				"mana_cost": "{3}{R}",
+				"type": "Instant",
+				"collector_number": "126",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/126_CR13 — Rally the Squirrels.png"
+				}
+			},
+		]
+
+		{
+				"name": "CB09 — Shadow Swap",
+				"rarity": "common",
+				"mana_cost": "{B}",
+				"type": "Instant",
+				"collector_number": "87",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/87_CB09 — Shadow Swap.png"
+				}
+			},
+		]
+
+		{
+				"name": "CB11 — Negotiated Death",
+				"rarity": "common",
+				"mana_cost": "{1}{B}",
+				"type": "Instant",
+				"collector_number": "89",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/89_CB11 — Negotiated Death.png"
+				}
+			},
+		]
+
+		{
+				"name": "CW12 — Phyrexian Chalice",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Artifact",
+				"collector_number": "16",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/16_CW12 — Phyrexian Chalice.png"
+				}
+			},
+		]
+
+		{
+				"name": "CW06 — Lorehold Paleodietitian",
+				"rarity": "common",
+				"mana_cost": "{3}{W}",
+				"type": "Creature — Elephant Chef",
+				"collector_number": "10",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/10_CW06 — Lorehold Paleodietitian.png"
+				}
+			},
+		]
+
+		{
+				"name": "CU13 — Inspiring Lemma Beans",
+				"rarity": "common",
+				"mana_cost": "{5}{U}",
+				"type": "Artifact — Food",
+				"collector_number": "52",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/52_CU13 — Inspiring Lemma Beans.png"
+				}
+			},
+		]
+
+		{
+				"name": "CU01 — Quandrix Garden Gate",
+				"rarity": "common",
+				"mana_cost": "{1}{U}",
+				"type": "Creature — Fractal Wall",
+				"collector_number": "40",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/40_CU01 — Quandrix Garden Gate.png"
+				}
+			},
+		]
+
+		{
+				"name": "UU04 — Square Elemental",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}{U}",
+				"type": "Creature — Fractal Elemental Bird",
+				"collector_number": "67",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/67_UU04 — Square Elemental.png"
+				}
+			},
+		]
+
+		{
+				"name": "CU11 — Publish Analysis",
+				"rarity": "common",
+				"mana_cost": "{3}{U}",
+				"type": "Sorcery",
+				"collector_number": "50",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/50_CU11 — Publish Analysis.png"
+				}
+			},
+		]
+
+		{
+				"name": "CU04 — Sneaky Researcher",
+				"rarity": "common",
+				"mana_cost": "{1}{U/P}{U}",
+				"type": "Creature — Human Phyrexian Rogue",
+				"collector_number": "43",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/43_CU04 — Sneaky Researcher.png"
+				}
+			},
+		]
+
+		{
+				"name": "CW14 — Oleaginous Portal",
+				"rarity": "common",
+				"mana_cost": "{3}{W}",
+				"type": "Enchantment",
+				"collector_number": "18",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/18_CW14 — Oleaginous Portal.png"
+				}
+			},
+		]
+
+		{
+				"name": "RL01 — The Holy Oil Spring",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Enchantment Land — Plains",
+				"collector_number": "277",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/277_RL01 — The Holy Oil Spring.png"
+				}
+			},
+		]
+
+		{
+				"name": "CW13 — Open Wide",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Sorcery",
+				"collector_number": "17",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/17_CW13 — Open Wide.png"
+				}
+			},
+		]
+
+		{
+				"name": "RL05 — Living Great Tree",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land — Forest Treefolk Beast",
+				"collector_number": "174",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/174_RL05 — Living Great Tree.png"
+				}
+			},
+		]
+
+		{
+				"name": "UU03 — Paperback Snake",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}",
+				"type": "Creature — Snake Elemental",
+				"collector_number": "66",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/66_UU03 — Paperback Snake.png"
+				}
+			},
+		]
+
+		{
+				"name": "CU10 — Freshman Meal Plan",
+				"rarity": "common",
+				"mana_cost": "{1}{U}",
+				"type": "Enchantment",
+				"collector_number": "49",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/49_CU10 — Freshman Meal Plan.png"
+				}
+			},
+		]
+
+		{
+				"name": "MW11 — Elesh Norn, Essence Cenobite",
+				"rarity": "mythic",
+				"mana_cost": "{4}{W}{W}",
+				"type": "Legendary Creature — Phyrexian Praetor",
+				"collector_number": "23",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/23_MW11 — Elesh Norn, Essence Cenobite.png"
+				}
+			},
+		]
+
+		{
+				"name": "MR14 — Mabel, Valley's Champion",
+				"rarity": "mythic",
+				"mana_cost": "{2}{R}{R}",
+				"type": "Legendary Creature — Mouse Knight",
+				"collector_number": "132",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/132_MR14 — Mabel, Valley's Champion.png"
+				}
+			},
+		]
+
+		{
+				"name": "MG15 — Umori, Glue Beast",
+				"rarity": "mythic",
+				"mana_cost": "{2}{G}{G}",
+				"type": "Legendary Creature — Ooze Beast",
+				"collector_number": "168",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/168_MG15 — Umori, Glue Beast.png"
+				}
+			},
+		]
+
+		{
+				"name": "MU12 — Zimone, Galeforce Researcher",
+				"rarity": "mythic",
+				"mana_cost": "{1}{U}{U}",
+				"type": "Legendary Creature — Human Wizard",
+				"collector_number": "58",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/58_MU12 — Zimone, Galeforce Researcher.png"
+				}
+			},
+		]
+
+		{
+				"name": "RL04 — Emberheart Greatsword",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Artifact Land — Mountain Equipment",
+				"collector_number": "133",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/133_RL04 — Emberheart Greatsword.png"
+				}
+			},
+		]
+
+		{
+				"name": "RL03 — The Dusk Woods",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Land — Swamp",
+				"collector_number": "279",
+				"rating": 4,
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/279_RL03 — The Dusk Woods_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/279_RL03 — The Dusk Woods_front.png"
+				}
+			},
+		]
+
+		{
+				"name": "RZ01 — Holy Relics Masterclass",
+				"rarity": "rare",
+				"mana_cost": "{W}{U}",
+				"type": "Enchantment — Class",
+				"collector_number": "196",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/196_RZ01 — Holy Relics Masterclass.png"
+				}
+			},
+		]
+
+		{
+				"name": "RZ03 — Blight Rabbit",
+				"rarity": "rare",
+				"mana_cost": "{R}{W}",
+				"type": "Creature — Rabbit Horror",
+				"collector_number": "198",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/198_RZ03 — Blight Rabbit.png"
+				}
+			},
+		]
+
+		{
+				"name": "RZ04 — Wormcoil Hydra",
+				"rarity": "rare",
+				"mana_cost": "{3}{G}{W}",
+				"type": "Artifact Creature — Phyrexian Hydra",
+				"collector_number": "199",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/199_RZ04 — Wormcoil Hydra.png"
+				}
+			},
+		]
+
+		{
+				"name": "RZ06 — Advanced Bravery",
+				"rarity": "rare",
+				"mana_cost": "{U}{R}",
+				"type": "Enchantment — Class",
+				"collector_number": "201",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/201_RZ06 — Advanced Bravery.png"
+				}
+			},
+		]
+
+		{
+				"name": "RZ09 — Esdragot",
+				"rarity": "rare",
+				"mana_cost": "{B}{G}",
+				"type": "Creature — Snail Dragon",
+				"collector_number": "204",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/204_RZ09 — Esdragot.png"
+				}
+			},
+		]
+
+		{
+				"name": "RZ10 — Find the Magic Acorn",
+				"rarity": "rare",
+				"mana_cost": "{4}{R}{G}",
+				"type": "Sorcery",
+				"collector_number": "205",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/205_RZ10 — Find the Magic Acorn.png"
+				}
+			},
+		]
+
+		{
+				"name": "RW01 — Mondrak, Impassable Horror",
+				"rarity": "rare",
+				"mana_cost": "{3}{W}{W}",
+				"type": "Legendary Creature — Phyrexian Horror",
+				"collector_number": "24",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/24_RW01 — Mondrak, Impassable Horror.png"
+				}
+			},
+		]
+
+		{
+				"name": "RW04 — Begin the Feast",
+				"rarity": "rare",
+				"mana_cost": "{4}{W}{W}",
+				"type": "Sorcery",
+				"collector_number": "27",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/27_RW04 — Begin the Feast.png"
+				}
+			},
+		]
+
+		{
+				"name": "RU01 — Larine Arneza, Valedictorian",
+				"rarity": "rare",
+				"mana_cost": "{1}{U}",
+				"type": "Legendary Creature — Human Wizard",
+				"collector_number": "59",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/59_RU01 — Larine Arneza, Valedictorian.png"
+				}
+			},
+		]
+
+		{
+				"name": "RU02 — Pensive Professor",
+				"rarity": "rare",
+				"mana_cost": "{1}{U}{U}",
+				"type": "Creature — Merfolk Wizard",
+				"collector_number": "60",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/60_RU02 — Pensive Professor.png"
+				}
+			},
+		]
+
+		{
+				"name": "RB01 — Agatha, Cauldron Witch",
+				"rarity": "rare",
+				"mana_cost": "{1}{B}",
+				"type": "Legendary Creature — Human Warlock",
+				"collector_number": "98",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/98_RB01 — Agatha, Cauldron Witch.png"
+				}
+			},
+		]
+
+		{
+				"name": "RR02 — Calamity Lavabuck",
+				"rarity": "rare",
+				"mana_cost": "{2}{R}{R}",
+				"type": "Creature — Elemental Cat",
+				"collector_number": "135",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/135_RR02 — Calamity Lavabuck.png"
+				}
+			},
+		]
+
+		{
+				"name": "RG02 — WildCat Bonder",
+				"rarity": "rare",
+				"mana_cost": "{4}{G}{G}",
+				"type": "Creature — Human Warrior",
+				"collector_number": "170",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/170_RG02 — WildCat Bonder.png"
+				}
+			},
+		]
+
+		{
+				"name": "RG01 — Kogla, the Titan Appe",
+				"rarity": "rare",
+				"mana_cost": "{3}{G}{G}{G}",
+				"type": "Legendary Creature — Ape",
+				"collector_number": "169",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/169_RG01 — Kogla, the Titan Appe.png"
+				}
+			},
+		]
+
+		{
+				"name": "RB02 — Gumdrop Poisoner",
+				"rarity": "rare",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Human Warlock",
+				"collector_number": "99",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/99_RB02 — Gumdrop Poisoner.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ01 — Bibliochef",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}{U}",
+				"type": "Creature — Human Chef",
+				"collector_number": "206",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/206_UZ01 — Bibliochef.png"
+				}
+			},
+		]
+
 	]
 
-[rare(1)]
+		{
+				"name": "CW15a — Trial of Faith",
+				"rarity": "common",
+				"mana_cost": "{2}{W}",
+				"type": "Battle — Trial",
+				"collector_number": "19",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/19_CW15a — Trial of Faith.png"
+				}
+			},
+		]
+
+		{
+				"name": "CB15a — Trial of Guile",
+				"rarity": "common",
+				"mana_cost": "{3}{B}",
+				"type": "Battle — Trial",
+				"collector_number": "93",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/93_CB15a — Trial of Guile.png"
+				}
+			},
+		]
+
+	]
+
+		{
+				"name": "CU15a — Test of Intellect",
+				"rarity": "common",
+				"mana_cost": "{4}{U}",
+				"type": "Battle — Trial",
+				"collector_number": "54",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/54_CU15a — Test of Intellect.png"
+				}
+			},
+		]
+
+	]
+
+		{
+				"name": "CR15a — Trial of Scurry",
+				"rarity": "common",
+				"mana_cost": "{3}{R}",
+				"type": "Battle — Trial",
+				"collector_number": "128",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/128_CR15a — Trial of Scurry.png"
+				}
+			},
+		]
+
+	]
+
+		{
+				"name": "CG15a — Trial of Might",
+				"rarity": "common",
+				"mana_cost": "{3}{G}",
+				"type": "Battle — Trial",
+				"collector_number": "164",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/164_CG15a — Trial of Might.png"
+				}
+			},
+		]
+
+	]
+
+		{
+				"name": "UR04 — Riverbank Paladin",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{R}",
+				"type": "Creature — Frog Knight",
+				"collector_number": "142",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/142_UR04 — Riverbank Paladin.png"
+				}
+			},
+		]
+
+		{
+				"name": "RR03 — Sword from the Pond",
+				"rarity": "rare",
+				"mana_cost": "{1}{R}",
+				"type": "Artifact — Equipment",
+				"collector_number": "136",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/136_RR03 — Sword from the Pond.png"
+				}
+			},
+		]
+
+		{
+				"name": "UR06 — ScarletSky Duo",
+				"rarity": "uncommon",
+				"mana_cost": "{6}{R}",
+				"type": "Creature — Bird Beast",
+				"collector_number": "144",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/144_UR06 — ScarletSky Duo.png"
+				}
+			},
+		]
+
+		{
+				"name": "UG02 — Chevill's Apprentice",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{G}",
+				"type": "Creature — Human Rogue",
+				"collector_number": "176",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/176_UG02 — Chevill's Apprentice.png"
+				}
+			},
+		]
+
+		{
+				"name": "UG03 —Ravenous Hyena",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{G}",
+				"type": "Creature — Dog Beast",
+				"collector_number": "177",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/177_UG03 —Ravenous Hyena.png"
+				}
+			},
+		]
+
+		{
+				"name": "UB09 — Graverob",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{B}{B}",
+				"type": "Kindred Instant — Rogue",
+				"collector_number": "111",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/111_UB09 — Graverob.png"
+				}
+			},
+		]
+
+		{
+				"name": "UB05 — Red Riding Hood",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{B}",
+				"type": "Creature — Human Knight",
+				"collector_number": "107",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/107_UB05 — Red Riding Hood.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ03 — Soul Rodent",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{W}",
+				"type": "Creature — Mouse Cleric",
+				"collector_number": "207",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/207_UZ03 — Soul Rodent.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ04 — Tithe Monster",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{G}{W}",
+				"type": "Creature — Phyrexian Skelenton Beast",
+				"collector_number": "208",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/208_UZ04 — Tithe Monster.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ09 — Itsy Bitey Spider",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}{G}",
+				"type": "Creature — Spider",
+				"collector_number": "213",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/213_UZ09 — Itsy Bitey Spider.png"
+				}
+			},
+		]
+
+		{
+				"name": "UR05 — Wiskerbow Archer",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{R}",
+				"type": "Creature — Rabbit Archer",
+				"collector_number": "143",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/143_UR05 — Wiskerbow Archer.png"
+				}
+			},
+		]
+
+		{
+				"name": "MB13 — Rankle, Trusted Borrower",
+				"rarity": "mythic",
+				"mana_cost": "{3}{B}{B}",
+				"type": "Legendary Creature — Faerie Rogue",
+				"collector_number": "97",
+				"rating": 5,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/97_MB13 — Rankle, Trusted Borrower.png"
+				}
+			},
+		]
+
+		{
+				"name": "UU01 — Axiom Channeler",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}",
+				"type": "Creature — Human Wizard",
+				"collector_number": "64",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/64_UU01 — Axiom Channeler.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ06 — Swirl Pond Enforcer",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}{R}",
+				"type": "Creature — Frog Warrior",
+				"collector_number": "210",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/210_UZ06 — Swirl Pond Enforcer.png"
+				}
+			},
+		]
+
+		{
+				"name": "CZ07 — Strix Bonder",
+				"rarity": "common",
+				"mana_cost": "{G}{G/U}{U}",
+				"type": "Creature — Human Wizard",
+				"collector_number": "247",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/247_CZ07 — Strix Bonder.png"
+				}
+			},
+		]
+
+		{
+				"name": "CZ09 — Elder Bonder",
+				"rarity": "common",
+				"mana_cost": "{3}{B}{B/G}{G}",
+				"type": "Creature — Human Druid",
+				"collector_number": "249",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/249_CZ09 — Elder Bonder.png"
+				}
+			},
+		]
+
+		{
+				"name": "CZ10 — Frenzied Bonder",
+				"rarity": "common",
+				"mana_cost": "{R}{R/G}{G}",
+				"type": "Creature — Human Berserker",
+				"collector_number": "250",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/250_CZ10 — Frenzied Bonder.png"
+				}
+			},
+		]
+
+		{
+				"name": "CG13— Surivor's Bond",
+				"rarity": "common",
+				"mana_cost": "{1}{G}",
+				"type": "Sorcery",
+				"collector_number": "162",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/162_CG13— Surivor's Bond.png"
+				}
+			},
+		]
+
+		{
+				"name": "CB04 — Oilsworn Paladin",
+				"rarity": "common",
+				"mana_cost": "{1}{B}{B}",
+				"type": "Creature — Phyrexian Human Knight",
+				"collector_number": "82",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/82_CB04 — Oilsworn Paladin.png"
+				}
+			},
+		]
+
+		{
+				"name": "CZ02 — Liturgy Preparer",
+				"rarity": "common",
+				"mana_cost": "{W}{W/B}{B}",
+				"type": "Creature — Human Cleric",
+				"collector_number": "242",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/242_CZ02 — Liturgy Preparer.png"
+				}
+			},
+		]
+
+		{
+				"name": "CA01 — Egg BombBomb",
+				"rarity": "common",
+				"mana_cost": "{2}",
+				"type": "Artifact — Food",
+				"collector_number": "255",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/255_CA01 — Egg BombBomb.png"
+				}
+			},
+		]
+
+		{
+				"name": "UA05 — Eriette's Tempting Apple",
+				"rarity": "uncommon",
+				"mana_cost": "{4}",
+				"type": "Legendary Artifact — Food",
+				"collector_number": "262",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/262_UA05 — Eriette's Tempting Apple.png"
+				}
+			},
+		]
+
+		{
+				"name": "CU03 — Quaildratic Formula",
+				"rarity": "common",
+				"mana_cost": "{1}{U}{U}",
+				"type": "Creature — Fractal Bird",
+				"collector_number": "42",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/42_CU03 — Quaildratic Formula.png"
+				}
+			},
+		]
+
+		{
+				"name": "UU06 — Stress of Finals Week",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}",
+				"type": "Enchantment",
+				"collector_number": "69",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/69_UU06 — Stress of Finals Week.png"
+				}
+			},
+		]
+
+		{
+				"name": "UW10 — Call to Compleation",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{W}{W}",
+				"type": "Sorcery",
+				"collector_number": "38",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/38_UW10 — Call to Compleation.png"
+				}
+			},
+		]
+
+		{
+				"name": "UW09 — Punishment Sphere",
+				"rarity": "uncommon",
+				"mana_cost": "{W}",
+				"type": "Enchantment",
+				"collector_number": "37",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/37_UW09 — Punishment Sphere.png"
+				}
+			},
+		]
+
+		{
+				"name": "CR09 — Oilslick Watchfrog",
+				"rarity": "common",
+				"mana_cost": "{4}{R}",
+				"type": "Creature — Phyrexian Frog",
+				"collector_number": "122",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/122_CR09 — Oilslick Watchfrog.png"
+				}
+			},
+		]
+
+		{
+				"name": "CB12 — Baked into a Pie",
+				"rarity": "common",
+				"mana_cost": "{2}{B}{B}",
+				"type": "Instant",
+				"collector_number": "90",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/90_CB12 — Baked into a Pie.png"
+				}
+			},
+		]
+
+		{
+				"name": "UR08 — Return the Flavor",
+				"rarity": "uncommon",
+				"mana_cost": "{R}{R}",
+				"type": "Instant",
+				"collector_number": "146",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/146_UR08 — Return the Flavor.png"
+				}
+			},
+		]
+
+		{
+				"name": "UU09 — Doesn't Count",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{U}{U}",
+				"type": "Instant",
+				"collector_number": "72",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/72_UU09 — Doesn't Count.png"
+				}
+			},
+		]
+
+		{
+				"name": "UA02 — Giant Loaf",
+				"rarity": "uncommon",
+				"mana_cost": "{2}",
+				"type": "Artifact — Food",
+				"collector_number": "260",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/260_UA02 — Giant Loaf.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ02 — Dawn Knight",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}{W/B}{B}",
+				"type": "Creature — Phyrexian Knight",
+				"collector_number": "251",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/251_UZ02 — Dawn Knight.png"
+				}
+			},
+		]
+
+		{
+				"name": "CZ01 — Biblopex Caterer",
+				"rarity": "common",
+				"mana_cost": "{W}{W/U}{U}",
+				"type": "Creature — Goblin Chef",
+				"collector_number": "241",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/241_CZ01 — Biblopex Caterer.png"
+				}
+			},
+		]
+
+		{
+				"name": "RZ07 — Quandrix Illusionist",
+				"rarity": "rare",
+				"mana_cost": "{2}{G}{U}",
+				"type": "Creature — Human Illusion Wizard",
+				"collector_number": "202",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/202_RZ07 — Quandrix Illusionist.png"
+				}
+			},
+		]
+
+		{
+				"name": "MZ02 — Ms. Bumbleflower, Generous Hare",
+				"rarity": "mythic",
+				"mana_cost": "{3}{W}{U}",
+				"type": "Legendary Creature — Rabbit Noble",
+				"collector_number": "187",
+				"rating": 5,
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/187_MZ02 — Ms. Bumbleflower, Generous Hare_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/187_MZ02 — Ms. Bumbleflower, Generous Hare_front.png"
+				}
+			},
+		]
+
+		{
+				"name": "MZ03 — Gyruda, Oscilating Wave",
+				"rarity": "mythic",
+				"mana_cost": "{4}{U}{B}",
+				"type": "Legendary Creature — Demon Kraken",
+				"collector_number": "188",
+				"rating": 5,
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/188_MZ03 — Gyruda, Oscilating Wave_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/188_MZ03 — Gyruda, Oscilating Wave_front.png"
+				}
+			},
+		]
+
+		{
+				"name": "MZ01 — Ixhel, Porcelain Angel",
+				"rarity": "mythic",
+				"mana_cost": "{2}{G}{W}",
+				"type": "Legendary Creature — Phyrexian Angel",
+				"collector_number": "186",
+				"rating": 5,
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/186_MZ01 — Ixhel, Porcelain Angel_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/186_MZ01 — Ixhel, Porcelain Angel_front.png"
+				}
+			},
+		]
+
+		{
+				"name": "MZ04 — Cruelclaw, Leader of the Red Scarves",
+				"rarity": "mythic",
+				"mana_cost": "{1}{B}{R}",
+				"type": "Legendary Creature — Weasle Mercenary",
+				"collector_number": "189",
+				"rating": 5,
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/189_MZ04 — Cruelclaw, Leader of the Red Scarves_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/189_MZ04 — Cruelclaw, Leader of the Red Scarves_front.png"
+				}
+			},
+		]
+
+		{
+				"name": "MZ05 — Kaheera, Monster Paragon",
+				"rarity": "mythic",
+				"mana_cost": "{3}{R}{G}",
+				"type": "Legendary Creature — Cat Beast",
+				"collector_number": "190",
+				"rating": 5,
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/190_MZ05 — Kaheera, Monster Paragon_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/190_MZ05 — Kaheera, Monster Paragon_front.png"
+				}
+			},
+		]
+
+		{
+				"name": "MZ06 — Urabrask, Rebel Praetor",
+				"rarity": "mythic",
+				"mana_cost": "{3}{R}{W}",
+				"type": "Legendary Creature — Phyrexian Praetor",
+				"collector_number": "191",
+				"rating": 5,
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/191_MZ06 — Urabrask, Rebel Praetor_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/191_MZ06 — Urabrask, Rebel Praetor_front.png"
+				}
+			},
+		]
+
+		{
+				"name": "MZ07 — Quandrix, Resonance Maestro",
+				"rarity": "mythic",
+				"mana_cost": "{5}{G}{U}",
+				"type": "Legendary Creature — Elder Dragon",
+				"collector_number": "192",
+				"rating": 5,
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/192_MZ07 — Quandrix, Resonance Maestro_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/192_MZ07 — Quandrix, Resonance Maestro_front.png"
+				}
+			},
+		]
+
+		{
+				"name": "MZ08 — Eriette of Love's Bite",
+				"rarity": "mythic",
+				"mana_cost": "{1}{W}{B}",
+				"type": "Legendary Creature — Human Warlock",
+				"collector_number": "193",
+				"rating": 5,
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/193_MZ08 — Eriette of Love's Bite_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/193_MZ08 — Eriette of Love's Bite_front.png"
+				}
+			},
+		]
+
+		{
+				"name": "MZ09 — Quintorious, Defender of History",
+				"rarity": "mythic",
+				"mana_cost": "{2}{R}{W}",
+				"type": "Legendary Creature — Elephant Knight",
+				"collector_number": "194",
+				"rating": 5,
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/194_MZ09 — Quintorious, Defender of History_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/194_MZ09 — Quintorious, Defender of History_front.png"
+				}
+			},
+		]
+
+		{
+				"name": "MZ10 - The Golden Goose",
+				"rarity": "mythic",
+				"mana_cost": "{X}{G}{U}",
+				"type": "Legendary Creature — Bird Hydra",
+				"collector_number": "195",
+				"rating": 5,
+				"back": {
+					"name": "",
+					"type": "",
+					"image_uris": {
+						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/195_MZ10 - The Golden Goose_back.png"
+					}
+				},
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/195_MZ10 - The Golden Goose_front.png"
+				}
+			},
+		]
+
+		{
+				"name": "UB07 — Back for Seconds",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{B}",
+				"type": "Sorcery",
+				"collector_number": "109",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/109_UB07 — Back for Seconds.png"
+				}
+			},
+		]
+
+	]
+
+	]
+
+	]
+
+	]
+
+	]
+
+		{
+				"name": "RB03 — Magic Piggies",
+				"rarity": "rare",
+				"mana_cost": "{2}{B}",
+				"type": "Enchantment Creature — Boar Coward",
+				"collector_number": "100",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/100_RB03 — Magic Piggies.png"
+				}
+			},
+		]
+
+		{
+				"name": "UB04 — Hell's Sous Chef",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{B}",
+				"type": "Creature — Demon Chef",
+				"collector_number": "106",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/106_UB04 — Hell's Sous Chef.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ22 — Compleat Revival",
+				"rarity": "uncommon",
+				"mana_cost": "{W}{W/B}{B}",
+				"type": "Sorcery",
+				"collector_number": "252",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/252_UZ22 — Compleat Revival.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ21 — Skeptic",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}{U}",
+				"type": "Instant",
+				"collector_number": "235",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/235_UZ21 — Skeptic.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ23 — Nightwatch Blade",
+				"rarity": "uncommon",
+				"mana_cost": "{R/W}{R/W}",
+				"type": "Enchantment — Aura",
+				"collector_number": "253",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/253_UZ23 — Nightwatch Blade.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ26 — Mace The Exam",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{U}{R}",
+				"type": "Artifact — Equipment",
+				"collector_number": "237",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/237_UZ26 — Mace The Exam.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ24 — Boarish Roar",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{G}{G/W}{W}",
+				"type": "Sorcery",
+				"collector_number": "254",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/254_UZ24 — Boarish Roar.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ25 — Plagiarism",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{U}{B}",
+				"type": "Instant",
+				"collector_number": "236",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/236_UZ25 — Plagiarism.png"
+				}
+			},
+		]
+
+		{
+				"name": "UW07 — Oily Shimmer",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{W}",
+				"type": "Instant",
+				"collector_number": "35",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/35_UW07 — Oily Shimmer.png"
+				}
+			},
+		]
+
+		{
+				"name": "CL01 — Raugrin Lavaflats",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "267",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/267_CL01 — Raugrin Lavaflats.png"
+				}
+			},
+		]
+
+		{
+				"name": "CL02 — The Woods at Twilight",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "268",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/268_CL02 — The Woods at Twilight.png"
+				}
+			},
+		]
+
+		{
+				"name": "CL03 — Department of Environmental Sciences",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "269",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/269_CL03 — Department of Environmental Sciences.png"
+				}
+			},
+		]
+
+		{
+				"name": "CL04 — Phyrexian Passage",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "270",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/270_CL04 — Phyrexian Passage.png"
+				}
+			},
+		]
+
+		{
+				"name": "CL05 — The Valley Market",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "271",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/271_CL05 — The Valley Market.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ29 — Hoot of the Horned Owl",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}{G}",
+				"type": "Enchantment",
+				"collector_number": "239",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/239_UZ29 — Hoot of the Horned Owl.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ30 — Mythos of Kogla",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{R}{G}",
+				"type": "Instant",
+				"collector_number": "240",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/240_UZ30 — Mythos of Kogla.png"
+				}
+			},
+		]
+
+		{
+				"name": "CL06 — Norn's Basilica",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "272",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/272_CL06 — Norn's Basilica.png"
+				}
+			},
+		]
+
+		{
+				"name": "CL07 — Bilbelopex",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "273",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/273_CL07 — Bilbelopex.png"
+				}
+			},
+		]
+
+		{
+				"name": "CL08 — Witches Hut",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "274",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/274_CL08 — Witches Hut.png"
+				}
+			},
+		]
+
+		{
+				"name": "CL09 — Oystershroom Lodge",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "275",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/275_CL09 — Oystershroom Lodge.png"
+				}
+			},
+		]
+
+		{
+				"name": "CL10 — Ketria Bosque",
+				"rarity": "common",
+				"mana_cost": "",
+				"type": "Land",
+				"collector_number": "276",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/276_CL10 — Ketria Bosque.png"
+				}
+			},
+		]
+
+		{
+				"name": "UG09 — Snap Up",
+				"rarity": "uncommon",
+				"mana_cost": "{G}",
+				"type": "Instant",
+				"collector_number": "183",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/183_UG09 — Snap Up.png"
+				}
+			},
+		]
+
+		{
+				"name": "UU05 — Tater Tot Monitor",
+				"rarity": "uncommon",
+				"mana_cost": "{6}{U}",
+				"type": "Artifact Creature — Food",
+				"collector_number": "68",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/68_UU05 — Tater Tot Monitor.png"
+				}
+			},
+		]
+
+		{
+				"name": "CA02 — Magic Fruit Stand",
+				"rarity": "common",
+				"mana_cost": "{3}",
+				"type": "Artifact",
+				"collector_number": "256",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/256_CA02 — Magic Fruit Stand.png"
+				}
+			},
+		]
+
+		{
+				"name": "CA03 — Cabbatrice",
+				"rarity": "common",
+				"mana_cost": "{5}",
+				"type": "Artifact Creature — Food Nightmare",
+				"collector_number": "257",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/257_CA03 — Cabbatrice.png"
+				}
+			},
+		]
+
+		{
+				"name": "CA04 — Ginger Snaposaurus",
+				"rarity": "common",
+				"mana_cost": "{8}",
+				"type": "Creature Artifact — Dinosaur Food",
+				"collector_number": "258",
+				"rating": 2,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/258_CA04 — Ginger Snaposaurus.png"
+				}
+			},
+		]
+
+		{
+				"name": "UA01 — Chef's Knife",
+				"rarity": "uncommon",
+				"mana_cost": "{2}",
+				"type": "Artifact — Equipment",
+				"collector_number": "259",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/259_UA01 — Chef's Knife.png"
+				}
+			},
+		]
+
+		{
+				"name": "UA03 — Triple Berry Patrol",
+				"rarity": "uncommon",
+				"mana_cost": "{3}",
+				"type": "Artifact Creature — Food Knight Wizard",
+				"collector_number": "261",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/261_UA03 — Triple Berry Patrol.png"
+				}
+			},
+		]
+
+		{
+				"name": "UA05 — Her Royal Meringue",
+				"rarity": "uncommon",
+				"mana_cost": "{5}",
+				"type": "Legendary Artifact Creature — Food Nobel",
+				"collector_number": "263",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/263_UA05 — Her Royal Meringue.png"
+				}
+			},
+		]
+
+		{
+				"name": "UA06 — Toffee Golem",
+				"rarity": "uncommon",
+				"mana_cost": "{7}",
+				"type": "Artifact Creature — Food Golem",
+				"collector_number": "264",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/264_UA06 — Toffee Golem.png"
+				}
+			},
+		]
+
+		{
+				"name": "UG07 — Enraged Rex",
+				"rarity": "uncommon",
+				"mana_cost": "{8}{G}{G}",
+				"type": "Creature — Dinosaur Beast",
+				"collector_number": "181",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/181_UG07 — Enraged Rex.png"
+				}
+			},
+		]
+
+		{
+				"name": "RZ02 — Duskhunter Bat",
+				"rarity": "rare",
+				"mana_cost": "{2}{W}{B}",
+				"type": "Creature — Phyrexian Bat Horror",
+				"collector_number": "197",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/197_RZ02 — Duskhunter Bat.png"
+				}
+			},
+		]
+
+		{
+				"name": "RW03 — Chef of Machines",
+				"rarity": "rare",
+				"mana_cost": "{4}{W}{W}",
+				"type": "Enchantment — Saga",
+				"collector_number": "26",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/26_RW03 — Chef of Machines.png"
+				}
+			},
+		]
+
+		{
+				"name": "RG03 — Umori's Hunger",
+				"rarity": "rare",
+				"mana_cost": "{2}{G}",
+				"type": "Enchantment",
+				"collector_number": "171",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/171_RG03 — Umori's Hunger.png"
+				}
+			},
+		]
+
+		{
+				"name": "RR01 — Whisker, the Fearless",
+				"rarity": "rare",
+				"mana_cost": "{2}{R}",
+				"type": "Legendary Creature — M ouse Knight",
+				"collector_number": "134",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/134_RR01 — Whisker, the Fearless.png"
+				}
+			},
+		]
+
+		{
+				"name": "UR02 — Agate Instigator",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{R}",
+				"type": "Creature — Lizard Rogue",
+				"collector_number": "140",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/140_UR02 — Agate Instigator.png"
+				}
+			},
+		]
+
+		{
+				"name": "RU03 — Cosmophysicist",
+				"rarity": "rare",
+				"mana_cost": "{3}{U}{U}",
+				"type": "Creature — Human Wizard",
+				"collector_number": "61",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/61_RU03 — Cosmophysicist.png"
+				}
+			},
+		]
+
+		{
+				"name": "UG05 — Razorback Bonder",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{G}",
+				"type": "Creature — Human Warrior",
+				"collector_number": "179",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/179_UG05 — Razorback Bonder.png"
+				}
+			},
+		]
+
+		{
+				"name": "UB02 — Night Knight",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{B}",
+				"type": "Creature — Human Knight Rogue",
+				"collector_number": "104",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/104_UB02 — Night Knight.png"
+				}
+			},
+		]
+
+		{
+				"name": "RL02 — Atollpology",
+				"rarity": "rare",
+				"mana_cost": "",
+				"type": "Enchantment Lannd — Class Island",
+				"collector_number": "278",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/278_RL02 — Atollpology.png"
+				}
+			},
+		]
+
+		{
+				"name": "RZ08 — Sand Witch",
+				"rarity": "rare",
+				"mana_cost": "{2}{B}{R}",
+				"type": "Creature — Human Warlock",
+				"collector_number": "203",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/203_RZ08 — Sand Witch.png"
+				}
+			},
+		]
+
+		{
+				"name": "UB01 — Gingerbread Cabin",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}",
+				"type": "Enchantment Creature — Food Wall",
+				"collector_number": "103",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/103_UB01 — Gingerbread Cabin.png"
+				}
+			},
+		]
+
+		{
+				"name": "UR09 — Slay The Beast",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{R}{R}",
+				"type": "Instant",
+				"collector_number": "147",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/147_UR09 — Slay The Beast.png"
+				}
+			},
+		]
+
+		{
+				"name": "UB06 — Dark Lilly Ambushers",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{B}{B}",
+				"type": "Creature",
+				"collector_number": "108",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/108_UB06 — Dark Lilly Ambushers.png"
+				}
+			},
+		]
+
+		{
+				"name": "UW06 — Compleated Butcher",
+				"rarity": "uncommon",
+				"mana_cost": "{4}{W}",
+				"type": "Creature — Phyrexian Human Chef",
+				"collector_number": "34",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/34_UW06 — Compleated Butcher.png"
+				}
+			},
+		]
+
+		{
+				"name": "RW05 — Blood",
+				"rarity": "rare",
+				"mana_cost": "{3}{W}{W}",
+				"type": "Sorcery",
+				"collector_number": "28",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/28_RW05 — Blood.png"
+				}
+			},
+		]
+
+		{
+				"name": "UW04 — Mite Overseer",
+				"rarity": "uncommon",
+				"mana_cost": "{3}{W}",
+				"type": "Creature — Phyrexian Solider",
+				"collector_number": "32",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/32_UW04 — Mite Overseer.png"
+				}
+			},
+		]
+
+		{
+				"name": "RU05 — Isometric Transformation",
+				"rarity": "rare",
+				"mana_cost": "{4}{U}{U}",
+				"type": "Sorcery",
+				"collector_number": "63",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/63_RU05 — Isometric Transformation.png"
+				}
+			},
+		]
+
+		{
+				"name": "RR05 — Topple The Tall",
+				"rarity": "rare",
+				"mana_cost": "{6}{R}{R}",
+				"type": "Sorcery",
+				"collector_number": "138",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/138_RR05 — Topple The Tall.png"
+				}
+			},
+		]
+
+		{
+				"name": "RB05 — Wicked Famine",
+				"rarity": "rare",
+				"mana_cost": "{3}{B}{B}",
+				"type": "Sorcery",
+				"collector_number": "102",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/102_RB05 — Wicked Famine.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ15b — Sleep Study",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Enchantment",
+				"collector_number": "224",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/224_UZ15b — Sleep Study.png"
+				}
+			},
+		]
+
+		{
+				"name": "RG05 — Savai Stampede",
+				"rarity": "rare",
+				"mana_cost": "{4}{G}{G}",
+				"type": "Creature — Bison Beast",
+				"collector_number": "173",
+				"rating": 4,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/173_RG05 — Savai Stampede.png"
+				}
+			},
+		]
+
+		{
+				"name": "UB10 — Tempting Offer",
+				"rarity": "uncommon",
+				"mana_cost": "{1}{B}",
+				"type": "Sorcery",
+				"collector_number": "112",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/112_UB10 — Tempting Offer.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ20b — Mutative Advantage",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Enchantment",
+				"collector_number": "234",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/234_UZ20b — Mutative Advantage.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ11b —",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Enchantment",
+				"collector_number": "216",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/216_UZ11b —.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ14b —",
+				"rarity": "uncommon",
+				"mana_cost": "",
+				"type": "Enchantment",
+				"collector_number": "222",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/222_UZ14b —.png"
+				}
+			},
+		]
+
+		{
+				"name": "UW08 — Uncork",
+				"rarity": "uncommon",
+				"mana_cost": "{2}{W}",
+				"type": "Instant",
+				"collector_number": "36",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/36_UW08 — Uncork.png"
+				}
+			},
+		]
+
+		{
+				"name": "UZ28 — The Girl Who Cried Ouphe",
+				"rarity": "uncommon",
+				"mana_cost": "{B}{R}",
+				"type": "Enchantment — Saga",
+				"collector_number": "238",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/238_UZ28 — The Girl Who Cried Ouphe.png"
+				}
+			}
+		]
+
+	[rare(1)]
 	2 RG04 — Biomewide Migration
 	2 RB04 — Careful What You Ask For
 	2 RR04 — Flavor of Autumn
@@ -2834,7 +3472,13 @@
 	4 UZ07 — Tenured Bondologist
 	4 UW05 — Auriok Descendant
 	4 UW02 — Porcelain Myr
+	4 UZ12a —
 	4 UR07 — Heartfire Bolt
+	4 UZ13a —
+	4 UZ17a —
+	4 UZ19a —
+	4 UZ16a — Thesis Defense
+	4 UZ18b —
 	4 UG04 — Dualcat
 	4 UZ27 — Reason
 	4 UB08 — Killer Deal
@@ -2904,7 +3548,11 @@
 	4 UB06 — Dark Lilly Ambushers
 	4 UW06 — Compleated Butcher
 	4 UW04 — Mite Overseer
+	4 UZ15b — Sleep Study
 	4 UB10 — Tempting Offer
+	4 UZ20b — Mutative Advantage
+	4 UZ11b —
+	4 UZ14b —
 	4 UW08 — Uncork
 	4 UZ28 — The Girl Who Cried Ouphe
 [common(7)]
@@ -2914,12 +3562,7 @@
 	8 CR12 — Fling a Pie
 	8 CB05 — Innocuous Prankster
 	8 CB16b — Rankle's Reveal
-	8 CG16a — Raid on Ketria Gemgrove
 	8 CR05 — Owl-Eyed Bowman
-	8 CW16a — Raid on the Fifth Sphere
-	8 CB16a — Raid on the Faerie Garden
-	8 CR16a — Raid on Emberheart-Oven
-	8 CU16a — Raid on the Potions Class
 	8 CB07 — Professor From Another Realm
 	8 CB03 — Mellow-o-Wisps
 	8 CB02 — Midnight Snacqueraider
@@ -2988,16 +3631,6 @@
 	8 CW14 — Oleaginous Portal
 	8 CW13 — Open Wide
 	8 CU10 — Freshman Meal Plan
-	8 CW15b — Lifeforce Alliance
-	8 CW15a — Trial of Faith
-	8 CB15a — Trial of Guile
-	8 CB15b — Fruitful Alliance
-	8 CU15a — Test of Intellect
-	8 CU15b — Collaborative Scholarship
-	8 CR15a — Trial of Scurry
-	8 CG15b — Kinship of the Herd
-	8 CG15a — Trial of Might
-	8 CR15b — Battleproven Duo
 	8 CZ07 — Strix Bonder
 	8 CZ09 — Elder Bonder
 	8 CZ10 — Frenzied Bonder
@@ -3029,18 +3662,19 @@
 	12 CB08 — Big Bad Ouphe
 	6 UW05 — Auriok Descendant
 	6 UW02 — Porcelain Myr
+	6 UZ12a —
 	6 UR07 — Heartfire Bolt
+	6 UZ13a —
+	6 UZ17a —
+	6 UZ19a —
+	6 UZ16a — Thesis Defense
 	12 CR12 — Fling a Pie
 	12 CB05 — Innocuous Prankster
 	12 CB16b — Rankle's Reveal
-	12 CG16a — Raid on Ketria Gemgrove
+	6 UZ18b —
 	2 RG04 — Biomewide Migration
 	6 UG04 — Dualcat
 	12 CR05 — Owl-Eyed Bowman
-	12 CW16a — Raid on the Fifth Sphere
-	12 CB16a — Raid on the Faerie Garden
-	12 CR16a — Raid on Emberheart-Oven
-	12 CU16a — Raid on the Potions Class
 	2 RB04 — Careful What You Ask For
 	2 RR04 — Flavor of Autumn
 	2 RW02 — Flavor of Orthodoxy
@@ -3159,16 +3793,6 @@
 	2 RG01 — Kogla, the Titan Appe
 	2 RB02 — Gumdrop Poisoner
 	6 UZ01 — Bibliochef
-	12 CW15b — Lifeforce Alliance
-	12 CW15a — Trial of Faith
-	12 CB15a — Trial of Guile
-	12 CB15b — Fruitful Alliance
-	12 CU15a — Test of Intellect
-	12 CU15b — Collaborative Scholarship
-	12 CR15a — Trial of Scurry
-	12 CG15b — Kinship of the Herd
-	12 CG15a — Trial of Might
-	12 CR15b — Battleproven Duo
 	6 UR04 — Riverbank Paladin
 	2 RR03 — Sword from the Pond
 	6 UR06 — ScarletSky Duo
@@ -3264,8 +3888,12 @@
 	2 RU05 — Isometric Transformation
 	2 RR05 — Topple The Tall
 	2 RB05 — Wicked Famine
+	6 UZ15b — Sleep Study
 	2 RG05 — Savai Stampede
 	6 UB10 — Tempting Offer
+	6 UZ20b — Mutative Advantage
+	6 UZ11b —
+	6 UZ14b —
 	6 UW08 — Uncork
 	6 UZ28 — The Girl Who Cried Ouphe
 [wildcard(1)]
@@ -3275,18 +3903,19 @@
 	6 CB08 — Big Bad Ouphe
 	15 UW05 — Auriok Descendant
 	15 UW02 — Porcelain Myr
+	15 UZ12a —
 	15 UR07 — Heartfire Bolt
+	15 UZ13a —
+	15 UZ17a —
+	15 UZ19a —
+	15 UZ16a — Thesis Defense
 	6 CR12 — Fling a Pie
 	6 CB05 — Innocuous Prankster
 	6 CB16b — Rankle's Reveal
-	6 CG16a — Raid on Ketria Gemgrove
+	15 UZ18b —
 	7 RG04 — Biomewide Migration
 	15 UG04 — Dualcat
 	6 CR05 — Owl-Eyed Bowman
-	6 CW16a — Raid on the Fifth Sphere
-	6 CB16a — Raid on the Faerie Garden
-	6 CR16a — Raid on Emberheart-Oven
-	6 CU16a — Raid on the Potions Class
 	7 RB04 — Careful What You Ask For
 	7 RR04 — Flavor of Autumn
 	7 RW02 — Flavor of Orthodoxy
@@ -3405,16 +4034,6 @@
 	7 RG01 — Kogla, the Titan Appe
 	7 RB02 — Gumdrop Poisoner
 	15 UZ01 — Bibliochef
-	6 CW15b — Lifeforce Alliance
-	6 CW15a — Trial of Faith
-	6 CB15a — Trial of Guile
-	6 CB15b — Fruitful Alliance
-	6 CU15a — Test of Intellect
-	6 CU15b — Collaborative Scholarship
-	6 CR15a — Trial of Scurry
-	6 CG15b — Kinship of the Herd
-	6 CG15a — Trial of Might
-	6 CR15b — Battleproven Duo
 	15 UR04 — Riverbank Paladin
 	7 RR03 — Sword from the Pond
 	15 UR06 — ScarletSky Duo
@@ -3510,8 +4129,27 @@
 	7 RU05 — Isometric Transformation
 	7 RR05 — Topple The Tall
 	7 RB05 — Wicked Famine
+	15 UZ15b — Sleep Study
 	7 RG05 — Savai Stampede
 	15 UB10 — Tempting Offer
+	15 UZ20b — Mutative Advantage
+	15 UZ11b —
+	15 UZ14b —
 	15 UW08 — Uncork
 	15 UZ28 — The Girl Who Cried Ouphe
 [landslot(1)]
+	6 UZ11a — Raid on
+	6 UZ14a — Raid on
+	6 UZ20a — Raid on Dandelion Pond
+	6 UZ15a — Raid on Your Dreams
+	6 UZ18a — Raid on
+	12 CG16a — Raid on Ketria Gemgrove
+	12 CW16a — Raid on the Fifth Sphere
+	12 CB16a — Raid on the Faerie Garden
+	12 CR16a — Raid on Emberheart-Oven
+	12 CU16a — Raid on the Potions Class
+	12 CW15a — Trial of Faith
+	12 CB15a — Trial of Guile
+	12 CU15a — Test of Intellect
+	12 CR15a — Trial of Scurry
+	12 CG15a — Trial of Might

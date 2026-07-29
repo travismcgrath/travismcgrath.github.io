@@ -121,6 +121,44 @@
             "notes": "GainLifeTrigger"
         },
         {
+            "card_name": "UZ12a \u2014",
+            "color": "WB",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Trial",
+            "number": 217,
+            "color_identity": "WB",
+            "cost": "{1}{W}{B}",
+            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "6",
+            "artist": "",
+            "alias": "",
+            "notes": "Trial/Alliance\n\nPhy"
+        },
+        {
+            "card_name": "UZ11a \u2014 Raid on",
+            "color": "WU",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Raid",
+            "number": 215,
+            "color_identity": "WU",
+            "cost": "{W}{U}",
+            "rules_text": "[i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhenever this battle is dealt damage, you and the controller of the damage each",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "4",
+            "artist": "ade surya",
+            "alias": "",
+            "notes": "landslot\nRaid,"
+        },
+        {
             "card_name": "UR07 \u2014 Heartfire Bolt",
             "color": "R",
             "rarity": "uncommon",
@@ -138,6 +176,158 @@
             "artist": "Jack Kozitza",
             "alias": "",
             "notes": ""
+        },
+        {
+            "card_name": "UZ14a \u2014 Raid on",
+            "color": "WG",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Raid",
+            "number": 221,
+            "color_identity": "WG",
+            "cost": "{1}{G}{W}",
+            "rules_text": "[i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhenever this battle is dealt damage, you and the controller of the damage each",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "6",
+            "artist": "",
+            "alias": "",
+            "notes": "landslot\nRaid,"
+        },
+        {
+            "card_name": "UZ20a \u2014 Raid on Dandelion Pond",
+            "color": "RG",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Raid",
+            "number": 233,
+            "color_identity": "RG",
+            "cost": "{1}{R}{G}",
+            "rules_text": "[i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhenever this battle is dealt damage, you and the controller of the damage each create a blue 1/1 Fish creature token.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "4",
+            "artist": "Jose Ochoa",
+            "alias": "",
+            "notes": "landslot\nRaid,"
+        },
+        {
+            "card_name": "UZ13a \u2014",
+            "color": "WR",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Trial",
+            "number": 219,
+            "color_identity": "WR",
+            "cost": "{R}{W}",
+            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]\nGhostly prison for creatures p>2",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "3",
+            "artist": "",
+            "alias": "",
+            "notes": "Trial/Alliance\n\nBlb"
+        },
+        {
+            "card_name": "UZ15a \u2014 Raid on Your Dreams",
+            "color": "UB",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Raid",
+            "number": 223,
+            "color_identity": "UB",
+            "cost": "{2}{U}{B}",
+            "rules_text": "[i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhenever this battle is dealt damage, you and the controller of the damage each draw a card.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "3",
+            "artist": "Asur Misoa",
+            "alias": "",
+            "notes": "landslot\nRaid,"
+        },
+        {
+            "card_name": "UZ17a \u2014",
+            "color": "UG",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Trial",
+            "number": 227,
+            "color_identity": "UG",
+            "cost": "{G}{U}",
+            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "3",
+            "artist": "",
+            "alias": "",
+            "notes": "Trial/Alliance\n\nIko"
+        },
+        {
+            "card_name": "UZ19a \u2014",
+            "color": "BG",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Trial",
+            "number": 231,
+            "color_identity": "BG",
+            "cost": "{2}{B}{G}",
+            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "5",
+            "artist": "",
+            "alias": "",
+            "notes": "Trial/Alliance\n\nEld"
+        },
+        {
+            "card_name": "UZ16a \u2014 Thesis Defense",
+            "color": "UR",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Trial",
+            "number": 225,
+            "color_identity": "UR",
+            "cost": "{1}{U}{R}",
+            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "8",
+            "artist": "Yuri Cameirana",
+            "alias": "",
+            "notes": "Trial/Alliance"
+        },
+        {
+            "card_name": "UZ18a \u2014 Raid on",
+            "color": "BR",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Raid",
+            "number": 229,
+            "color_identity": "BR",
+            "cost": "{4}{B}{R}",
+            "rules_text": "[i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhenever this battle is dealt damage, you and the controller of the damage each",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "6",
+            "artist": "",
+            "alias": "",
+            "notes": "landslot\nRaid,"
         },
         {
             "card_name": "CR12 \u2014 Fling a Pie",
@@ -197,6 +387,25 @@
             "notes": "Raid, Removal"
         },
         {
+            "card_name": "UZ18b \u2014",
+            "color": "BR",
+            "rarity": "uncommon",
+            "type": "Enchantment",
+            "number": 230,
+            "color_identity": "BR",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FOOD",
+            "loyalty": "6",
+            "artist": "Paul Canavan",
+            "alias": "",
+            "notes": ""
+        },
+        {
             "card_name": "CG16a \u2014 Raid on Ketria Gemgrove",
             "color": "G",
             "rarity": "common",
@@ -213,7 +422,7 @@
             "loyalty": "2",
             "artist": "Brian Valeza",
             "alias": "",
-            "notes": "FoodMaker"
+            "notes": "landslot\nFoodMaker"
         },
         {
             "card_name": "RG04 \u2014 Biomewide Migration",
@@ -289,7 +498,7 @@
             "loyalty": "3",
             "artist": "Leon Tukker",
             "alias": "",
-            "notes": "Raid, FoodMaker"
+            "notes": "landslot\nRaid, FoodMaker"
         },
         {
             "card_name": "CB16a \u2014 Raid on the Faerie Garden",
@@ -308,7 +517,7 @@
             "loyalty": "3",
             "artist": "Tim Shepherd",
             "alias": "",
-            "notes": "FoodMaker"
+            "notes": "landslot\nFoodMaker"
         },
         {
             "card_name": "CR16a \u2014 Raid on Emberheart-Oven",
@@ -327,7 +536,7 @@
             "loyalty": "2",
             "artist": "Envar Studio",
             "alias": "",
-            "notes": "FoodMaker"
+            "notes": "landslot\nFoodMaker\n"
         },
         {
             "card_name": "CU16a \u2014 Raid on the Potions Class",
@@ -346,7 +555,7 @@
             "loyalty": "4",
             "artist": "Christina Yen",
             "alias": "",
-            "notes": "Raid, FoodMaker"
+            "notes": "landslot\nRaid, FoodMaker"
         },
         {
             "card_name": "RB04 \u2014 Careful What You Ask For",
@@ -985,7 +1194,7 @@
             "card_name": "CW05 \u2014 Elder Cenobite",
             "color": "W",
             "rarity": "common",
-            "type": "Creature \u2014 Phyrexian Knight",
+            "type": "Creature \u2014 Human Cleric",
             "number": 9,
             "color_identity": "W",
             "cost": "{2}{W}",
@@ -996,7 +1205,7 @@
             "shape": "normal",
             "set": "FOOD",
             "loyalty": "",
-            "artist": "Mike Jordana",
+            "artist": "Andy Aslamov",
             "alias": "",
             "notes": "CardAdvantage, GainLifeTrigger"
         },
@@ -1137,7 +1346,7 @@
             "card_name": "CB06 \u2014 The Tooth Faerie",
             "color": "B",
             "rarity": "common",
-            "type": "Creature \u2014 Faerie Knight",
+            "type": "Creature \u2014 Faerie Rogue",
             "number": 84,
             "color_identity": "B",
             "cost": "{3}{B}",
@@ -2647,7 +2856,7 @@
             "type": "Creature \u2014 Human Warlock",
             "number": 99,
             "color_identity": "B",
-            "cost": "{B}",
+            "cost": "{2}{B}",
             "rules_text": "Lifelink\nWhen this creature enters, up to one target creature gets -X/-X until end of turn, where X is the amount of life you gained this turn.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
@@ -2706,7 +2915,7 @@
             "loyalty": "4",
             "artist": "Nicol\u00e1s Arce",
             "alias": "",
-            "notes": "trail/alliance, GainLifeTrigger"
+            "notes": "Skip,\ntrail/alliance, GainLifeTrigger"
         },
         {
             "card_name": "CW15a \u2014 Trial of Faith",
@@ -2725,7 +2934,7 @@
             "loyalty": "3",
             "artist": "Bryan Bitter",
             "alias": "",
-            "notes": "trail/alliance"
+            "notes": "landslot\ntrail/alliance"
         },
         {
             "card_name": "CB15a \u2014 Trial of Guile",
@@ -2744,7 +2953,7 @@
             "loyalty": "4",
             "artist": "Othon Nikolaidis",
             "alias": "",
-            "notes": "trail/alliance"
+            "notes": "landslot\ntrail/alliance"
         },
         {
             "card_name": "CB15b \u2014 Fruitful Alliance",
@@ -2763,7 +2972,7 @@
             "loyalty": "4",
             "artist": "Othon Nikolaidis",
             "alias": "",
-            "notes": "FoodMaker"
+            "notes": "Skip,\nFoodMaker"
         },
         {
             "card_name": "CU15a \u2014 Test of Intellect",
@@ -2782,7 +2991,7 @@
             "loyalty": "4",
             "artist": "Altered TCG",
             "alias": "",
-            "notes": "trail/alliance"
+            "notes": "landslot\ntrail/alliance"
         },
         {
             "card_name": "CU15b \u2014 Collaborative Scholarship",
@@ -2801,7 +3010,7 @@
             "loyalty": "4",
             "artist": "Goodname Studio",
             "alias": "",
-            "notes": "trail/alliance"
+            "notes": "Skip,\ntrail/alliance"
         },
         {
             "card_name": "CR15a \u2014 Trial of Scurry",
@@ -2820,7 +3029,7 @@
             "loyalty": "4",
             "artist": "Mac Smith",
             "alias": "",
-            "notes": "trail/alliance"
+            "notes": "landslot\ntrail/alliance"
         },
         {
             "card_name": "CG15b \u2014 Kinship of the Herd",
@@ -2839,7 +3048,7 @@
             "loyalty": "4",
             "artist": "Hugo Fredoueil",
             "alias": "",
-            "notes": "trail/alliance"
+            "notes": "Skip,\ntrail/alliance"
         },
         {
             "card_name": "CG15a \u2014 Trial of Might",
@@ -2858,7 +3067,7 @@
             "loyalty": "4",
             "artist": "Victor Titov",
             "alias": "",
-            "notes": "trail/alliance"
+            "notes": "landslot\ntrail/alliance"
         },
         {
             "card_name": "CR15b \u2014 Battleproven Duo",
@@ -2877,7 +3086,7 @@
             "loyalty": "3",
             "artist": "Brendan Lancaster",
             "alias": "",
-            "notes": "trail/alliance"
+            "notes": "Skip,\ntrail/alliance"
         },
         {
             "card_name": "UR04 \u2014 Riverbank Paladin",
@@ -3854,6 +4063,101 @@
             "artist": "Victoria Nedelcheva",
             "alias": "",
             "notes": ""
+        },
+        {
+            "card_name": "UZ19b \u2014",
+            "color": "BG",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Alliance",
+            "number": 232,
+            "color_identity": "BG",
+            "cost": "{2}{B}{G}",
+            "rules_text": "[i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]\nWhenever you or the owner of this battle",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "5",
+            "artist": "Oxana Reshetina",
+            "alias": "",
+            "notes": "Skip,\nTrial/Alliance\n"
+        },
+        {
+            "card_name": "UZ17b \u2014",
+            "color": "UG",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Alliance",
+            "number": 228,
+            "color_identity": "UG",
+            "cost": "{2}{G}{U}",
+            "rules_text": "[i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]\nFood you and the owner of this battle control have \u201c{T}: Add one mana of any color.\u201d",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "5",
+            "artist": "",
+            "alias": "",
+            "notes": "Skip,\nTrial/Alliance"
+        },
+        {
+            "card_name": "UZ16b \u2014 Prismari Flourish",
+            "color": "UR",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Alliance",
+            "number": 226,
+            "color_identity": "UR",
+            "cost": "{2}{U}{R}",
+            "rules_text": "[i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]\nWhenever you or the owner of this battle",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "5",
+            "artist": "Victor Garcia",
+            "alias": "",
+            "notes": "Skip,\nTrial/Alliance"
+        },
+        {
+            "card_name": "UZ13b \u2014",
+            "color": "WR",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Alliance",
+            "number": 220,
+            "color_identity": "WR",
+            "cost": "{2}{R}{W}",
+            "rules_text": "[i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]\nWhenever you or the owner of this battle",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "5",
+            "artist": "Max Wilson",
+            "alias": "",
+            "notes": "Skip,\nTrial/Alliance"
+        },
+        {
+            "card_name": "UZ12b \u2014",
+            "color": "WB",
+            "rarity": "uncommon",
+            "type": "Battle \u2014 Alliance",
+            "number": 218,
+            "color_identity": "WB",
+            "cost": "{2}{W}{B}",
+            "rules_text": "[i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]\nWhenever you or the owner of this battle gain life, each other player loses 1 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "5",
+            "artist": "",
+            "alias": "",
+            "notes": "Skip,\nTrial/Alliance, GainLifeTrigger"
         },
         {
             "card_name": "RB03 \u2014 Magic Piggies",
@@ -4850,6 +5154,25 @@
             "notes": ""
         },
         {
+            "card_name": "UZ15b \u2014 Sleep Study",
+            "color": "UB",
+            "rarity": "uncommon",
+            "type": "Enchantment",
+            "number": 224,
+            "color_identity": "UB",
+            "cost": "",
+            "rules_text": "At the beginning of your upkeep, you may pay {2} or 2 life. If you do, stun target creature.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FOOD",
+            "loyalty": "6",
+            "artist": "Kristian Agerkvist",
+            "alias": "",
+            "notes": "Raid\n\nCould also be named All Nighter"
+        },
+        {
             "card_name": "RG05 \u2014 Savai Stampede",
             "color": "G",
             "rarity": "rare",
@@ -4886,6 +5209,63 @@
             "artist": "Gabrielle Ragusi",
             "alias": "",
             "notes": "CardAdvantage, PoliticsCard"
+        },
+        {
+            "card_name": "UZ20b \u2014 Mutative Advantage",
+            "color": "RG",
+            "rarity": "uncommon",
+            "type": "Enchantment",
+            "number": 234,
+            "color_identity": "RG",
+            "cost": "",
+            "rules_text": "When b \u2014 Mutative Advantage enters, choose a basic land type, then draw a card.\nToken creatures you control have landwalk of the chosen type. [i](It can't be blocked as long as defending player controls a land of that type.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FOOD",
+            "loyalty": "6",
+            "artist": "Carson Daniel",
+            "alias": "",
+            "notes": "Raid, CardAdvantage,"
+        },
+        {
+            "card_name": "UZ11b \u2014",
+            "color": "WU",
+            "rarity": "uncommon",
+            "type": "Enchantment",
+            "number": 216,
+            "color_identity": "WU",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FOOD",
+            "loyalty": "6",
+            "artist": "",
+            "alias": "",
+            "notes": "Raid"
+        },
+        {
+            "card_name": "UZ14b \u2014",
+            "color": "WG",
+            "rarity": "uncommon",
+            "type": "Enchantment",
+            "number": 222,
+            "color_identity": "WG",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FOOD",
+            "loyalty": "6",
+            "artist": "",
+            "alias": "",
+            "notes": "Raid"
         },
         {
             "card_name": "UW08 \u2014 Uncork",

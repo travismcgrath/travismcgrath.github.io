@@ -1327,6 +1327,76 @@
         "position": ""
     },
     {
+        "card_name": "UZ11a \u2014 Raid on",
+        "number": 215,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ15a \u2014 Raid on Your Dreams",
+        "number": 223,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ18a \u2014 Raid on",
+        "number": 229,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ20a \u2014 Raid on Dandelion Pond",
+        "number": 233,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ14a \u2014 Raid on",
+        "number": 221,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ11b \u2014",
+        "number": 216,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ15b \u2014 Sleep Study",
+        "number": 224,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ18b \u2014",
+        "number": 230,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ20b \u2014 Mutative Advantage",
+        "number": 234,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ14b \u2014",
+        "number": 222,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
         "card_name": "UZ21 \u2014 Skeptic",
         "number": 235,
         "shape": "aftermath",
@@ -1482,6 +1552,76 @@
         "position": ""
     },
     {
+        "card_name": "UZ12a \u2014",
+        "number": 217,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ16a \u2014 Thesis Defense",
+        "number": 225,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ19a \u2014",
+        "number": 231,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "RZ03 \u2014 Blight Rabbit",
+        "number": 198,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "RZ07 \u2014 Quandrix Illusionist",
+        "number": 202,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ12b \u2014",
+        "number": 218,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ16b \u2014 Prismari Flourish",
+        "number": 226,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ19b \u2014",
+        "number": 232,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ03 \u2014 Soul Rodent",
+        "number": 207,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ07 \u2014 Tenured Bondologist",
+        "number": 211,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
         "card_name": "UZ02 \u2014 Dawn Knight",
         "number": 251,
         "shape": "normal",
@@ -1503,16 +1643,16 @@
         "position": ""
     },
     {
-        "card_name": "RZ03 \u2014 Blight Rabbit",
-        "number": 198,
-        "shape": "normal",
+        "card_name": "UZ13a \u2014",
+        "number": 219,
+        "shape": "battle split",
         "set": "FOOD",
         "position": ""
     },
     {
-        "card_name": "RZ07 \u2014 Quandrix Illusionist",
-        "number": 202,
-        "shape": "normal",
+        "card_name": "UZ17a \u2014",
+        "number": 227,
+        "shape": "battle split",
         "set": "FOOD",
         "position": ""
     },
@@ -1538,16 +1678,16 @@
         "position": ""
     },
     {
-        "card_name": "UZ03 \u2014 Soul Rodent",
-        "number": 207,
-        "shape": "normal",
+        "card_name": "UZ13b \u2014",
+        "number": 220,
+        "shape": "battle split",
         "set": "FOOD",
         "position": ""
     },
     {
-        "card_name": "UZ07 \u2014 Tenured Bondologist",
-        "number": 211,
-        "shape": "normal",
+        "card_name": "UZ17b \u2014",
+        "number": 228,
+        "shape": "battle split",
         "set": "FOOD",
         "position": ""
     },
