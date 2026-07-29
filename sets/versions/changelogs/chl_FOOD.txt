@@ -1,4 +1,69 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+
+
+CB16b — Rankle's Reveal
+
+CU16b — Zimone Gets Even
+
+CW16b — Mother's Retribution
+
+CG01 — Hungry Brushwagg
+rules_text: Trample 
+When Hungry Brushwagg becomes bonded, it devours food 1. [i](You may sacrifice any number of food. Put that many +1/+1 counters on this creature.)[/i] => Trample 
+When Hungry Brushwagg becomes bonded, it devours tokens 1. [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)[/i]
+
+UG06 —Drannith Mess Sergeant
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+When this creature attacks, create a Food token then, it devours food 1 [i](You may sacrifice any number of food. Put that many +1/+1 counters on this creature.)[/i] => Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+When this creature attacks, create a Food token then, it devours tokens 1 [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)[/i]
+
+CG16b — Umori Snaps Back
+
+UG10 — Feast of the Pack
+
+CG10 — Peckish Pinekraken
+rules_text: When Peckish Pinekraken enters or becomes bonded, it devours food 2. [i](You may sacrifice any number of food. Put twice that many +1/+1 counters on this creature.)[/i]
+Peckish Pinekraken can't be blocked by creatures with power 3 or less. => When Peckish Pinekraken enters or becomes bonded, it devours tokens 2. [i](You may sacrifice any number of tokens. Put twice that many +1/+1 counters on this creature.)[/i]
+Peckish Pinekraken can't be blocked by creatures with power 3 or less.
+
+CR10 — Pond Creek Predator
+cost: {4}{R}{R} => {5}{R}{R}
+rules_text: Flying
+When Pond Creek Predator deals combat damage to an opponent, create a Food token.
+Sacrifice a creature with base power and toughness 1/1 : Pond Creek Predator gets +3/+0 until end of turn. => Flying, haste
+When Pond Creek Predator deals combat damage to an opponent, create a Food token.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 4/4 => 7/7
+
+CR16b — Mabel's Rise
+
+UG03 —Ravenous Hyena
+rules_text: When Ravenous Hyena deals combat damage to a player, it devours food 1. [i](You may sacrifice any number of food. Put that many +1/+1 counters on this creature.)[/i]
+Cycling {2}{G}{G} [i]({2}{G}{G}, Discard this card: Draw a card.)[/i]
+When you cycle this card, exile up to one target artifact or enchantment. => When Ravenous Hyena deals combat damage to a player, it devours tokens 1. [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)[/i]
+Cycling {2}{G}{G} [i]({2}{G}{G}, Discard this card: Draw a card.)[/i]
+When you cycle this card, exile up to one target artifact or enchantment.
+
+UW09 — Punishment Sphere
+cost: {W} => {4}{W}
+
+UZ22 — Compleat Revival
+
+UZ25 — Plagiarism
+rules_text: Copy target spell, then return it to its owner's hand. [i](A copy of a permanent spell becomes a token.)[/i] => Copy target spell, then return it to its owner's hand. [i](A copy of a permanent spell becomes a token.)[/i]
+Madness {1}{U}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+RG03 — Umori's Hunger
+rules_text: Non-Human creatures you control have Devour Food 1. [i](As this enters the battlefield, you may sacrifice any number of Foods. That creature enters the battlefield with that many +1/+1 counters on it.)[/i]
+When a creature you control devours two or more food, put a trample counter on it, then draw a card. => Non-Human creatures you control have Devour tokens 1. [i](As this enters the battlefield, you may sacrifice any number of tokenses. That creature enters the battlefield with that many +1/+1 counters on it.)[/i]
+When a creature you control devours two or more tokens, put a trample counter on it, then draw a card.
+
+UZ15b — Sleep Study
+
+
+VERSION 7 CHANGELOG
 ====================
 
 UZ12a — added.

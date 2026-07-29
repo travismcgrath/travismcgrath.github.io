@@ -11,9 +11,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/115_Thriving Grubs.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Dovin Baan, Persistent Ruler",
 				"rarity": "mythic",
 				"mana_cost": "{W}{U}{B}",
@@ -24,9 +22,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/164_Dovin Baan, Persistent Ruler.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Narset, Panharmonastic Sage",
 				"rarity": "mythic",
 				"mana_cost": "{2}{R}{G}{W}",
@@ -37,9 +33,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/184_Narset, Panharmonastic Sage.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Zurgo, Anarchist Leader",
 				"rarity": "mythic",
 				"mana_cost": "{2}{B}{R}{G}",
@@ -50,9 +44,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/210_Zurgo, Anarchist Leader.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Kurna Majan, Luminary Financier",
 				"rarity": "mythic",
 				"mana_cost": "{3}{G}{W}{U}",
@@ -63,9 +55,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/180_Kurna Majan, Luminary Financier.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Waste Land",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -76,9 +66,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/260_Waste Land.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cataclysmic Earthquake",
 				"rarity": "mythic",
 				"mana_cost": "{3}{G}{W}",
@@ -89,9 +77,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/157_Cataclysmic Earthquake.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Noxious Duststorm",
 				"rarity": "mythic",
 				"mana_cost": "{3}{U}{B}",
@@ -102,9 +88,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/186_Noxious Duststorm.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Torrential Ice Wave",
 				"rarity": "mythic",
 				"mana_cost": "{3}{W}{U}",
@@ -115,9 +99,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/202_Torrential Ice Wave.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Verdurous Wildfire",
 				"rarity": "mythic",
 				"mana_cost": "{3}{R}{G}",
@@ -128,9 +110,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/205_Verdurous Wildfire.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Combustible Lightning",
 				"rarity": "mythic",
 				"mana_cost": "{3}{B}{R}",
@@ -141,9 +121,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/162_Combustible Lightning.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aethermate Roc",
 				"rarity": "mythic",
 				"mana_cost": "{2}{W}{W}",
@@ -154,9 +132,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/1_Aethermate Roc.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Winds of Industry",
 				"rarity": "mythic",
 				"mana_cost": "{3}{U}{U}",
@@ -167,9 +143,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/58_Winds of Industry.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Demon of Dark Schemes",
 				"rarity": "mythic",
 				"mana_cost": "{3}{B}{B}{B}",
@@ -180,9 +154,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/64_Demon of Dark Schemes.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Lightning Runner",
 				"rarity": "mythic",
 				"mana_cost": "{3}{R}{R}",
@@ -193,9 +165,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/103_Lightning Runner.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Longtusk Pride",
 				"rarity": "mythic",
 				"mana_cost": "{4}{G}{G}",
@@ -206,9 +176,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/133_Longtusk Pride.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Adi Thandray, Platinum Ancestor",
 				"rarity": "rare",
 				"mana_cost": "{1}{U}{B}{R}",
@@ -219,9 +187,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/146_Adi Thandray, Platinum Ancestor.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Yahenni, Altruistic Ancestor",
 				"rarity": "rare",
 				"mana_cost": "{1}{W}{U}{B}",
@@ -232,9 +198,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/208_Yahenni, Altruistic Ancestor.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Surrak, Pelt-Clad Ancestor",
 				"rarity": "rare",
 				"mana_cost": "{1}{G}{W}{U}",
@@ -245,9 +209,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/199_Surrak, Pelt-Clad Ancestor.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Houn, Beguiling Ancestor",
 				"rarity": "rare",
 				"mana_cost": "{1}{R}{G}{W}",
@@ -258,9 +220,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/172_Houn, Beguiling Ancestor.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ancestor, Who Smirks at Law",
 				"rarity": "rare",
 				"mana_cost": "{1}{B}{R}{G}",
@@ -271,9 +231,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/148_Ancestor, Who Smirks at Law.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Dustblast",
 				"rarity": "rare",
 				"mana_cost": "{3}{G}{W}{U}",
@@ -284,9 +242,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/166_Dustblast.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Dynastic Inheritance",
 				"rarity": "rare",
 				"mana_cost": "{X}{X}{G}{W}{U}",
@@ -297,9 +253,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/167_Dynastic Inheritance.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Temporize Activist",
 				"rarity": "rare",
 				"mana_cost": "{W}{U}{B}",
@@ -310,9 +264,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/200_Temporize Activist.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Dragonfist Technique",
 				"rarity": "rare",
 				"mana_cost": "{2}{R}{G}{W}",
@@ -323,9 +275,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/165_Dragonfist Technique.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Booming Karma",
 				"rarity": "rare",
 				"mana_cost": "{1}{B}{R}{G}",
@@ -336,9 +286,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/155_Booming Karma.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Sagu Deforester",
 				"rarity": "rare",
 				"mana_cost": "{4}{U}{B}{R}",
@@ -349,9 +297,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/192_Sagu Deforester.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Kneecap Blaster",
 				"rarity": "rare",
 				"mana_cost": "{2}{B}{R}{G}",
@@ -362,9 +308,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/179_Kneecap Blaster.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Assemblyman of Preservation",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}{U}{B}",
@@ -375,9 +319,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/150_Assemblyman of Preservation.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Sage of the Vitalfire",
 				"rarity": "rare",
 				"mana_cost": "{2}{R}{G}{W}",
@@ -388,9 +330,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/191_Sage of the Vitalfire.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Savage Union Busters",
 				"rarity": "rare",
 				"mana_cost": "{U}{B}{R}",
@@ -401,9 +341,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/195_Savage Union Busters.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Sai's Patronage",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}{U}",
@@ -414,9 +352,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/193_Sai's Patronage.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Impulsive Fracking",
 				"rarity": "rare",
 				"mana_cost": "{B}{R}",
@@ -427,9 +363,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/175_Impulsive Fracking.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Birth of Rebellion",
 				"rarity": "rare",
 				"mana_cost": "{R}{G}",
@@ -440,9 +374,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/154_Birth of Rebellion.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Chianul's Guidance",
 				"rarity": "rare",
 				"mana_cost": "{1}{G}{W}",
@@ -453,9 +385,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/158_Chianul's Guidance.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Fumigate",
 				"rarity": "rare",
 				"mana_cost": "{3}{W}{W}",
@@ -466,9 +396,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/13_Fumigate.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Confiscation Coup",
 				"rarity": "rare",
 				"mana_cost": "{3}{U}{U}",
@@ -479,9 +407,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/35_Confiscation Coup.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Bloodsoaked Champion",
 				"rarity": "rare",
 				"mana_cost": "{B}",
@@ -492,9 +418,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/61_Bloodsoaked Champion.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Hooded Hydra",
 				"rarity": "rare",
 				"mana_cost": "{X}{G}{G}",
@@ -505,9 +429,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/127_Hooded Hydra.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Liberated Dreadnought",
 				"rarity": "uncommon",
 				"mana_cost": "{G}",
@@ -518,9 +440,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/132_Liberated Dreadnought.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Thousand Winds",
 				"rarity": "rare",
 				"mana_cost": "{4}{U}{U}",
@@ -531,9 +451,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/55_Thousand Winds.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Jeering Instigator",
 				"rarity": "rare",
 				"mana_cost": "{1}{R}",
@@ -544,9 +462,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/102_Jeering Instigator.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Grim Haruspex",
 				"rarity": "rare",
 				"mana_cost": "{2}{B}",
@@ -557,9 +473,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/72_Grim Haruspex.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Master of Pearls",
 				"rarity": "rare",
 				"mana_cost": "{1}{W}",
@@ -570,9 +484,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/17_Master of Pearls.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Chianul, Qal Sisma Mystic",
 				"rarity": "rare",
 				"mana_cost": "{1}{G}",
@@ -583,9 +495,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/118_Chianul, Qal Sisma Mystic.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Machiavellian Will",
 				"rarity": "rare",
 				"mana_cost": "{2}{U}{U}",
@@ -596,9 +506,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/48_Machiavellian Will.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Unscrupulous Puppeteer",
 				"rarity": "rare",
 				"mana_cost": "{3}{B}{B}",
@@ -609,9 +517,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/86_Unscrupulous Puppeteer.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Pearl Lake Salar",
 				"rarity": "rare",
 				"mana_cost": "{X}{R}{R}",
@@ -622,9 +528,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/110_Pearl Lake Salar.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Gremlin Anarchist",
 				"rarity": "rare",
 				"mana_cost": "{3}{R}{R}",
@@ -635,9 +539,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/98_Gremlin Anarchist.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "The Assembly's Orator",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}",
@@ -648,9 +550,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/6_The Assembly's Orator.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Syndicate Logistician",
 				"rarity": "rare",
 				"mana_cost": "{1}{B}",
@@ -661,9 +561,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/83_Syndicate Logistician.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Snapping Sanctuary",
 				"rarity": "rare",
 				"mana_cost": "{3}{G}{G}",
@@ -674,9 +572,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/142_Snapping Sanctuary.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Industrious Angel",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}{W}",
@@ -687,9 +583,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/16_Industrious Angel.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Mine for Solutions",
 				"rarity": "rare",
 				"mana_cost": "{10}{U}{U}",
@@ -700,9 +594,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/49_Mine for Solutions.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Exploration Module",
 				"rarity": "rare",
 				"mana_cost": "{3}",
@@ -713,9 +605,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/218_Exploration Module.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Extraction Module",
 				"rarity": "uncommon",
 				"mana_cost": "{2}",
@@ -726,9 +616,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/219_Extraction Module.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Execution Module",
 				"rarity": "uncommon",
 				"mana_cost": "{1}",
@@ -739,9 +627,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/217_Execution Module.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Skysovereign, Grounded Flagship",
 				"rarity": "rare",
 				"mana_cost": "{4}",
@@ -752,9 +638,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/241_Skysovereign, Grounded Flagship.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Smuggler's ATV",
 				"rarity": "rare",
 				"mana_cost": "{2}",
@@ -765,9 +649,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/242_Smuggler's ATV.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cultivator's Caravan",
 				"rarity": "rare",
 				"mana_cost": "{3}",
@@ -778,9 +660,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/216_Cultivator's Caravan.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Fleetwheel Cruiser",
 				"rarity": "rare",
 				"mana_cost": "{4}",
@@ -791,9 +671,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/222_Fleetwheel Cruiser.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Metallic Mimic",
 				"rarity": "rare",
 				"mana_cost": "{2}",
@@ -804,9 +682,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/233_Metallic Mimic.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Altar of the Brood",
 				"rarity": "rare",
 				"mana_cost": "{1}",
@@ -817,9 +693,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/212_Altar of the Brood.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ghostfire Blade",
 				"rarity": "rare",
 				"mana_cost": "{1}",
@@ -830,9 +704,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/225_Ghostfire Blade.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Corrupted Workshop",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -843,9 +715,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/248_Corrupted Workshop.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Desert Rift",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -856,9 +726,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/250_Desert Rift.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Seaside Citadel",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -869,9 +737,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/258_Seaside Citadel.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Arcane Sanctum",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -882,9 +748,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/247_Arcane Sanctum.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Crumbling Necropolis",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -895,9 +759,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/249_Crumbling Necropolis.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Savage Lands",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -908,9 +770,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/257_Savage Lands.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Jungle Shrine",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -921,9 +781,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/254_Jungle Shrine.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aether Hub",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -934,9 +792,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/246_Aether Hub.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Zurgo's Encampment",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -947,9 +803,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/261_Zurgo's Encampment.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Indigo Monmument",
 				"rarity": "common",
 				"mana_cost": "",
@@ -960,9 +814,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/266_Indigo Monmument.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Vedalken Aetherlooter",
 				"rarity": "common",
 				"mana_cost": "{2}{U}{B}{R}",
@@ -973,9 +825,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/204_Vedalken Aetherlooter.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Citizen's Companion",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{G}{W}{U}",
@@ -986,9 +836,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/161_Citizen's Companion.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Whisper Virtuoso",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{W}{U}{B}",
@@ -999,9 +847,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/207_Whisper Virtuoso.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Warden of the Scrolls",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{R}{G}{W}",
@@ -1012,9 +858,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/206_Warden of the Scrolls.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Nihilist Roughrider",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{B}{R}{G}",
@@ -1025,9 +869,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/185_Nihilist Roughrider.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Unlicensed Syphoning",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{B}{R}",
@@ -1038,9 +880,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/203_Unlicensed Syphoning.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Bull Market",
 				"rarity": "rare",
 				"mana_cost": "{1}{W}{U}",
@@ -1051,9 +891,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/156_Bull Market.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Icefeather Carrion",
 				"rarity": "uncommon",
 				"mana_cost": "{U}{B}",
@@ -1064,9 +902,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/173_Icefeather Carrion.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Inventor's Mantle",
 				"rarity": "uncommon",
 				"mana_cost": "{G}{W}",
@@ -1077,9 +913,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/177_Inventor's Mantle.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Smash Up",
 				"rarity": "uncommon",
 				"mana_cost": "{R}{G}",
@@ -1090,9 +924,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/198_Smash Up.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Contraband Kingpin",
 				"rarity": "uncommon",
 				"mana_cost": "{U}{B}",
@@ -1103,9 +935,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/163_Contraband Kingpin.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Highspire Adept",
 				"rarity": "uncommon",
 				"mana_cost": "{G}{W}",
@@ -1116,9 +946,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/171_Highspire Adept.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Baral, Renegade Brawler",
 				"rarity": "uncommon",
 				"mana_cost": "{B}{R}",
@@ -1129,9 +957,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/152_Baral, Renegade Brawler.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Labor Charm",
 				"rarity": "uncommon",
 				"mana_cost": "{U}{B}{R}",
@@ -1142,9 +968,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/181_Labor Charm.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Political Charm",
 				"rarity": "uncommon",
 				"mana_cost": "{W}{U}{B}",
@@ -1155,9 +979,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/189_Political Charm.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Finance Charm",
 				"rarity": "uncommon",
 				"mana_cost": "{G}{W}{U}",
@@ -1168,9 +990,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/169_Finance Charm.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Monastic Charm",
 				"rarity": "uncommon",
 				"mana_cost": "{R}{G}{W}",
@@ -1181,9 +1001,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/182_Monastic Charm.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Rebelious Charm",
 				"rarity": "uncommon",
 				"mana_cost": "{B}{R}{G}",
@@ -1194,9 +1012,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/190_Rebelious Charm.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Sage-Eye Apprentice",
 				"rarity": "common",
 				"mana_cost": "{W}",
@@ -1207,9 +1023,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/24_Sage-Eye Apprentice.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Entrant of the Way",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{W}",
@@ -1220,9 +1034,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/12_Entrant of the Way.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Gearshift Pitcrew",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{U}",
@@ -1233,9 +1045,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/44_Gearshift Pitcrew.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Devout Kirin",
 				"rarity": "common",
 				"mana_cost": "{3}{W}",
@@ -1246,9 +1056,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/9_Devout Kirin.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Roost's Guardian",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{W}",
@@ -1259,9 +1067,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/23_Roost's Guardian.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ghostfire's Light",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{W}",
@@ -1272,9 +1078,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/14_Ghostfire's Light.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Resistance Factor",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{G}",
@@ -1285,9 +1089,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/139_Resistance Factor.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Skywhaler's Shot",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{W}",
@@ -1298,9 +1100,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/26_Skywhaler's Shot.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Salt Road Tank",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{G}{W}",
@@ -1311,9 +1111,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/194_Salt Road Tank.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cogify",
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
@@ -1324,9 +1122,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/34_Cogify.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Glimmer of Genius",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{U}",
@@ -1337,9 +1133,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/46_Glimmer of Genius.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Shrewd Negotiation",
 				"rarity": "uncommon",
 				"mana_cost": "{4}{U}",
@@ -1350,9 +1144,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/52_Shrewd Negotiation.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Innovation Setbacks",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{U}",
@@ -1363,9 +1155,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/47_Innovation Setbacks.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Glacial Glintfisher",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{U}",
@@ -1376,9 +1166,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/45_Glacial Glintfisher.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Denial Lobbyist",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{U}{U}",
@@ -1389,9 +1177,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/38_Denial Lobbyist.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Astute Fairground Vendor",
 				"rarity": "common",
 				"mana_cost": "{U}",
@@ -1402,9 +1188,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/32_Astute Fairground Vendor.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Subverter",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{U}",
@@ -1415,9 +1199,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/54_Subverter.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Filigreed Skywhale",
 				"rarity": "uncommon",
 				"mana_cost": "{5}{U}",
@@ -1428,9 +1210,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/42_Filigreed Skywhale.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Tenth Bridge Copter",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{W}{U}",
@@ -1441,9 +1221,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/201_Tenth Bridge Copter.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Gonti's Illicit Ironworks",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{B}",
@@ -1454,9 +1232,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/70_Gonti's Illicit Ironworks.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Underhanded Designs",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{B}",
@@ -1467,9 +1243,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/85_Underhanded Designs.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aether Extraction",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{B}{B}",
@@ -1480,9 +1254,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/59_Aether Extraction.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ruthless Ripper",
 				"rarity": "common",
 				"mana_cost": "{B}",
@@ -1493,9 +1265,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/79_Ruthless Ripper.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Glintsleeve Bruiser",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{B}",
@@ -1506,9 +1276,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/69_Glintsleeve Bruiser.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Heir of the Wastes",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{B}",
@@ -1519,9 +1287,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/73_Heir of the Wastes.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Bloody Auctioneer",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{B}{B}",
@@ -1532,9 +1298,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/62_Bloody Auctioneer.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Shambling Aetherborn",
 				"rarity": "common",
 				"mana_cost": "{3}{B}",
@@ -1545,9 +1309,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/81_Shambling Aetherborn.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Kheru Harvester",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{U}{B}",
@@ -1558,9 +1320,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/178_Kheru Harvester.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Hordeling Troublemaker",
 				"rarity": "common",
 				"mana_cost": "{R}",
@@ -1571,9 +1331,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/100_Hordeling Troublemaker.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aetherbomb Arsonist",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{R}",
@@ -1584,9 +1342,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/89_Aetherbomb Arsonist.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "War-Name Aspirant",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{R}",
@@ -1597,9 +1353,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/116_War-Name Aspirant.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Bloodfire Sage",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{R}",
@@ -1610,9 +1364,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/92_Bloodfire Sage.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ashcloud Dragster",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{B}{R}",
@@ -1623,9 +1375,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/149_Ashcloud Dragster.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Maulfist Doorbuster",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{R}",
@@ -1636,9 +1386,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/105_Maulfist Doorbuster.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Fairgrounds Acrobat",
 				"rarity": "common",
 				"mana_cost": "{3}{R}",
@@ -1649,9 +1397,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/96_Fairgrounds Acrobat.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Myopic Pillaging",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{R}{R}",
@@ -1662,9 +1408,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/106_Myopic Pillaging.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Harnessed Lightning",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{R}",
@@ -1675,9 +1419,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/99_Harnessed Lightning.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Purchase Armorcraft",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{W}",
@@ -1688,9 +1430,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/20_Purchase Armorcraft.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Guardian of the Cowl",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{G}{G}",
@@ -1701,9 +1441,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/126_Guardian of the Cowl.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Riparian Jaguar",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{G}",
@@ -1714,9 +1452,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/140_Riparian Jaguar.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Incensed Druid",
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
@@ -1727,9 +1463,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/130_Incensed Druid.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Tuskguard Colonel",
 				"rarity": "rare",
 				"mana_cost": "{4}{G}{G}",
@@ -1740,9 +1474,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/145_Tuskguard Colonel.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Tenth Bridge Turret Guard",
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
@@ -1753,9 +1485,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/144_Tenth Bridge Turret Guard.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Guarded Supply Freighter",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{R}{G}",
@@ -1766,9 +1496,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/170_Guarded Supply Freighter.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ovalchase Dragster",
 				"rarity": "uncommon",
 				"mana_cost": "{4}",
@@ -1779,9 +1507,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/235_Ovalchase Dragster.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Bomat Bazaar Barge",
 				"rarity": "uncommon",
 				"mana_cost": "{4}",
@@ -1792,9 +1518,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/214_Bomat Bazaar Barge.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Consol's Bodyguards",
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
@@ -1805,9 +1529,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/36_Consol's Bodyguards.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Owl-Strix Archers",
 				"rarity": "uncommon",
 				"mana_cost": "{4}",
@@ -1818,9 +1540,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/236_Owl-Strix Archers.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Powered Down Timepiece",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{B}",
@@ -1831,9 +1551,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/78_Powered Down Timepiece.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Improvised Weather Machine",
 				"rarity": "uncommon",
 				"mana_cost": "{3}",
@@ -1844,9 +1562,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/226_Improvised Weather Machine.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Alloy Loxodon",
 				"rarity": "common",
 				"mana_cost": "{6}{G}",
@@ -1857,9 +1573,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/117_Alloy Loxodon.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Filigree Familiar",
 				"rarity": "common",
 				"mana_cost": "{3}",
@@ -1870,9 +1584,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/221_Filigree Familiar.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ghirapur's Golden Parapets",
 				"rarity": "common",
 				"mana_cost": "{2}",
@@ -1883,9 +1595,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/224_Ghirapur's Golden Parapets.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Loxodon Memorial",
 				"rarity": "uncommon",
 				"mana_cost": "{4}{G}",
@@ -1896,9 +1606,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/134_Loxodon Memorial.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Lobbiers's Purse",
 				"rarity": "uncommon",
 				"mana_cost": "{X}{X}",
@@ -1909,9 +1617,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/231_Lobbiers's Purse.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Tranquil Cove",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1922,9 +1628,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/272_Tranquil Cove.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Dismal Backwater",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1935,9 +1639,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/265_Dismal Backwater.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Bloodfell Caves",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1948,9 +1650,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/263_Bloodfell Caves.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Rugged Highlands",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1961,9 +1661,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/268_Rugged Highlands.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Blossoming Sands",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1974,9 +1672,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/264_Blossoming Sands.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Scoured Barrens",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1987,9 +1683,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/269_Scoured Barrens.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Swiftwater Cliffs",
 				"rarity": "common",
 				"mana_cost": "",
@@ -2000,9 +1694,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/270_Swiftwater Cliffs.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Jungle Hollow",
 				"rarity": "common",
 				"mana_cost": "",
@@ -2013,9 +1705,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/267_Jungle Hollow.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Wind-Scarred Crag",
 				"rarity": "common",
 				"mana_cost": "",
@@ -2026,9 +1716,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/273_Wind-Scarred Crag.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Thornwood Falls",
 				"rarity": "common",
 				"mana_cost": "",
@@ -2039,9 +1727,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/271_Thornwood Falls.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Backslide",
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
@@ -2052,9 +1738,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/33_Backslide.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Thriving Rats",
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
@@ -2065,9 +1749,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/84_Thriving Rats.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Irreversible Nightmare",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{B}",
@@ -2078,9 +1760,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/74_Irreversible Nightmare.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Chief of the Nail",
 				"rarity": "uncommon",
 				"mana_cost": "{W}{U}",
@@ -2091,9 +1771,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/160_Chief of the Nail.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Rocslide",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{W}",
@@ -2104,9 +1782,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/22_Rocslide.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aradara Station",
 				"rarity": "common",
 				"mana_cost": "",
@@ -2117,9 +1793,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/262_Aradara Station.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aetherborn Dreamwalker",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{U}{B}{R}",
@@ -2130,9 +1804,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/147_Aetherborn Dreamwalker.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Inspector Brigade",
 				"rarity": "common",
 				"mana_cost": "{2}{W}{U}{B}",
@@ -2143,9 +1815,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/176_Inspector Brigade.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Illusion of Luxury",
 				"rarity": "common",
 				"mana_cost": "{2}{G}{W}{U}",
@@ -2156,9 +1826,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/174_Illusion of Luxury.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Mystic of The Way",
 				"rarity": "common",
 				"mana_cost": "{2}{R}{G}{W}",
@@ -2169,9 +1837,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/183_Mystic of The Way.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Peema Woods Champions",
 				"rarity": "common",
 				"mana_cost": "{2}{B}{R}{G}",
@@ -2182,9 +1848,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/188_Peema Woods Champions.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Factory BannerKnot",
 				"rarity": "uncommon",
 				"mana_cost": "{3}",
@@ -2195,9 +1859,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/220_Factory BannerKnot.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Lawful BannerKnot",
 				"rarity": "uncommon",
 				"mana_cost": "{3}",
@@ -2208,9 +1870,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/228_Lawful BannerKnot.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Market BannerKnot",
 				"rarity": "uncommon",
 				"mana_cost": "{3}",
@@ -2221,9 +1881,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/232_Market BannerKnot.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Monastery BannerKnot",
 				"rarity": "uncommon",
 				"mana_cost": "{3}",
@@ -2234,9 +1892,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/234_Monastery BannerKnot.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Lawless BannerKnot",
 				"rarity": "uncommon",
 				"mana_cost": "{3}",
@@ -2247,9 +1903,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/229_Lawless BannerKnot.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Brass Winged Vulture",
 				"rarity": "common",
 				"mana_cost": "{2}",
@@ -2260,9 +1914,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/215_Brass Winged Vulture.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Steel Horned Ibex",
 				"rarity": "common",
 				"mana_cost": "{4}",
@@ -2273,9 +1925,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/244_Steel Horned Ibex.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Silver Tusked Walrus",
 				"rarity": "common",
 				"mana_cost": "{1}",
@@ -2286,9 +1936,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/240_Silver Tusked Walrus.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Wrought Iron Rhino",
 				"rarity": "common",
 				"mana_cost": "{4}",
@@ -2299,9 +1947,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/245_Wrought Iron Rhino.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Lead Toothed Hyenas",
 				"rarity": "common",
 				"mana_cost": "{2}",
@@ -2312,9 +1958,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/230_Lead Toothed Hyenas.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Artificer's MIG",
 				"rarity": "common",
 				"mana_cost": "{1}",
@@ -2325,9 +1969,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/213_Artificer's MIG.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Lathnu Funicular",
 				"rarity": "common",
 				"mana_cost": "{5}",
@@ -2338,9 +1980,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/227_Lathnu Funicular.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aetherspout Bulldozer",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{R}",
@@ -2351,9 +1991,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/90_Aetherspout Bulldozer.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Adara Cable Car",
 				"rarity": "common",
 				"mana_cost": "{2}",
@@ -2364,9 +2002,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/211_Adara Cable Car.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Prophetic Prism",
 				"rarity": "common",
 				"mana_cost": "{2}",
@@ -2377,9 +2013,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/237_Prophetic Prism.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Foundry Auditor",
 				"rarity": "common",
 				"mana_cost": "{4}",
@@ -2390,9 +2024,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/223_Foundry Auditor.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Self-Assembler",
 				"rarity": "common",
 				"mana_cost": "{5}",
@@ -2403,9 +2035,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/239_Self-Assembler.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Snare Thopter",
 				"rarity": "common",
 				"mana_cost": "{4}",
@@ -2416,9 +2046,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/243_Snare Thopter.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Spur to Believe",
 				"rarity": "common",
 				"mana_cost": "{W}",
@@ -2429,9 +2057,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/27_Spur to Believe.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Empower the Masses",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{W}{W}",
@@ -2442,9 +2068,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/11_Empower the Masses.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Tax On Action",
 				"rarity": "common",
 				"mana_cost": "{W}",
@@ -2455,9 +2079,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/28_Tax On Action.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Disassemble",
 				"rarity": "common",
 				"mana_cost": "{2}{W}",
@@ -2468,9 +2090,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/10_Disassemble.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Medatative Inspiration",
 				"rarity": "common",
 				"mana_cost": "{2}{W}{W}",
@@ -2481,9 +2101,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/18_Medatative Inspiration.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Apprehend Dissident",
 				"rarity": "common",
 				"mana_cost": "{2}{W}",
@@ -2494,9 +2112,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/2_Apprehend Dissident.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Assembly's Attache",
 				"rarity": "common",
 				"mana_cost": "{3}{W}",
@@ -2507,9 +2123,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/5_Assembly's Attache.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Skypatrol Aetherborn",
 				"rarity": "common",
 				"mana_cost": "{2}{W}",
@@ -2520,9 +2134,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/25_Skypatrol Aetherborn.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aristocrats' Steed",
 				"rarity": "common",
 				"mana_cost": "{5}{W}",
@@ -2533,9 +2145,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/3_Aristocrats' Steed.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Charming Kata",
 				"rarity": "common",
 				"mana_cost": "{W}",
@@ -2546,9 +2156,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/7_Charming Kata.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Teacher of the Way",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{W}",
@@ -2559,9 +2167,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/29_Teacher of the Way.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Polluting Byproduct",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{U}",
@@ -2572,9 +2178,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/51_Polluting Byproduct.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Contrive",
 				"rarity": "common",
 				"mana_cost": "{U}",
@@ -2585,9 +2189,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/37_Contrive.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Artificer's Epiphany",
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
@@ -2598,9 +2200,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/31_Artificer's Epiphany.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Failed Inspection",
 				"rarity": "common",
 				"mana_cost": "{2}{U}{U}",
@@ -2611,9 +2211,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/41_Failed Inspection.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Unseasonal Squall",
 				"rarity": "common",
 				"mana_cost": "{2}{U}",
@@ -2624,9 +2222,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/57_Unseasonal Squall.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Sponsor's Cruise",
 				"rarity": "common",
 				"mana_cost": "{6}{U}",
@@ -2637,9 +2233,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/53_Sponsor's Cruise.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Dovin's Spy",
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
@@ -2650,9 +2244,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/39_Dovin's Spy.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Drone Vendor",
 				"rarity": "common",
 				"mana_cost": "{1}{U}",
@@ -2663,9 +2255,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/40_Drone Vendor.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aetherborn Incumbent",
 				"rarity": "common",
 				"mana_cost": "{3}{U}",
@@ -2676,9 +2266,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/30_Aetherborn Incumbent.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Minister of Flight",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{U}",
@@ -2689,9 +2277,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/50_Minister of Flight.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Gearseeker Squid",
 				"rarity": "common",
 				"mana_cost": "{5}{U}{U}",
@@ -2702,9 +2288,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/43_Gearseeker Squid.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Miasmic Cloud",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{B}",
@@ -2715,9 +2299,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/76_Miasmic Cloud.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Live Fast",
 				"rarity": "common",
 				"mana_cost": "{2}{B}",
@@ -2728,9 +2310,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/75_Live Fast.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Die Young",
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
@@ -2741,9 +2321,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/65_Die Young.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Seize the Means",
 				"rarity": "common",
 				"mana_cost": "{3}{B}",
@@ -2754,9 +2332,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/80_Seize the Means.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Exhausting Shift",
 				"rarity": "common",
 				"mana_cost": "{3}{B}{B}",
@@ -2767,9 +2343,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/67_Exhausting Shift.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Worker Strike",
 				"rarity": "common",
 				"mana_cost": "{1}{B}{B}",
@@ -2780,9 +2354,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/87_Worker Strike.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ghirapur Pickpocket",
 				"rarity": "common",
 				"mana_cost": "{B}",
@@ -2793,9 +2365,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/68_Ghirapur Pickpocket.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Midnight Inspector",
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
@@ -2806,9 +2376,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/77_Midnight Inspector.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Sidisi's Scavenger",
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
@@ -2819,9 +2387,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/82_Sidisi's Scavenger.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Defeatist Recycler",
 				"rarity": "common",
 				"mana_cost": "{2}{B}",
@@ -2832,9 +2398,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/63_Defeatist Recycler.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Graveyard Lurker",
 				"rarity": "common",
 				"mana_cost": "{2}{B}",
@@ -2845,9 +2409,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/71_Graveyard Lurker.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aetherborn Bond-Kin",
 				"rarity": "uncommon",
 				"mana_cost": "{4}{B}",
@@ -2858,9 +2420,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/60_Aetherborn Bond-Kin.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Pupil of the Hidden Eye",
 				"rarity": "common",
 				"mana_cost": "{1}{R}",
@@ -2871,9 +2431,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/112_Pupil of the Hidden Eye.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Narset's Student",
 				"rarity": "common",
 				"mana_cost": "{2}{R}",
@@ -2884,9 +2442,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/107_Narset's Student.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Inauspicious Skyclaw",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{R}{R}",
@@ -2897,9 +2453,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/101_Inauspicious Skyclaw.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Malign Aetherborn",
 				"rarity": "common",
 				"mana_cost": "{3}{R}",
@@ -2910,9 +2464,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/104_Malign Aetherborn.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Factory Mazdoor",
 				"rarity": "common",
 				"mana_cost": "{2}{R}",
@@ -2923,9 +2475,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/95_Factory Mazdoor.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Summit Postulant",
 				"rarity": "common",
 				"mana_cost": "{4}{R}",
@@ -2936,9 +2486,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/114_Summit Postulant.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Provoked Lightning",
 				"rarity": "common",
 				"mana_cost": "{4}{R}{R}",
@@ -2949,9 +2497,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/111_Provoked Lightning.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Rising Temperatures",
 				"rarity": "common",
 				"mana_cost": "{3}{R}",
@@ -2962,9 +2508,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/113_Rising Temperatures.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Offload",
 				"rarity": "common",
 				"mana_cost": "{1}{R}",
@@ -2975,9 +2519,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/108_Offload.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Optimistic Nihilism",
 				"rarity": "common",
 				"mana_cost": "{1}{R}",
@@ -2988,9 +2530,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/109_Optimistic Nihilism.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Fanatical Recruitment",
 				"rarity": "common",
 				"mana_cost": "{3}{R}",
@@ -3001,9 +2541,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/97_Fanatical Recruitment.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aetherspout Eruption",
 				"rarity": "uncommon",
 				"mana_cost": "{5}{R}",
@@ -3014,9 +2552,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/91_Aetherspout Eruption.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Peema Colossus",
 				"rarity": "uncommon",
 				"mana_cost": "{4}{G}{G}",
@@ -3027,9 +2563,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/137_Peema Colossus.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Fairgrounds Security",
 				"rarity": "common",
 				"mana_cost": "{4}{G}",
@@ -3040,9 +2574,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/122_Fairgrounds Security.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Kurna's Consultant",
 				"rarity": "common",
 				"mana_cost": "{3}{G}",
@@ -3053,9 +2585,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/131_Kurna's Consultant.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ferrophage Spider",
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
@@ -3066,9 +2596,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/123_Ferrophage Spider.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Disrupted Hibernator",
 				"rarity": "common",
 				"mana_cost": "{2}{G}",
@@ -3079,9 +2607,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/120_Disrupted Hibernator.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Filigree-horn Luddite",
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
@@ -3092,9 +2618,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/124_Filigree-horn Luddite.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Sage-Eyed Enforcer",
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
@@ -3105,9 +2629,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/141_Sage-Eyed Enforcer.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Reimmerse In Nature",
 				"rarity": "common",
 				"mana_cost": "{2}{G}",
@@ -3118,9 +2640,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/138_Reimmerse In Nature.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Gift of Sagacity",
 				"rarity": "common",
 				"mana_cost": "{1}{G}",
@@ -3131,9 +2651,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/125_Gift of Sagacity.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Devolution",
 				"rarity": "common",
 				"mana_cost": "{2}{G}",
@@ -3144,9 +2662,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/119_Devolution.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Peema Boxer",
 				"rarity": "common",
 				"mana_cost": "{2}{G}",
@@ -3157,9 +2673,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/136_Peema Boxer.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Immense Development",
 				"rarity": "common",
 				"mana_cost": "{G}",
@@ -3170,9 +2684,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/129_Immense Development.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Extinction Rebellion",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{G}",
@@ -3183,9 +2695,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/121_Extinction Rebellion.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Complete Devotion",
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
@@ -3196,9 +2706,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/8_Complete Devotion.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Raise the Alms",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{W}",
@@ -3209,9 +2717,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/21_Raise the Alms.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Hypnotizing AetherBorealis",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{G}",
@@ -3222,9 +2728,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/128_Hypnotizing AetherBorealis.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ceaseless Fires",
 				"rarity": "uncommon",
 				"mana_cost": "{4}{R}{R}",
@@ -3235,9 +2739,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/93_Ceaseless Fires.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Bear Market",
 				"rarity": "rare",
 				"mana_cost": "{1}{U}{B}",
@@ -3248,9 +2750,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/153_Bear Market.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Empty The Vault",
 				"rarity": "rare",
 				"mana_cost": "{3}{B}{R}",
@@ -3261,9 +2761,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/168_Empty The Vault.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Yasova, Firebrand Zealot",
 				"rarity": "rare",
 				"mana_cost": "{2}{R}{G}",
@@ -3274,9 +2772,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/209_Yasova, Firebrand Zealot.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Oviya Pashiri, Onlooking Spiritcrafter",
 				"rarity": "rare",
 				"mana_cost": "{G}{W}",
@@ -3287,9 +2783,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/187_Oviya Pashiri, Onlooking Spiritcrafter.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Eternal Witness",
 				"rarity": "common",
 				"mana_cost": "{1}{G}{G}",
@@ -3300,9 +2794,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/22_Eternal Witness.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Longtusk Pride",
 				"rarity": "common",
 				"mana_cost": "{4}{G}{G}",
@@ -3313,9 +2805,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/23_Longtusk Pride.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Highspire Mystic",
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
@@ -3326,9 +2816,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/15_Highspire Mystic.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Monk",
 				"rarity": "common",
 				"mana_cost": "",
@@ -3339,9 +2827,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/20_Monk.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Human Monk",
 				"rarity": "common",
 				"mana_cost": "",
@@ -3352,9 +2838,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/25_Human Monk.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Morph",
 				"rarity": "common",
 				"mana_cost": "",
@@ -3365,9 +2849,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/2_Morph.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Thopter",
 				"rarity": "common",
 				"mana_cost": "",
@@ -3378,9 +2860,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/28_Thopter.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Servo",
 				"rarity": "common",
 				"mana_cost": "",
@@ -3391,9 +2871,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/27_Servo.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Snake",
 				"rarity": "common",
 				"mana_cost": "",
@@ -3404,9 +2882,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/24_Snake.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Beast",
 				"rarity": "common",
 				"mana_cost": "",
@@ -3417,9 +2893,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/21_Beast.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Bird",
 				"rarity": "common",
 				"mana_cost": "",
@@ -3430,9 +2904,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/19_Bird.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Assembly-Worker",
 				"rarity": "common",
 				"mana_cost": "",
@@ -3443,9 +2915,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/1_Assembly-Worker.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Wastes",
 				"rarity": "common",
 				"mana_cost": "",
@@ -3456,9 +2926,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/29_Wastes.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Aether Dart",
 				"rarity": "common",
 				"mana_cost": "{R}",
@@ -3469,9 +2937,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/88_Aether Dart.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Mineral Appraiser",
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
@@ -3482,9 +2948,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/19_Mineral Appraiser.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Displaced Dreadmaw",
 				"rarity": "common",
 				"mana_cost": "{4}{B}{B}",
@@ -3495,9 +2959,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/66_Displaced Dreadmaw.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Tradewind Stalker",
 				"rarity": "common",
 				"mana_cost": "{5}{U}",
@@ -3508,9 +2970,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/56_Tradewind Stalker.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Storm Harmonist",
 				"rarity": "uncommon",
 				"mana_cost": "{G}",
@@ -3521,9 +2981,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/143_Storm Harmonist.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Sunset Smoglands",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -3534,9 +2992,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/259_Sunset Smoglands.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Dusk Factory",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -3547,9 +3003,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/252_Dusk Factory.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Kurna Headquarters",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -3560,9 +3014,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/255_Kurna Headquarters.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Hall of The Assembly",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -3573,9 +3025,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/253_Hall of The Assembly.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Salt Road Shelter",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -3586,9 +3036,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/256_Salt Road Shelter.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Devra Temple",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -3599,9 +3047,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/251_Devra Temple.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Eye of the Dragon",
 				"rarity": "rare",
 				"mana_cost": "{1}{R}{R}",
@@ -3612,9 +3058,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/94_Eye of the Dragon.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Sidisi, Scales of Industry",
 				"rarity": "mythic",
 				"mana_cost": "{4}{U}{B}{R}",
@@ -3625,9 +3069,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/197_Sidisi, Scales of Industry.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 6 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3638,9 +3080,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/8_Player 6 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 3 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3651,9 +3091,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/5_Player 3 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 4 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3664,9 +3102,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/6_Player 4 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 1 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3677,9 +3113,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/3_Player 1 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 2 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3690,9 +3124,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/4_Player 2 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 13 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3703,9 +3135,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/15_Player 13 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 7 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3716,9 +3146,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/9_Player 7 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 14 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3729,9 +3157,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/16_Player 14 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 5 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3742,9 +3168,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/7_Player 5 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 16 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3755,9 +3179,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/18_Player 16 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 15 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3768,9 +3190,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/17_Player 15 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 12 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3781,9 +3201,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/14_Player 12 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 11 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3794,9 +3212,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/13_Player 11 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 8 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3807,9 +3223,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/10_Player 8 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 10 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3820,9 +3234,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/12_Player 10 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Player 9 - Energy Reserve",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3833,9 +3245,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/11_Player 9 - Energy Reserve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Feedback",
 				"rarity": "special",
 				"mana_cost": "",
@@ -3846,9 +3256,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/274_Feedback.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Chief of the Hammer",
 				"rarity": "uncommon",
 				"mana_cost": "{R}{G}",
@@ -3859,9 +3267,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/159_Chief of the Hammer.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Nature's Glare",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{G}",
@@ -3872,9 +3278,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/135_Nature's Glare.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Self-regulated Saftey",
 				"rarity": "rare",
 				"mana_cost": "{3}{U}{B}",
@@ -3885,9 +3289,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/196_Self-regulated Saftey.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Assembly's Gryphoner",
 				"rarity": "uncommon",
 				"mana_cost": "{W}{U}",
@@ -3898,9 +3300,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/151_Assembly's Gryphoner.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Army for Hire",
 				"rarity": "uncommon",
 				"mana_cost": "{5}{W}",
@@ -3911,9 +3311,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/4_Army for Hire.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Scouting Servo",
 				"rarity": "common",
 				"mana_cost": "{2}",
@@ -3924,9 +3322,7 @@
 					"en": "https://travismcgrath.github.io/sets/CoA-files/img/238_Scouting Servo.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Map",
 				"rarity": "common",
 				"mana_cost": "",

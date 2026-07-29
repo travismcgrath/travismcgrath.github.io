@@ -44,7 +44,7 @@ def generateFile(code):
 		h_pattern = r'\{([A-Z0-9])([A-Z])\}'
 		h_replace = r'{\1/\2}'
 
-		if'Skip,' not in card['notes']:
+		if not 'Skip,' in card['notes']:
 			for slot in structure:
 				slot_name = slot['name']
 				if slot_name in [ 'wildcard', 'foil' ] and not filtered(card, filters) and not 'Basic' in card['type'] and not 'basic' in card['rarity'] and not 'landslot' in card['notes']and not 'token' in card['shape']and not 'tokenshape' in card['notes']:
@@ -57,7 +57,6 @@ def generateFile(code):
 				else:
 					if ('!' + slot_name) in card['notes']:
 						booster[slot_name].append(card)
-
 			rating = 0
 			match card['rarity']:
 						case 'mythic':
@@ -78,7 +77,6 @@ def generateFile(code):
 				"collector_number": "''' + str(card['number']) + '''",
 				"rating": ''' + str(rating) + ''',
 		'''
-
 			card_file_name = (str(card['number']) + '_' + card['card_name']) if ('position' not in card) else card['position']
 			if 'double' in card['shape']:
 				draft_string += '''		"back": {
@@ -100,7 +98,7 @@ def generateFile(code):
 			}''' + (''',''' if x != len(set_data['cards']) - 1 else '''''') + '''
 		'''
 
-		draft_string += ''']
+	draft_string += ''']
 
 	'''
 	

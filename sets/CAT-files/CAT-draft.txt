@@ -11,9 +11,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/76_Sword of Hearth and Home.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Buster Sword",
 				"rarity": "mythic",
 				"mana_cost": "{3}",
@@ -24,9 +22,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/73_Buster Sword.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ocelot Pride",
 				"rarity": "mythic",
 				"mana_cost": "{W}",
@@ -37,9 +33,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/36_Ocelot Pride.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Three Tree City",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -50,9 +44,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/115_Three Tree City.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "CAThar's Crusade",
 				"rarity": "rare",
 				"mana_cost": "{3}{W}{W}",
@@ -63,9 +55,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/18_CAThar's Crusade.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "And They Shall Know No Fear",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{W}",
@@ -76,9 +66,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/4_And They Shall Know No Fear.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Badlands",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -89,9 +77,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/81_Badlands.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Scrubland",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -102,9 +88,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/107_Scrubland.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Savai Triome",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -115,9 +99,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/106_Savai Triome.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Marsh Flats",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -128,9 +110,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/90_Marsh Flats.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Bloodstained Mire",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -141,9 +121,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/84_Bloodstained Mire.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Arid Mesa",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -154,9 +132,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/80_Arid Mesa.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Plateau",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -167,9 +143,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/103_Plateau.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Godless Shrine",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -180,9 +154,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/87_Godless Shrine.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Bleachbone Verge",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -193,9 +165,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/82_Bleachbone Verge.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Isolated Chapel",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -206,9 +176,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/88_Isolated Chapel.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Sacred Foundry",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -219,9 +187,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/105_Sacred Foundry.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Leonin Warleader",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}{W}",
@@ -232,9 +198,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/31_Leonin Warleader.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ajani, Nacatl Pariah",
 				"rarity": "mythic",
 				"mana_cost": "{1}{W}",
@@ -245,9 +209,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/2_Ajani, Nacatl Pariah.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Renewed Solidarity",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}",
@@ -258,9 +220,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/42_Renewed Solidarity.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Minas Tirith",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -271,9 +231,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/91_Minas Tirith.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ajani, Nacatl Avenger",
 				"rarity": "mythic",
 				"mana_cost": "",
@@ -284,9 +242,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/0_Ajani, Nacatl Avenger.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Enduring Innocence",
 				"rarity": "rare",
 				"mana_cost": "{1}{W}{W}",
@@ -297,9 +253,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/22_Enduring Innocence.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ephemerate",
 				"rarity": "common",
 				"mana_cost": "{W}",
@@ -310,9 +264,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/24_Ephemerate.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Phelia, Exuberant Shepherd",
 				"rarity": "rare",
 				"mana_cost": "{1}{W}",
@@ -323,9 +275,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/40_Phelia, Exuberant Shepherd.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Skullclamp",
 				"rarity": "uncommon",
 				"mana_cost": "{1}",
@@ -336,9 +286,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/74_Skullclamp.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Vanquisher's Banner",
 				"rarity": "rare",
 				"mana_cost": "{5}",
@@ -349,9 +297,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/78_Vanquisher's Banner.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Animal Sanctuary",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -362,9 +308,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/79_Animal Sanctuary.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Tocasia's Welcome",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}",
@@ -375,9 +319,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/46_Tocasia's Welcome.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Lurrus of the Dream-Den",
 				"rarity": "rare",
 				"mana_cost": "{1}{W/B}{W/B}",
@@ -388,9 +330,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/72_Lurrus of the Dream-Den.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Not Dead After All",
 				"rarity": "common",
 				"mana_cost": "{B}",
@@ -401,9 +341,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/59_Not Dead After All.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Welcoming Vampire",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}",
@@ -414,9 +352,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/47_Welcoming Vampire.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Reprieve",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{W}",
@@ -427,9 +363,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/43_Reprieve.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Lion Sash",
 				"rarity": "rare",
 				"mana_cost": "{1}{W}",
@@ -440,9 +374,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/32_Lion Sash.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Elas il-Kor, Sadistic Pilgrim",
 				"rarity": "uncommon",
 				"mana_cost": "{W}{B}",
@@ -453,9 +385,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/67_Elas il-Kor, Sadistic Pilgrim.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cloudshift",
 				"rarity": "common",
 				"mana_cost": "{W}",
@@ -466,9 +396,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/19_Cloudshift.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Alms Collector",
 				"rarity": "rare",
 				"mana_cost": "{3}{W}",
@@ -479,9 +407,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/3_Alms Collector.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Night's Whispuuurrrr",
 				"rarity": "common",
 				"mana_cost": "{1}{B}",
@@ -492,9 +418,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/58_Night's Whispuuurrrr.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Solemn Simulacrum",
 				"rarity": "rare",
 				"mana_cost": "{4}",
@@ -505,9 +429,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/75_Solemn Simulacrum.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Merchant of Venom",
 				"rarity": "rare",
 				"mana_cost": "{3}{B}",
@@ -518,9 +440,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/55_Merchant of Venom.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Umbral Expanse",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -531,9 +451,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/116_Umbral Expanse.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Command Tower",
 				"rarity": "common",
 				"mana_cost": "",
@@ -544,9 +462,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/86_Command Tower.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Blood Crypt",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -557,9 +473,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/83_Blood Crypt.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Tainted Peak",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -570,9 +484,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/114_Tainted Peak.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Tainted Field",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -583,9 +495,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/113_Tainted Field.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Prismatic Vista",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -596,9 +506,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/104_Prismatic Vista.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Bojuka Bog",
 				"rarity": "common",
 				"mana_cost": "",
@@ -609,9 +517,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/85_Bojuka Bog.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "From the CATacombs",
 				"rarity": "rare",
 				"mana_cost": "{3}{B}{B}",
@@ -622,9 +528,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/52_From the CATacombs.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Luminous Broodmoth",
 				"rarity": "mythic",
 				"mana_cost": "{2}{W}{W}",
@@ -635,9 +539,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/33_Luminous Broodmoth.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Divine Reckoning",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}{W}",
@@ -648,9 +550,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/21_Divine Reckoning.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Parting Gust",
 				"rarity": "uncommon",
 				"mana_cost": "{W}{W}",
@@ -661,9 +561,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/38_Parting Gust.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Vault of the Archangel",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -674,9 +572,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/117_Vault of the Archangel.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Flicker of Fate",
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
@@ -687,9 +583,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/26_Flicker of Fate.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Arahbo, the First Fang",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}",
@@ -700,9 +594,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/5_Arahbo, the First Fang.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Mirrir the Cursed",
 				"rarity": "rare",
 				"mana_cost": "{2}{B}{B}",
@@ -713,9 +605,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/57_Mirrir the Cursed.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Seht's Tiger",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}{W}",
@@ -726,9 +616,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/44_Seht's Tiger.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Mindleecher",
 				"rarity": "rare",
 				"mana_cost": "{4}{B}{B}",
@@ -739,9 +627,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/56_Mindleecher.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Regal Caracal",
 				"rarity": "rare",
 				"mana_cost": "{3}{W}{W}",
@@ -752,9 +638,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/41_Regal Caracal.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Mythos of Snapdax",
 				"rarity": "rare",
 				"mana_cost": "{2}{W}{W}",
@@ -765,9 +649,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/35_Mythos of Snapdax.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Despark",
 				"rarity": "uncommon",
 				"mana_cost": "{W}{B}",
@@ -778,9 +660,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/66_Despark.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Oreskos Explorer",
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
@@ -791,9 +671,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/37_Oreskos Explorer.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Black Cat, Cunning Thief",
 				"rarity": "rare",
 				"mana_cost": "{3}{B}{B}",
@@ -804,9 +682,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/51_Black Cat, Cunning Thief.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cubwarden",
 				"rarity": "rare",
 				"mana_cost": "{3}{W}",
@@ -817,9 +693,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/20_Cubwarden.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "King of the Pride",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{W}",
@@ -830,9 +704,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/29_King of the Pride.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Rakshasa Debaser",
 				"rarity": "rare",
 				"mana_cost": "{4}{B}{B}",
@@ -843,9 +715,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/60_Rakshasa Debaser.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Path of Ancestry",
 				"rarity": "common",
 				"mana_cost": "",
@@ -856,9 +726,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/93_Path of Ancestry.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Barbed Servitor",
 				"rarity": "rare",
 				"mana_cost": "{3}{B}",
@@ -869,9 +737,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/50_Barbed Servitor.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Lion Vulture",
 				"rarity": "rare",
 				"mana_cost": "{3}{B}",
@@ -882,9 +748,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/53_Lion Vulture.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Supernatural Stamina",
 				"rarity": "common",
 				"mana_cost": "{B}",
@@ -895,9 +759,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/64_Supernatural Stamina.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Mentor of the Meek",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{W}",
@@ -908,9 +770,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/34_Mentor of the Meek.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Helpful Hunter",
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
@@ -921,9 +781,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/27_Helpful Hunter.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Leonin Relic-Warder",
 				"rarity": "uncommon",
 				"mana_cost": "{W}{W}",
@@ -934,9 +792,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/30_Leonin Relic-Warder.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Enlightened Ascetic",
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
@@ -947,9 +803,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/23_Enlightened Ascetic.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Path to Exile",
 				"rarity": "uncommon",
 				"mana_cost": "{W}",
@@ -960,9 +814,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/39_Path to Exile.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Whitemane Lion",
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
@@ -973,9 +825,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/48_Whitemane Lion.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Necropanther",
 				"rarity": "uncommon",
 				"mana_cost": "{1}{W}{B}",
@@ -986,9 +836,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/69_Necropanther.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Spectral Lynx",
 				"rarity": "common",
 				"mana_cost": "{1}{W}",
@@ -999,9 +847,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/45_Spectral Lynx.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Regal Leosaur",
 				"rarity": "uncommon",
 				"mana_cost": "{R}{W}",
@@ -1012,9 +858,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/70_Regal Leosaur.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Huntmaster Liger",
 				"rarity": "uncommon",
 				"mana_cost": "{3}{W}",
@@ -1025,9 +869,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/28_Huntmaster Liger.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Snapdax, Apex of the Hunt",
 				"rarity": "mythic",
 				"mana_cost": "{1}{R}{W}{B}",
@@ -1038,9 +880,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/71_Snapdax, Apex of the Hunt.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Malakir Rebirth",
 				"rarity": "uncommon",
 				"mana_cost": "{B}",
@@ -1051,9 +891,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/54_Malakir Rebirth.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Malakir Mire",
 				"rarity": "uncommon",
 				"mana_cost": "",
@@ -1064,9 +902,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/89_Malakir Mire.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1077,9 +913,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/13_Cat.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Rakshasa Debaser",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1090,9 +924,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/62_Rakshasa Debaser.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Rakshasa Debaser",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1103,9 +935,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/61_Rakshasa Debaser.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Rakshasa Debaser",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1116,9 +946,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/63_Rakshasa Debaser.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat Warrior",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1129,9 +957,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/15_Cat Warrior.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1142,9 +968,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/9_Cat.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Fish",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1155,9 +979,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/49_Fish.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Wicked Role",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1168,9 +990,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/1_Wicked Role.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Swamp",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1181,9 +1001,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/112_Swamp.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Plains",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1194,9 +1012,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/95_Plains.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Anguished Unmaking",
 				"rarity": "rare",
 				"mana_cost": "{1}{W}{B}",
@@ -1207,9 +1023,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/65_Anguished Unmaking.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Sword of the Animis",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1220,9 +1034,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/77_Sword of the Animis.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Ketramose, the New Dawn",
 				"rarity": "mythic",
 				"mana_cost": "{1}{W}{B}",
@@ -1233,9 +1045,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/68_Ketramose, the New Dawn.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Felidar Retreat",
 				"rarity": "rare",
 				"mana_cost": "{3}{W}",
@@ -1246,9 +1056,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/25_Felidar Retreat.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Mountain",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1259,9 +1067,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/92_Mountain.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Shattered Landscape",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1272,9 +1078,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/108_Shattered Landscape.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Swamp",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1285,9 +1089,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/111_Swamp.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Swamp",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1298,9 +1100,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/109_Swamp.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Swamp",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1311,9 +1111,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/110_Swamp.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Plains",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1324,9 +1122,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/101_Plains.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Plains",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1337,9 +1133,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/96_Plains.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Plains",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1350,9 +1144,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/102_Plains.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Plains",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1363,9 +1155,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/97_Plains.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Plains",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1376,9 +1166,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/94_Plains.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Plains",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1389,9 +1177,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/98_Plains.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Plains",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1402,9 +1188,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/99_Plains.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Plains",
 				"rarity": "rare",
 				"mana_cost": "",
@@ -1415,9 +1199,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/100_Plains.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1428,9 +1210,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/6_Cat.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1441,9 +1221,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/12_Cat.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1454,9 +1232,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/11_Cat.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1467,9 +1243,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/10_Cat.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1480,9 +1254,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/8_Cat.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1493,9 +1265,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/7_Cat.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat Warrior",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1506,9 +1276,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/14_Cat Warrior.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat Warrior",
 				"rarity": "common",
 				"mana_cost": "",
@@ -1519,9 +1287,7 @@
 					"en": "https://travismcgrath.github.io/sets/CAT-files/img/17_Cat Warrior.png"
 				}
 			},
-		]
-
-		{
+			{
 				"name": "Cat Warrior",
 				"rarity": "common",
 				"mana_cost": "",
