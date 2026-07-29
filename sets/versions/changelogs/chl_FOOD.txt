@@ -1,4 +1,64 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+UZ07 — Tenured Bondologist added.
+UZ27 — Reason added.
+UZ05 — Book Thief added.
+UZ08 — Tortiose and Hare added.
+UZ10 — Gnaw Bonder added.
+UZ01 — Bibliochef added.
+UZ03 — Soul Rodent added.
+UZ04 — Tithe Monster added.
+UZ09 — Itsy Bitey Spider added.
+UZ06 — Swirl Pond Enforcer added.
+UZ02 — Dawn Knight added.
+UZ22 — Compleat Revival added.
+UZ21 — Skeptic added.
+UZ23 — Nightwatch Blade added.
+UZ26 — Mace The Exam added.
+UZ24 — Boarish Roar added.
+UZ25 — Plagiarism added.
+UZ29 — Hoot of the Horned Owl added.
+UZ30 — Mythos of Kogla added.
+UZ28 — The Girl Who Cried Ouphe added.
+
+
+RG04 — Biomewide Migration
+rules_text: Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Choose two. You may choose the same mode more than once.
+• Destroy target artifact or enchantment.
+• Proliferate.
+• Create a 3/3 green Ooze creature token with Toxic 1.
+• Return target permanent card from your graveyard to your hand. => Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Choose two:
+• Destroy target artifact or enchantment.
+• Proliferate.
+• Create a 3/3 green Ooze creature token with Toxic 1.
+• Return target permanent card from your graveyard to your hand.
+
+UG10 — Feast of the Pack
+rules_text: Gift a copy [i](You may promise an opponent a gift as you cast this spell. If you do, they create a copy of this spell as it resolves. They may choose new targets for the copy.)[/i]
+Create a Food token, then target creature you control devours food 1. [i](You may sacrifice any number of food. Put that many +1/+1 counters on that creature.)[/i]
+If a gift was promised and this spell isn't a copy,it devours 2 instead and put a trample counter on it. => Gift a copy [i](You may promise an opponent a gift as you cast this spell. If you do, they create a copy of this spell as it resolves. They may choose new targets for the copy.)[/i]
+Choose a creature you control.
+Create a Food token, the chosen creature devours food 1. [i](You may sacrifice any number of food. Put that many +1/+1 counters on that creature.)[/i]
+If a gift was promised and this spell isn't a copy, the chosen creature devours 2 instead and put a trample counter on it.
+
+UR10 — Alluring Aromas
+rules_text: Gift a copy [i](You may promise an opponent a gift as you cast this spell. If you do, they create a copy of this spell as it resolves. They may choose new targets for the copy.)[/i]
+Create a 1/1 token copy of target creature you control except it has haste and “At the beginning of your next end step, sacrifice this token.
+If a gift was promised and this spell isn't a copy, populate. [i](Create a token that's a copy of a creature token you control.)[/i] => Gift a copy [i](You may promise an opponent a gift as you cast this spell. If you do, they create a copy of this spell as it resolves. They may choose new targets for the copy.)[/i]
+Create a 1/1 token copy of target creature you control except it has haste and “At the beginning of your end step, sacrifice this token.”
+If a gift was promised and this spell isn't a copy, populate. [i](Create a token that's a copy of a creature token you control.)[/i]
+
+CU11 — Publish Analysis
+rules_text: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on each Fractal you control where X is one plus the number of non-creature cards in your graveyard. => Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on each Fractal you control where X is one plus the number of instant and sorcery cards in your graveyard.
+
+UU06 — Stress of Finals Week
+cost: {U} => {1}{U}
+
+
+VERSION 5 CHANGELOG
 ====================
 
 UW05 — Auriok Descendant added.

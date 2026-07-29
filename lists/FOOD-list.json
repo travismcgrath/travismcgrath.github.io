@@ -567,9 +567,9 @@
         "position": ""
     },
     {
-        "card_name": "CU01 \u2014 Quandrix Garden Gate",
-        "number": 40,
-        "shape": "normal",
+        "card_name": "UZ27 \u2014 Reason",
+        "number": 74,
+        "shape": "aftermath",
         "set": "FOOD",
         "position": ""
     },
@@ -602,8 +602,8 @@
         "position": ""
     },
     {
-        "card_name": "CU02 \u2014 Arithmetic Frogression",
-        "number": 41,
+        "card_name": "CU01 \u2014 Quandrix Garden Gate",
+        "number": 40,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -637,8 +637,8 @@
         "position": ""
     },
     {
-        "card_name": "CU03 \u2014 Quaildratic Formula",
-        "number": 42,
+        "card_name": "CU02 \u2014 Arithmetic Frogression",
+        "number": 41,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -672,8 +672,8 @@
         "position": ""
     },
     {
-        "card_name": "CU04 \u2014 Sneaky Researcher",
-        "number": 43,
+        "card_name": "CU03 \u2014 Quaildratic Formula",
+        "number": 42,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -707,8 +707,8 @@
         "position": ""
     },
     {
-        "card_name": "CU05 \u2014 Professor of Culinary Arts",
-        "number": 44,
+        "card_name": "CU04 \u2014 Sneaky Researcher",
+        "number": 43,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -742,9 +742,9 @@
         "position": ""
     },
     {
-        "card_name": "CU06 \u2014 Exponentiation Professor",
-        "number": 45,
-        "shape": "adventure",
+        "card_name": "CU05 \u2014 Professor of Culinary Arts",
+        "number": 44,
+        "shape": "normal",
         "set": "FOOD",
         "position": ""
     },
@@ -777,9 +777,9 @@
         "position": ""
     },
     {
-        "card_name": "CU07 \u2014 Missing Ingredient",
-        "number": 46,
-        "shape": "normal",
+        "card_name": "CU06 \u2014 Exponentiation Professor",
+        "number": 45,
+        "shape": "adventure",
         "set": "FOOD",
         "position": ""
     },
@@ -812,8 +812,8 @@
         "position": ""
     },
     {
-        "card_name": "CU08 \u2014 Check your work!",
-        "number": 47,
+        "card_name": "CU07 \u2014 Missing Ingredient",
+        "number": 46,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -847,8 +847,8 @@
         "position": ""
     },
     {
-        "card_name": "CU09 \u2014 Re-Hash",
-        "number": 48,
+        "card_name": "CU08 \u2014 Check your work!",
+        "number": 47,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -882,8 +882,8 @@
         "position": ""
     },
     {
-        "card_name": "CU10 \u2014 Freshman Meal Plan",
-        "number": 49,
+        "card_name": "CU09 \u2014 Re-Hash",
+        "number": 48,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -917,8 +917,8 @@
         "position": ""
     },
     {
-        "card_name": "CU11 \u2014 Publish Analysis",
-        "number": 50,
+        "card_name": "CU10 \u2014 Freshman Meal Plan",
+        "number": 49,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -952,8 +952,8 @@
         "position": ""
     },
     {
-        "card_name": "CU12 \u2014 Call Campus Saftey",
-        "number": 51,
+        "card_name": "CU11 \u2014 Publish Analysis",
+        "number": 50,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -987,8 +987,8 @@
         "position": ""
     },
     {
-        "card_name": "CU13 \u2014 Inspiring Lemma Beans",
-        "number": 52,
+        "card_name": "CU12 \u2014 Call Campus Saftey",
+        "number": 51,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -1022,8 +1022,8 @@
         "position": ""
     },
     {
-        "card_name": "CU14 \u2014 Group Study",
-        "number": 53,
+        "card_name": "CU13 \u2014 Inspiring Lemma Beans",
+        "number": 52,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -1057,9 +1057,9 @@
         "position": ""
     },
     {
-        "card_name": "CU15a \u2014 Test of Intellect",
-        "number": 54,
-        "shape": "battle split",
+        "card_name": "CU14 \u2014 Group Study",
+        "number": 53,
+        "shape": "normal",
         "set": "FOOD",
         "position": ""
     },
@@ -1092,8 +1092,8 @@
         "position": ""
     },
     {
-        "card_name": "CU15b \u2014 Collaborative Scholarship",
-        "number": 55,
+        "card_name": "CU15a \u2014 Test of Intellect",
+        "number": 54,
         "shape": "battle split",
         "set": "FOOD",
         "position": ""
@@ -1127,8 +1127,8 @@
         "position": ""
     },
     {
-        "card_name": "CU16a \u2014 Raid on the Potions Class",
-        "number": 56,
+        "card_name": "CU15b \u2014 Collaborative Scholarship",
+        "number": 55,
         "shape": "battle split",
         "set": "FOOD",
         "position": ""
@@ -1162,9 +1162,9 @@
         "position": ""
     },
     {
-        "card_name": "CU16b \u2014 Zimone Gets Even",
-        "number": 57,
-        "shape": "normal",
+        "card_name": "CU16a \u2014 Raid on the Potions Class",
+        "number": 56,
+        "shape": "battle split",
         "set": "FOOD",
         "position": ""
     },
@@ -1188,6 +1188,25 @@
         "shape": "normal",
         "set": "FOOD",
         "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "CU16b \u2014 Zimone Gets Even",
+        "number": 57,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "er"
@@ -1273,36 +1292,106 @@
         "position": ""
     },
     {
+        "card_name": "UZ01 \u2014 Bibliochef",
+        "number": 206,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ05 \u2014 Book Thief",
+        "number": 209,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ08 \u2014 Tortiose and Hare",
+        "number": 212,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ10 \u2014 Gnaw Bonder",
+        "number": 214,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ04 \u2014 Tithe Monster",
+        "number": 208,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ21 \u2014 Skeptic",
+        "number": 235,
+        "shape": "aftermath",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ25 \u2014 Plagiarism",
+        "number": 236,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ28 \u2014 The Girl Who Cried Ouphe",
+        "number": 238,
+        "shape": "saga",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ30 \u2014 Mythos of Kogla",
+        "number": 240,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ24 \u2014 Boarish Roar",
+        "number": 254,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
         "card_name": "CZ01 \u2014 Biblopex Caterer",
-        "number": 243,
+        "number": 241,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
     },
     {
         "card_name": "CZ05 \u2014 Entrancing Faye",
-        "number": 247,
+        "number": 245,
         "shape": "adventure",
         "set": "FOOD",
         "position": ""
     },
     {
         "card_name": "CZ08 \u2014 Haymeadow Brigand",
-        "number": 250,
+        "number": 248,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
     },
     {
         "card_name": "CZ10 \u2014 Frenzied Bonder",
-        "number": 252,
+        "number": 250,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
     },
     {
         "card_name": "CZ04 \u2014 OilFang Bonder",
-        "number": 246,
+        "number": 244,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -1365,15 +1454,15 @@
         "position": ""
     },
     {
-        "card_name": "CZ06 \u2014 Hydrodynamicist",
-        "number": 248,
+        "card_name": "UZ06 \u2014 Swirl Pond Enforcer",
+        "number": 210,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
     },
     {
-        "card_name": "CZ09 \u2014 Elder Bonder",
-        "number": 251,
+        "card_name": "UZ09 \u2014 Itsy Bitey Spider",
+        "number": 213,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -1393,17 +1482,25 @@
         "position": ""
     },
     {
-        "card_name": "CZ02 \u2014 Liturgy Preparer",
-        "number": 244,
+        "card_name": "UZ02 \u2014 Dawn Knight",
+        "number": 251,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "UZ26 \u2014 Mace The Exam",
+        "number": 237,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "UZ29 \u2014 Hoot of the Horned Owl",
+        "number": 239,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
     },
     {
         "card_name": "RZ03 \u2014 Blight Rabbit",
@@ -1420,6 +1517,68 @@
         "position": ""
     },
     {
+        "card_name": "UZ22 \u2014 Compleat Revival",
+        "number": 252,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "CZ06 \u2014 Hydrodynamicist",
+        "number": 246,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "CZ09 \u2014 Elder Bonder",
+        "number": 249,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ03 \u2014 Soul Rodent",
+        "number": 207,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ07 \u2014 Tenured Bondologist",
+        "number": 211,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "CZ02 \u2014 Liturgy Preparer",
+        "number": 242,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "e"
+    },
+    {
+        "card_name": "UZ23 \u2014 Nightwatch Blade",
+        "number": 253,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "CZ07 \u2014 Strix Bonder",
+        "number": 247,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
         "card_name": "e"
     },
     {
@@ -1430,17 +1589,13 @@
     },
     {
         "card_name": "CZ03 \u2014 Consummate Bladetail",
-        "number": 245,
+        "number": 243,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
     },
     {
-        "card_name": "CZ07 \u2014 Strix Bonder",
-        "number": 249,
-        "shape": "normal",
-        "set": "FOOD",
-        "position": ""
+        "card_name": "e"
     },
     {
         "card_name": "er"
