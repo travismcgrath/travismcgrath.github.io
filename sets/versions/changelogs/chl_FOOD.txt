@@ -1,4 +1,431 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+UZ12a — Polemics of Apostasy added.
+UZ11a — Ransack added.
+UZ14a — Ransack added.
+UZ20a — Ransack the Raugrin Shoals added.
+UZ13a — Guard the Fountainport Parapet added.
+UZ15a — Ransack Your Dreams added.
+UZ17a — Traverse The Ketria Great Tree added.
+UZ19a — Abscond the Golden Eggs added.
+UZ18a — Ransack the Court of High Chance added.
+UZ18b — Gamble with the RedScarves added.
+CG16a — Ransack the Ketria Gemgrove added.
+CW16a — Ransack the Fifth Sphere added.
+CB16a — Ransack the Faerie Garden added.
+CR16a — Ransack the Emberheart-Oven added.
+CU16a — Ransack the Potions Class added.
+MW11 — Elesh Norn, Fidei Defensor added.
+CW15b — The Porcelain Legion added.
+CB15b — Sweet Associates added.
+CU15b — Collaborative Scholars added.
+CG15b — Kindred Packmates added.
+CR15b — Campfire Companions added.
+UR06 — Calamity Ember Owl added.
+UZ19b — Collect On Promises added.
+UZ17b — Wild Flock of Abundance added.
+UZ13b — Ember Festival Revelry added.
+UZ12b — Sibyls in Rapture added.
+
+UZ12a — removed.
+UZ11a — Raid on removed.
+UZ14a — Raid on removed.
+UZ20a — Raid on Dandelion Pond removed.
+UZ13a — removed.
+UZ15a — Raid on Your Dreams removed.
+UZ17a — removed.
+UZ19a — removed.
+UZ18a — Raid on removed.
+UZ18b — removed.
+CG16a — Raid on Ketria Gemgrove removed.
+CW16a — Raid on the Fifth Sphere removed.
+CB16a — Raid on the Faerie Garden removed.
+CR16a — Raid on Emberheart-Oven removed.
+CU16a — Raid on the Potions Class removed.
+MW11 — Elesh Norn, Essence Cenobite removed.
+CW15b — Lifeforce Alliance removed.
+CB15b — Fruitful Alliance removed.
+CU15b — Collaborative Scholarship removed.
+CG15b — Kinship of the Herd removed.
+CR15b — Battleproven Duo removed.
+UR06 — ScarletSky Duo removed.
+UZ19b — removed.
+UZ17b — removed.
+UZ13b — removed.
+UZ12b — removed.
+UZ15b — Sleep Study removed.
+UZ11b — removed.
+UZ14b — removed.
+
+UZ07 — Tenured Bondologist
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Spells you cast from anywhere but your hand, and creature spells with power 4 or greater, cost {1} less to cast. => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Spells you cast from anywhere but your hand, and creature spells with power 4 or greater, cost {1} less to cast.
+
+UZ16a — Thesis Defense
+cost: {1}{U}{R} => {3}{U}{R}
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i] => [i](Your opponents may attack this battle and any nonattacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, create a 4/4 blue and red Elemental creature token.
+Whenever one or more creature attacks you or a battle you own, exile the top card of your library. Until the end of your next turn, you may play that card.
+loyalty: 8 => 6
+
+CB05 — Innocuous Prankster
+rules_text: You may cast this spell as though it had flash if you haggle. [i](To haggle, remove a counter from a non-battle permanent you control.)[/i]
+Flying 
+When Innocuous Prankster enters, remove a counter from target non-battle permanent an opponent controls. => You may cast this spell as though it had flash if you haggle. [i](To haggle, remove a counter from a nonbattle permanent you control.)[/i]
+Flying 
+When Innocuous Prankster enters, remove a counter from target nonbattle permanent an opponent controls.
+
+CB16b — Rankle's Reveal
+
+UG04 — Dualcat
+rules_text: Flash
+When Dualcat dies, create a green 4/1Cat Beast creature token. => Flash
+When Dualcat dies, create a green 4/1 Cat Beast creature token.
+
+RB04 — Careful What You Ask For
+rules_text: Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Return target creature card with the greatest mana value from any graveyard to the battlefield. You lose life equal to its mana value unless you haggle. [i](To haggle, remove a counter from a non-battle permanent you control.)[/i] => Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Return target creature card with the greatest mana value from any graveyard to the battlefield. You lose life equal to its mana value unless you haggle. [i](To haggle, remove a counter from a nonbattle permanent you control.)[/i]
+
+RW02 — Flavor of Orthodoxy
+rules_text: Flying
+Whenever this creature or another Phyrexian you control enters, incubate Food 2. [i](Put two +1/+1 counters on target non-creature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i] => Flying
+Whenever this creature or another Phyrexian you control enters, incubate Food 2. [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i]
+
+UB08 — Killer Deal
+rules_text: Haggle [i](You may remove a counter from a non-battle permanent you control as you cast this spell.)[/i]
+Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+This spell costs {2} less to cast if it's bargained.
+Destroy target creature. If this spell was haggled, create a 1/1 black Faerie Rogue creature token with flying. => Haggle [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+This spell costs {2} less to cast if it's bargained.
+Destroy target creature. If this spell was haggled, create a 1/1 black Faerie Rogue creature token with flying.
+
+CB01 — Plague Knight
+rules_text: Menace
+Sacrifice a food: Plague Knight gets +2/+2 until end of turn. => Menace
+Sacrifice a token: Plague Knight gets +2/+2 until end of turn.
+
+CB14 — Entreating Witch
+pt: 4/3 => 4/4
+
+CU08 — Check your work!
+rules_text: Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+Return target non-token creature to its owners hand. => Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+Return target nontoken creature to its owners hand.
+
+CU07 — Missing Ingredient
+rules_text: Counter target non-creature spell unless its controller pays {1}. If they do, you create a Food token. => Counter target noncreature spell unless its controller pays {1}. If they do, you create a Food token and a 1/1 black and green Pest creature token with “When this token dies, you gain 1 life.”
+
+CU16b — Zimone Gets Even
+rules_text: Choose one —
+• Put two target non-token creatures controlled by different players on top of their owner's library.
+• Discover 4 [i](Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i] => Choose one —
+• Return two target nontoken creatures controlled by different players to their owner's hands.
+• Discover 4 [i](Exile cards from the top of your library until you exile a nonland card with mana value 4 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)[/i]
+
+CW16b — Mother's Retribution
+
+CW05 — Elder Cenobite
+pt: 3/3 => 2/2
+
+UG06 —Drannith Mess Sergeant
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+When this creature attacks, create a Food token then, it devours tokens 1 [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)[/i] => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+When this creature attacks, create a Food token then, it devours tokens 1 [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)[/i]
+
+CG08 — Indatha Ooze
+rules_text: Whenever another non-token Beast you control enters, create a 3/3 green Ooze creature token with a Toxic 1 counter on it. [i](Players dealt combat damage by this creature also get a poison counter.)[/i] => Whenever another nontoken Beast you control enters, create a 3/3 green Ooze creature token with a Toxic 1 counter on it. [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i]
+
+CG16b — Umori Snaps Back
+rules_text: Choose one or more —
+• Exile target artifact or enchantment
+• Up to one target creature you control deals damage equal to their power to target creature you don't control. If the creature you control has trample, excess damage is dealt to that creature's controller instead. => Choose one or more —
+• Exile target artifact or enchantment
+• Target creature you control deals damage equal to their power to target creature you don't control. If the creature you control has trample, excess damage is dealt to that creature's controller instead.
+
+UG10 — Feast of the Pack
+
+CG04 — Webbonder
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Reach => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Reach
+
+CG03 — Symbiotic Shaman
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+When this creature deals combat damage to a player, create a Food token. => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+When this creature deals combat damage to a player, create a Food token.
+
+UG08 — Establish Eludha
+rules_text: Up to one target non-human creature gains hexproof and indestructible until end of turn.
+Up to one target human creature gets +3/+3 until end of turn. => Up to one target non-Human creature gains hexproof and indestructible until end of turn.
+Up to one target human creature gets +3/+3 until end of turn.
+
+CR10 — Pond Creek Predator
+pt: 7/7 => 6/6
+
+CR16b — Mabel's Rise
+
+CZ04 — OilFang Bonder
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+ Toxic 2. [i](Players dealt combat damage by this creature also get two poison counters.)[/i] => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+ Toxic 2. [i](Players dealt combat damage by this creature also get two poison counters.)[/i]
+
+CZ08 — Haymeadow Brigand
+rules_text: First strike
+Whenever a creature token dies, you may haggle. If you do, create a Food token. [i](To haggle, remove a counter from a non-battle permanent you control.)[/i] => First strike
+Whenever a creature token dies, you may haggle. If you do, create a Food token. [i](To haggle, remove a counter from a nonbattle permanent you control.)[/i]
+
+UZ10 — Gnaw Bonder
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Gnaw Bonder can't be blocked as long as defending player controls Food. => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Gnaw Bonder can't be blocked as long as defending player controls Food.
+
+CG07 — Mandelbrot Grazer
+rules_text: Mandelbrot Grazer enters with four +1/+1 counters on it.
+Vigilance
+{2}, Sacrifice a Food: Reveal the top five cards of your library. You may put a land card from among them into your hand. Put the rest on the bottom of your library in a random order. => Mandelbrot Grazer enters with four +1/+1 counters on it.
+Vigilance
+{2}, Sacrifice a Food: Reveal the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
+
+CG11 — Devour Whole
+
+CR13 — Rally the Squirrels
+rules_text: Choose one — 
+• Create three green 1/1 squirrel rogue creature tokens. 
+• Create three Food tokens.
+• Exile two card from the top of your library. Until the end of your next turn, you may play those cards. => Choose one — 
+• Create three 1/1 green Squirrel Rogue creature tokens. 
+• Create three Food tokens.
+• Exile two card from the top of your library. Until the end of your next turn, you may play those cards.
+
+CB11 — Negotiated Death
+rules_text: Haggle [i](You may remove a counter from a non-battle permanent you control as you cast this spell.)[/i]
+Each player sacrifices a creature. If this spell was haggled each opponent sacrifices a creature instead. => Haggle [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+Each player sacrifices a creature. If this spell was haggled each opponent sacrifices a creature instead.
+
+CW06 — Lorehold Paleodietitian
+rules_text: Vigilance
+Whenever Lorehold Paleodietitian blocks, Incubate Food 2 [i](Put two +1/+1 counters on target non-creature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i] => Vigilance
+Whenever Lorehold Paleodietitian blocks, Incubate Food 2 [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i]
+
+CU11 — Publish Analysis
+rules_text: Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on each Fractal you control where X is one plus the number of instant and sorcery cards in your graveyard. => Create a 0/0 green and blue Fractal creature token. Put X +1/+1 counters on each Fractal you control where X is one plus the number of instant and sorcery cards you own in exile and in your graveyard.
+
+RZ01 — Holy Relics Masterclass
+
+RW04 — Begin the Feast
+rules_text: Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it.)[/i]
+Put two +1/+1 counters on each Food you control. Each non-creature Food you control transforms into a 0/0 Phyrexian artifact creature. => Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it.)[/i]
+Put two +1/+1 counters on each Food you control. Each noncreature Food you control transforms into a 0/0 Phyrexian artifact creature.
+
+RU01 — Larine Arneza, Valedictorian
+rules_text: [i]Conjecture[/i] — {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere but your hand this turn. => [i]Conjecture[/i] — {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere but your hand this turn.
+If you would draw a card while your library has no cards in it, you win the game instead.
+
+RG02 — WildCat Bonder
+rules_text: Flash
+Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+As long as WildCat Bonder is bonded with another creature, both creatures have double strike. If the other creature is a Cat, both get +3/+3. => Flash
+Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+As long as WildCat Bonder is bonded with another creature, both creatures have double strike. If the other creature is a Cat, both get +3/+3.
+
+UZ01 — Bibliochef
+rules_text: When Bibliochef enters, Incubate Food 2. [i](Put two +1/+1 counters on target non-creature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i] => When Bibliochef enters, Incubate Food 2. [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i]
+
+CW15a — Trial of Faith
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+At the beginning of your upkeep you gain 2 life. => [i](Your opponents may attack this battle and any nonattacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, you gain 2 life then scry 2.
+Creatures you control get +0/+1 and have vigilance.
+loyalty: 3 => 4
+
+CB15a — Trial of Guile
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+Creatures you control get Ward— Sacrifice a Food. => [i](Your opponents may attack this battle and any nonattacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, each opponent discards a card.
+Creatures you control have Ward— Sacrifice a Food.
+
+CU15a — Test of Intellect
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+At the beginning of your upkeep, look at the top card of your library. You may pay {2} to foretell that card. If you do, its foretell cost is equal to its mana cost reduced by {2}. => [i](Your opponents may attack this battle and any nonattacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, draw two cards.
+Creatures you control have increment.
+
+CR15a — Trial of Scurry
+cost: {3}{R} => {2}{R}
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+Creatures you control with base power 2 or less have haste and get +1/+0. => [i](Your opponents may attack this battle and any nonattacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, you may discard a card. If you do, draw two cards.
+Creatures you control with base power 2 or less get +1/+0 and have haste.
+
+CG15a — Trial of Might
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+Whenever you cast your first creature spell each turn, that creature enters with an additional +1/+1 counter on it. => [i](Your opponents may attack this battle and any nonattacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, search your library for a basic land card. Put it onto the battlefield tapped, then shuffle.
+Whenever a creature enters under your control, put a +1/+1 counter on it. This ability triggers only once each turn.
+
+UZ06 — Swirl Pond Enforcer
+
+CZ07 — Strix Bonder
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Increment => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Increment
+
+CZ09 — Elder Bonder
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i] => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Undying [i](When this creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner's control with a +1/+1 counter on it.)[/i]
+
+CZ10 — Frenzied Bonder
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Whenever you expend 4, this creature gets +1/+1 until end of turn. => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Whenever you expend 4, this creature gets +1/+1 until end of turn.
+
+CA01 — Egg BombBomb
+rules_text: When Egg BombBomb enters, it deals 1 damage to any target.
+{7},{T}, Sacrifice Egg BombBomb: Destroy target non-land permanent.
+{2}, {T}, Sacrifice Egg BombBomb: You gain 3 life. => When Egg BombBomb enters, it deals 1 damage to any target.
+{7},{T}, Sacrifice Egg BombBomb: Destroy target nonland permanent.
+{2}, {T}, Sacrifice Egg BombBomb: You gain 3 life.
+
+UU06 — Stress of Finals Week
+rules_text: When Stress enters, draw a card then discard a card.
+Spells you control have Madness X, where X is their mana cost minus 1 [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => When Stress enters, draw a card then discard a card.
+Each card you own that isn't on the battlefield has madness. The madness cost is equal to its mana cost.
+Spells you cast from anywhere but your hand cost {1} less to cast.
+
+CR09 — Oilslick Watchfrog
+pt: 5/4 => 4/5
+
+CZ01 — Biblopex Caterer
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, Incubate Food 3 [i](Put three +1/+1 counters on target non-creature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i] => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, Incubate Food 3 [i](Put three +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i]
+
+MZ01 — Ixhel, Porcelain Angel
+
+MZ04 — Cruelclaw, Leader of the Red Scarves
+
+MZ06 — Urabrask, Rebel Praetor
+
+MZ07 — Quandrix, Resonance Maestro
+
+UZ16b — Prismari Flourish
+cost: {2}{U}{R} => 
+rules_text: [i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]
+Whenever you or the owner of this battle => [i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]
+Whenever you or the owner of this battle cast a an instant or sorcery spell with mana value 5 or greater, copy it, then exile the spell with two time counter on it. If it doesn't have suspend, it gains suspend.
+
+UB04 — Hell's Sous Chef
+
+UZ22 — Compleat Revival
+
+UG09 — Snap Up
+rules_text: Choose one:
+• Deal 7 damage to target creature with flying.
+• Target creature you control fights target creature you don't control. If the creature you didn't control was a Fractal, draw a card. => Choose one:
+• Deal 7 damage to target creature with flying.
+• Target creature you control fights target creature you don't control. If the creature you didn't control was a Fractal or Wizard, draw a card.
+
+CA02 — Magic Fruit Stand
+rules_text: When Magic Fruit Stand enters, put a +1/+1 counter on target creature. 
+{T}: Add one mana of any color.
+{2}, {T}, Haggle: Each player who controls a permanent named Magic Fruit Stand draws a card. [i](Remove a counter from a permanent you control as you activate this ability.)[/i] => When Magic Fruit Stand enters, put a +1/+1 counter on target creature. 
+{T}: Add one mana of any color.
+{2}, {T}, Haggle: Each player who controls a permanent named Magic Fruit Stand draws a card. [i](Remove a counter from a nonbattle permanent you control as you activate this ability.)[/i]
+
+CA04 — Ginger Snaposaurus
+
+UA03 — Triple Berry Patrol
+rules_text: Sacrifice Triple Berry Patrol: It deals 3 damage to target creature or battle.
+{2}, {T}, Sacrifice Triple Berry Patrol: You gain 3 life. => {2}: Add one mana of any color.
+Sacrifice Triple Berry Patrol: It deals 3 damage to target creature or battle.
+{2}, {T}, sacrifice Triple Berry Patrol: You gain 3 life.
+
+RW03 — Chef of Machines
+cost: {4}{W}{W} => {5}{W}{W}
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 white artifact Phyrexian Angel creature token with flying and vigilance.
+II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Create a Food and Incubate Food 2 five times. Then transform any number of Food tokens you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 white artifact Phyrexian Angel creature token with flying and vigilance.
+II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Create five Food and Incubate Food 2 five times. Then transform any number of Food tokens you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 white artifact Phyrexian Angel creature token with flying and vigilance.
+II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Create a Food and Incubate Food 2 five times. Then transform any number of Food tokens you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 white artifact Phyrexian Angel creature token with flying and vigilance.
+II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Create five Food and Incubate Food 2 five times. Then transform any number of Food tokens you control.
+
+RG03 — Umori's Hunger
+
+RR01 — Whisker, the Fearless
+type: Legendary Creature — M ouse Knight => Legendary Creature — Mouse Knight
+
+UG05 — Razorback Bonder
+rules_text: Wildbond [i](You may bond this creature with another unbonded non-human creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Razorback Bonder can't be blocked by creatures with base power 2 or less. => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Razorback Bonder can't be blocked by creatures with base power 2 or less.
+
+UB02 — Night Knight
+rules_text: Fear [i](This creature can't be blocked except by artifact creatures and/or black creatures.)[/i]
+Whenever Night Knight deals damage to an opponent or battle, draw a card. Then discard a card unless you haggle. [i](To haggle, remove a counter from a non-battle permanent you control.)[/i] => Fear [i](This creature can't be blocked except by artifact creatures and/or black creatures.)[/i]
+Whenever Night Knight deals damage to an opponent or battle, draw a card. Then discard a card unless you haggle. [i](To haggle, remove a counter from a nonbattle permanent you control.)[/i]
+
+RU05 — Isometric Transformation
+rules_text: Return all creatures to their owners' hands, then create a 0/0 blue and green Fractal creature token with X +1/+1 counters on it, where X is the number of creatures returned this way. => Return all creatures to their owners' hands, then create a 0/0 blue and green Dragon Fractal creature token with X +1/+1 counters on it, where X is the number of creatures returned this way.
+
+RR05 — Topple The Tall
+rules_text: This spell costs {1} less to cast for each non-token creature on the battlefield.
+Topple The Tall deals 12 damage to each creature with base power 2 or greater. => This spell costs {1} less to cast for each nontoken creature on the battlefield.
+Topple The Tall deals 12 damage to each creature with base power 2 or greater.
+
+UB10 — Tempting Offer
+rules_text: Gift a copy [i](You may promise an opponent a gift as you cast this spell. If you do, they create a copy of this spell as it resolves. They may choose new targets for the copy.)[/i]
+You may draw two cards. If you do, you lose 2 life and put a decay counter on target creature you control.
+If a gift was promised and this spell isn't a copy, you haggle. [i](To haggle, remove a counter from a non-battle permanent you control.)[/i] => Gift a copy [i](You may promise an opponent a gift as you cast this spell. If you do, they create a copy of this spell as it resolves. They may choose new targets for the copy.)[/i]
+You may draw two cards. If you do, you lose 2 life and put a decay counter on target creature you control.
+If a gift was promised and this spell isn't a copy, you haggle. [i](To haggle, remove a counter from a nonbattle permanent you control.)[/i]
+
+UZ20b — Mutative Advantage
+
+UW08 — Uncork
+
+UZ28 — The Girl Who Cried Ouphe
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose a creature type, then create a black 1/1 Human Rogue creature token.
+Discard a card then draw a card.
+Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose a creature type, then create a black 1/1 Human Rogue creature token.
+Discard a card then draw a card.
+Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.
+
+
+VERSION 9 CHANGELOG
+====================
+
+
+
+UZ18b —
+
+CZ02 — Liturgy Preparer
+rules_text: Whenever a Food you control leaves the battlefield, you gain 1 life and you may have target opponent lose 1 life. => Whenever a token you control leaves the battlefield, you gain 1 life and you may have target opponent lose 1 life.
+
+UB04 — Hell's Sous Chef
+
+
+VERSION 8 CHANGELOG
 ====================
 
 
