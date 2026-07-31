@@ -1,7 +1,7 @@
 ﻿{
     "name": "Food Fight",
     "formats": "",
-    "trimmed": "n",
+    "trimmed": "y",
     "image_type": "png",
     "draft_structure": "play booster",
     "unpreviewed": "card back",
@@ -5248,5 +5248,6 @@
             "alias": "",
             "notes": ""
         }
-    ]
+    ],
+    "version": 10
 }
