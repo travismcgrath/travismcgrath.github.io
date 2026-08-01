@@ -25,7 +25,7 @@
 			{
 				"name": "UZ07 — Tenured Bondologist",
 				"rarity": "uncommon",
-				"mana_cost": "{G}{U}",
+				"mana_cost": "{1}{G}{U}",
 				"type": "Creature — Human Druid",
 				"collector_number": "206",
 				"rating": 3,
@@ -78,14 +78,14 @@
 				}
 			},
 			{
-				"name": "UZ11a — Ransack",
+				"name": "UZ11a — Ransack the Infinity Fountain",
 				"rarity": "uncommon",
-				"mana_cost": "{2}{W}{U}",
+				"mana_cost": "{3}{W}{U}",
 				"type": "Battle — Ransack",
 				"collector_number": "210",
 				"rating": 3,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/210_UZ11a — Ransack.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/210_UZ11a — Ransack the Infinity Fountain.png"
 				}
 			},
 			{
@@ -100,14 +100,14 @@
 				}
 			},
 			{
-				"name": "UZ14a — Ransack",
+				"name": "UZ14a — Ransack the Hunter Maze",
 				"rarity": "uncommon",
-				"mana_cost": "{2}{G}{W}",
+				"mana_cost": "{3}{G}{W}",
 				"type": "Battle — Ransack",
 				"collector_number": "216",
 				"rating": 3,
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/216_UZ14a — Ransack.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/216_UZ14a — Ransack the Hunter Maze.png"
 				}
 			},
 			{
@@ -135,7 +135,7 @@
 			{
 				"name": "UZ15a — Ransack Your Dreams",
 				"rarity": "uncommon",
-				"mana_cost": "{2}{U}{B}",
+				"mana_cost": "{3}{U}{B}",
 				"type": "Battle — Ransack",
 				"collector_number": "218",
 				"rating": 3,
@@ -2771,6 +2771,17 @@
 				"image_uris": {
 					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/233_UZ28 — The Girl Who Cried Ouphe.png"
 				}
+			},
+			{
+				"name": "RZ11a — Ransack the Pantry",
+				"rarity": "rare",
+				"mana_cost": "{1}",
+				"type": "Battle — Ransack",
+				"collector_number": "1",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/1_RZ11a — Ransack the Pantry.png"
+				}
 			}
 		]
 
@@ -3456,8 +3467,8 @@
 	15 UZ28 — The Girl Who Cried Ouphe
 [landslot(1)]
 	6 UZ12a — Polemics of Apostasy
-	6 UZ11a — Ransack
-	6 UZ14a — Ransack
+	6 UZ11a — Ransack the Infinity Fountain
+	6 UZ14a — Ransack the Hunter Maze
 	6 UZ20a — Ransack the Raugrin Shoals
 	6 UZ13a — Guard the Fountainport Parapet
 	6 UZ15a — Ransack Your Dreams
@@ -3475,3 +3486,4 @@
 	12 CU15a — Test of Intellect
 	12 CR15a — Trial of Scurry
 	12 CG15a — Trial of Might
+	2 RZ11a — Ransack the Pantry

@@ -1,4 +1,50 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+UZ11a — Ransack the Infinity Fountain added.
+UZ14a — Ransack the Hunter Maze added.
+UZ15b — Sleep Study added.
+UZ11b — Saftey in Numbers added.
+UZ14b — Prey to Apex of the Swarm added.
+RZ11a — Ransack the Pantry added.
+
+UZ11a — Ransack removed.
+UZ14a — Ransack removed.
+
+UZ07 — Tenured Bondologist
+cost: {G}{U} => {1}{G}{U}
+
+UZ20a — Ransack the Raugrin Shoals
+loyalty: 5 => 6
+
+UZ15a — Ransack Your Dreams
+cost: {2}{U}{B} => {3}{U}{B}
+
+UZ18a — Ransack the Court of High Chance
+loyalty: 6 => 4
+
+CR04 — Sharp Clawed Scout
+rules_text: Menace
+When Sharp Clawed Scout enters, you may sacrifice a Food. If you do, scry 1, then draw a card. => Menace
+When Sharp Clawed Scout enters, you may sacrifice a Food. If you do, surveil 1, then draw a card.
+
+UU07 — Give Insight
+rules_text: You may put a card from your hand on top of your library. If you do, scry 2 then draw a card. 
+
+Draw card. => You may put a card from your hand on top of your library. If you do, surveil 2 then draw a card. 
+
+Draw card.
+
+CR11 — Uplift Animalfolk
+rules_text: Target player may scry 2. 
+Put a first strike counter on target non-Human creature you control. => Target player may surveil 2. 
+Put a first strike counter on target non-Human creature you control.
+
+UZ01 — Bibliochef
+rules_text: When Bibliochef enters, Incubate Food 2. [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i] => When Bibliochef enters, create a Food token, then Incubate Food 2. [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i]
+
+
+VERSION 10 CHANGELOG
 ====================
 
 UZ12a — Polemics of Apostasy added.

@@ -1327,7 +1327,7 @@
         "position": ""
     },
     {
-        "card_name": "UZ11a \u2014 Ransack",
+        "card_name": "UZ11a \u2014 Ransack the Infinity Fountain",
         "number": 210,
         "shape": "battle split",
         "set": "FOOD",
@@ -1355,9 +1355,44 @@
         "position": ""
     },
     {
-        "card_name": "UZ14a \u2014 Ransack",
+        "card_name": "UZ14a \u2014 Ransack the Hunter Maze",
         "number": 216,
         "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ11b \u2014 Saftey in Numbers",
+        "number": 211,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ15b \u2014 Sleep Study",
+        "number": 219,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ18b \u2014 Gamble with the RedScarves",
+        "number": 225,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ20b \u2014 Mutative Advantage",
+        "number": 229,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
+        "card_name": "UZ14b \u2014 Prey to Apex of the Swarm",
+        "number": 217,
+        "shape": "normal",
         "set": "FOOD",
         "position": ""
     },
@@ -1376,15 +1411,15 @@
         "position": ""
     },
     {
-        "card_name": "UZ18b \u2014 Gamble with the RedScarves",
-        "number": 225,
-        "shape": "normal",
+        "card_name": "UZ28 \u2014 The Girl Who Cried Ouphe",
+        "number": 233,
+        "shape": "saga",
         "set": "FOOD",
         "position": ""
     },
     {
-        "card_name": "UZ20b \u2014 Mutative Advantage",
-        "number": 229,
+        "card_name": "UZ30 \u2014 Mythos of Kogla",
+        "number": 235,
         "shape": "normal",
         "set": "FOOD",
         "position": ""
@@ -1411,33 +1446,6 @@
         "position": ""
     },
     {
-        "card_name": "UZ28 \u2014 The Girl Who Cried Ouphe",
-        "number": 233,
-        "shape": "saga",
-        "set": "FOOD",
-        "position": ""
-    },
-    {
-        "card_name": "UZ30 \u2014 Mythos of Kogla",
-        "number": 235,
-        "shape": "normal",
-        "set": "FOOD",
-        "position": ""
-    },
-    {
-        "card_name": "CZ04 \u2014 OilFang Bonder",
-        "number": 239,
-        "shape": "normal",
-        "set": "FOOD",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
         "card_name": "CZ08 \u2014 Haymeadow Brigand",
         "number": 243,
         "shape": "normal",
@@ -1452,7 +1460,11 @@
         "position": ""
     },
     {
-        "card_name": "e"
+        "card_name": "CZ04 \u2014 OilFang Bonder",
+        "number": 239,
+        "shape": "normal",
+        "set": "FOOD",
+        "position": ""
     },
     {
         "card_name": "er"
@@ -1739,6 +1751,13 @@
     },
     "a->colorless",
     {
+        "card_name": "RZ11a \u2014 Ransack the Pantry",
+        "number": 1,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
         "card_name": "RL02 \u2014 Atollpology",
         "number": 273,
         "shape": "class",
@@ -1814,9 +1833,6 @@
         "shape": "normal",
         "set": "FOOD",
         "position": ""
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
