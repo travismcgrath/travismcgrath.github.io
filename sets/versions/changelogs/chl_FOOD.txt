@@ -1,4 +1,207 @@
-﻿VERSION 11 CHANGELOG
+﻿VERSION 12 CHANGELOG
+====================
+
+CB03 — Marsh Mellow-o-Wisps added.
+CB01 — Brackish Fencer added.
+CU12 — Call Campus Safety added.
+UG10 — Nourish The Young added.
+UZ06 — Mace The Exam added.
+RZ12a — Ransack added.
+UZ26 — Safety in Numbers added.
+UZ11b — All They Can Eat added.
+UZ22 — Glistening Rites added.
+UW06 — Phyrexian Health Inspector added.
+
+CB03 — Mellow-o-Wisps removed.
+CB01 — Plague Knight removed.
+CU12 — Call Campus Saftey removed.
+UG10 — Feast of the Pack removed.
+UZ06 — Swirl Pond Enforcer removed.
+UZ22 — Compleat Revival removed.
+UZ26 — Mace The Exam removed.
+UW06 — Compleated Butcher removed.
+UZ11b — Saftey in Numbers removed.
+
+CB08 — Big Bad Ouphe
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+This spell costs {2} less to cast if it was bargained.
+Menace
+Whenever Big Bad Ouphe becomes bonded to a Human, goad each creature target opponent controls. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i] => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+This spell costs {2} less to cast if it was bargained.
+Menace
+Whenever Big Bad Ouphe enters or becomes bonded to a Human, goad each creature target opponent controls. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]
+
+RG04 — Biomewide Migration
+rules_text: Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Choose two:
+• Destroy target artifact or enchantment.
+• Proliferate.
+• Create a 3/3 green Ooze creature token with Toxic 1.
+• Return target permanent card from your graveyard to your hand. => Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Choose two:
+• Destroy target artifact or enchantment.
+• Exile up to two target cards from a graveyard.
+• Create a 3/3 green Ooze creature token with toxic 1.
+• Return target permanent card from your graveyard to your hand.
+
+RW02 — Flavor of Orthodoxy
+rules_text: Flying
+Whenever this creature or another Phyrexian you control enters, incubate Food 2. [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i] => Flying
+Whenever this creature or another non-token Phyrexian you control enters, create a Food token then incubate Food 2. [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i]
+
+CB07 — Professor From Another Realm
+
+CB02 — Midnight Snacqueraider
+rules_text: When Midnight Snacqueraider enters, it deals 2 damage to up to one target battle. => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+When Midnight Snacqueraider enters, if it was bargained, it deals 2 damage to up to one target battle.
+
+CU06 — Exponentiation Professor
+rules_text: Vigilance => Vigilance
+Islandcycling {2}
+
+CU05 — Professor of Culinary Arts
+rules_text: When Professor enters, create two Food token. 
+{1}{U}: Until end of turn, target Food becomes a 4/4 artifact creature. => When this creature enters, create a Food token, then Incubate Food 5. [i](Put five +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i]
+pt: 2/2 => 0/1
+
+CW08 — Sleeperagent Skymount
+rules_text: Flying
+[i]Corrupted[/i] — As long as an opponent has three or more poison counters, Sleeperagent Skymount has lifelink. => Flying
+[i]Corrupted[/i] — As long as an opponent has three or more poison counters, Sleeperagent Skymount has lifelink.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CG10 — Peckish Pinekraken
+rules_text: When Peckish Pinekraken enters or becomes bonded, it devours tokens 2. [i](You may sacrifice any number of tokens. Put twice that many +1/+1 counters on this creature.)[/i]
+Peckish Pinekraken can't be blocked by creatures with power 3 or less. => When Peckish Pinekraken enters or becomes bonded, it devours tokens 2. [i](You may sacrifice any number of tokens. Put twice that many +1/+1 counters on this creature.)[/i]
+Peckish Pinekraken can't be blocked by creatures with power 3 or less.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CR10 — Pond Creek Predator
+rules_text: Flying, haste
+When Pond Creek Predator deals combat damage to an opponent, create a Food token.
+Mountaincycling {2} [i]({2}, Discard this card: Search your library for a Mountain card, reveal it, put it into your hand, then shuffle.)[/i] => Flying, haste
+When Pond Creek Predator deals combat damage to an opponent, create a Food token.
+Mountain landcycling {2} [i]({2}, Discard this card: Search your library for a land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CZ06 — Hydrodynamicist
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, untap Hydrodynamicist.
+{T}: Hydrodynamicist deals 1 damage to each opponent. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand or whenever you discard a card, untap Hydrodynamicist.
+{T}: Hydrodynamicist deals 1 damage to each opponent.
+
+CZ08 — Haymeadow Brigand
+rules_text: First strike
+Whenever a creature token dies, you may haggle. If you do, create a Food token. [i](To haggle, remove a counter from a nonbattle permanent you control.)[/i] => First strike
+Whenever a creature token dies, create a Food token. This ability triggers only once each turn.
+
+CG06 — Zagoth Snapper
+rules_text: When Zagoth Snapper enters, create two Food tokens. => [i]Landfall[/i] — Whenever a land you control enters, create a Food token.
+
+CR06 —Shrunken Field Reasearcher
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, other creatures you control get +2/+0 until end of turn. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand or whenever you discard a card, other creatures you control get +2/+0 until end of turn.
+
+CW06 — Lorehold Paleodietitian
+rules_text: Vigilance
+Whenever Lorehold Paleodietitian blocks, Incubate Food 2 [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i] => Vigilance
+Whenever Lorehold Paleodietitian blocks, create a Food token then Incubate Food 2 [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i]
+
+CU10 — Freshman Meal Plan
+rules_text: Whenever you discard one or more cards, create a Food token.
+Sacrifice two Food: Create a 0/0 green and blue Fractal creature token and puts a +1/+1 counter on each Fractal you control. Activate only as a sorcery. => When Freshman Meal Plan enters, create a food token.
+Whenever you discard one or more cards, create a Food token.
+Sacrifice two Food: Create a 0/0 green and blue Fractal creature token and puts a +1/+1 counter on each Fractal you control. Activate only as a sorcery.
+
+RR02 — Calamity Lavabuck
+rules_text: Players can't gain life.
+At the beginning of your end step, if an opponent has lost 6 or more life, create a red 1/1 Lizard Elemental creature token with “When this creature dies, it deals 1 damage to target player.”. => Players can't gain life.
+At the beginning of your end step, if an opponent has lost 6 or more life, create a red 1/1 Lizard Elemental creature token with “When this creature dies, it deals 1 damage to target player.”
+
+CA01 — Egg BombBomb
+cost: {2} => {1}
+rules_text: When Egg BombBomb enters, it deals 1 damage to any target.
+{7},{T}, Sacrifice Egg BombBomb: Destroy target nonland permanent.
+{2}, {T}, Sacrifice Egg BombBomb: You gain 3 life. => When Egg BombBomb enters, it deals 1 damage to any target.
+{6},{T}, Sacrifice Egg BombBomb: Destroy target nonland permanent.
+{2}, {T}, Sacrifice Egg BombBomb: You gain 3 life.
+
+UW09 — Punishment Sphere
+rules_text: Affinity for Food [i](This spell costs {1} less to cast for each Food you control.)[/i]
+When Punishment Sphere enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+When gain life for the first time each turn, target opponent gets a poison counter. => Affinity for Food [i](This spell costs {1} less to cast for each Food you control.)[/i]
+When Punishment Sphere enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+When you gain life for the first time each turn, target opponent gets a poison counter.
+
+CZ01 — Biblopex Caterer
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, Incubate Food 3 [i](Put three +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i] => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, create a Food token then Incubate Food 3 [i](Put three +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.)[/i]
+
+MZ02 — Ms. Bumbleflower, Generous Hare
+rules_text: Lifelink
+Whenever a player casts their second spell each turn, choose one —
+• Gift a Food, if you do, create a Food token.
+• Put a +1/+1 counter on target creature, then proliferate.
+• Incubate Food 2. => Lifelink
+Whenever a player casts their second spell each turn, choose one —
+• Gift a Food, if you do, create a Food token.
+• Put a +1/+1 counter on target creature, then proliferate.
+• Incubate Food 3.
+
+UB04 — Hell's Sous Chef
+rules_text: {2}, Sacrifice a Food: Target player loses 2 life. => {2}, Sacrifice a Food: Target player loses 3 life.
+
+UG09 — Snap Up
+
+CA03 — Cabbatrice
+rules_text: Afflict 3 [i](Whenever this creature becomes blocked, defending player loses 3 life.)[/i]
+{2}, {T}, Sacrifice Cabbatrice: You gain 3 life. => Reach
+Whenever this creature blocks or becomes blocked by a non-Food creature, destroy that creature at end of combat.
+{2}, {T}, Sacrifice Cabbatrice: You gain 3 life.
+pt: 5/5 => 3/5
+
+RW03 — Chef of Machines
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 white artifact Phyrexian Angel creature token with flying and vigilance.
+II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Create five Food and Incubate Food 2 five times. Then transform any number of Food tokens you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 white artifact Phyrexian Angel creature token with flying and vigilance.
+II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Create five Food tokens, then Incubate Food 2 five times. Then transform any number of Food tokens you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 white artifact Phyrexian Angel creature token with flying and vigilance.
+II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Create five Food and Incubate Food 2 five times. Then transform any number of Food tokens you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Create a 4/4 white artifact Phyrexian Angel creature token with flying and vigilance.
+II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Create five Food tokens, then Incubate Food 2 five times. Then transform any number of Food tokens you control.
+
+RG03 — Umori's Hunger
+rules_text: Non-Human creatures you control have Devour tokens 1. [i](As this enters the battlefield, you may sacrifice any number of tokenses. That creature enters the battlefield with that many +1/+1 counters on it.)[/i]
+When a creature you control devours two or more tokens, put a trample counter on it, then draw a card. => Non-Human creatures you control have devour tokens 1. [i](As this enters the battlefield, you may sacrifice any number of tokenses. That creature enters the battlefield with that many +1/+1 counters on it.)[/i]
+When a creature you control devours two or more tokens, put a trample counter on it, then draw a card.
+
+RU03 — Cosmophysicist
+rules_text: Ward— Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player stuns a creature they control.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card. => Ward— Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player chooses and stuns an untapped creature they control.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card.
+
+UZ28 — The Girl Who Cried Ouphe
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose a creature type, then create a black 1/1 Human Rogue creature token.
+Discard a card then draw a card.
+Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+Choose a creature type, then create a black 1/1 Human Rogue creature token.
+Discard a card then draw a card.
+Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.
+
+
+VERSION 11 CHANGELOG
 ====================
 
 UZ11a — Ransack the Infinity Fountain added.
