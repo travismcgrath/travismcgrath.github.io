@@ -1,4 +1,20 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+RZ11a — Ransack the Pantry removed.
+RZ12a — Ransack removed.
+
+CW16b — Mother's Retribution
+
+RR02 — Calamity Lavabuck
+type: Creature — Elemental Cat => Creature — Elemental Elk
+rules_text: Players can't gain life.
+At the beginning of your end step, if an opponent has lost 6 or more life, create a red 1/1 Lizard Elemental creature token with “When this creature dies, it deals 1 damage to target player.” => Other players can't gain life.
+At the beginning of your end step, if an opponent has lost 6 or more life, create a red 1/1 Lizard Elemental creature token with “When this creature dies, it deals 1 damage to target player.”
+
+
+VERSION 12 CHANGELOG
 ====================
 
 CB03 — Marsh Mellow-o-Wisps added.

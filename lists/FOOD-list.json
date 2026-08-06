@@ -1749,48 +1749,7 @@
     {
         "card_name": "er"
     },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "RZ12a \u2014 Ransack",
-        "number": 199,
-        "shape": "battle split",
-        "set": "FOOD",
-        "position": ""
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
-    {
-        "card_name": "er"
-    },
     "a->colorless",
-    {
-        "card_name": "RZ11a \u2014 Ransack the Pantry",
-        "number": 1,
-        "shape": "battle split",
-        "set": "FOOD",
-        "position": ""
-    },
     {
         "card_name": "RL02 \u2014 Atollpology",
         "number": 275,
@@ -1867,6 +1826,9 @@
         "shape": "normal",
         "set": "FOOD",
         "position": ""
+    },
+    {
+        "card_name": "e"
     },
     {
         "card_name": "e"

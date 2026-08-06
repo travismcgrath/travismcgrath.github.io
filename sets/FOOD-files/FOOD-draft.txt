@@ -1507,7 +1507,7 @@
 				"name": "RR02 — Calamity Lavabuck",
 				"rarity": "rare",
 				"mana_cost": "{2}{R}{R}",
-				"type": "Creature — Elemental Cat",
+				"type": "Creature — Elemental Elk",
 				"collector_number": "129",
 				"rating": 4,
 				"image_uris": {
@@ -2740,28 +2740,6 @@
 				}
 			},
 			{
-				"name": "RZ11a — Ransack the Pantry",
-				"rarity": "rare",
-				"mana_cost": "{1}",
-				"type": "Battle — Ransack",
-				"collector_number": "1",
-				"rating": 3,
-				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/1_RZ11a — Ransack the Pantry.png"
-				}
-			},
-			{
-				"name": "RZ12a — Ransack",
-				"rarity": "rare",
-				"mana_cost": "{W}{U}{B}{R}{G}",
-				"type": "Battle — Ransack",
-				"collector_number": "199",
-				"rating": 3,
-				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/199_RZ12a — Ransack.png"
-				}
-			},
-			{
 				"name": "UZ26 — Safety in Numbers",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{U}{R}",
@@ -3497,5 +3475,3 @@
 	12 CU15a — Test of Intellect
 	12 CR15a — Trial of Scurry
 	12 CG15a — Trial of Might
-	2 RZ11a — Ransack the Pantry
-	2 RZ12a — Ransack
