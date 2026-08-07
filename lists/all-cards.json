@@ -9659,7 +9659,7 @@
             "shape": "normal",
             "set": "FOOD",
             "loyalty": "6",
-            "artist": "",
+            "artist": "Chun Lo",
             "alias": "",
             "notes": "Skip,\nRansack, Removal, CardAdvantage",
             "image_type": "png"
@@ -13913,6 +13913,26 @@
             "artist": "Diego Gisbert Llorens",
             "alias": "",
             "notes": "",
+            "image_type": "png"
+        },
+        {
+            "card_name": "RZ11a \u2014 Ransack the Pantry",
+            "color": "",
+            "rarity": "rare",
+            "type": "Battle \u2013 Ransack",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "{1}",
+            "rules_text": "[i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhenever this battle is dealt damage, you and the controller of the damage each",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "battle",
+            "set": "FOOD",
+            "loyalty": "6",
+            "artist": "",
+            "alias": "",
+            "notes": "landslot\nRansack,",
             "image_type": "png"
         },
         {

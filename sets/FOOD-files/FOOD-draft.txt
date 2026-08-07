@@ -2740,6 +2740,17 @@
 				}
 			},
 			{
+				"name": "RZ11a — Ransack the Pantry",
+				"rarity": "rare",
+				"mana_cost": "{1}",
+				"type": "Battle — Ransack",
+				"collector_number": "1",
+				"rating": 3,
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/1_RZ11a — Ransack the Pantry.png"
+				}
+			},
+			{
 				"name": "UZ26 — Safety in Numbers",
 				"rarity": "uncommon",
 				"mana_cost": "{2}{U}{R}",
@@ -3475,3 +3486,4 @@
 	12 CU15a — Test of Intellect
 	12 CR15a — Trial of Scurry
 	12 CG15a — Trial of Might
+	2 RZ11a — Ransack the Pantry

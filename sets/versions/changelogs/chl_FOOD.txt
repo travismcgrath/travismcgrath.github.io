@@ -1,4 +1,13 @@
-﻿VERSION 13 CHANGELOG
+﻿VERSION 14 CHANGELOG
+====================
+
+RZ11a — Ransack the Pantry added.
+
+
+CW16b — Mother's Retribution
+
+
+VERSION 13 CHANGELOG
 ====================
 
 

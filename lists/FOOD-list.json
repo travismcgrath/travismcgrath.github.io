@@ -1751,6 +1751,13 @@
     },
     "a->colorless",
     {
+        "card_name": "RZ11a \u2014 Ransack the Pantry",
+        "number": 1,
+        "shape": "battle split",
+        "set": "FOOD",
+        "position": ""
+    },
+    {
         "card_name": "RL02 \u2014 Atollpology",
         "number": 275,
         "shape": "class",
@@ -1826,9 +1833,6 @@
         "shape": "normal",
         "set": "FOOD",
         "position": ""
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"
