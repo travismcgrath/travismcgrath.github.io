@@ -80,8 +80,8 @@ def generateFile(code):
 			card_file_name = (str(card['number']) + '_' + card['card_name']) if ('position' not in card) else card['position']
 			if 'double' in card['shape']:
 				draft_string += '''		"back": {
-					"name": "",
-					"type": "",
+					"name": "''' + card['card_name'] + '''",
+					"type": "''' + card['type'] + '''",
 					"image_uris": {
 						"en": "https://''' + github_path + '''/sets/''' + card['set'] + '''-files/img/''' + card_file_name + '''_back.''' + (set_data['image_type'] if 'image_type' not in card else card['image_type']) + '''"
 					}

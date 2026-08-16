@@ -140,8 +140,8 @@
 				"collector_number": "133",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "CR16 — Ransack the Emberheart-Oven",
+					"type": "Battle — Ransack",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/133_CR16 — Ransack the Emberheart-Oven_back.png"
 					}
@@ -1225,8 +1225,8 @@
 				"collector_number": "294",
 				"rating": 4,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "RL03 — The Dusk Woods",
+					"type": "Land — Swamp",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/294_RL03 — The Dusk Woods_back.png"
 					}
@@ -1782,8 +1782,8 @@
 				"collector_number": "209",
 				"rating": 5,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "MZ02 — Ms. Bumbleflower, Generous Hare",
+					"type": "Legendary Creature — Rabbit Noble",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/209_MZ02 — Ms. Bumbleflower, Generous Hare_back.png"
 					}
@@ -1800,8 +1800,8 @@
 				"collector_number": "210",
 				"rating": 5,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "MZ03 — Gyruda, Oscilating Wave",
+					"type": "Legendary Creature — Demon Kraken",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/210_MZ03 — Gyruda, Oscilating Wave_back.png"
 					}
@@ -1818,8 +1818,8 @@
 				"collector_number": "208",
 				"rating": 5,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "MZ01 — Ixhel, Porcelain Angel",
+					"type": "Legendary Creature — Phyrexian Angel",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/208_MZ01 — Ixhel, Porcelain Angel_back.png"
 					}
@@ -1836,8 +1836,8 @@
 				"collector_number": "211",
 				"rating": 5,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "MZ04 — Cruelclaw, Leader of the Red Scarves",
+					"type": "Legendary Creature — Weasle Mercenary",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/211_MZ04 — Cruelclaw, Leader of the Red Scarves_back.png"
 					}
@@ -1854,8 +1854,8 @@
 				"collector_number": "212",
 				"rating": 5,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "MZ05 — Kaheera, Monster Paragon",
+					"type": "Legendary Creature — Cat Beast",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/212_MZ05 — Kaheera, Monster Paragon_back.png"
 					}
@@ -1872,8 +1872,8 @@
 				"collector_number": "213",
 				"rating": 5,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "MZ06 — Urabrask, Rebel Praetor",
+					"type": "Legendary Creature — Phyrexian Praetor",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/213_MZ06 — Urabrask, Rebel Praetor_back.png"
 					}
@@ -1890,8 +1890,8 @@
 				"collector_number": "214",
 				"rating": 5,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "MZ07 — Quandrix, Resonance Maestro",
+					"type": "Legendary Creature — Elder Dragon",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/214_MZ07 — Quandrix, Resonance Maestro_back.png"
 					}
@@ -1908,8 +1908,8 @@
 				"collector_number": "215",
 				"rating": 5,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "MZ08 — Eriette of Love's Bite",
+					"type": "Legendary Creature — Human Warlock",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/215_MZ08 — Eriette of Love's Bite_back.png"
 					}
@@ -1926,8 +1926,8 @@
 				"collector_number": "216",
 				"rating": 5,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "MZ09 — Quintorious, Defender of History",
+					"type": "Legendary Creature — Elephant Knight",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/216_MZ09 — Quintorious, Defender of History_back.png"
 					}
@@ -1944,8 +1944,8 @@
 				"collector_number": "217",
 				"rating": 5,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "MZ10 - The Golden Goose",
+					"type": "Legendary Creature — Bird Hydra",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/217_MZ10 - The Golden Goose_back.png"
 					}
@@ -2578,8 +2578,8 @@
 				"collector_number": "132",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "CR15 — Trial of Scurry",
+					"type": "Battle — Trial",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/132_CR15 — Trial of Scurry_back.png"
 					}
@@ -2596,8 +2596,8 @@
 				"collector_number": "95",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "CB15 — Trial of Guile",
+					"type": "Battle — Trial",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/95_CB15 — Trial of Guile_back.png"
 					}
@@ -2614,8 +2614,8 @@
 				"collector_number": "96",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "CB16 — Ransack the Faerie Garden",
+					"type": "Battle — Ransack",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/96_CB16 — Ransack the Faerie Garden_back.png"
 					}
@@ -2632,8 +2632,8 @@
 				"collector_number": "169",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "CG15 — Trial of Might",
+					"type": "Battle — Trial",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/169_CG15 — Trial of Might_back.png"
 					}
@@ -2650,8 +2650,8 @@
 				"collector_number": "170",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "CG16 — Ransack the Ketria Gemgrove",
+					"type": "Battle — Ransack",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/170_CG16 — Ransack the Ketria Gemgrove_back.png"
 					}
@@ -2668,8 +2668,8 @@
 				"collector_number": "22",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "CW15 — Trial of Faith",
+					"type": "Battle — Trial",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/22_CW15 — Trial of Faith_back.png"
 					}
@@ -2686,8 +2686,8 @@
 				"collector_number": "23",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "CW16 — Ransack the Fifth Sphere",
+					"type": "Battle — Ransack",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/23_CW16 — Ransack the Fifth Sphere_back.png"
 					}
@@ -2704,8 +2704,8 @@
 				"collector_number": "58",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "CU15 — Test of Intellect",
+					"type": "Battle — Trial",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/58_CU15 — Test of Intellect_back.png"
 					}
@@ -2722,8 +2722,8 @@
 				"collector_number": "59",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "CU16 — Ransack the Potions Class",
+					"type": "Battle — Ransack",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/59_CU16 — Ransack the Potions Class_back.png"
 					}
@@ -2740,8 +2740,8 @@
 				"collector_number": "240",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "UZ11 — Ransack the Infinity Fountain",
+					"type": "Battle — Ransack",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/240_UZ11 — Ransack the Infinity Fountain_back.png"
 					}
@@ -2758,8 +2758,8 @@
 				"collector_number": "241",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "UZ12 — Polemics of Apostasy",
+					"type": "Battle — Trial",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/241_UZ12 — Polemics of Apostasy_back.png"
 					}
@@ -2776,8 +2776,8 @@
 				"collector_number": "242",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "UZ13 — Guard the Fountainport Parapet",
+					"type": "Battle — Trial",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/242_UZ13 — Guard the Fountainport Parapet_back.png"
 					}
@@ -2794,8 +2794,8 @@
 				"collector_number": "243",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "UZ14 — Ransack the Hunter Maze",
+					"type": "Battle — Ransack",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/243_UZ14 — Ransack the Hunter Maze_back.png"
 					}
@@ -2812,8 +2812,8 @@
 				"collector_number": "244",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "UZ15 — Ransack Your Dreams",
+					"type": "Battle — Ransack",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/244_UZ15 — Ransack Your Dreams_back.png"
 					}
@@ -2830,8 +2830,8 @@
 				"collector_number": "245",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "UZ16 — Thesis Defense",
+					"type": "Battle — Trial",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/245_UZ16 — Thesis Defense_back.png"
 					}
@@ -2848,8 +2848,8 @@
 				"collector_number": "246",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "UZ17 — Traverse The Ketria Great Tree",
+					"type": "Battle — Trial",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/246_UZ17 — Traverse The Ketria Great Tree_back.png"
 					}
@@ -2866,8 +2866,8 @@
 				"collector_number": "247",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "UZ18 — Ransack the Court of High Chance",
+					"type": "Battle — Ransack",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/247_UZ18 — Ransack the Court of High Chance_back.png"
 					}
@@ -2884,8 +2884,8 @@
 				"collector_number": "248",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "UZ19 — Abscond the Golden Eggs",
+					"type": "Battle — Trial",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/248_UZ19 — Abscond the Golden Eggs_back.png"
 					}
@@ -2902,8 +2902,8 @@
 				"collector_number": "249",
 				"rating": 3,
 				"back": {
-					"name": "",
-					"type": "",
+					"name": "UZ20 — Ransack the Raugrin Shoals",
+					"type": "Battle — Ransack",
 					"image_uris": {
 						"en": "https://travismcgrath.github.io/sets/FOOD-files/img/249_UZ20 — Ransack the Raugrin Shoals_back.png"
 					}
