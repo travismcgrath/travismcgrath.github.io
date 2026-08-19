@@ -1,4 +1,200 @@
-﻿VERSION 16 CHANGELOG
+﻿VERSION 17 CHANGELOG
+====================
+
+CU10 — Re-Hash added.
+UZ18 — Gamble with the RedScarves added.
+CU11 — Check your work! added.
+CU08 — Missing Ingredient added.
+CU07 — Exponentiation Professor added.
+CU06 — Campus Security added.
+CB13 -- Im Eternally Grateful added.
+CR06 — Micro Ecologist added.
+CB11 — Negotiate With Death added.
+CU09 — Inspiring Lemma Beans added.
+CU01 — Quandrix Garden Gates added.
+CU13 — Publish Analysis added.
+CU12 — Freshman Meal Plan added.
+UG03 — Ravenous Hyena added.
+UB10 — Price of Royalty added.
+CU16 — Ransack the Library added.
+
+CU09 — Re-Hash removed.
+CU08 — Check your work! removed.
+CU07 — Missing Ingredient removed.
+CU06 — Exponentiation Professor removed.
+CU12 — Call Campus Safety removed.
+CB13 — I'm Eternally Grateful removed.
+CR06 —Shrunken Field Reasearcher removed.
+CB11 — Negotiated Death removed.
+CU13 — Inspiring Lemma Beans removed.
+CU01 — Quandrix Garden Gate removed.
+CU11 — Publish Analysis removed.
+CU10 — Freshman Meal Plan removed.
+UG03 —Ravenous Hyena removed.
+UB10 — Tempting Offer removed.
+CU16 — Ransack the Potions Class removed.
+
+UZ07 — Tenured Bondologist
+rules_text: Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Spells you cast from anywhere but your hand, and creature spells with power 4 or greater, cost {1} less to cast. => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Spells you cast from anywhere but your hand, and creature spells with power 4 or greater, cost you {1} less to cast.
+
+RR04 — Flavor of Autumn
+rules_text: Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Choose up to five {J} worth of modes. You may choose the same mode more than once.
+{J} — Make a Food token.
+{J}{J} — Deal 3 damage to target permanent.
+{J}{J}{J} — Create a 1/1 token copy of target creature you control. => Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Choose up to five {J} worth of modes. You may choose the same mode more than once.
+{J} — Make a Food token.
+{J}{J} — Exile target artifact.
+{J}{J}{J} — Create a 1/1 token copy of target creature you control.
+
+UU10 — Calculate A Prophecy
+rules_text: Gift a copy [i](You may promise an opponent a gift as you cast this spell. If you do, they create a copy of this spell as it resolves. They may choose new targets for the copy.)[/i]
+Draw a card, then exile a card from your hand face down. It becomes foretold. Its foretell cost is its mana cost reduced by {2}.
+If a gift was promised and this spell isn't a copy, the exiled card is plotted instead of foretold. => Draw two cards, then exile a card from your hand face down. It becomes foretold. Its foretell cost is its mana cost reduced by {2}.
+[i]Conjecture[/i] — If this card was cast from anywhere but your hand. the exiled card is plotted instead of foretold.
+
+CU02 — Arithmetic Frogression
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, put a +1/+1 counter on this creature.
+When a counter is put on Arithmetic Frogression for the first time each turn, you may Gift a Food. If you do, create a Food token. => Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token.”)[/i]
+When Arithmetic Frogression enters, if a gift was promised, create a Food token and put a +1/+1 counter on target creature.
+
+CW03 — Autocatalytic Hare
+rules_text: Offspring—Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+When Autocatalytic Hare enters, create a Food token. => Offspring—Sacrifice a Food [i](You may Sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+When Autocatalytic Hare enters, create a Food token.
+
+CG01 — Hungry Brushwagg
+rules_text: Trample 
+When Hungry Brushwagg becomes bonded, it devours tokens 1. [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)[/i] => Trample 
+When Hungry Brushwagg becomes bonded, it devours food 1. [i](You may sacrifice any number of food. Put that many +1/+1 counters on this creature.)[/i]
+
+UG06 —Drannith Mess Sergeant
+rules_text: Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+When this creature attacks, create a Food token then, it devours tokens 1 [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)[/i] => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+When this creature attacks, create a Food token then, it devours food 1 [i](You may sacrifice any number of food. Put that many +1/+1 counters on this creature.)[/i]
+
+UG10 — Nourish The Young
+rules_text: Gift a copy [i](You may promise an opponent a gift as you cast this spell. If you do, they create a copy of this spell as it resolves. They may choose new targets for the copy.)[/i]
+Create a Food token, then target creature you control devours food 1. [i](You may sacrifice any number of food. Put that many +1/+1 counters on that creature.)[/i]
+If a gift was promised and this spell isn't a copy, until end of turn, it also gains “Whenever this creature deals combat damage to a player, draw that many cards.” => Create a Food token.
+Target creature you control devours food 1. [i](You may sacrifice any number of food. Put that many +1/+1 counters on that creature.)[/i]
+If that creature is bonded, it also gains “Whenever this creature deals combat damage to a player, draw that many cards.” until end of turn.
+
+CR01 — Raging Marten
+rules_text: Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token. It's an artifact with “{2}, {T}, Sacrifice this artifact: You gain 3 life.”)[/i]
+Haste, Battle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+When Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card. => Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token.”)[/i]
+Haste, Battle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+When Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card.
+
+UR01 — Root Maze Hatcher
+rules_text: Offspring—Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Myriad [i](Whenever this creature attacks, for each opponent other than defending player, you may create a token that's a copy of this creature that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)[/i] => Offspring—Sacrifice a Food [i](You may Sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Myriad [i](Whenever this creature attacks, for each opponent other than defending player, you may create a token that's a copy of this creature that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)[/i]
+
+CR08 — Three Tree City Guard
+type: Creature — Badger Knight => Creature — Rabbit Knight
+cost: {3}{R} => {2}{R}{R}
+rules_text: Trample
+Whenever Beetle-Horned Rhino becomes, it gains battle cry. [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i] => Trample
+Three Tree City Guard's power is equal to one plus the number of 1/1 creatures you control.
+Whenever Beetle-Horned Rhino becomes bonded, it gains battle cry. [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+pt: 4/3 => 1+*/3
+
+CZ06 — Hydrodynamicist
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand or whenever you discard a card, untap Hydrodynamicist.
+{T}: Hydrodynamicist deals 1 damage to each opponent. => Whenever you discard a card, untap Hydrodynamicist.
+[i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, untap Hydrodynamicist.
+{T}: Hydrodynamicist deals 1 damage to each opponent.
+
+CR03 — Emberheart Mouster
+rules_text: Offspring—Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+{T}: Target creature gains haste until end of turn. => Offspring—Sacrifice a Food [i](You may Sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+{T}: Target creature gains haste until end of turn.
+
+CU04 — Sneaky Researcher
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+[i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, you draw a card then discard a card. => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+[i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, target opponent gets a poison counter.
+
+RU01 — Larine Arneza, Valedictorian
+rules_text: [i]Conjecture[/i] — {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere but your hand this turn.
+If you would draw a card while your library has no cards in it, you win the game instead. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, exile another target creature you control, then return it battlefield under your control.
+ {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere but your hand this turn.
+
+UB05 — Red Riding Hood
+
+CU03 — Quaildratic Formula
+
+UW10 — Call to Compleation
+rules_text: Gift a copy [i](You may promise an opponent a gift as you cast this spell. If you do, they create a copy of this spell as it resolves. They may choose new targets for the copy.)[/i]
+Put a +1/+1 counter on each creature you control. Creatures you control gain lifelink until end of turn.
+If a gift was promised and this spell isn't a copy, proliferate => Put a +1/+1 counter on each creature you control. Creatures you control gain vigilance and lifelink until end of turn.
+[i]Corrupted[/i] — If an opponent has three or more poison counters, proliferate.
+
+CZ01 — Biblopex Caterer
+pt: 2/4 => 1/4
+
+UZ06 — Mace The Exam
+rules_text: When Mace The Exam enters 1/1 blue Frog creature token, then attach this to it. 
+[i]Conjecture[/i] — Whenever you cast a spell from anywhere but your hand, make a 1/1 token copy of equipped creature.
+Equip—Pay {3} or sacrifice two Food.
+Cascade [i](When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)[/i] => When Mace The Exam enters 1/1 blue Frog creature token, then attach this to it. 
+[i]Conjecture[/i] — Whenever you cast a spell from anywhere but your hand, make a 1/1 token copy of equipped creature that is a Fractal in addition to its other types.
+Equip {2}
+
+CL02 — The Woods at Twilight
+
+CL06 — Norn's Basilica
+
+CL07 — Bilbelopex
+
+CL08 — Witches Hut
+
+CL09 — Oystershroom Lodge
+
+CL10 — Ketria Bosque
+
+UU05 — Tater Tot Monitor
+type: Artifact Creature — Food => Artifact Creature — Food Construct
+
+RU03 — Cosmophysicist
+rules_text: Ward— Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Stun a creature.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card. => Ward— Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player chooses and stuns an untapped creature they control.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card.
+
+UZ28 — The Girl Who Cried Ouphe
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Choose a creature type, then create a black 1/1 Human Rogue creature token.
+Discard a card then draw a card.
+Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+Choose a creature type, then create a black 1/1 Human Rogue creature token.
+Discard a card then draw a card.
+Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.
+
+CU15 — Test of Intellect
+rules_text: [i](Your opponents may attack this battle and any nonattacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, draw two cards.
+Creatures you control have increment. => [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, draw two cards.
+Creatures you control have increment.
+
+
+VERSION 16 CHANGELOG
 ====================
 
 No changes.
