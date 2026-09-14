@@ -1,0 +1,1972 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CAT</name>
+			<longname>Mewotate Proxies</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Sword of Hearth and Home</name>
+			<text>Equipped creature gets +2/+2 and has protection from green and from white. (This permanent can&apos;t be targeted, dealt damage, enchanted, or equipped by anything green or white..)
+Whenever equipped creature deals combat damage to a player, exile up to one target creature you own, then search your library for a basic land card. Put both cards onto the battlefield under your control, then shuffle.
+Equip {2}</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CAT-files/img/76_Sword of Hearth and Home.png" num="76">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Buster Sword</name>
+			<text>Equipped creature gets +3/+2.
+Whenever equipped creature deals combat damage to a player, draw a card, then you may cast a spell from your hand with mana value less than or equal to that damage without paying its mana cost.
+Equip {2}</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CAT-files/img/73_Buster Sword.png" num="73">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ocelot Pride</name>
+			<text>First strike, lifelink
+Ascend (If you control ten or more permanents, you get the city&apos;s blessing for the rest of the game.)
+At the beginning of your end step, if you gained life this turn, create a 1/1 white Cat creature token. Then if you have the city&apos;s blessing, for each token you control that entered this turn, create a token that&apos;s a copy of it.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CAT-files/img/36_Ocelot Pride.png" num="36">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Three Tree City</name>
+			<text>As Three Tree City enters, choose a creature type.
+{T}: Add {C}. 
+{2}, {T}: Choose a color. Add an amount of mana of that color equal to the number of creatures you control of the chosen type.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/115_Three Tree City.png" num="115">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>CAThar&apos;s Crusade</name>
+			<text>Whenever a creature you control enters, put a +1/+1 counter on each creature you control.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/18_CAThar&apos;s Crusade.png" num="18">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>And They Shall Know No Fear</name>
+			<text>Choose a creature type. Creatures you control of the chosen type get +1/+0 and gain indestructible until end of turn.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/4_And They Shall Know No Fear.png" num="4">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Badlands</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/81_Badlands.png" num="81">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scrubland</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/107_Scrubland.png" num="107">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Savai Triome</name>
+			<text>Savai Triome enters tapped. 
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/106_Savai Triome.png" num="106">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Marsh Flats</name>
+			<text>{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/90_Marsh Flats.png" num="90">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bloodstained Mire</name>
+			<text>{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/84_Bloodstained Mire.png" num="84">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Arid Mesa</name>
+			<text>{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/80_Arid Mesa.png" num="80">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plateau</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/103_Plateau.png" num="103">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Godless Shrine</name>
+			<text>As Godless Shrine enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/87_Godless Shrine.png" num="87">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bleachbone Verge</name>
+			<text>{T}: Add {B}.
+{T}: Add {W}. Activate only if you control a Plains or a Swamp.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/82_Bleachbone Verge.png" num="82">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Isolated Chapel</name>
+			<text>This land enters tapped unless you control a Plains or a Swamp.
+
+{T}: Add {W} or {B}.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/88_Isolated Chapel.png" num="88">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Sacred Foundry</name>
+			<text>As Sacred Foundry enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/105_Sacred Foundry.png" num="105">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Mountain Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Leonin Warleader</name>
+			<text>Whenever this creature attacks, create two 1/1 white Cat creature tokens with lifelink that are tapped and attacking.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/31_Leonin Warleader.png" num="31">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Solider</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ajani, Nacatl Pariah</name>
+			<text>When Ajani enters, create a 2/1 white Cat Warrior creature token.
+Whenever one or more other Cats you control die, you may exile Ajani, then return him to the battlefield transformed under his owner&apos;s control.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CAT-files/img/2_Ajani, Nacatl Pariah.png" num="2">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Renewed Solidarity</name>
+			<text>As this enchantment enters, choose a creature type.
+Creatures you control of the chosen type get +1/+0.
+At the beginning of your end step, for each token you control of the chosen type that entered this turn, create a token that&apos;s a copy of it.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/42_Renewed Solidarity.png" num="42">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Minas Tirith</name>
+			<text>Minas Tirith enters tapped unless you control a legendary creature.
+{T}: Add {W}.
+{1}{W}, {T}: Draw a card. Activate only if you attacked with two or more creatures this turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/91_Minas Tirith.png" num="91">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Ajani, Nacatl Avenger</name>
+			<text>[+2]: Put a +1/+1 counter on each Cat you control.
+[0]: Create a 2/1 white Cat Warrior creature token. When you do, if you control a red permanent other than Ajani, he deals damage equal to the number of creatures you control to any target.
+[-4]: Each opponent chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents they control, then sacrifices the rest.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CAT-files/img/0_Ajani, Nacatl Avenger.png" num="0">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Planeswalker — Ajani</type>
+				<maintype>Planeswalker</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<loyalty>3</loyalty>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Enduring Innocence</name>
+			<text>Lifelink
+Whenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.
+When Enduring Innocence dies, if it was a creature, return it to the battlefield under its owner&apos;s control. It&apos;s an enchantment. (It&apos;s not a creature.)</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/22_Enduring Innocence.png" num="22">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Sheep Glimmer</type>
+				<maintype>Creature</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ephemerate</name>
+			<text>Exile target creature you control, then return it to the battlefield under its owner&apos;s control.
+Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/24_Ephemerate.png" num="24">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Phelia, Exuberant Shepherd</name>
+			<text>Flash
+Whenever Phelia attacks, exile up to one other target nonland permanent. At the beginning of the next end step, return that card to the battlefield under its owner&apos;s control. If it entered under your control, put a +1/+1 counter on Phelia.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/40_Phelia, Exuberant Shepherd.png" num="40">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dog</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skullclamp</name>
+			<text>Equipped creature gets +1/-1.
+Whenever equipped creature dies, draw two cards.
+Equip {1}</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/74_Skullclamp.png" num="74">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Vanquisher&apos;s Banner</name>
+			<text>As this artifact enters, choose a creature type.
+Creatures you control of the chosen type get +1/+1.
+Whenever you cast a creature spell of the chosen type, draw a card.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/78_Vanquisher&apos;s Banner.png" num="78">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Animal Sanctuary</name>
+			<text>{T}: Add {C}.
+{2}, {T}: Put a +1/+1 counter on target Cat-Bird, Cat, Cat-Dog, Cat-Goat, Cat-Ox, or Cat-Snake.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/79_Animal Sanctuary.png" num="79">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tocasia&apos;s Welcome</name>
+			<text>Whenever one or more creatures you control with mana value 3 or less enter, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/46_Tocasia&apos;s Welcome.png" num="46">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lurrus of the Dream-Den</name>
+			<text>Lifelink
+Once during each of your turns, you may cast a permanent spell with mana value 2 or less from your graveyard.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/72_Lurrus of the Dream-Den.png" num="72">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1W/BW/B</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Not Dead After All</name>
+			<text>Until end of turn, target creature you control gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control, then create a Wicked Role token attached to it.&quot; (If you control another Role on it, put that one into the graveyard. Enchanted creature gets +1/+1. When this Aura is put into a graveyard, each opponent loses 1 life.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/59_Not Dead After All.png" num="59">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Welcoming Vampire</name>
+			<text>Flying
+Whenever one or more other creatures you control with power 2 or less enter, draw a card. This ability triggers only once each turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/47_Welcoming Vampire.png" num="47">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vampire</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reprieve</name>
+			<text>Return target spell to its owner&apos;s hand.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/43_Reprieve.png" num="43">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Lion Sash</name>
+			<text>{W}: Exile target card from a graveyard. If it was a permanent card, put a +1/+1 counter on this permanent.
+Equipped creature gets +1/+1 for each +1/+1 counter on this Equipment.
+Reconfigure {2} ({2}: Attach to target creature you control; or unattach from a creature. Reconfigure only as a sorcery. While attached, this isn&apos;t a creature.)</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/32_Lion Sash.png" num="32">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Equipment Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Elas il-Kor, Sadistic Pilgrim</name>
+			<text>Deathtouch
+Whenever another creature you control enters, you gain 1 life.
+Whenever another creature you control dies, each opponent loses 1 life.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/67_Elas il-Kor, Sadistic Pilgrim.png" num="67">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Phyrexian Kor Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cloudshift</name>
+			<text>Exile target creature you control, then return that card to the battlefield under your control.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/19_Cloudshift.png" num="19">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Alms Collector</name>
+			<text>Flash
+If an opponent would draw two or more cards, instead you and that player each draw a card.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/3_Alms Collector.png" num="3">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Night&apos;s Whispuuurrrr</name>
+			<text>You draw two cards and lose 2 life.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/58_Night&apos;s Whispuuurrrr.png" num="58">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Solemn Simulacrum</name>
+			<text>When this creature enters, you may search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.
+When this creature dies, you may draw a card.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/75_Solemn Simulacrum.png" num="75">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Merchant of Venom</name>
+			<text>Menace
+When this creature enters, each player sacrifices a creature of their choice.
+Whenever a player sacrifices a permanent, put a +1/+1 counter on this creature.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/55_Merchant of Venom.png" num="55">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Warlock</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Umbral Expanse</name>
+			<text>Umbral Expanse enters tapped.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/116_Umbral Expanse.png" num="116">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Plains Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Command Tower</name>
+			<text>{T}: Add one mana of any color in your commander&apos;s color identity.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/86_Command Tower.png" num="86">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blood Crypt</name>
+			<text>As Blood Crypt enters, you may pay 2 life. If you don&apos;t, it enters tapped.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/83_Blood Crypt.png" num="83">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land — Swamp Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tainted Peak</name>
+			<text>{T}: Add {C}.
+{T}: Add {B} or {R}. Activate only if you control a Swamp.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/114_Tainted Peak.png" num="114">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Tainted Field</name>
+			<text>{T}: Add {C}.
+{T}: Add {W} or {B}. Activate only if you control a Swamp.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/113_Tainted Field.png" num="113">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Prismatic Vista</name>
+			<text>{T}, Pay 1 life, Sacrifice Prismatic Vista: Search your library for a basic land card, put it onto the battlefield, then shuffle.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/104_Prismatic Vista.png" num="104">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bojuka Bog</name>
+			<text>Bojuka Bog enters tapped.
+When Bojuka Bog enters, exile target player&apos;s graveyard.
+{T}: Add {B}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/85_Bojuka Bog.png" num="85">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>From the CATacombs</name>
+			<text>Put target creature card from a graveyard onto the battlefield under your control with a corpse counter on it. You take the initiative. If that creature would leave the battlefield, exile it instead of putting it anywhere else.
+Escape—{3}{B}{B}, Exile five other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/52_From the CATacombs.png" num="52">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Luminous Broodmoth</name>
+			<text>Flying
+Whenever a creature you control without flying dies, return it to the battlefield under its owner&apos;s control with a flying counter on it.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CAT-files/img/33_Luminous Broodmoth.png" num="33">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Divine Reckoning</name>
+			<text>Each player chooses a creature they control. Destroy the rest.
+Flashback {5}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/21_Divine Reckoning.png" num="21">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Parting Gust</name>
+			<text>Gift a tapped Fish (You may promise an opponent a gift as you cast this spell. If you do, they create a tapped 1/1 blue Fish creature token before its other effects.)
+Exile target nontoken creature. If the gift wasn&apos;t promised, return that card to the battlefield under its owner&apos;s control with a +1/+1 counter on it at the beginning of the next end step.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/38_Parting Gust.png" num="38">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Vault of the Archangel</name>
+			<text>{T}: Add {C}.
+{2}{W}{B}, {T}: Creatures you control gain deathtouch and lifelink until end of turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/117_Vault of the Archangel.png" num="117">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Flicker of Fate</name>
+			<text>Exile target creature or enchantment, then return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/26_Flicker of Fate.png" num="26">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Arahbo, the First Fang</name>
+			<text>Other Cats you control get +1/+1.
+Whenever Arahbo or another nontoken Cat you control enters, create a 1/1 white Cat creature token.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/5_Arahbo, the First Fang.png" num="5">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Cat Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mirrir the Cursed</name>
+			<text>Flying, first strike, haste
+Whenever Mirri deals combat damage to a creature, put a +1/+1 counter on Mirri.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/57_Mirrir the Cursed.png" num="57">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vampire Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Seht&apos;s Tiger</name>
+			<text>Flash (You may cast this spell any time you could cast an instant.)
+When this creature enters, you gain protection from the color of your choice until end of turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/44_Seht&apos;s Tiger.png" num="44">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mindleecher</name>
+			<text>Mutate {4}{B}
+Flying
+Whenever this creature mutates, exile the top card of each opponent&apos;s library face down. You may look at and play those cards for as long as they remain exiled.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/56_Mindleecher.png" num="56">CAT</set>
+			<prop>
+				<layout>mutate</layout>
+				<side>front</side>
+				<type>Creature — Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Regal Caracal</name>
+			<text>Other Cats you control get +1/+1 and have lifelink. 
+When this creature enters, create two 1/1 white Cat creature tokens with lifelink.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/41_Regal Caracal.png" num="41">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mythos of Snapdax</name>
+			<text>Each player chooses an artifact, a creature, an enchantment, and a planeswalker from among the nonland permanents they control, then sacrifices the rest. If {B}{R} was spent to cast this spell, you choose the permanents for each player instead.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/35_Mythos of Snapdax.png" num="35">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Despark</name>
+			<text>Exile target permanent with mana value 4 or greater.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/66_Despark.png" num="66">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WB</manacost>
+				<cmc>2</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Oreskos Explorer</name>
+			<text>When Oreskos Explorer enters, search your library for up to X Plains cards, where X is the number of players who control more lands than you. Reveal those cards, put them into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/37_Oreskos Explorer.png" num="37">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Scout</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Black Cat, Cunning Thief</name>
+			<text>When Black Cat enters, look at the top nine cards of target opponent&apos;s library, exile two of them face down, then put the rest on the bottom of their library in a random order. You may play the exiled cards for as long as they remain exiled. Mana of any type can be spent to cast spells this way.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/51_Black Cat, Cunning Thief.png" num="51">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Rogue Villian</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cubwarden</name>
+			<text>Mutate {2}{W}{W}
+Lifelink
+Whenever this creature mutates, create two 1/1 white Cat creature tokens with lifelink.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/20_Cubwarden.png" num="20">CAT</set>
+			<prop>
+				<layout>mutate</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>King of the Pride</name>
+			<text>Other Cats you control get +2/+1.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/29_King of the Pride.png" num="29">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rakshasa Debaser</name>
+			<text>Whenever this creature attacks, put target creature card from defending player&apos;s graveyard onto the battlefield under your control.
+Encore {6}{B}{B} ({6}{B}{B}, Exile this card from your graveyard: For each opponent, create a token copy that attacks that opponent this turn if able. They gain haste. Sacrifice them at the beginning of the next end step. Activate only as a sorcery.)</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/60_Rakshasa Debaser.png" num="60">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Path of Ancestry</name>
+			<text>This land enters tapped.
+{T}: Add one mana of any color in your commander&apos;s color identity. When that mana is spent to cast a creature spell that shares a creature type with your commander, scry 1.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/93_Path of Ancestry.png" num="93">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Barbed Servitor</name>
+			<text>When this creature enters, suspect it. (It has menace and can&apos;t block.)
+Whenever Barbed Servitor deals combat damage to a player, you draw a card and you lose 1 life.
+Whenever Barbed Servitor is dealt damage, target opponent loses that much life.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/50_Barbed Servitor.png" num="50">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Construct</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lion Vulture</name>
+			<text>Flying
+At the beginning of your end step, if an opponent lost life this turn, put a +1/+1 counter on this creature and draw a card.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/53_Lion Vulture.png" num="53">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Supernatural Stamina</name>
+			<text>Until end of turn, target creature gets +2/+0 and gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/64_Supernatural Stamina.png" num="64">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mentor of the Meek</name>
+			<text>Whenever another creature you control with power 2 or less enters, you may pay {1}. If you do, draw a card.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/34_Mentor of the Meek.png" num="34">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Solider</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Helpful Hunter</name>
+			<text>When Helpful Hunter enters, draw a card.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/27_Helpful Hunter.png" num="27">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Leonin Relic-Warder</name>
+			<text>When Leonin Relic-Warder enters, you may exile target artifact or enchantment.
+When Leonin Relic-Warder leaves the battlefield, return the exiled card to the battlefield under its owner&apos;s control.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/30_Leonin Relic-Warder.png" num="30">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Cleric</type>
+				<maintype>Creature</maintype>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Enlightened Ascetic</name>
+			<text>When Enlightened Ascetic enters, you may destroy target enchantment.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/23_Enlightened Ascetic.png" num="23">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Path to Exile</name>
+			<text>Exile target creature. Its controller may search their library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/39_Path to Exile.png" num="39">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Whitemane Lion</name>
+			<text>Flash
+When Whitemane Lion enters, return a creature you control to its owner&apos;s hand.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/48_Whitemane Lion.png" num="48">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Necropanther</name>
+			<text>Mutate {2}{WB}{WB} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Whenever this creature mutates, return target creature card with mana value 3 or less from your graveyard to the battlefield.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/69_Necropanther.png" num="69">CAT</set>
+			<prop>
+				<layout>mutate</layout>
+				<side>front</side>
+				<type>Creature — Cat Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spectral Lynx</name>
+			<text>Protection from green (This creature can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything green.)
+{B}: Regenerate this creature. (The next time this creature would be destroyed this turn, it isn&apos;t. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/45_Spectral Lynx.png" num="45">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Regal Leosaur</name>
+			<text>Mutate {1}{RW}{RW}
+Whenever this creature mutates, other creatures you control get +2/+1 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/70_Regal Leosaur.png" num="70">CAT</set>
+			<prop>
+				<layout>mutate</layout>
+				<side>front</side>
+				<type>Creature — Dinosaur Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>RW</manacost>
+				<cmc>2</cmc>
+				<colors>WR</colors>
+				<coloridentity>WR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Huntmaster Liger</name>
+			<text>Mutate {2}{W}
+Whenever this creature mutates, other creatures you control get +X/+X until end of turn, where X is the number of times this creature has mutated.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/28_Huntmaster Liger.png" num="28">CAT</set>
+			<prop>
+				<layout>mutate</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snapdax, Apex of the Hunt</name>
+			<text>Mutate {2}{BR}{W}{W} (If you cast this spell for its mutate cost, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)
+Double strike
+Whenever this creature mutates, it deals 4 damage to target creature or planeswalker an opponent controls and you gain 4 life.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CAT-files/img/71_Snapdax, Apex of the Hunt.png" num="71">CAT</set>
+			<prop>
+				<layout>mutate</layout>
+				<side>front</side>
+				<type>Legendary Creature — Dinosaur Cat Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>1RWB</manacost>
+				<cmc>4</cmc>
+				<colors>WBR</colors>
+				<coloridentity>WBR</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malakir Rebirth</name>
+			<text>Choose target creature. You lose 2 life. Until end of turn, that creature gains &quot;When this creature dies, return it to the battlefield tapped under its owner&apos;s control.&quot;</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/54_Malakir Rebirth.png" num="54">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Malakir Mire</name>
+			<text>Malakir Mire enters the battlefield tapped. 
+{T}: Add {B}.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CAT-files/img/89_Malakir Mire.png" num="89">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cat</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/13_Cat.png" num="13">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rakshasa Debaser</name>
+			<text>Whenever this creature attacks, put target creature card from defending player&apos;s graveyard onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/62_Rakshasa Debaser.png" num="62">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rakshasa Debaser</name>
+			<text>Whenever this creature attacks, put target creature card from defending player&apos;s graveyard onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/61_Rakshasa Debaser.png" num="61">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rakshasa Debaser</name>
+			<text>Whenever this creature attacks, put target creature card from defending player&apos;s graveyard onto the battlefield under your control.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/63_Rakshasa Debaser.png" num="63">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat Demon</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat Warrior</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/15_Cat Warrior.png" num="15">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/9_Cat.png" num="9">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fish</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/49_Fish.png" num="49">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Fish</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wicked Role</name>
+			<text>Enchant creature
+Enchanted creature gets +1/+1.
+When Wicked Role is put into a graveyard from the battlefield, each opponent loses 1 life.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/1_Wicked Role.png" num="1">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Enchantment — Aura Role</type>
+				<maintype>Enchantment</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/112_Swamp.png" num="112">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/95_Plains.png" num="95">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Anguished Unmaking</name>
+			<text>Exile target nonland permanent. You lose 3 life.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/65_Anguished Unmaking.png" num="65">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sword of the Animis</name>
+			<text>Equipped creature gets +1/+1.
+Whenever equipped creature attacks, you may search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+Equip {2}</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/77_Sword of the Animis.png" num="77">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ketramose, the New Dawn</name>
+			<text>Menace, lifelink, indestructible
+Ketramose can&apos;t attack or block unless there are seven or more cards in exile.
+Whenever one or more cards are put into exile from graveyards and/or the battlefield during your turn, you draw a card and lose 1 life.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CAT-files/img/68_Ketramose, the New Dawn.png" num="68">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — God</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Felidar Retreat</name>
+			<text>Landfall — Whenever a land you control enters, choose one —
+• Create a 2/2 white Cat Beast creature token.
+• Put a +1/+1 counter on each creature you control. Those creatures gain vigilance until end of turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/25_Felidar Retreat.png" num="25">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Mountain</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/92_Mountain.png" num="92">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Mountain</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Shattered Landscape</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice this land: Search your library for a basic Mountain, Plains, or Swamp card, put it onto the battlefield tapped, then shuffle.
+Cycling {R}{W}{B} ({R}{W}{B}, Discard this card: Draw a card.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/108_Shattered Landscape.png" num="108">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/111_Swamp.png" num="111">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/109_Swamp.png" num="109">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swamp</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/110_Swamp.png" num="110">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Swamp</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/101_Plains.png" num="101">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/96_Plains.png" num="96">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/102_Plains.png" num="102">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/97_Plains.png" num="97">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/94_Plains.png" num="94">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/98_Plains.png" num="98">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/99_Plains.png" num="99">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Plains</name>
+			<text></text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CAT-files/img/100_Plains.png" num="100">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Basic Land — Plains</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cat</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/6_Cat.png" num="6">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/12_Cat.png" num="12">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/11_Cat.png" num="11">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/10_Cat.png" num="10">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/8_Cat.png" num="8">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat</name>
+			<text>Lifelink</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/7_Cat.png" num="7">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat Warrior</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/14_Cat Warrior.png" num="14">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat Warrior</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/17_Cat Warrior.png" num="17">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Cat Warrior</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CAT-files/img/16_Cat Warrior.png" num="16">CAT</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+	</cards>
+</cockatrice_carddatabase>

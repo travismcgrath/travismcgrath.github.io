@@ -1,13 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<link rel="icon" type="image/png" href="/sets/CoA-files/icon.png"/>
-	<link rel="stylesheet" href="/resources/header.css">
+	<link rel="icon" type="image/png" href="../sets/CoA-files/icon.png"/>
+	<link rel="stylesheet" href="../resources/header.css">
 	<title>CoA visual preview</title>
+	<script title="root">
+		const rootPath = "..";
+	</script>
 	<style>
 		@font-face {
 			font-family: Beleren;
-			src: url('/resources/beleren.ttf');
+			src: url('../resources/beleren.ttf');
 		}
 		body {
 			font-family: Arial, sans-serif;
@@ -45,13 +48,15 @@
 			left: 10%;
 			top: 10%;
 			width: 85%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.sidebar-img {
 			vertical-align: middle;
 			width: 100%;
+			border-radius: 3.733% / 2.677%;
 		}
 		.close-btn {
-			background: url('/img/close.png') no-repeat;
+			background: url('../img/close.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 10%;
@@ -62,7 +67,7 @@
 			right: 4%;
 		}
 		.close-btn:hover {
-			background: url('/img/close-hover.png') no-repeat;
+			background: url('../img/close-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -82,6 +87,7 @@
 			display: block;
 			visibility: hidden;
 			cursor: pointer;
+			border-radius: 3.733% / 2.677%;
 		}
 		.banner {
 			width: 100%;
@@ -102,9 +108,10 @@
 		.container img {
 			width: 100%;
 			height: auto;
+			border-radius: 3.733% / 2.677%;
 		}
 		.flip-btn {
-			background: url('/img/flip.png') no-repeat;
+			background: url('../img/flip.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 			width: 15%;
@@ -118,7 +125,7 @@
 			opacity: 0.5;
 		}
 		.flip-btn:hover {
-			background: url('/img/flip-hover.png') no-repeat;
+			background: url('../img/flip-hover.png') no-repeat;
 			background-size: contain;
 			background-position: center;
 		}
@@ -174,391 +181,423 @@
 	</style>
 </head>
 <body>
-	<img class="preload-hidden" src="/img/dot.png" />
-	<img class="preload-hidden" src="/sets/CoA-files/logo.png" />
-	<img class="preload-hidden" src="/sets/CAT-files/icon.png" />
-		<img class="preload-hidden" src="/sets/CoA-files/icon.png" />
-		<img class="preload-hidden" src="/sets/FOOD-files/icon.png" />
+	<img class="preload-hidden" src="../img/dot.png" />
+	<img class="preload-hidden" src="../sets/CoA-files/logo.png" />
+	<img class="preload-hidden" src="../sets/CAT-files/icon.png" />
+		<img class="preload-hidden" src="../sets/CoA-files/icon.png" />
+		<img class="preload-hidden" src="../sets/FOOD-files/icon.png" />
 		<div class="header">
 		<div class="search-grid">
-			<a href="/"><img class="sg-logo" src="/img/banner.png"></a>
-			<img class="sg-icon" src="/img/search.png">
-			<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
-			<a href="/all-sets"><img src="/img/sets.png" class="sg-icon">Sets</a>
-			<a href="/deckbuilder"><img src="/img/deck.png" class="sg-icon">Deckbuilder</a>
-			<a onclick="randomCard()"><img src="/img/random.png" class="sg-icon">Random</a>
+			<a onclick="window.location.href = rootPath + '/'"><img class="sg-logo" id="header-banner"></a>
+			<img class="sg-icon" id="header-search" onclick="goToSearch()">
+			<div style="position: relative; width: 100%;">
+				<input type="text" inputmode="search" placeholder="Search ..." name="search" id="search" spellcheck="false" autocomplete="off" autocorrect="off" spellcheck="false">
+				<div id="tag-dropdown" style="display: none; position: absolute; top: 100%; left: 0; width: 100%; background: white; border: 1px solid #d5d9d9; z-index: 1000; max-height: 200px; overflow-y: auto; color: black; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>
+			</div>
+			<a onclick="window.location.href = rootPath + '/all-sets'"><img id="header-sets" class="sg-icon">Sets</a>
+			<a id="header-articles-link" onclick="window.location.href = rootPath + '/all-articles'" style="display: none;"><img id="header-articles" class="sg-icon">Articles</a>
+			<a id="header-decks-link" onclick="window.location.href = rootPath + '/decks'" style="display: none;"><img id="header-decks" class="sg-icon">Decks</a>
+			<a onclick="window.location.href = rootPath + '/deckbuilder'"><img id="header-deckbuilder" class="sg-icon">Deckbuilder</a>
+			<a onclick="randomCard()"><img id="header-random" class="sg-icon">Random</a>
 		</div>
 	</div>
+	<script>
+		document.addEventListener("DOMContentLoaded", function () {
+			document.getElementById("header-banner").src = rootPath + "/img/banner.png";
+			document.getElementById("header-search").src = rootPath + "/img/search.png";
+			document.getElementById("header-sets").src = rootPath + "/img/sets.png";
+			document.getElementById("header-articles").src = rootPath + "/img/articles.png";
+			document.getElementById("header-decks").src = rootPath + "/img/deck.png";
+			document.getElementById("header-deckbuilder").src = rootPath + "/img/deckbuilder.png";
+			document.getElementById("header-random").src = rootPath + "/img/random.png";
+
+			// Hide Articles if none exist
+			fetch(rootPath + '/all-articles.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-articles-link').style.display = 'flex';
+				}).catch(() => {});
+
+			// Hide Decks if none exist
+			fetch(rootPath + '/decks.html', { method: 'HEAD' })
+				.then(response => {
+					if (response.ok) document.getElementById('header-decks-link').style.display = 'flex';
+				}).catch(() => {});
+		});
+
+		function goToSearch() {
+			window.location.href = rootPath + "/search";
+		}
+	</script>
 
 	<div class="dropdown" id="dropdown" onmouseenter="rolldown()" onmouseleave="rollup()">
 	
-		<a class="set-bar" href="CoA"><img src="/sets/CoA-files/icon.png">Change on Avishkar</a>
+		<a class="set-bar" href="../previews/CoA"><img src="../sets/CoA-files/icon.png">Change on Avishkar</a>
 	
-		<a class="set-bar inactive" href="CAT"><img src="/sets/CAT-files/icon.png">Mewotate Proxies</a>
+		<a class="set-bar inactive" href="../previews/CAT"><img src="../sets/CAT-files/icon.png">Mewotate Proxies</a>
 	
-		<a class="set-bar inactive" href="FOOD"><img src="/sets/FOOD-files/icon.png">Food Fight</a>
+		<a class="set-bar inactive" href="../previews/FOOD"><img src="../sets/FOOD-files/icon.png">Food Fight</a>
 	
 		</div>
 		<div class="banner">
-		<img class="logo" src="/sets/CoA-files/logo.png">
+		<img class="logo" src="../sets/CoA-files/logo.png">
 		</div>
 		<div class="main-content" id="main-content">
 			<div class="grid-container">
-					<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\1_Aethermate Roc.png" id="1_Aethermate Roc" data-flag="@X" onclick="openSidebar('1_Aethermate Roc',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\58_Winds of Industry.png" id="58_Winds of Industry" data-flag="@X" onclick="openSidebar('58_Winds of Industry',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\64_Demon of Dark Schemes.png" id="64_Demon of Dark Schemes" data-flag="@X" onclick="openSidebar('64_Demon of Dark Schemes',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\103_Lightning Runner.png" id="103_Lightning Runner" data-flag="@X" onclick="openSidebar('103_Lightning Runner',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\133_Longtusk Pride.png" id="133_Longtusk Pride" data-flag="@X" onclick="openSidebar('133_Longtusk Pride',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\6_The Assembly's Orator.png" id="6_The Assemblys Orator" data-flag="@X" onclick="openSidebar('6_The Assemblys Orator',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\35_Confiscation Coup.png" id="35_Confiscation Coup" data-flag="@X" onclick="openSidebar('35_Confiscation Coup',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\61_Bloodsoaked Champion.png" id="61_Bloodsoaked Champion" data-flag="@X" onclick="openSidebar('61_Bloodsoaked Champion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\94_Eye of the Dragon.png" id="94_Eye of the Dragon" data-flag="@X" onclick="openSidebar('94_Eye of the Dragon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\118_Chianul, Qal Sisma Mystic.png" id="118_Chianul, Qal Sisma Mystic" data-flag="@X" onclick="openSidebar('118_Chianul, Qal Sisma Mystic',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\13_Fumigate.png" id="13_Fumigate" data-flag="@X" onclick="openSidebar('13_Fumigate',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\48_Machiavellian Will.png" id="48_Machiavellian Will" data-flag="@X" onclick="openSidebar('48_Machiavellian Will',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\72_Grim Haruspex.png" id="72_Grim Haruspex" data-flag="@X" onclick="openSidebar('72_Grim Haruspex',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\98_Gremlin Anarchist.png" id="98_Gremlin Anarchist" data-flag="@X" onclick="openSidebar('98_Gremlin Anarchist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\127_Hooded Hydra.png" id="127_Hooded Hydra" data-flag="@X" onclick="openSidebar('127_Hooded Hydra',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\16_Industrious Angel.png" id="16_Industrious Angel" data-flag="@X" onclick="openSidebar('16_Industrious Angel',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\49_Mine for Solutions.png" id="49_Mine for Solutions" data-flag="@X" onclick="openSidebar('49_Mine for Solutions',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\83_Syndicate Logistician.png" id="83_Syndicate Logistician" data-flag="@X" onclick="openSidebar('83_Syndicate Logistician',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\102_Jeering Instigator.png" id="102_Jeering Instigator" data-flag="@X" onclick="openSidebar('102_Jeering Instigator',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\142_Snapping Sanctuary.png" id="142_Snapping Sanctuary" data-flag="@X" onclick="openSidebar('142_Snapping Sanctuary',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\17_Master of Pearls.png" id="17_Master of Pearls" data-flag="@X" onclick="openSidebar('17_Master of Pearls',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\55_Thousand Winds.png" id="55_Thousand Winds" data-flag="@X" onclick="openSidebar('55_Thousand Winds',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\86_Unscrupulous Puppeteer.png" id="86_Unscrupulous Puppeteer" data-flag="@X" onclick="openSidebar('86_Unscrupulous Puppeteer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\110_Pearl Lake Salar.png" id="110_Pearl Lake Salar" data-flag="@X" onclick="openSidebar('110_Pearl Lake Salar',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\145_Tuskguard Colonel.png" id="145_Tuskguard Colonel" data-flag="@X" onclick="openSidebar('145_Tuskguard Colonel',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\4_Army for Hire.png" id="4_Army for Hire" data-flag="@X" onclick="openSidebar('4_Army for Hire',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\38_Denial Lobbyist.png" id="38_Denial Lobbyist" data-flag="@X" onclick="openSidebar('38_Denial Lobbyist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\59_Aether Extraction.png" id="59_Aether Extraction" data-flag="@X" onclick="openSidebar('59_Aether Extraction',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\89_Aetherbomb Arsonist.png" id="89_Aetherbomb Arsonist" data-flag="@X" onclick="openSidebar('89_Aetherbomb Arsonist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\121_Extinction Rebellion.png" id="121_Extinction Rebellion" data-flag="@X" onclick="openSidebar('121_Extinction Rebellion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\11_Empower the Masses.png" id="11_Empower the Masses" data-flag="@X" onclick="openSidebar('11_Empower the Masses',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\42_Filigreed Skywhale.png" id="42_Filigreed Skywhale" data-flag="@X" onclick="openSidebar('42_Filigreed Skywhale',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\60_Aetherborn Bond-Kin.png" id="60_Aetherborn Bond-Kin" data-flag="@X" onclick="openSidebar('60_Aetherborn Bond-Kin',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\90_Aetherspout Bulldozer.png" id="90_Aetherspout Bulldozer" data-flag="@X" onclick="openSidebar('90_Aetherspout Bulldozer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\126_Guardian of the Cowl.png" id="126_Guardian of the Cowl" data-flag="@X" onclick="openSidebar('126_Guardian of the Cowl',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\12_Entrant of the Way.png" id="12_Entrant of the Way" data-flag="@X" onclick="openSidebar('12_Entrant of the Way',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\44_Gearshift Pitcrew.png" id="44_Gearshift Pitcrew" data-flag="@X" onclick="openSidebar('44_Gearshift Pitcrew',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\62_Bloody Auctioneer.png" id="62_Bloody Auctioneer" data-flag="@X" onclick="openSidebar('62_Bloody Auctioneer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\91_Aetherspout Eruption.png" id="91_Aetherspout Eruption" data-flag="@X" onclick="openSidebar('91_Aetherspout Eruption',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\128_Hypnotizing AetherBorealis.png" id="128_Hypnotizing AetherBorealis" data-flag="@X" onclick="openSidebar('128_Hypnotizing AetherBorealis',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\14_Ghostfire's Light.png" id="14_Ghostfires Light" data-flag="@X" onclick="openSidebar('14_Ghostfires Light',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\45_Glacial Glintfisher.png" id="45_Glacial Glintfisher" data-flag="@X" onclick="openSidebar('45_Glacial Glintfisher',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\69_Glintsleeve Bruiser.png" id="69_Glintsleeve Bruiser" data-flag="@X" onclick="openSidebar('69_Glintsleeve Bruiser',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\92_Bloodfire Sage.png" id="92_Bloodfire Sage" data-flag="@X" onclick="openSidebar('92_Bloodfire Sage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\132_Liberated Dreadnought.png" id="132_Liberated Dreadnought" data-flag="@X" onclick="openSidebar('132_Liberated Dreadnought',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\20_Purchase Armorcraft.png" id="20_Purchase Armorcraft" data-flag="@X" onclick="openSidebar('20_Purchase Armorcraft',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\46_Glimmer of Genius.png" id="46_Glimmer of Genius" data-flag="@X" onclick="openSidebar('46_Glimmer of Genius',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\70_Gonti's Illicit Ironworks.png" id="70_Gontis Illicit Ironworks" data-flag="@X" onclick="openSidebar('70_Gontis Illicit Ironworks',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\93_Ceaseless Fires.png" id="93_Ceaseless Fires" data-flag="@X" onclick="openSidebar('93_Ceaseless Fires',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\134_Loxodon Memorial.png" id="134_Loxodon Memorial" data-flag="@X" onclick="openSidebar('134_Loxodon Memorial',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\21_Raise the Alms.png" id="21_Raise the Alms" data-flag="@X" onclick="openSidebar('21_Raise the Alms',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\47_Innovation Setbacks.png" id="47_Innovation Setbacks" data-flag="@X" onclick="openSidebar('47_Innovation Setbacks',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\73_Heir of the Wastes.png" id="73_Heir of the Wastes" data-flag="@X" onclick="openSidebar('73_Heir of the Wastes',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\99_Harnessed Lightning.png" id="99_Harnessed Lightning" data-flag="@X" onclick="openSidebar('99_Harnessed Lightning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\135_Nature's Glare.png" id="135_Natures Glare" data-flag="@X" onclick="openSidebar('135_Natures Glare',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\22_Rocslide.png" id="22_Rocslide" data-flag="@X" onclick="openSidebar('22_Rocslide',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\50_Minister of Flight.png" id="50_Minister of Flight" data-flag="@X" onclick="openSidebar('50_Minister of Flight',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\74_Irreversible Nightmare.png" id="74_Irreversible Nightmare" data-flag="@X" onclick="openSidebar('74_Irreversible Nightmare',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\101_Inauspicious Skyclaw.png" id="101_Inauspicious Skyclaw" data-flag="@X" onclick="openSidebar('101_Inauspicious Skyclaw',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\137_Peema Colossus.png" id="137_Peema Colossus" data-flag="@X" onclick="openSidebar('137_Peema Colossus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\23_Roost's Guardian.png" id="23_Roosts Guardian" data-flag="@X" onclick="openSidebar('23_Roosts Guardian',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\51_Polluting Byproduct.png" id="51_Polluting Byproduct" data-flag="@X" onclick="openSidebar('51_Polluting Byproduct',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\76_Miasmic Cloud.png" id="76_Miasmic Cloud" data-flag="@X" onclick="openSidebar('76_Miasmic Cloud',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\105_Maulfist Doorbuster.png" id="105_Maulfist Doorbuster" data-flag="@X" onclick="openSidebar('105_Maulfist Doorbuster',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\139_Resistance Factor.png" id="139_Resistance Factor" data-flag="@X" onclick="openSidebar('139_Resistance Factor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\26_Skywhaler's Shot.png" id="26_Skywhalers Shot" data-flag="@X" onclick="openSidebar('26_Skywhalers Shot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\52_Shrewd Negotiation.png" id="52_Shrewd Negotiation" data-flag="@X" onclick="openSidebar('52_Shrewd Negotiation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\78_Powered Down Timepiece.png" id="78_Powered Down Timepiece" data-flag="@X" onclick="openSidebar('78_Powered Down Timepiece',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\106_Myopic Pillaging.png" id="106_Myopic Pillaging" data-flag="@X" onclick="openSidebar('106_Myopic Pillaging',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\140_Riparian Jaguar.png" id="140_Riparian Jaguar" data-flag="@X" onclick="openSidebar('140_Riparian Jaguar',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\29_Teacher of the Way.png" id="29_Teacher of the Way" data-flag="@X" onclick="openSidebar('29_Teacher of the Way',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\54_Subverter.png" id="54_Subverter" data-flag="@X" onclick="openSidebar('54_Subverter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\85_Underhanded Designs.png" id="85_Underhanded Designs" data-flag="@X" onclick="openSidebar('85_Underhanded Designs',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\116_War-Name Aspirant.png" id="116_War-Name Aspirant" data-flag="@X" onclick="openSidebar('116_War-Name Aspirant',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\143_Storm Harmonist.png" id="143_Storm Harmonist" data-flag="@X" onclick="openSidebar('143_Storm Harmonist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\2_Apprehend Dissident.png" id="2_Apprehend Dissident" data-flag="@X" onclick="openSidebar('2_Apprehend Dissident',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\30_Aetherborn Incumbent.png" id="30_Aetherborn Incumbent" data-flag="@X" onclick="openSidebar('30_Aetherborn Incumbent',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\63_Defeatist Recycler.png" id="63_Defeatist Recycler" data-flag="@X" onclick="openSidebar('63_Defeatist Recycler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\88_Aether Dart.png" id="88_Aether Dart" data-flag="@X" onclick="openSidebar('88_Aether Dart',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\117_Alloy Loxodon.png" id="117_Alloy Loxodon" data-flag="@X" onclick="openSidebar('117_Alloy Loxodon',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\3_Aristocrats' Steed.png" id="3_Aristocrats Steed" data-flag="@X" onclick="openSidebar('3_Aristocrats Steed',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\31_Artificer's Epiphany.png" id="31_Artificers Epiphany" data-flag="@X" onclick="openSidebar('31_Artificers Epiphany',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\65_Die Young.png" id="65_Die Young" data-flag="@X" onclick="openSidebar('65_Die Young',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\95_Factory Mazdoor.png" id="95_Factory Mazdoor" data-flag="@X" onclick="openSidebar('95_Factory Mazdoor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\119_Devolution.png" id="119_Devolution" data-flag="@X" onclick="openSidebar('119_Devolution',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\5_Assembly's Attache.png" id="5_Assemblys Attache" data-flag="@X" onclick="openSidebar('5_Assemblys Attache',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\32_Astute Fairground Vendor.png" id="32_Astute Fairground Vendor" data-flag="@X" onclick="openSidebar('32_Astute Fairground Vendor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\66_Displaced Dreadmaw.png" id="66_Displaced Dreadmaw" data-flag="@X" onclick="openSidebar('66_Displaced Dreadmaw',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\96_Fairgrounds Acrobat.png" id="96_Fairgrounds Acrobat" data-flag="@X" onclick="openSidebar('96_Fairgrounds Acrobat',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\120_Disrupted Hibernator.png" id="120_Disrupted Hibernator" data-flag="@X" onclick="openSidebar('120_Disrupted Hibernator',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\7_Charming Kata.png" id="7_Charming Kata" data-flag="@X" onclick="openSidebar('7_Charming Kata',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\33_Backslide.png" id="33_Backslide" data-flag="@X" onclick="openSidebar('33_Backslide',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\67_Exhausting Shift.png" id="67_Exhausting Shift" data-flag="@X" onclick="openSidebar('67_Exhausting Shift',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\97_Fanatical Recruitment.png" id="97_Fanatical Recruitment" data-flag="@X" onclick="openSidebar('97_Fanatical Recruitment',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\122_Fairgrounds Security.png" id="122_Fairgrounds Security" data-flag="@X" onclick="openSidebar('122_Fairgrounds Security',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\8_Complete Devotion.png" id="8_Complete Devotion" data-flag="@X" onclick="openSidebar('8_Complete Devotion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\34_Cogify.png" id="34_Cogify" data-flag="@X" onclick="openSidebar('34_Cogify',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\68_Ghirapur Pickpocket.png" id="68_Ghirapur Pickpocket" data-flag="@X" onclick="openSidebar('68_Ghirapur Pickpocket',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\100_Hordeling Troublemaker.png" id="100_Hordeling Troublemaker" data-flag="@X" onclick="openSidebar('100_Hordeling Troublemaker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\123_Ferrophage Spider.png" id="123_Ferrophage Spider" data-flag="@X" onclick="openSidebar('123_Ferrophage Spider',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\9_Devout Kirin.png" id="9_Devout Kirin" data-flag="@X" onclick="openSidebar('9_Devout Kirin',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\36_Consol's Bodyguards.png" id="36_Consols Bodyguards" data-flag="@X" onclick="openSidebar('36_Consols Bodyguards',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\71_Graveyard Lurker.png" id="71_Graveyard Lurker" data-flag="@X" onclick="openSidebar('71_Graveyard Lurker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\104_Malign Aetherborn.png" id="104_Malign Aetherborn" data-flag="@X" onclick="openSidebar('104_Malign Aetherborn',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\124_Filigree-horn Luddite.png" id="124_Filigree-horn Luddite" data-flag="@X" onclick="openSidebar('124_Filigree-horn Luddite',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\10_Disassemble.png" id="10_Disassemble" data-flag="@X" onclick="openSidebar('10_Disassemble',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\37_Contrive.png" id="37_Contrive" data-flag="@X" onclick="openSidebar('37_Contrive',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\75_Live Fast.png" id="75_Live Fast" data-flag="@X" onclick="openSidebar('75_Live Fast',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\107_Narset's Student.png" id="107_Narsets Student" data-flag="@X" onclick="openSidebar('107_Narsets Student',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\125_Gift of Sagacity.png" id="125_Gift of Sagacity" data-flag="@X" onclick="openSidebar('125_Gift of Sagacity',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\15_Highspire Mystic.png" id="15_Highspire Mystic" data-flag="@X" onclick="openSidebar('15_Highspire Mystic',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\39_Dovin's Spy.png" id="39_Dovins Spy" data-flag="@X" onclick="openSidebar('39_Dovins Spy',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\77_Midnight Inspector.png" id="77_Midnight Inspector" data-flag="@X" onclick="openSidebar('77_Midnight Inspector',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\108_Offload.png" id="108_Offload" data-flag="@X" onclick="openSidebar('108_Offload',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\129_Immense Development.png" id="129_Immense Development" data-flag="@X" onclick="openSidebar('129_Immense Development',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\18_Medatative Inspiration.png" id="18_Medatative Inspiration" data-flag="@X" onclick="openSidebar('18_Medatative Inspiration',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\40_Drone Vendor.png" id="40_Drone Vendor" data-flag="@X" onclick="openSidebar('40_Drone Vendor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\79_Ruthless Ripper.png" id="79_Ruthless Ripper" data-flag="@X" onclick="openSidebar('79_Ruthless Ripper',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\109_Optimistic Nihilism.png" id="109_Optimistic Nihilism" data-flag="@X" onclick="openSidebar('109_Optimistic Nihilism',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\130_Incensed Druid.png" id="130_Incensed Druid" data-flag="@X" onclick="openSidebar('130_Incensed Druid',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\19_Mineral Appraiser.png" id="19_Mineral Appraiser" data-flag="@X" onclick="openSidebar('19_Mineral Appraiser',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\41_Failed Inspection.png" id="41_Failed Inspection" data-flag="@X" onclick="openSidebar('41_Failed Inspection',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\80_Seize the Means.png" id="80_Seize the Means" data-flag="@X" onclick="openSidebar('80_Seize the Means',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\111_Provoked Lightning.png" id="111_Provoked Lightning" data-flag="@X" onclick="openSidebar('111_Provoked Lightning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\131_Kurna's Consultant.png" id="131_Kurnas Consultant" data-flag="@X" onclick="openSidebar('131_Kurnas Consultant',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\24_Sage-Eye Apprentice.png" id="24_Sage-Eye Apprentice" data-flag="@X" onclick="openSidebar('24_Sage-Eye Apprentice',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\43_Gearseeker Squid.png" id="43_Gearseeker Squid" data-flag="@X" onclick="openSidebar('43_Gearseeker Squid',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\81_Shambling Aetherborn.png" id="81_Shambling Aetherborn" data-flag="@X" onclick="openSidebar('81_Shambling Aetherborn',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\112_Pupil of the Hidden Eye.png" id="112_Pupil of the Hidden Eye" data-flag="@X" onclick="openSidebar('112_Pupil of the Hidden Eye',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\136_Peema Boxer.png" id="136_Peema Boxer" data-flag="@X" onclick="openSidebar('136_Peema Boxer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\25_Skypatrol Aetherborn.png" id="25_Skypatrol Aetherborn" data-flag="@X" onclick="openSidebar('25_Skypatrol Aetherborn',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\53_Sponsor's Cruise.png" id="53_Sponsors Cruise" data-flag="@X" onclick="openSidebar('53_Sponsors Cruise',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\82_Sidisi's Scavenger.png" id="82_Sidisis Scavenger" data-flag="@X" onclick="openSidebar('82_Sidisis Scavenger',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\113_Rising Temperatures.png" id="113_Rising Temperatures" data-flag="@X" onclick="openSidebar('113_Rising Temperatures',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\138_Reimmerse In Nature.png" id="138_Reimmerse In Nature" data-flag="@X" onclick="openSidebar('138_Reimmerse In Nature',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\27_Spur to Believe.png" id="27_Spur to Believe" data-flag="@X" onclick="openSidebar('27_Spur to Believe',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\56_Tradewind Stalker.png" id="56_Tradewind Stalker" data-flag="@X" onclick="openSidebar('56_Tradewind Stalker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\84_Thriving Rats.png" id="84_Thriving Rats" data-flag="@X" onclick="openSidebar('84_Thriving Rats',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\114_Summit Postulant.png" id="114_Summit Postulant" data-flag="@X" onclick="openSidebar('114_Summit Postulant',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\141_Sage-Eyed Enforcer.png" id="141_Sage-Eyed Enforcer" data-flag="@X" onclick="openSidebar('141_Sage-Eyed Enforcer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\28_Tax On Action.png" id="28_Tax On Action" data-flag="@X" onclick="openSidebar('28_Tax On Action',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\57_Unseasonal Squall.png" id="57_Unseasonal Squall" data-flag="@X" onclick="openSidebar('57_Unseasonal Squall',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\87_Worker Strike.png" id="87_Worker Strike" data-flag="@X" onclick="openSidebar('87_Worker Strike',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\115_Thriving Grubs.png" id="115_Thriving Grubs" data-flag="@X" onclick="openSidebar('115_Thriving Grubs',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\144_Tenth Bridge Turret Guard.png" id="144_Tenth Bridge Turret Guard" data-flag="@X" onclick="openSidebar('144_Tenth Bridge Turret Guard',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+					<div class="container"><img loading="lazy" alt="sets\CoA-files\img\1_Aethermate Roc.png" id="CoA_1_Aethermate Roc" data-flag="@X" onclick="openSidebar('CoA_1_Aethermate Roc',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\58_Winds of Industry.png" id="CoA_58_Winds of Industry" data-flag="@X" onclick="openSidebar('CoA_58_Winds of Industry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\64_Demon of Dark Schemes.png" id="CoA_64_Demon of Dark Schemes" data-flag="@X" onclick="openSidebar('CoA_64_Demon of Dark Schemes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\103_Lightning Runner.png" id="CoA_103_Lightning Runner" data-flag="@X" onclick="openSidebar('CoA_103_Lightning Runner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\133_Longtusk Pride.png" id="CoA_133_Longtusk Pride" data-flag="@X" onclick="openSidebar('CoA_133_Longtusk Pride',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\6_The Assembly's Orator.png" id="CoA_6_The Assemblys Orator" data-flag="@X" onclick="openSidebar('CoA_6_The Assemblys Orator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\35_Confiscation Coup.png" id="CoA_35_Confiscation Coup" data-flag="@X" onclick="openSidebar('CoA_35_Confiscation Coup',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\61_Bloodsoaked Champion.png" id="CoA_61_Bloodsoaked Champion" data-flag="@X" onclick="openSidebar('CoA_61_Bloodsoaked Champion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\94_Eye of the Dragon.png" id="CoA_94_Eye of the Dragon" data-flag="@X" onclick="openSidebar('CoA_94_Eye of the Dragon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\118_Chianul, Qal Sisma Mystic.png" id="CoA_118_Chianul, Qal Sisma Mystic" data-flag="@X" onclick="openSidebar('CoA_118_Chianul, Qal Sisma Mystic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\13_Fumigate.png" id="CoA_13_Fumigate" data-flag="@X" onclick="openSidebar('CoA_13_Fumigate',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\48_Machiavellian Will.png" id="CoA_48_Machiavellian Will" data-flag="@X" onclick="openSidebar('CoA_48_Machiavellian Will',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\72_Grim Haruspex.png" id="CoA_72_Grim Haruspex" data-flag="@X" onclick="openSidebar('CoA_72_Grim Haruspex',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\98_Gremlin Anarchist.png" id="CoA_98_Gremlin Anarchist" data-flag="@X" onclick="openSidebar('CoA_98_Gremlin Anarchist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\127_Hooded Hydra.png" id="CoA_127_Hooded Hydra" data-flag="@X" onclick="openSidebar('CoA_127_Hooded Hydra',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\16_Industrious Angel.png" id="CoA_16_Industrious Angel" data-flag="@X" onclick="openSidebar('CoA_16_Industrious Angel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\49_Mine for Solutions.png" id="CoA_49_Mine for Solutions" data-flag="@X" onclick="openSidebar('CoA_49_Mine for Solutions',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\83_Syndicate Logistician.png" id="CoA_83_Syndicate Logistician" data-flag="@X" onclick="openSidebar('CoA_83_Syndicate Logistician',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\102_Jeering Instigator.png" id="CoA_102_Jeering Instigator" data-flag="@X" onclick="openSidebar('CoA_102_Jeering Instigator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\142_Snapping Sanctuary.png" id="CoA_142_Snapping Sanctuary" data-flag="@X" onclick="openSidebar('CoA_142_Snapping Sanctuary',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\17_Master of Pearls.png" id="CoA_17_Master of Pearls" data-flag="@X" onclick="openSidebar('CoA_17_Master of Pearls',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\55_Thousand Winds.png" id="CoA_55_Thousand Winds" data-flag="@X" onclick="openSidebar('CoA_55_Thousand Winds',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\86_Unscrupulous Puppeteer.png" id="CoA_86_Unscrupulous Puppeteer" data-flag="@X" onclick="openSidebar('CoA_86_Unscrupulous Puppeteer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\110_Pearl Lake Salar.png" id="CoA_110_Pearl Lake Salar" data-flag="@X" onclick="openSidebar('CoA_110_Pearl Lake Salar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\145_Tuskguard Colonel.png" id="CoA_145_Tuskguard Colonel" data-flag="@X" onclick="openSidebar('CoA_145_Tuskguard Colonel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\4_Army for Hire.png" id="CoA_4_Army for Hire" data-flag="@X" onclick="openSidebar('CoA_4_Army for Hire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\38_Denial Lobbyist.png" id="CoA_38_Denial Lobbyist" data-flag="@X" onclick="openSidebar('CoA_38_Denial Lobbyist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\59_Aether Extraction.png" id="CoA_59_Aether Extraction" data-flag="@X" onclick="openSidebar('CoA_59_Aether Extraction',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\89_Aetherbomb Arsonist.png" id="CoA_89_Aetherbomb Arsonist" data-flag="@X" onclick="openSidebar('CoA_89_Aetherbomb Arsonist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\121_Extinction Rebellion.png" id="CoA_121_Extinction Rebellion" data-flag="@X" onclick="openSidebar('CoA_121_Extinction Rebellion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\11_Empower the Masses.png" id="CoA_11_Empower the Masses" data-flag="@X" onclick="openSidebar('CoA_11_Empower the Masses',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\42_Filigreed Skywhale.png" id="CoA_42_Filigreed Skywhale" data-flag="@X" onclick="openSidebar('CoA_42_Filigreed Skywhale',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\60_Aetherborn Bond-Kin.png" id="CoA_60_Aetherborn Bond-Kin" data-flag="@X" onclick="openSidebar('CoA_60_Aetherborn Bond-Kin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\90_Aetherspout Bulldozer.png" id="CoA_90_Aetherspout Bulldozer" data-flag="@X" onclick="openSidebar('CoA_90_Aetherspout Bulldozer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\126_Guardian of the Cowl.png" id="CoA_126_Guardian of the Cowl" data-flag="@X" onclick="openSidebar('CoA_126_Guardian of the Cowl',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\12_Entrant of the Way.png" id="CoA_12_Entrant of the Way" data-flag="@X" onclick="openSidebar('CoA_12_Entrant of the Way',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\44_Gearshift Pitcrew.png" id="CoA_44_Gearshift Pitcrew" data-flag="@X" onclick="openSidebar('CoA_44_Gearshift Pitcrew',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\62_Bloody Auctioneer.png" id="CoA_62_Bloody Auctioneer" data-flag="@X" onclick="openSidebar('CoA_62_Bloody Auctioneer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\91_Aetherspout Eruption.png" id="CoA_91_Aetherspout Eruption" data-flag="@X" onclick="openSidebar('CoA_91_Aetherspout Eruption',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\128_Hypnotizing AetherBorealis.png" id="CoA_128_Hypnotizing AetherBorealis" data-flag="@X" onclick="openSidebar('CoA_128_Hypnotizing AetherBorealis',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\14_Ghostfire's Light.png" id="CoA_14_Ghostfires Light" data-flag="@X" onclick="openSidebar('CoA_14_Ghostfires Light',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\45_Glacial Glintfisher.png" id="CoA_45_Glacial Glintfisher" data-flag="@X" onclick="openSidebar('CoA_45_Glacial Glintfisher',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\69_Glintsleeve Bruiser.png" id="CoA_69_Glintsleeve Bruiser" data-flag="@X" onclick="openSidebar('CoA_69_Glintsleeve Bruiser',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\92_Bloodfire Sage.png" id="CoA_92_Bloodfire Sage" data-flag="@X" onclick="openSidebar('CoA_92_Bloodfire Sage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\132_Liberated Dreadnought.png" id="CoA_132_Liberated Dreadnought" data-flag="@X" onclick="openSidebar('CoA_132_Liberated Dreadnought',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\20_Purchase Armorcraft.png" id="CoA_20_Purchase Armorcraft" data-flag="@X" onclick="openSidebar('CoA_20_Purchase Armorcraft',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\46_Glimmer of Genius.png" id="CoA_46_Glimmer of Genius" data-flag="@X" onclick="openSidebar('CoA_46_Glimmer of Genius',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\70_Gonti's Illicit Ironworks.png" id="CoA_70_Gontis Illicit Ironworks" data-flag="@X" onclick="openSidebar('CoA_70_Gontis Illicit Ironworks',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\93_Ceaseless Fires.png" id="CoA_93_Ceaseless Fires" data-flag="@X" onclick="openSidebar('CoA_93_Ceaseless Fires',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\134_Loxodon Memorial.png" id="CoA_134_Loxodon Memorial" data-flag="@X" onclick="openSidebar('CoA_134_Loxodon Memorial',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\21_Raise the Alms.png" id="CoA_21_Raise the Alms" data-flag="@X" onclick="openSidebar('CoA_21_Raise the Alms',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\47_Innovation Setbacks.png" id="CoA_47_Innovation Setbacks" data-flag="@X" onclick="openSidebar('CoA_47_Innovation Setbacks',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\73_Heir of the Wastes.png" id="CoA_73_Heir of the Wastes" data-flag="@X" onclick="openSidebar('CoA_73_Heir of the Wastes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\99_Harnessed Lightning.png" id="CoA_99_Harnessed Lightning" data-flag="@X" onclick="openSidebar('CoA_99_Harnessed Lightning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\135_Nature's Glare.png" id="CoA_135_Natures Glare" data-flag="@X" onclick="openSidebar('CoA_135_Natures Glare',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\22_Rocslide.png" id="CoA_22_Rocslide" data-flag="@X" onclick="openSidebar('CoA_22_Rocslide',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\50_Minister of Flight.png" id="CoA_50_Minister of Flight" data-flag="@X" onclick="openSidebar('CoA_50_Minister of Flight',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\74_Irreversible Nightmare.png" id="CoA_74_Irreversible Nightmare" data-flag="@X" onclick="openSidebar('CoA_74_Irreversible Nightmare',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\101_Inauspicious Skyclaw.png" id="CoA_101_Inauspicious Skyclaw" data-flag="@X" onclick="openSidebar('CoA_101_Inauspicious Skyclaw',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\137_Peema Colossus.png" id="CoA_137_Peema Colossus" data-flag="@X" onclick="openSidebar('CoA_137_Peema Colossus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\23_Roost's Guardian.png" id="CoA_23_Roosts Guardian" data-flag="@X" onclick="openSidebar('CoA_23_Roosts Guardian',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\51_Polluting Byproduct.png" id="CoA_51_Polluting Byproduct" data-flag="@X" onclick="openSidebar('CoA_51_Polluting Byproduct',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\76_Miasmic Cloud.png" id="CoA_76_Miasmic Cloud" data-flag="@X" onclick="openSidebar('CoA_76_Miasmic Cloud',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\105_Maulfist Doorbuster.png" id="CoA_105_Maulfist Doorbuster" data-flag="@X" onclick="openSidebar('CoA_105_Maulfist Doorbuster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\139_Resistance Factor.png" id="CoA_139_Resistance Factor" data-flag="@X" onclick="openSidebar('CoA_139_Resistance Factor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\26_Skywhaler's Shot.png" id="CoA_26_Skywhalers Shot" data-flag="@X" onclick="openSidebar('CoA_26_Skywhalers Shot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\52_Shrewd Negotiation.png" id="CoA_52_Shrewd Negotiation" data-flag="@X" onclick="openSidebar('CoA_52_Shrewd Negotiation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\78_Powered Down Timepiece.png" id="CoA_78_Powered Down Timepiece" data-flag="@X" onclick="openSidebar('CoA_78_Powered Down Timepiece',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\106_Myopic Pillaging.png" id="CoA_106_Myopic Pillaging" data-flag="@X" onclick="openSidebar('CoA_106_Myopic Pillaging',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\140_Riparian Jaguar.png" id="CoA_140_Riparian Jaguar" data-flag="@X" onclick="openSidebar('CoA_140_Riparian Jaguar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\29_Teacher of the Way.png" id="CoA_29_Teacher of the Way" data-flag="@X" onclick="openSidebar('CoA_29_Teacher of the Way',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\54_Subverter.png" id="CoA_54_Subverter" data-flag="@X" onclick="openSidebar('CoA_54_Subverter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\85_Underhanded Designs.png" id="CoA_85_Underhanded Designs" data-flag="@X" onclick="openSidebar('CoA_85_Underhanded Designs',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\116_War-Name Aspirant.png" id="CoA_116_War-Name Aspirant" data-flag="@X" onclick="openSidebar('CoA_116_War-Name Aspirant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\143_Storm Harmonist.png" id="CoA_143_Storm Harmonist" data-flag="@X" onclick="openSidebar('CoA_143_Storm Harmonist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\2_Apprehend Dissident.png" id="CoA_2_Apprehend Dissident" data-flag="@X" onclick="openSidebar('CoA_2_Apprehend Dissident',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\30_Aetherborn Incumbent.png" id="CoA_30_Aetherborn Incumbent" data-flag="@X" onclick="openSidebar('CoA_30_Aetherborn Incumbent',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\63_Defeatist Recycler.png" id="CoA_63_Defeatist Recycler" data-flag="@X" onclick="openSidebar('CoA_63_Defeatist Recycler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\88_Aether Dart.png" id="CoA_88_Aether Dart" data-flag="@X" onclick="openSidebar('CoA_88_Aether Dart',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\117_Alloy Loxodon.png" id="CoA_117_Alloy Loxodon" data-flag="@X" onclick="openSidebar('CoA_117_Alloy Loxodon',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\3_Aristocrats' Steed.png" id="CoA_3_Aristocrats Steed" data-flag="@X" onclick="openSidebar('CoA_3_Aristocrats Steed',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\31_Artificer's Epiphany.png" id="CoA_31_Artificers Epiphany" data-flag="@X" onclick="openSidebar('CoA_31_Artificers Epiphany',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\65_Die Young.png" id="CoA_65_Die Young" data-flag="@X" onclick="openSidebar('CoA_65_Die Young',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\95_Factory Mazdoor.png" id="CoA_95_Factory Mazdoor" data-flag="@X" onclick="openSidebar('CoA_95_Factory Mazdoor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\119_Devolution.png" id="CoA_119_Devolution" data-flag="@X" onclick="openSidebar('CoA_119_Devolution',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\5_Assembly's Attache.png" id="CoA_5_Assemblys Attache" data-flag="@X" onclick="openSidebar('CoA_5_Assemblys Attache',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\32_Astute Fairground Vendor.png" id="CoA_32_Astute Fairground Vendor" data-flag="@X" onclick="openSidebar('CoA_32_Astute Fairground Vendor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\66_Displaced Dreadmaw.png" id="CoA_66_Displaced Dreadmaw" data-flag="@X" onclick="openSidebar('CoA_66_Displaced Dreadmaw',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\96_Fairgrounds Acrobat.png" id="CoA_96_Fairgrounds Acrobat" data-flag="@X" onclick="openSidebar('CoA_96_Fairgrounds Acrobat',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\120_Disrupted Hibernator.png" id="CoA_120_Disrupted Hibernator" data-flag="@X" onclick="openSidebar('CoA_120_Disrupted Hibernator',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\7_Charming Kata.png" id="CoA_7_Charming Kata" data-flag="@X" onclick="openSidebar('CoA_7_Charming Kata',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\33_Backslide.png" id="CoA_33_Backslide" data-flag="@X" onclick="openSidebar('CoA_33_Backslide',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\67_Exhausting Shift.png" id="CoA_67_Exhausting Shift" data-flag="@X" onclick="openSidebar('CoA_67_Exhausting Shift',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\97_Fanatical Recruitment.png" id="CoA_97_Fanatical Recruitment" data-flag="@X" onclick="openSidebar('CoA_97_Fanatical Recruitment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\122_Fairgrounds Security.png" id="CoA_122_Fairgrounds Security" data-flag="@X" onclick="openSidebar('CoA_122_Fairgrounds Security',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\8_Complete Devotion.png" id="CoA_8_Complete Devotion" data-flag="@X" onclick="openSidebar('CoA_8_Complete Devotion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\34_Cogify.png" id="CoA_34_Cogify" data-flag="@X" onclick="openSidebar('CoA_34_Cogify',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\68_Ghirapur Pickpocket.png" id="CoA_68_Ghirapur Pickpocket" data-flag="@X" onclick="openSidebar('CoA_68_Ghirapur Pickpocket',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\100_Hordeling Troublemaker.png" id="CoA_100_Hordeling Troublemaker" data-flag="@X" onclick="openSidebar('CoA_100_Hordeling Troublemaker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\123_Ferrophage Spider.png" id="CoA_123_Ferrophage Spider" data-flag="@X" onclick="openSidebar('CoA_123_Ferrophage Spider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\9_Devout Kirin.png" id="CoA_9_Devout Kirin" data-flag="@X" onclick="openSidebar('CoA_9_Devout Kirin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\36_Consol's Bodyguards.png" id="CoA_36_Consols Bodyguards" data-flag="@X" onclick="openSidebar('CoA_36_Consols Bodyguards',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\71_Graveyard Lurker.png" id="CoA_71_Graveyard Lurker" data-flag="@X" onclick="openSidebar('CoA_71_Graveyard Lurker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\104_Malign Aetherborn.png" id="CoA_104_Malign Aetherborn" data-flag="@X" onclick="openSidebar('CoA_104_Malign Aetherborn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\124_Filigree-horn Luddite.png" id="CoA_124_Filigree-horn Luddite" data-flag="@X" onclick="openSidebar('CoA_124_Filigree-horn Luddite',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\10_Disassemble.png" id="CoA_10_Disassemble" data-flag="@X" onclick="openSidebar('CoA_10_Disassemble',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\37_Contrive.png" id="CoA_37_Contrive" data-flag="@X" onclick="openSidebar('CoA_37_Contrive',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\75_Live Fast.png" id="CoA_75_Live Fast" data-flag="@X" onclick="openSidebar('CoA_75_Live Fast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\107_Narset's Student.png" id="CoA_107_Narsets Student" data-flag="@X" onclick="openSidebar('CoA_107_Narsets Student',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\125_Gift of Sagacity.png" id="CoA_125_Gift of Sagacity" data-flag="@X" onclick="openSidebar('CoA_125_Gift of Sagacity',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\15_Highspire Mystic.png" id="CoA_15_Highspire Mystic" data-flag="@X" onclick="openSidebar('CoA_15_Highspire Mystic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\39_Dovin's Spy.png" id="CoA_39_Dovins Spy" data-flag="@X" onclick="openSidebar('CoA_39_Dovins Spy',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\77_Midnight Inspector.png" id="CoA_77_Midnight Inspector" data-flag="@X" onclick="openSidebar('CoA_77_Midnight Inspector',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\108_Offload.png" id="CoA_108_Offload" data-flag="@X" onclick="openSidebar('CoA_108_Offload',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\129_Immense Development.png" id="CoA_129_Immense Development" data-flag="@X" onclick="openSidebar('CoA_129_Immense Development',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\18_Medatative Inspiration.png" id="CoA_18_Medatative Inspiration" data-flag="@X" onclick="openSidebar('CoA_18_Medatative Inspiration',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\40_Drone Vendor.png" id="CoA_40_Drone Vendor" data-flag="@X" onclick="openSidebar('CoA_40_Drone Vendor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\79_Ruthless Ripper.png" id="CoA_79_Ruthless Ripper" data-flag="@X" onclick="openSidebar('CoA_79_Ruthless Ripper',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\109_Optimistic Nihilism.png" id="CoA_109_Optimistic Nihilism" data-flag="@X" onclick="openSidebar('CoA_109_Optimistic Nihilism',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\130_Incensed Druid.png" id="CoA_130_Incensed Druid" data-flag="@X" onclick="openSidebar('CoA_130_Incensed Druid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\19_Mineral Appraiser.png" id="CoA_19_Mineral Appraiser" data-flag="@X" onclick="openSidebar('CoA_19_Mineral Appraiser',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\41_Failed Inspection.png" id="CoA_41_Failed Inspection" data-flag="@X" onclick="openSidebar('CoA_41_Failed Inspection',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\80_Seize the Means.png" id="CoA_80_Seize the Means" data-flag="@X" onclick="openSidebar('CoA_80_Seize the Means',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\111_Provoked Lightning.png" id="CoA_111_Provoked Lightning" data-flag="@X" onclick="openSidebar('CoA_111_Provoked Lightning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\131_Kurna's Consultant.png" id="CoA_131_Kurnas Consultant" data-flag="@X" onclick="openSidebar('CoA_131_Kurnas Consultant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\24_Sage-Eye Apprentice.png" id="CoA_24_Sage-Eye Apprentice" data-flag="@X" onclick="openSidebar('CoA_24_Sage-Eye Apprentice',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\43_Gearseeker Squid.png" id="CoA_43_Gearseeker Squid" data-flag="@X" onclick="openSidebar('CoA_43_Gearseeker Squid',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\81_Shambling Aetherborn.png" id="CoA_81_Shambling Aetherborn" data-flag="@X" onclick="openSidebar('CoA_81_Shambling Aetherborn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\112_Pupil of the Hidden Eye.png" id="CoA_112_Pupil of the Hidden Eye" data-flag="@X" onclick="openSidebar('CoA_112_Pupil of the Hidden Eye',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\136_Peema Boxer.png" id="CoA_136_Peema Boxer" data-flag="@X" onclick="openSidebar('CoA_136_Peema Boxer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\25_Skypatrol Aetherborn.png" id="CoA_25_Skypatrol Aetherborn" data-flag="@X" onclick="openSidebar('CoA_25_Skypatrol Aetherborn',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\53_Sponsor's Cruise.png" id="CoA_53_Sponsors Cruise" data-flag="@X" onclick="openSidebar('CoA_53_Sponsors Cruise',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\82_Sidisi's Scavenger.png" id="CoA_82_Sidisis Scavenger" data-flag="@X" onclick="openSidebar('CoA_82_Sidisis Scavenger',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\113_Rising Temperatures.png" id="CoA_113_Rising Temperatures" data-flag="@X" onclick="openSidebar('CoA_113_Rising Temperatures',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\138_Reimmerse In Nature.png" id="CoA_138_Reimmerse In Nature" data-flag="@X" onclick="openSidebar('CoA_138_Reimmerse In Nature',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\27_Spur to Believe.png" id="CoA_27_Spur to Believe" data-flag="@X" onclick="openSidebar('CoA_27_Spur to Believe',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\56_Tradewind Stalker.png" id="CoA_56_Tradewind Stalker" data-flag="@X" onclick="openSidebar('CoA_56_Tradewind Stalker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\84_Thriving Rats.png" id="CoA_84_Thriving Rats" data-flag="@X" onclick="openSidebar('CoA_84_Thriving Rats',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\114_Summit Postulant.png" id="CoA_114_Summit Postulant" data-flag="@X" onclick="openSidebar('CoA_114_Summit Postulant',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\141_Sage-Eyed Enforcer.png" id="CoA_141_Sage-Eyed Enforcer" data-flag="@X" onclick="openSidebar('CoA_141_Sage-Eyed Enforcer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\28_Tax On Action.png" id="CoA_28_Tax On Action" data-flag="@X" onclick="openSidebar('CoA_28_Tax On Action',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\57_Unseasonal Squall.png" id="CoA_57_Unseasonal Squall" data-flag="@X" onclick="openSidebar('CoA_57_Unseasonal Squall',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\87_Worker Strike.png" id="CoA_87_Worker Strike" data-flag="@X" onclick="openSidebar('CoA_87_Worker Strike',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\115_Thriving Grubs.png" id="CoA_115_Thriving Grubs" data-flag="@X" onclick="openSidebar('CoA_115_Thriving Grubs',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\144_Tenth Bridge Turret Guard.png" id="CoA_144_Tenth Bridge Turret Guard" data-flag="@X" onclick="openSidebar('CoA_144_Tenth Bridge Turret Guard',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
 				<div id="gold" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\202_Torrential Ice Wave.png" id="202_Torrential Ice Wave" data-flag="@X" onclick="openSidebar('202_Torrential Ice Wave',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\186_Noxious Duststorm.png" id="186_Noxious Duststorm" data-flag="@X" onclick="openSidebar('186_Noxious Duststorm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\162_Combustible Lightning.png" id="162_Combustible Lightning" data-flag="@X" onclick="openSidebar('162_Combustible Lightning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\205_Verdurous Wildfire.png" id="205_Verdurous Wildfire" data-flag="@X" onclick="openSidebar('205_Verdurous Wildfire',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\157_Cataclysmic Earthquake.png" id="157_Cataclysmic Earthquake" data-flag="@X" onclick="openSidebar('157_Cataclysmic Earthquake',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\156_Bull Market.png" id="156_Bull Market" data-flag="@X" onclick="openSidebar('156_Bull Market',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\153_Bear Market.png" id="153_Bear Market" data-flag="@X" onclick="openSidebar('153_Bear Market',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\168_Empty The Vault.png" id="168_Empty The Vault" data-flag="@X" onclick="openSidebar('168_Empty The Vault',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\154_Birth of Rebellion.png" id="154_Birth of Rebellion" data-flag="@X" onclick="openSidebar('154_Birth of Rebellion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\158_Chianul's Guidance.png" id="158_Chianuls Guidance" data-flag="@X" onclick="openSidebar('158_Chianuls Guidance',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\193_Sai's Patronage.png" id="193_Sais Patronage" data-flag="@X" onclick="openSidebar('193_Sais Patronage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\196_Self-regulated Saftey.png" id="196_Self-regulated Saftey" data-flag="@X" onclick="openSidebar('196_Self-regulated Saftey',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\175_Impulsive Fracking.png" id="175_Impulsive Fracking" data-flag="@X" onclick="openSidebar('175_Impulsive Fracking',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\209_Yasova, Firebrand Zealot.png" id="209_Yasova, Firebrand Zealot" data-flag="@X" onclick="openSidebar('209_Yasova, Firebrand Zealot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\187_Oviya Pashiri, Onlooking Spiritcrafter.png" id="187_Oviya Pashiri, Onlooking Spiritcrafter" data-flag="@X" onclick="openSidebar('187_Oviya Pashiri, Onlooking Spiritcrafter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\151_Assembly's Gryphoner.png" id="151_Assemblys Gryphoner" data-flag="@X" onclick="openSidebar('151_Assemblys Gryphoner',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\163_Contraband Kingpin.png" id="163_Contraband Kingpin" data-flag="@X" onclick="openSidebar('163_Contraband Kingpin',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\149_Ashcloud Dragster.png" id="149_Ashcloud Dragster" data-flag="@X" onclick="openSidebar('149_Ashcloud Dragster',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\159_Chief of the Hammer.png" id="159_Chief of the Hammer" data-flag="@X" onclick="openSidebar('159_Chief of the Hammer',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\171_Highspire Adept.png" id="171_Highspire Adept" data-flag="@X" onclick="openSidebar('171_Highspire Adept',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\160_Chief of the Nail.png" id="160_Chief of the Nail" data-flag="@X" onclick="openSidebar('160_Chief of the Nail',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\173_Icefeather Carrion.png" id="173_Icefeather Carrion" data-flag="@X" onclick="openSidebar('173_Icefeather Carrion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\152_Baral, Renegade Brawler.png" id="152_Baral, Renegade Brawler" data-flag="@X" onclick="openSidebar('152_Baral, Renegade Brawler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\170_Guarded Supply Freighter.png" id="170_Guarded Supply Freighter" data-flag="@X" onclick="openSidebar('170_Guarded Supply Freighter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\177_Inventor's Mantle.png" id="177_Inventors Mantle" data-flag="@X" onclick="openSidebar('177_Inventors Mantle',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\201_Tenth Bridge Copter.png" id="201_Tenth Bridge Copter" data-flag="@X" onclick="openSidebar('201_Tenth Bridge Copter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\178_Kheru Harvester.png" id="178_Kheru Harvester" data-flag="@X" onclick="openSidebar('178_Kheru Harvester',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\203_Unlicensed Syphoning.png" id="203_Unlicensed Syphoning" data-flag="@X" onclick="openSidebar('203_Unlicensed Syphoning',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\198_Smash Up.png" id="198_Smash Up" data-flag="@X" onclick="openSidebar('198_Smash Up',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\194_Salt Road Tank.png" id="194_Salt Road Tank" data-flag="@X" onclick="openSidebar('194_Salt Road Tank',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\164_Dovin Baan, Persistent Ruler.png" id="164_Dovin Baan, Persistent Ruler" data-flag="@X" onclick="openSidebar('164_Dovin Baan, Persistent Ruler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\197_Sidisi, Scales of Industry.png" id="197_Sidisi, Scales of Industry" data-flag="@X" onclick="openSidebar('197_Sidisi, Scales of Industry',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\210_Zurgo, Anarchist Leader.png" id="210_Zurgo, Anarchist Leader" data-flag="@X" onclick="openSidebar('210_Zurgo, Anarchist Leader',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\184_Narset, Panharmonastic Sage.png" id="184_Narset, Panharmonastic Sage" data-flag="@X" onclick="openSidebar('184_Narset, Panharmonastic Sage',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\180_Kurna Majan, Luminary Financier.png" id="180_Kurna Majan, Luminary Financier" data-flag="@X" onclick="openSidebar('180_Kurna Majan, Luminary Financier',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\150_Assemblyman of Preservation.png" id="150_Assemblyman of Preservation" data-flag="@X" onclick="openSidebar('150_Assemblyman of Preservation',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\146_Adi Thandray, Platinum Ancestor.png" id="146_Adi Thandray, Platinum Ancestor" data-flag="@X" onclick="openSidebar('146_Adi Thandray, Platinum Ancestor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\148_Ancestor, Who Smirks at Law.png" id="148_Ancestor, Who Smirks at Law" data-flag="@X" onclick="openSidebar('148_Ancestor, Who Smirks at Law',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\165_Dragonfist Technique.png" id="165_Dragonfist Technique" data-flag="@X" onclick="openSidebar('165_Dragonfist Technique',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\166_Dustblast.png" id="166_Dustblast" data-flag="@X" onclick="openSidebar('166_Dustblast',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\200_Temporize Activist.png" id="200_Temporize Activist" data-flag="@X" onclick="openSidebar('200_Temporize Activist',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\192_Sagu Deforester.png" id="192_Sagu Deforester" data-flag="@X" onclick="openSidebar('192_Sagu Deforester',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\155_Booming Karma.png" id="155_Booming Karma" data-flag="@X" onclick="openSidebar('155_Booming Karma',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\172_Houn, Beguiling Ancestor.png" id="172_Houn, Beguiling Ancestor" data-flag="@X" onclick="openSidebar('172_Houn, Beguiling Ancestor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\167_Dynastic Inheritance.png" id="167_Dynastic Inheritance" data-flag="@X" onclick="openSidebar('167_Dynastic Inheritance',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\208_Yahenni, Altruistic Ancestor.png" id="208_Yahenni, Altruistic Ancestor" data-flag="@X" onclick="openSidebar('208_Yahenni, Altruistic Ancestor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\195_Savage Union Busters.png" id="195_Savage Union Busters" data-flag="@X" onclick="openSidebar('195_Savage Union Busters',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\179_Kneecap Blaster.png" id="179_Kneecap Blaster" data-flag="@X" onclick="openSidebar('179_Kneecap Blaster',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\191_Sage of the Vitalfire.png" id="191_Sage of the Vitalfire" data-flag="@X" onclick="openSidebar('191_Sage of the Vitalfire',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\199_Surrak, Pelt-Clad Ancestor.png" id="199_Surrak, Pelt-Clad Ancestor" data-flag="@X" onclick="openSidebar('199_Surrak, Pelt-Clad Ancestor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\189_Political Charm.png" id="189_Political Charm" data-flag="@X" onclick="openSidebar('189_Political Charm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\147_Aetherborn Dreamwalker.png" id="147_Aetherborn Dreamwalker" data-flag="@X" onclick="openSidebar('147_Aetherborn Dreamwalker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\185_Nihilist Roughrider.png" id="185_Nihilist Roughrider" data-flag="@X" onclick="openSidebar('185_Nihilist Roughrider',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\182_Monastic Charm.png" id="182_Monastic Charm" data-flag="@X" onclick="openSidebar('182_Monastic Charm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\161_Citizen's Companion.png" id="161_Citizens Companion" data-flag="@X" onclick="openSidebar('161_Citizens Companion',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\207_Whisper Virtuoso.png" id="207_Whisper Virtuoso" data-flag="@X" onclick="openSidebar('207_Whisper Virtuoso',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\181_Labor Charm.png" id="181_Labor Charm" data-flag="@X" onclick="openSidebar('181_Labor Charm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\190_Rebelious Charm.png" id="190_Rebelious Charm" data-flag="@X" onclick="openSidebar('190_Rebelious Charm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\206_Warden of the Scrolls.png" id="206_Warden of the Scrolls" data-flag="@X" onclick="openSidebar('206_Warden of the Scrolls',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\169_Finance Charm.png" id="169_Finance Charm" data-flag="@X" onclick="openSidebar('169_Finance Charm',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\176_Inspector Brigade.png" id="176_Inspector Brigade" data-flag="@X" onclick="openSidebar('176_Inspector Brigade',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\204_Vedalken Aetherlooter.png" id="204_Vedalken Aetherlooter" data-flag="@X" onclick="openSidebar('204_Vedalken Aetherlooter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\188_Peema Woods Champions.png" id="188_Peema Woods Champions" data-flag="@X" onclick="openSidebar('188_Peema Woods Champions',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\183_Mystic of The Way.png" id="183_Mystic of The Way" data-flag="@X" onclick="openSidebar('183_Mystic of The Way',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\174_Illusion of Luxury.png" id="174_Illusion of Luxury" data-flag="@X" onclick="openSidebar('174_Illusion of Luxury',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\202_Torrential Ice Wave.png" id="CoA_202_Torrential Ice Wave" data-flag="@X" onclick="openSidebar('CoA_202_Torrential Ice Wave',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\186_Noxious Duststorm.png" id="CoA_186_Noxious Duststorm" data-flag="@X" onclick="openSidebar('CoA_186_Noxious Duststorm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\162_Combustible Lightning.png" id="CoA_162_Combustible Lightning" data-flag="@X" onclick="openSidebar('CoA_162_Combustible Lightning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\205_Verdurous Wildfire.png" id="CoA_205_Verdurous Wildfire" data-flag="@X" onclick="openSidebar('CoA_205_Verdurous Wildfire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\157_Cataclysmic Earthquake.png" id="CoA_157_Cataclysmic Earthquake" data-flag="@X" onclick="openSidebar('CoA_157_Cataclysmic Earthquake',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\156_Bull Market.png" id="CoA_156_Bull Market" data-flag="@X" onclick="openSidebar('CoA_156_Bull Market',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\153_Bear Market.png" id="CoA_153_Bear Market" data-flag="@X" onclick="openSidebar('CoA_153_Bear Market',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\168_Empty The Vault.png" id="CoA_168_Empty The Vault" data-flag="@X" onclick="openSidebar('CoA_168_Empty The Vault',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\154_Birth of Rebellion.png" id="CoA_154_Birth of Rebellion" data-flag="@X" onclick="openSidebar('CoA_154_Birth of Rebellion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\158_Chianul's Guidance.png" id="CoA_158_Chianuls Guidance" data-flag="@X" onclick="openSidebar('CoA_158_Chianuls Guidance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\193_Sai's Patronage.png" id="CoA_193_Sais Patronage" data-flag="@X" onclick="openSidebar('CoA_193_Sais Patronage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\196_Self-regulated Saftey.png" id="CoA_196_Self-regulated Saftey" data-flag="@X" onclick="openSidebar('CoA_196_Self-regulated Saftey',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\175_Impulsive Fracking.png" id="CoA_175_Impulsive Fracking" data-flag="@X" onclick="openSidebar('CoA_175_Impulsive Fracking',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\209_Yasova, Firebrand Zealot.png" id="CoA_209_Yasova, Firebrand Zealot" data-flag="@X" onclick="openSidebar('CoA_209_Yasova, Firebrand Zealot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\187_Oviya Pashiri, Onlooking Spiritcrafter.png" id="CoA_187_Oviya Pashiri, Onlooking Spiritcrafter" data-flag="@X" onclick="openSidebar('CoA_187_Oviya Pashiri, Onlooking Spiritcrafter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\151_Assembly's Gryphoner.png" id="CoA_151_Assemblys Gryphoner" data-flag="@X" onclick="openSidebar('CoA_151_Assemblys Gryphoner',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\163_Contraband Kingpin.png" id="CoA_163_Contraband Kingpin" data-flag="@X" onclick="openSidebar('CoA_163_Contraband Kingpin',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\149_Ashcloud Dragster.png" id="CoA_149_Ashcloud Dragster" data-flag="@X" onclick="openSidebar('CoA_149_Ashcloud Dragster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\159_Chief of the Hammer.png" id="CoA_159_Chief of the Hammer" data-flag="@X" onclick="openSidebar('CoA_159_Chief of the Hammer',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\171_Highspire Adept.png" id="CoA_171_Highspire Adept" data-flag="@X" onclick="openSidebar('CoA_171_Highspire Adept',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\160_Chief of the Nail.png" id="CoA_160_Chief of the Nail" data-flag="@X" onclick="openSidebar('CoA_160_Chief of the Nail',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\173_Icefeather Carrion.png" id="CoA_173_Icefeather Carrion" data-flag="@X" onclick="openSidebar('CoA_173_Icefeather Carrion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\152_Baral, Renegade Brawler.png" id="CoA_152_Baral, Renegade Brawler" data-flag="@X" onclick="openSidebar('CoA_152_Baral, Renegade Brawler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\170_Guarded Supply Freighter.png" id="CoA_170_Guarded Supply Freighter" data-flag="@X" onclick="openSidebar('CoA_170_Guarded Supply Freighter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\177_Inventor's Mantle.png" id="CoA_177_Inventors Mantle" data-flag="@X" onclick="openSidebar('CoA_177_Inventors Mantle',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\201_Tenth Bridge Copter.png" id="CoA_201_Tenth Bridge Copter" data-flag="@X" onclick="openSidebar('CoA_201_Tenth Bridge Copter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\178_Kheru Harvester.png" id="CoA_178_Kheru Harvester" data-flag="@X" onclick="openSidebar('CoA_178_Kheru Harvester',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\203_Unlicensed Syphoning.png" id="CoA_203_Unlicensed Syphoning" data-flag="@X" onclick="openSidebar('CoA_203_Unlicensed Syphoning',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\198_Smash Up.png" id="CoA_198_Smash Up" data-flag="@X" onclick="openSidebar('CoA_198_Smash Up',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\194_Salt Road Tank.png" id="CoA_194_Salt Road Tank" data-flag="@X" onclick="openSidebar('CoA_194_Salt Road Tank',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\164_Dovin Baan, Persistent Ruler.png" id="CoA_164_Dovin Baan, Persistent Ruler" data-flag="@X" onclick="openSidebar('CoA_164_Dovin Baan, Persistent Ruler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\197_Sidisi, Scales of Industry.png" id="CoA_197_Sidisi, Scales of Industry" data-flag="@X" onclick="openSidebar('CoA_197_Sidisi, Scales of Industry',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\210_Zurgo, Anarchist Leader.png" id="CoA_210_Zurgo, Anarchist Leader" data-flag="@X" onclick="openSidebar('CoA_210_Zurgo, Anarchist Leader',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\184_Narset, Panharmonastic Sage.png" id="CoA_184_Narset, Panharmonastic Sage" data-flag="@X" onclick="openSidebar('CoA_184_Narset, Panharmonastic Sage',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\180_Kurna Majan, Luminary Financier.png" id="CoA_180_Kurna Majan, Luminary Financier" data-flag="@X" onclick="openSidebar('CoA_180_Kurna Majan, Luminary Financier',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\150_Assemblyman of Preservation.png" id="CoA_150_Assemblyman of Preservation" data-flag="@X" onclick="openSidebar('CoA_150_Assemblyman of Preservation',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\146_Adi Thandray, Platinum Ancestor.png" id="CoA_146_Adi Thandray, Platinum Ancestor" data-flag="@X" onclick="openSidebar('CoA_146_Adi Thandray, Platinum Ancestor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\148_Ancestor, Who Smirks at Law.png" id="CoA_148_Ancestor, Who Smirks at Law" data-flag="@X" onclick="openSidebar('CoA_148_Ancestor, Who Smirks at Law',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\165_Dragonfist Technique.png" id="CoA_165_Dragonfist Technique" data-flag="@X" onclick="openSidebar('CoA_165_Dragonfist Technique',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\166_Dustblast.png" id="CoA_166_Dustblast" data-flag="@X" onclick="openSidebar('CoA_166_Dustblast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\200_Temporize Activist.png" id="CoA_200_Temporize Activist" data-flag="@X" onclick="openSidebar('CoA_200_Temporize Activist',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\192_Sagu Deforester.png" id="CoA_192_Sagu Deforester" data-flag="@X" onclick="openSidebar('CoA_192_Sagu Deforester',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\155_Booming Karma.png" id="CoA_155_Booming Karma" data-flag="@X" onclick="openSidebar('CoA_155_Booming Karma',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\172_Houn, Beguiling Ancestor.png" id="CoA_172_Houn, Beguiling Ancestor" data-flag="@X" onclick="openSidebar('CoA_172_Houn, Beguiling Ancestor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\167_Dynastic Inheritance.png" id="CoA_167_Dynastic Inheritance" data-flag="@X" onclick="openSidebar('CoA_167_Dynastic Inheritance',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\208_Yahenni, Altruistic Ancestor.png" id="CoA_208_Yahenni, Altruistic Ancestor" data-flag="@X" onclick="openSidebar('CoA_208_Yahenni, Altruistic Ancestor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\195_Savage Union Busters.png" id="CoA_195_Savage Union Busters" data-flag="@X" onclick="openSidebar('CoA_195_Savage Union Busters',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\179_Kneecap Blaster.png" id="CoA_179_Kneecap Blaster" data-flag="@X" onclick="openSidebar('CoA_179_Kneecap Blaster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\191_Sage of the Vitalfire.png" id="CoA_191_Sage of the Vitalfire" data-flag="@X" onclick="openSidebar('CoA_191_Sage of the Vitalfire',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\199_Surrak, Pelt-Clad Ancestor.png" id="CoA_199_Surrak, Pelt-Clad Ancestor" data-flag="@X" onclick="openSidebar('CoA_199_Surrak, Pelt-Clad Ancestor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\189_Political Charm.png" id="CoA_189_Political Charm" data-flag="@X" onclick="openSidebar('CoA_189_Political Charm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\147_Aetherborn Dreamwalker.png" id="CoA_147_Aetherborn Dreamwalker" data-flag="@X" onclick="openSidebar('CoA_147_Aetherborn Dreamwalker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\185_Nihilist Roughrider.png" id="CoA_185_Nihilist Roughrider" data-flag="@X" onclick="openSidebar('CoA_185_Nihilist Roughrider',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\182_Monastic Charm.png" id="CoA_182_Monastic Charm" data-flag="@X" onclick="openSidebar('CoA_182_Monastic Charm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\161_Citizen's Companion.png" id="CoA_161_Citizens Companion" data-flag="@X" onclick="openSidebar('CoA_161_Citizens Companion',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\207_Whisper Virtuoso.png" id="CoA_207_Whisper Virtuoso" data-flag="@X" onclick="openSidebar('CoA_207_Whisper Virtuoso',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\181_Labor Charm.png" id="CoA_181_Labor Charm" data-flag="@X" onclick="openSidebar('CoA_181_Labor Charm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\190_Rebelious Charm.png" id="CoA_190_Rebelious Charm" data-flag="@X" onclick="openSidebar('CoA_190_Rebelious Charm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\206_Warden of the Scrolls.png" id="CoA_206_Warden of the Scrolls" data-flag="@X" onclick="openSidebar('CoA_206_Warden of the Scrolls',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\169_Finance Charm.png" id="CoA_169_Finance Charm" data-flag="@X" onclick="openSidebar('CoA_169_Finance Charm',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\176_Inspector Brigade.png" id="CoA_176_Inspector Brigade" data-flag="@X" onclick="openSidebar('CoA_176_Inspector Brigade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\204_Vedalken Aetherlooter.png" id="CoA_204_Vedalken Aetherlooter" data-flag="@X" onclick="openSidebar('CoA_204_Vedalken Aetherlooter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\188_Peema Woods Champions.png" id="CoA_188_Peema Woods Champions" data-flag="@X" onclick="openSidebar('CoA_188_Peema Woods Champions',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\183_Mystic of The Way.png" id="CoA_183_Mystic of The Way" data-flag="@X" onclick="openSidebar('CoA_183_Mystic of The Way',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\174_Illusion of Luxury.png" id="CoA_174_Illusion of Luxury" data-flag="@X" onclick="openSidebar('CoA_174_Illusion of Luxury',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
 				<div id="colorless" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\212_Altar of the Brood.png" id="212_Altar of the Brood" data-flag="@X" onclick="openSidebar('212_Altar of the Brood',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\216_Cultivator's Caravan.png" id="216_Cultivators Caravan" data-flag="@X" onclick="openSidebar('216_Cultivators Caravan',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\218_Exploration Module.png" id="218_Exploration Module" data-flag="@X" onclick="openSidebar('218_Exploration Module',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\222_Fleetwheel Cruiser.png" id="222_Fleetwheel Cruiser" data-flag="@X" onclick="openSidebar('222_Fleetwheel Cruiser',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\225_Ghostfire Blade.png" id="225_Ghostfire Blade" data-flag="@X" onclick="openSidebar('225_Ghostfire Blade',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\233_Metallic Mimic.png" id="233_Metallic Mimic" data-flag="@X" onclick="openSidebar('233_Metallic Mimic',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\241_Skysovereign, Grounded Flagship.png" id="241_Skysovereign, Grounded Flagship" data-flag="@X" onclick="openSidebar('241_Skysovereign, Grounded Flagship',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\242_Smuggler's ATV.png" id="242_Smugglers ATV" data-flag="@X" onclick="openSidebar('242_Smugglers ATV',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\214_Bomat Bazaar Barge.png" id="214_Bomat Bazaar Barge" data-flag="@X" onclick="openSidebar('214_Bomat Bazaar Barge',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\217_Execution Module.png" id="217_Execution Module" data-flag="@X" onclick="openSidebar('217_Execution Module',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\219_Extraction Module.png" id="219_Extraction Module" data-flag="@X" onclick="openSidebar('219_Extraction Module',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\220_Factory BannerKnot.png" id="220_Factory BannerKnot" data-flag="@X" onclick="openSidebar('220_Factory BannerKnot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\226_Improvised Weather Machine.png" id="226_Improvised Weather Machine" data-flag="@X" onclick="openSidebar('226_Improvised Weather Machine',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\228_Lawful BannerKnot.png" id="228_Lawful BannerKnot" data-flag="@X" onclick="openSidebar('228_Lawful BannerKnot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\229_Lawless BannerKnot.png" id="229_Lawless BannerKnot" data-flag="@X" onclick="openSidebar('229_Lawless BannerKnot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\231_Lobbiers's Purse.png" id="231_Lobbierss Purse" data-flag="@X" onclick="openSidebar('231_Lobbierss Purse',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\232_Market BannerKnot.png" id="232_Market BannerKnot" data-flag="@X" onclick="openSidebar('232_Market BannerKnot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\234_Monastery BannerKnot.png" id="234_Monastery BannerKnot" data-flag="@X" onclick="openSidebar('234_Monastery BannerKnot',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\235_Ovalchase Dragster.png" id="235_Ovalchase Dragster" data-flag="@X" onclick="openSidebar('235_Ovalchase Dragster',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\236_Owl-Strix Archers.png" id="236_Owl-Strix Archers" data-flag="@X" onclick="openSidebar('236_Owl-Strix Archers',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\211_Adara Cable Car.png" id="211_Adara Cable Car" data-flag="@X" onclick="openSidebar('211_Adara Cable Car',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\213_Artificer's MIG.png" id="213_Artificers MIG" data-flag="@X" onclick="openSidebar('213_Artificers MIG',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\215_Brass Winged Vulture.png" id="215_Brass Winged Vulture" data-flag="@X" onclick="openSidebar('215_Brass Winged Vulture',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\221_Filigree Familiar.png" id="221_Filigree Familiar" data-flag="@X" onclick="openSidebar('221_Filigree Familiar',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\223_Foundry Auditor.png" id="223_Foundry Auditor" data-flag="@X" onclick="openSidebar('223_Foundry Auditor',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\224_Ghirapur's Golden Parapets.png" id="224_Ghirapurs Golden Parapets" data-flag="@X" onclick="openSidebar('224_Ghirapurs Golden Parapets',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\227_Lathnu Funicular.png" id="227_Lathnu Funicular" data-flag="@X" onclick="openSidebar('227_Lathnu Funicular',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\230_Lead Toothed Hyenas.png" id="230_Lead Toothed Hyenas" data-flag="@X" onclick="openSidebar('230_Lead Toothed Hyenas',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\237_Prophetic Prism.png" id="237_Prophetic Prism" data-flag="@X" onclick="openSidebar('237_Prophetic Prism',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\238_Scouting Servo.png" id="238_Scouting Servo" data-flag="@X" onclick="openSidebar('238_Scouting Servo',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\239_Self-Assembler.png" id="239_Self-Assembler" data-flag="@X" onclick="openSidebar('239_Self-Assembler',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\240_Silver Tusked Walrus.png" id="240_Silver Tusked Walrus" data-flag="@X" onclick="openSidebar('240_Silver Tusked Walrus',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\243_Snare Thopter.png" id="243_Snare Thopter" data-flag="@X" onclick="openSidebar('243_Snare Thopter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\244_Steel Horned Ibex.png" id="244_Steel Horned Ibex" data-flag="@X" onclick="openSidebar('244_Steel Horned Ibex',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\245_Wrought Iron Rhino.png" id="245_Wrought Iron Rhino" data-flag="@X" onclick="openSidebar('245_Wrought Iron Rhino',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\274_Feedback.png" id="274_Feedback" data-flag="@X" onclick="openSidebar('274_Feedback',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\272_Tranquil Cove.png" id="272_Tranquil Cove" data-flag="@X" onclick="openSidebar('272_Tranquil Cove',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\265_Dismal Backwater.png" id="265_Dismal Backwater" data-flag="@X" onclick="openSidebar('265_Dismal Backwater',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\263_Bloodfell Caves.png" id="263_Bloodfell Caves" data-flag="@X" onclick="openSidebar('263_Bloodfell Caves',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\268_Rugged Highlands.png" id="268_Rugged Highlands" data-flag="@X" onclick="openSidebar('268_Rugged Highlands',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\264_Blossoming Sands.png" id="264_Blossoming Sands" data-flag="@X" onclick="openSidebar('264_Blossoming Sands',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\269_Scoured Barrens.png" id="269_Scoured Barrens" data-flag="@X" onclick="openSidebar('269_Scoured Barrens',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\270_Swiftwater Cliffs.png" id="270_Swiftwater Cliffs" data-flag="@X" onclick="openSidebar('270_Swiftwater Cliffs',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\267_Jungle Hollow.png" id="267_Jungle Hollow" data-flag="@X" onclick="openSidebar('267_Jungle Hollow',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\273_Wind-Scarred Crag.png" id="273_Wind-Scarred Crag" data-flag="@X" onclick="openSidebar('273_Wind-Scarred Crag',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\271_Thornwood Falls.png" id="271_Thornwood Falls" data-flag="@X" onclick="openSidebar('271_Thornwood Falls',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\250_Desert Rift.png" id="250_Desert Rift" data-flag="@X" onclick="openSidebar('250_Desert Rift',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\251_Devra Temple.png" id="251_Devra Temple" data-flag="@X" onclick="openSidebar('251_Devra Temple',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\252_Dusk Factory.png" id="252_Dusk Factory" data-flag="@X" onclick="openSidebar('252_Dusk Factory',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\253_Hall of The Assembly.png" id="253_Hall of The Assembly" data-flag="@X" onclick="openSidebar('253_Hall of The Assembly',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\255_Kurna Headquarters.png" id="255_Kurna Headquarters" data-flag="@X" onclick="openSidebar('255_Kurna Headquarters',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\256_Salt Road Shelter.png" id="256_Salt Road Shelter" data-flag="@X" onclick="openSidebar('256_Salt Road Shelter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\260_Waste Land.png" id="260_Waste Land" data-flag="@X" onclick="openSidebar('260_Waste Land',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\246_Aether Hub.png" id="246_Aether Hub" data-flag="@X" onclick="openSidebar('246_Aether Hub',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\247_Arcane Sanctum.png" id="247_Arcane Sanctum" data-flag="@X" onclick="openSidebar('247_Arcane Sanctum',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\248_Corrupted Workshop.png" id="248_Corrupted Workshop" data-flag="@X" onclick="openSidebar('248_Corrupted Workshop',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\249_Crumbling Necropolis.png" id="249_Crumbling Necropolis" data-flag="@X" onclick="openSidebar('249_Crumbling Necropolis',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\254_Jungle Shrine.png" id="254_Jungle Shrine" data-flag="@X" onclick="openSidebar('254_Jungle Shrine',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\257_Savage Lands.png" id="257_Savage Lands" data-flag="@X" onclick="openSidebar('257_Savage Lands',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\258_Seaside Citadel.png" id="258_Seaside Citadel" data-flag="@X" onclick="openSidebar('258_Seaside Citadel',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\259_Sunset Smoglands.png" id="259_Sunset Smoglands" data-flag="@X" onclick="openSidebar('259_Sunset Smoglands',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\261_Zurgo's Encampment.png" id="261_Zurgos Encampment" data-flag="@X" onclick="openSidebar('261_Zurgos Encampment',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\262_Aradara Station.png" id="262_Aradara Station" data-flag="@X" onclick="openSidebar('262_Aradara Station',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\266_Indigo Monmument.png" id="266_Indigo Monmument" data-flag="@X" onclick="openSidebar('266_Indigo Monmument',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\212_Altar of the Brood.png" id="CoA_212_Altar of the Brood" data-flag="@X" onclick="openSidebar('CoA_212_Altar of the Brood',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\216_Cultivator's Caravan.png" id="CoA_216_Cultivators Caravan" data-flag="@X" onclick="openSidebar('CoA_216_Cultivators Caravan',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\218_Exploration Module.png" id="CoA_218_Exploration Module" data-flag="@X" onclick="openSidebar('CoA_218_Exploration Module',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\222_Fleetwheel Cruiser.png" id="CoA_222_Fleetwheel Cruiser" data-flag="@X" onclick="openSidebar('CoA_222_Fleetwheel Cruiser',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\225_Ghostfire Blade.png" id="CoA_225_Ghostfire Blade" data-flag="@X" onclick="openSidebar('CoA_225_Ghostfire Blade',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\233_Metallic Mimic.png" id="CoA_233_Metallic Mimic" data-flag="@X" onclick="openSidebar('CoA_233_Metallic Mimic',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\241_Skysovereign, Grounded Flagship.png" id="CoA_241_Skysovereign, Grounded Flagship" data-flag="@X" onclick="openSidebar('CoA_241_Skysovereign, Grounded Flagship',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\242_Smuggler's ATV.png" id="CoA_242_Smugglers ATV" data-flag="@X" onclick="openSidebar('CoA_242_Smugglers ATV',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\214_Bomat Bazaar Barge.png" id="CoA_214_Bomat Bazaar Barge" data-flag="@X" onclick="openSidebar('CoA_214_Bomat Bazaar Barge',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\217_Execution Module.png" id="CoA_217_Execution Module" data-flag="@X" onclick="openSidebar('CoA_217_Execution Module',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\219_Extraction Module.png" id="CoA_219_Extraction Module" data-flag="@X" onclick="openSidebar('CoA_219_Extraction Module',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\220_Factory BannerKnot.png" id="CoA_220_Factory BannerKnot" data-flag="@X" onclick="openSidebar('CoA_220_Factory BannerKnot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\226_Improvised Weather Machine.png" id="CoA_226_Improvised Weather Machine" data-flag="@X" onclick="openSidebar('CoA_226_Improvised Weather Machine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\228_Lawful BannerKnot.png" id="CoA_228_Lawful BannerKnot" data-flag="@X" onclick="openSidebar('CoA_228_Lawful BannerKnot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\229_Lawless BannerKnot.png" id="CoA_229_Lawless BannerKnot" data-flag="@X" onclick="openSidebar('CoA_229_Lawless BannerKnot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\231_Lobbiers's Purse.png" id="CoA_231_Lobbierss Purse" data-flag="@X" onclick="openSidebar('CoA_231_Lobbierss Purse',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\232_Market BannerKnot.png" id="CoA_232_Market BannerKnot" data-flag="@X" onclick="openSidebar('CoA_232_Market BannerKnot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\234_Monastery BannerKnot.png" id="CoA_234_Monastery BannerKnot" data-flag="@X" onclick="openSidebar('CoA_234_Monastery BannerKnot',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\235_Ovalchase Dragster.png" id="CoA_235_Ovalchase Dragster" data-flag="@X" onclick="openSidebar('CoA_235_Ovalchase Dragster',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\236_Owl-Strix Archers.png" id="CoA_236_Owl-Strix Archers" data-flag="@X" onclick="openSidebar('CoA_236_Owl-Strix Archers',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\211_Adara Cable Car.png" id="CoA_211_Adara Cable Car" data-flag="@X" onclick="openSidebar('CoA_211_Adara Cable Car',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\213_Artificer's MIG.png" id="CoA_213_Artificers MIG" data-flag="@X" onclick="openSidebar('CoA_213_Artificers MIG',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\215_Brass Winged Vulture.png" id="CoA_215_Brass Winged Vulture" data-flag="@X" onclick="openSidebar('CoA_215_Brass Winged Vulture',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\221_Filigree Familiar.png" id="CoA_221_Filigree Familiar" data-flag="@X" onclick="openSidebar('CoA_221_Filigree Familiar',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\223_Foundry Auditor.png" id="CoA_223_Foundry Auditor" data-flag="@X" onclick="openSidebar('CoA_223_Foundry Auditor',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\224_Ghirapur's Golden Parapets.png" id="CoA_224_Ghirapurs Golden Parapets" data-flag="@X" onclick="openSidebar('CoA_224_Ghirapurs Golden Parapets',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\227_Lathnu Funicular.png" id="CoA_227_Lathnu Funicular" data-flag="@X" onclick="openSidebar('CoA_227_Lathnu Funicular',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\230_Lead Toothed Hyenas.png" id="CoA_230_Lead Toothed Hyenas" data-flag="@X" onclick="openSidebar('CoA_230_Lead Toothed Hyenas',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\237_Prophetic Prism.png" id="CoA_237_Prophetic Prism" data-flag="@X" onclick="openSidebar('CoA_237_Prophetic Prism',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\238_Scouting Servo.png" id="CoA_238_Scouting Servo" data-flag="@X" onclick="openSidebar('CoA_238_Scouting Servo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\239_Self-Assembler.png" id="CoA_239_Self-Assembler" data-flag="@X" onclick="openSidebar('CoA_239_Self-Assembler',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\240_Silver Tusked Walrus.png" id="CoA_240_Silver Tusked Walrus" data-flag="@X" onclick="openSidebar('CoA_240_Silver Tusked Walrus',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\243_Snare Thopter.png" id="CoA_243_Snare Thopter" data-flag="@X" onclick="openSidebar('CoA_243_Snare Thopter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\244_Steel Horned Ibex.png" id="CoA_244_Steel Horned Ibex" data-flag="@X" onclick="openSidebar('CoA_244_Steel Horned Ibex',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\245_Wrought Iron Rhino.png" id="CoA_245_Wrought Iron Rhino" data-flag="@X" onclick="openSidebar('CoA_245_Wrought Iron Rhino',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\274_Feedback.png" id="CoA_274_Feedback" data-flag="@X" onclick="openSidebar('CoA_274_Feedback',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CoA_e" data-flag="@E" onclick="openSidebar('CoA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CoA_e" data-flag="@E" onclick="openSidebar('CoA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CoA_e" data-flag="@E" onclick="openSidebar('CoA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CoA_e" data-flag="@E" onclick="openSidebar('CoA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\272_Tranquil Cove.png" id="CoA_272_Tranquil Cove" data-flag="@X" onclick="openSidebar('CoA_272_Tranquil Cove',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\265_Dismal Backwater.png" id="CoA_265_Dismal Backwater" data-flag="@X" onclick="openSidebar('CoA_265_Dismal Backwater',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\263_Bloodfell Caves.png" id="CoA_263_Bloodfell Caves" data-flag="@X" onclick="openSidebar('CoA_263_Bloodfell Caves',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\268_Rugged Highlands.png" id="CoA_268_Rugged Highlands" data-flag="@X" onclick="openSidebar('CoA_268_Rugged Highlands',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\264_Blossoming Sands.png" id="CoA_264_Blossoming Sands" data-flag="@X" onclick="openSidebar('CoA_264_Blossoming Sands',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\269_Scoured Barrens.png" id="CoA_269_Scoured Barrens" data-flag="@X" onclick="openSidebar('CoA_269_Scoured Barrens',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\270_Swiftwater Cliffs.png" id="CoA_270_Swiftwater Cliffs" data-flag="@X" onclick="openSidebar('CoA_270_Swiftwater Cliffs',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\267_Jungle Hollow.png" id="CoA_267_Jungle Hollow" data-flag="@X" onclick="openSidebar('CoA_267_Jungle Hollow',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\273_Wind-Scarred Crag.png" id="CoA_273_Wind-Scarred Crag" data-flag="@X" onclick="openSidebar('CoA_273_Wind-Scarred Crag',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\271_Thornwood Falls.png" id="CoA_271_Thornwood Falls" data-flag="@X" onclick="openSidebar('CoA_271_Thornwood Falls',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\250_Desert Rift.png" id="CoA_250_Desert Rift" data-flag="@X" onclick="openSidebar('CoA_250_Desert Rift',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\251_Devra Temple.png" id="CoA_251_Devra Temple" data-flag="@X" onclick="openSidebar('CoA_251_Devra Temple',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\252_Dusk Factory.png" id="CoA_252_Dusk Factory" data-flag="@X" onclick="openSidebar('CoA_252_Dusk Factory',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\253_Hall of The Assembly.png" id="CoA_253_Hall of The Assembly" data-flag="@X" onclick="openSidebar('CoA_253_Hall of The Assembly',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\255_Kurna Headquarters.png" id="CoA_255_Kurna Headquarters" data-flag="@X" onclick="openSidebar('CoA_255_Kurna Headquarters',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\256_Salt Road Shelter.png" id="CoA_256_Salt Road Shelter" data-flag="@X" onclick="openSidebar('CoA_256_Salt Road Shelter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\260_Waste Land.png" id="CoA_260_Waste Land" data-flag="@X" onclick="openSidebar('CoA_260_Waste Land',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\246_Aether Hub.png" id="CoA_246_Aether Hub" data-flag="@X" onclick="openSidebar('CoA_246_Aether Hub',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\247_Arcane Sanctum.png" id="CoA_247_Arcane Sanctum" data-flag="@X" onclick="openSidebar('CoA_247_Arcane Sanctum',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\248_Corrupted Workshop.png" id="CoA_248_Corrupted Workshop" data-flag="@X" onclick="openSidebar('CoA_248_Corrupted Workshop',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\249_Crumbling Necropolis.png" id="CoA_249_Crumbling Necropolis" data-flag="@X" onclick="openSidebar('CoA_249_Crumbling Necropolis',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\254_Jungle Shrine.png" id="CoA_254_Jungle Shrine" data-flag="@X" onclick="openSidebar('CoA_254_Jungle Shrine',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\257_Savage Lands.png" id="CoA_257_Savage Lands" data-flag="@X" onclick="openSidebar('CoA_257_Savage Lands',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\258_Seaside Citadel.png" id="CoA_258_Seaside Citadel" data-flag="@X" onclick="openSidebar('CoA_258_Seaside Citadel',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\259_Sunset Smoglands.png" id="CoA_259_Sunset Smoglands" data-flag="@X" onclick="openSidebar('CoA_259_Sunset Smoglands',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\261_Zurgo's Encampment.png" id="CoA_261_Zurgos Encampment" data-flag="@X" onclick="openSidebar('CoA_261_Zurgos Encampment',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\262_Aradara Station.png" id="CoA_262_Aradara Station" data-flag="@X" onclick="openSidebar('CoA_262_Aradara Station',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\266_Indigo Monmument.png" id="CoA_266_Indigo Monmument" data-flag="@X" onclick="openSidebar('CoA_266_Indigo Monmument',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CoA_e" data-flag="@E" onclick="openSidebar('CoA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CoA_e" data-flag="@E" onclick="openSidebar('CoA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
 				<div id="token" class="anchor"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\1t_Assembly-Worker.png" id="1t_Assembly-Worker" data-flag="@X" onclick="openSidebar('1t_Assembly-Worker',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\2t_Morph.png" id="2t_Morph" data-flag="@X" onclick="openSidebar('2t_Morph',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\26t_Map.png" id="26t_Map" data-flag="@X" onclick="openSidebar('26t_Map',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\27t_Servo.png" id="27t_Servo" data-flag="@X" onclick="openSidebar('27t_Servo',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\28t_Thopter.png" id="28t_Thopter" data-flag="@X" onclick="openSidebar('28t_Thopter',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\29t_Wastes.png" id="29t_Wastes" data-flag="@X" onclick="openSidebar('29t_Wastes',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\3t_Player 1 - Energy Reserve.png" id="3t_Player 1 - Energy Reserve" data-flag="@X" onclick="openSidebar('3t_Player 1 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\4t_Player 2 - Energy Reserve.png" id="4t_Player 2 - Energy Reserve" data-flag="@X" onclick="openSidebar('4t_Player 2 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\5t_Player 3 - Energy Reserve.png" id="5t_Player 3 - Energy Reserve" data-flag="@X" onclick="openSidebar('5t_Player 3 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\6t_Player 4 - Energy Reserve.png" id="6t_Player 4 - Energy Reserve" data-flag="@X" onclick="openSidebar('6t_Player 4 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\7t_Player 5 - Energy Reserve.png" id="7t_Player 5 - Energy Reserve" data-flag="@X" onclick="openSidebar('7t_Player 5 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\8t_Player 6 - Energy Reserve.png" id="8t_Player 6 - Energy Reserve" data-flag="@X" onclick="openSidebar('8t_Player 6 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\9t_Player 7 - Energy Reserve.png" id="9t_Player 7 - Energy Reserve" data-flag="@X" onclick="openSidebar('9t_Player 7 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\10t_Player 8 - Energy Reserve.png" id="10t_Player 8 - Energy Reserve" data-flag="@X" onclick="openSidebar('10t_Player 8 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\11t_Player 9 - Energy Reserve.png" id="11t_Player 9 - Energy Reserve" data-flag="@X" onclick="openSidebar('11t_Player 9 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\12t_Player 10 - Energy Reserve.png" id="12t_Player 10 - Energy Reserve" data-flag="@X" onclick="openSidebar('12t_Player 10 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\13t_Player 11 - Energy Reserve.png" id="13t_Player 11 - Energy Reserve" data-flag="@X" onclick="openSidebar('13t_Player 11 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\14t_Player 12 - Energy Reserve.png" id="14t_Player 12 - Energy Reserve" data-flag="@X" onclick="openSidebar('14t_Player 12 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\15t_Player 13 - Energy Reserve.png" id="15t_Player 13 - Energy Reserve" data-flag="@X" onclick="openSidebar('15t_Player 13 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\16t_Player 14 - Energy Reserve.png" id="16t_Player 14 - Energy Reserve" data-flag="@X" onclick="openSidebar('16t_Player 14 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\17t_Player 15 - Energy Reserve.png" id="17t_Player 15 - Energy Reserve" data-flag="@X" onclick="openSidebar('17t_Player 15 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\18t_Player 16 - Energy Reserve.png" id="18t_Player 16 - Energy Reserve" data-flag="@X" onclick="openSidebar('18t_Player 16 - Energy Reserve',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\19t_Bird.png" id="19t_Bird" data-flag="@X" onclick="openSidebar('19t_Bird',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\20t_Monk.png" id="20t_Monk" data-flag="@X" onclick="openSidebar('20t_Monk',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\21t_Beast.png" id="21t_Beast" data-flag="@X" onclick="openSidebar('21t_Beast',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\22t_Eternal Witness.png" id="22t_Eternal Witness" data-flag="@X" onclick="openSidebar('22t_Eternal Witness',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\23t_Longtusk Pride.png" id="23t_Longtusk Pride" data-flag="@X" onclick="openSidebar('23t_Longtusk Pride',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\24t_Snake.png" id="24t_Snake" data-flag="@X" onclick="openSidebar('24t_Snake',false)"></div>
-				<div class="container"><img loading="lazy" alt="/sets\CoA-files\img\25t_Human Monk.png" id="25t_Human Monk" data-flag="@X" onclick="openSidebar('25t_Human Monk',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\e.png" id="e" data-flag="@E" onclick="openSidebar('e',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
-				<div class="container"><img loading="lazy" alt="/img\er.png" id="er" data-flag="@E" onclick="openSidebar('er',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\1t_Assembly-Worker.png" id="CoA_1t_Assembly-Worker" data-flag="@X" onclick="openSidebar('CoA_1t_Assembly-Worker',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\2t_Morph.png" id="CoA_2t_Morph" data-flag="@X" onclick="openSidebar('CoA_2t_Morph',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\26t_Map.png" id="CoA_26t_Map" data-flag="@X" onclick="openSidebar('CoA_26t_Map',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\27t_Servo.png" id="CoA_27t_Servo" data-flag="@X" onclick="openSidebar('CoA_27t_Servo',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\28t_Thopter.png" id="CoA_28t_Thopter" data-flag="@X" onclick="openSidebar('CoA_28t_Thopter',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\29t_Wastes.png" id="CoA_29t_Wastes" data-flag="@X" onclick="openSidebar('CoA_29t_Wastes',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\3t_Player 1 - Energy Reserve.png" id="CoA_3t_Player 1 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_3t_Player 1 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\4t_Player 2 - Energy Reserve.png" id="CoA_4t_Player 2 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_4t_Player 2 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\5t_Player 3 - Energy Reserve.png" id="CoA_5t_Player 3 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_5t_Player 3 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\6t_Player 4 - Energy Reserve.png" id="CoA_6t_Player 4 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_6t_Player 4 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\7t_Player 5 - Energy Reserve.png" id="CoA_7t_Player 5 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_7t_Player 5 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\8t_Player 6 - Energy Reserve.png" id="CoA_8t_Player 6 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_8t_Player 6 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\9t_Player 7 - Energy Reserve.png" id="CoA_9t_Player 7 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_9t_Player 7 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\10t_Player 8 - Energy Reserve.png" id="CoA_10t_Player 8 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_10t_Player 8 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\11t_Player 9 - Energy Reserve.png" id="CoA_11t_Player 9 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_11t_Player 9 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\12t_Player 10 - Energy Reserve.png" id="CoA_12t_Player 10 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_12t_Player 10 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\13t_Player 11 - Energy Reserve.png" id="CoA_13t_Player 11 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_13t_Player 11 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\14t_Player 12 - Energy Reserve.png" id="CoA_14t_Player 12 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_14t_Player 12 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\15t_Player 13 - Energy Reserve.png" id="CoA_15t_Player 13 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_15t_Player 13 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\16t_Player 14 - Energy Reserve.png" id="CoA_16t_Player 14 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_16t_Player 14 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\17t_Player 15 - Energy Reserve.png" id="CoA_17t_Player 15 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_17t_Player 15 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\18t_Player 16 - Energy Reserve.png" id="CoA_18t_Player 16 - Energy Reserve" data-flag="@X" onclick="openSidebar('CoA_18t_Player 16 - Energy Reserve',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\19t_Bird.png" id="CoA_19t_Bird" data-flag="@X" onclick="openSidebar('CoA_19t_Bird',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\20t_Monk.png" id="CoA_20t_Monk" data-flag="@X" onclick="openSidebar('CoA_20t_Monk',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\21t_Beast.png" id="CoA_21t_Beast" data-flag="@X" onclick="openSidebar('CoA_21t_Beast',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\22t_Eternal Witness.png" id="CoA_22t_Eternal Witness" data-flag="@X" onclick="openSidebar('CoA_22t_Eternal Witness',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\23t_Longtusk Pride.png" id="CoA_23t_Longtusk Pride" data-flag="@X" onclick="openSidebar('CoA_23t_Longtusk Pride',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\24t_Snake.png" id="CoA_24t_Snake" data-flag="@X" onclick="openSidebar('CoA_24t_Snake',false)"></div>
+				<div class="container"><img loading="lazy" alt="sets\CoA-files\img\25t_Human Monk.png" id="CoA_25t_Human Monk" data-flag="@X" onclick="openSidebar('CoA_25t_Human Monk',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\e.png" id="CoA_e" data-flag="@E" onclick="openSidebar('CoA_e',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
+				<div class="container"><img loading="lazy" alt="img\er.png" id="CoA_er" data-flag="@E" onclick="openSidebar('CoA_er',false)"></div>
 	</div>
 	</div>
 	<div class="sidebar" id="sidebar">
 		<div class="sidebar-container">
-			<img id="sidebar_img" class="sidebar-img" src="/img/er.png">
+			<img id="sidebar_img" class="sidebar-img">
 			<img id="sidebar_h_img" class="sidebar-h-img">
 			<button class="flip-btn" id="sidebar-flip-btn" onclick="imgFlip('sidebar_img')"></button>
 		</div>
@@ -571,19 +610,111 @@
 		let specialchars = "";
 
 	document.addEventListener('DOMContentLoaded', async function() {
-		await fetch('/lists/all-cards.json')
+		await fetch(rootPath + '/lists/all-cards.json')
 					.then(response => response.json())
 					.then(json => {
 						card_list = json;
 				}).catch(error => console.error('Error:', error));
 
-				await fetch('/resources/replacechars.txt')
+				await fetch(rootPath + '/resources/replacechars.txt')
 					.then(response => response.text())
 					.then(text => {
 						specialchars = text; 
 				}).catch(error => console.error('Error:', error));
 
 				card_list_arrayified = card_list.cards;
+
+				let all_tags = new Set();
+				card_list_arrayified.forEach(card => {
+					if (card.notes) {
+						const tagMatches = card.notes.matchAll(/!tag(?:<\w+>)?\s+([^\s\n\b]+)/g);
+						for (const match of tagMatches) {
+							all_tags.add(match[1].toLowerCase());
+						}
+					}
+				});
+
+				const searchInput = document.getElementById("search");
+				const tagDropdown = document.getElementById("tag-dropdown");
+
+				// Create a mirror element for position calculation
+				const mirror = document.createElement("div");
+				Object.assign(mirror.style, {
+					position: "absolute",
+					visibility: "hidden",
+					whiteSpace: "pre",
+					font: getComputedStyle(searchInput).font,
+					padding: "0", // No padding for pure text measurement
+					border: "none",
+					boxSizing: "content-box"
+				});
+				document.body.appendChild(mirror);
+
+				if (searchInput && tagDropdown) {
+					tagDropdown.style.width = "auto";
+					tagDropdown.style.minWidth = "75px";
+					tagDropdown.style.maxWidth = "300px";
+					tagDropdown.style.maxHeight = "200px";
+					tagDropdown.style.overflowY = "auto";
+
+					const updateDropdown = function() {
+						const value = searchInput.value;
+						const cursorPosition = searchInput.selectionStart;
+						
+						// Find the tag: prefix immediately preceding the cursor
+						const lastTagIndex = value.substring(0, cursorPosition).lastIndexOf("tag:");
+						
+						if (lastTagIndex !== -1) {
+							const queryStart = lastTagIndex + 4;
+							const query = value.substring(queryStart, cursorPosition);
+							
+							if (!query.includes(" ")) {
+								const filteredTags = Array.from(all_tags).filter(tag => tag.toLowerCase().startsWith(query.toLowerCase())).sort();
+								if (filteredTags.length > 0) {
+									tagDropdown.innerHTML = "";
+									filteredTags.forEach(tag => {
+										const div = document.createElement("div");
+										div.innerText = tag;
+										div.style.padding = "5px 10px";
+										div.style.cursor = "pointer";
+										div.style.whiteSpace = "nowrap";
+										div.onmouseover = () => div.style.background = "#f0f0f0";
+										div.onmouseout = () => div.style.background = "white";
+										div.onclick = () => {
+											const newValue = value.substring(0, queryStart) + tag + " " + value.substring(cursorPosition);
+											searchInput.value = newValue;
+											tagDropdown.style.display = "none";
+											searchInput.focus();
+											const newCursorPos = queryStart + tag.length + 1;
+											searchInput.setSelectionRange(newCursorPos, newCursorPos);
+										};
+										tagDropdown.appendChild(div);
+									});
+
+									// Calculate position
+									mirror.textContent = value.substring(0, lastTagIndex + 4);
+									const textWidth = mirror.getBoundingClientRect().width;
+									const inputPaddingLeft = parseFloat(getComputedStyle(searchInput).paddingLeft) || 0;
+									
+									tagDropdown.style.left = Math.min(textWidth + inputPaddingLeft, searchInput.offsetWidth - tagDropdown.offsetWidth) + "px";
+									tagDropdown.style.display = "block";
+									return;
+								}
+							}
+						}
+						tagDropdown.style.display = "none";
+					};
+
+					searchInput.addEventListener("input", updateDropdown);
+					searchInput.addEventListener("click", updateDropdown);
+					searchInput.addEventListener("keyup", updateDropdown);
+
+					document.addEventListener("click", function(e) {
+						if (e.target !== searchInput && e.target !== tagDropdown) {
+							tagDropdown.style.display = "none";
+						}
+					});
+				}
 
 		preloadImgs = document.getElementsByClassName('preload-hidden');
 
@@ -618,13 +749,16 @@
 			const flag = img.getAttribute('data-flag');
 
 			if (flag === '@N') {
-				img.src = '/img/card_back.png';
+				img.src = rootPath + '/img/card_back.png';
 				img.removeAttribute("onclick");
 				img.style.cursor = 'default';
 			}
 			else
 			{
-				img.src = img.alt;
+				img.src = rootPath + '/' + img.alt;
+				if (img.dataset.alt_src) {
+					img.dataset.alt_src = rootPath + '/' + img.dataset.alt_src;
+				}
 
 				if (flag === '@E') {
 					img.removeAttribute("onclick");
@@ -778,16 +912,16 @@
 	});
 
 	function search() {
-		const url = new URL('search', window.location.origin);
+		const url = new URL(rootPath + '/search', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 		url.searchParams.append('search', document.getElementById("search").value);
-		window.location.href = url;
+		window.location.href = url.pathname + url.search;
 	}
 
 		function randomCard() {
 				let i = Math.floor(Math.random() * (card_list_arrayified.length + 1));
 				let random_card = card_list_arrayified[i];
 
-				const url = new URL('card', window.location.origin);
+				const url = new URL(rootPath + '/card', window.location.href.split('?')[0].split('/').slice(0, -1).join('/') + '/');
 				const params = {
 					set: random_card.set,
 					num: random_card.number,
@@ -797,7 +931,7 @@
 					url.searchParams.append(key, params[key]);
 				}
 
-				window.location.href = url;
+				window.location.href = url.pathname + url.search;
 			}
 	</script>
 </body>

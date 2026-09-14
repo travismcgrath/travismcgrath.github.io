@@ -8449,6 +8449,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8471,6 +8473,7 @@
             "artist": "Inna Burmachenko",
             "alias": "",
             "position": "1",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8504,6 +8507,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "removal",
             "image_type": "png",
             "v_mana": ""
@@ -8537,6 +8542,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8559,6 +8566,7 @@
             "artist": "Ekaterina Akchurina",
             "alias": "",
             "position": "4",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8581,6 +8589,7 @@
             "artist": "KAI LIN",
             "alias": "",
             "position": "5",
+            "rotated": false,
             "notes": "ConjectureEnabler, ConjecturePayoff, FoodMaker, CardAdvantage,",
             "image_type": "png",
             "v_mana": ""
@@ -8603,6 +8612,7 @@
             "artist": "Matias Tapia",
             "alias": "",
             "position": "6",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8625,6 +8635,7 @@
             "artist": "Swanno",
             "alias": "",
             "position": "7",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8647,6 +8658,7 @@
             "artist": "Diego Gisbert Llorens",
             "alias": "",
             "position": "8",
+            "rotated": false,
             "notes": "FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -8669,6 +8681,7 @@
             "artist": "Marina Karakatsani",
             "alias": "",
             "position": "9",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8691,6 +8704,7 @@
             "artist": "Joshua Hardie",
             "alias": "",
             "position": "10",
+            "rotated": false,
             "notes": "GainLifeTrigger",
             "image_type": "png",
             "v_mana": ""
@@ -8713,6 +8727,7 @@
             "artist": "Jack Kozitza",
             "alias": "",
             "position": "11",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8735,6 +8750,7 @@
             "artist": "Stephen Cornu",
             "alias": "",
             "position": "12",
+            "rotated": false,
             "notes": "FoodEater, Removal",
             "image_type": "png",
             "v_mana": ""
@@ -8757,6 +8773,7 @@
             "artist": "Marjorie Davis",
             "alias": "",
             "position": "13",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8779,6 +8796,7 @@
             "artist": "Hampus Lovebrant",
             "alias": "",
             "position": "14",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8801,6 +8819,7 @@
             "artist": "Nadine Sch\u00e4kel",
             "alias": "",
             "position": "15",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8823,6 +8842,7 @@
             "artist": "Tom Dale",
             "alias": "",
             "position": "16",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8845,6 +8865,7 @@
             "artist": "Acrassan",
             "alias": "",
             "position": "17",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8867,6 +8888,7 @@
             "artist": "Nicolas Derio",
             "alias": "",
             "position": "18",
+            "rotated": false,
             "notes": "FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -8889,6 +8911,7 @@
             "artist": "David Mull",
             "alias": "",
             "position": "19",
+            "rotated": false,
             "notes": "FoodEater,",
             "image_type": "png",
             "v_mana": ""
@@ -8911,6 +8934,7 @@
             "artist": "Stella Spente",
             "alias": "",
             "position": "20",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8933,6 +8957,7 @@
             "artist": "Arif Wijaya",
             "alias": "",
             "position": "21",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -8966,6 +8991,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "Foodmaker, Planeoverlap, CardAdvantage,",
             "image_type": "png",
             "v_mana": ""
@@ -8988,6 +9015,7 @@
             "artist": "Carys Cuttlefish",
             "alias": "",
             "position": "23",
+            "rotated": false,
             "notes": "FoodEater, FoodMaker, LifeGaintrigger",
             "image_type": "png",
             "v_mana": ""
@@ -9021,6 +9049,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "CardAdvantage,",
             "image_type": "png",
             "v_mana": ""
@@ -9043,6 +9073,7 @@
             "artist": "Mike Andreoli",
             "alias": "",
             "position": "25",
+            "rotated": false,
             "notes": "FoodEater, Planeoverlap",
             "image_type": "png",
             "v_mana": ""
@@ -9065,6 +9096,7 @@
             "artist": "Carlota Su\u00e1rez Villaverde",
             "alias": "",
             "position": "26",
+            "rotated": false,
             "notes": "FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -9087,6 +9119,7 @@
             "artist": "Nick Moskvin",
             "alias": "",
             "position": "27",
+            "rotated": false,
             "notes": "ConjectureEnabler, Removal",
             "image_type": "png",
             "v_mana": ""
@@ -9109,6 +9142,7 @@
             "artist": "Paul Takahashi",
             "alias": "",
             "position": "28",
+            "rotated": false,
             "notes": "Removal, CardAdvantage, ConjectureEnabler, \n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal > U",
             "image_type": "png",
             "v_mana": ""
@@ -9131,6 +9165,7 @@
             "artist": "Dave Greco",
             "alias": "",
             "position": "29",
+            "rotated": false,
             "notes": "CardAdvantage,",
             "image_type": "png",
             "v_mana": ""
@@ -9153,6 +9188,7 @@
             "artist": "Emilio Grasso",
             "alias": "",
             "position": "30",
+            "rotated": false,
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -9175,6 +9211,7 @@
             "artist": "Andreia Ugrai",
             "alias": "",
             "position": "31",
+            "rotated": false,
             "notes": "FoodMaker, Removal",
             "image_type": "png",
             "v_mana": ""
@@ -9208,6 +9245,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "Planeoverlap, Removal",
             "image_type": "png",
             "v_mana": ""
@@ -9230,6 +9269,7 @@
             "artist": "Calros C Diaz",
             "alias": "",
             "position": "33",
+            "rotated": false,
             "notes": "FoodMaker,FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -9252,6 +9292,7 @@
             "artist": "Alex Meyer",
             "alias": "",
             "position": "34",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -9274,6 +9315,7 @@
             "artist": "Abishek Hudson",
             "alias": "",
             "position": "35",
+            "rotated": false,
             "notes": "ConjecturePayoff,",
             "image_type": "png",
             "v_mana": ""
@@ -9286,7 +9328,7 @@
             "number": 34,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token.\u201d)[/i]\nWhen Arithmetic Frogression enters, if a gift was promised, create a Food token and put a +1/+1 counter on target creature.",
+            "rules_text": "Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token. It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\nWhen Arithmetic Frogression enters, if a gift was promised, create a Food token and put a +1/+1 counter on target creature.",
             "flavor_text": "[i][/i]",
             "pt": "0/2",
             "special_text": "",
@@ -9296,6 +9338,7 @@
             "artist": "Rana Latham",
             "alias": "",
             "position": "36",
+            "rotated": false,
             "notes": "Planeoverlap",
             "image_type": "png",
             "v_mana": ""
@@ -9318,6 +9361,7 @@
             "artist": "Ilia Kole",
             "alias": "",
             "position": "37",
+            "rotated": false,
             "notes": "ConjectureEnabler",
             "image_type": "png",
             "v_mana": ""
@@ -9340,6 +9384,7 @@
             "artist": "Tomasz Ryger",
             "alias": "",
             "position": "38",
+            "rotated": false,
             "notes": "FoodEater,Removal\n\nEnchant creature.\nEnchanted creature can't attack or block.\nSacrifice two Food: Exile enchanted creature and draw a card.",
             "image_type": "png",
             "v_mana": ""
@@ -9362,6 +9407,7 @@
             "artist": "Dorian Duric",
             "alias": "",
             "position": "39",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -9384,6 +9430,7 @@
             "artist": "Jack Kozitza",
             "alias": "",
             "position": "40",
+            "rotated": false,
             "notes": "FoodEater, GainLifeTrigger, Poison",
             "image_type": "png",
             "v_mana": ""
@@ -9406,6 +9453,7 @@
             "artist": "Nino Vecia",
             "alias": "",
             "position": "41",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -9428,6 +9476,7 @@
             "artist": "Marin Mohan",
             "alias": "",
             "position": "42",
+            "rotated": false,
             "notes": "FoodMaker, FoodEater, Planeoverlap, Poison",
             "image_type": "png",
             "v_mana": ""
@@ -9450,6 +9499,7 @@
             "artist": "Gauvin REMY",
             "alias": "",
             "position": "43",
+            "rotated": false,
             "notes": "FoodMaker,",
             "image_type": "png",
             "v_mana": ""
@@ -9472,6 +9522,7 @@
             "artist": "Mike Jordana",
             "alias": "",
             "position": "44",
+            "rotated": false,
             "notes": "GainLifeTrigger",
             "image_type": "png",
             "v_mana": ""
@@ -9494,6 +9545,7 @@
             "artist": "Andy Aslamov",
             "alias": "",
             "position": "45",
+            "rotated": false,
             "notes": "CardAdvantage, GainLifeTrigger",
             "image_type": "png",
             "v_mana": ""
@@ -9516,6 +9568,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "46",
+            "rotated": false,
             "notes": "Planeoverlap",
             "image_type": "png",
             "v_mana": ""
@@ -9538,6 +9591,7 @@
             "artist": "Brian Valeza",
             "alias": "",
             "position": "47",
+            "rotated": false,
             "notes": "FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -9560,6 +9614,7 @@
             "artist": "Alexey Kruglov",
             "alias": "",
             "position": "48",
+            "rotated": false,
             "notes": "FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -9582,6 +9637,7 @@
             "artist": "Verena G.",
             "alias": "",
             "position": "49",
+            "rotated": false,
             "notes": "Planeoverlap, Poison",
             "image_type": "png",
             "v_mana": ""
@@ -9604,6 +9660,7 @@
             "artist": "\u017deljka Dobra\u0161",
             "alias": "",
             "position": "50",
+            "rotated": false,
             "notes": "FoodMaker, FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -9626,6 +9683,7 @@
             "artist": "Ashe",
             "alias": "",
             "position": "51",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -9648,6 +9706,7 @@
             "artist": "Caio Monteiro",
             "alias": "",
             "position": "52",
+            "rotated": false,
             "notes": "FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -9670,6 +9729,7 @@
             "artist": "Louis-Mary TOUZALIN",
             "alias": "",
             "position": "53",
+            "rotated": false,
             "notes": "Planeoverlap, Ramp",
             "image_type": "png",
             "v_mana": ""
@@ -9692,6 +9752,7 @@
             "artist": "Julien Fenoglio",
             "alias": "",
             "position": "54",
+            "rotated": false,
             "notes": "FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -9714,6 +9775,7 @@
             "artist": "yangyang sui",
             "alias": "",
             "position": "55",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -9736,6 +9798,7 @@
             "artist": "Brian Valeza",
             "alias": "",
             "position": "56",
+            "rotated": false,
             "notes": "FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -9758,6 +9821,7 @@
             "artist": "Michelle Tolo",
             "alias": "",
             "position": "57",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -9780,6 +9844,7 @@
             "artist": "guillaume NORMAND",
             "alias": "",
             "position": "58",
+            "rotated": false,
             "notes": "FoodMaker, FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -9792,7 +9857,7 @@
             "number": 98,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token.\u201d)[/i]\nHaste, Battle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\nWhen Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card.",
+            "rules_text": "Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token. It's an artifact with \u201c{2}, {T}, Sacrifice this token: You gain 3 life.\u201d)[/i]\nHaste, Battle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\nWhen Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -9802,6 +9867,7 @@
             "artist": "John Stone",
             "alias": "",
             "position": "59",
+            "rotated": false,
             "notes": "CardAdvantage",
             "image_type": "png",
             "v_mana": ""
@@ -9835,6 +9901,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "FoodMaker, PlaneOverlap",
             "image_type": "png",
             "v_mana": ""
@@ -9857,6 +9925,7 @@
             "artist": "Candice Broersma",
             "alias": "",
             "position": "61",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -9879,6 +9948,7 @@
             "artist": "Yuri Cameirana",
             "alias": "",
             "position": "62",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -9901,6 +9971,7 @@
             "artist": "Jerome Jacinto",
             "alias": "",
             "position": "63",
+            "rotated": false,
             "notes": "FoodEater, CardAdvantage",
             "image_type": "png",
             "v_mana": ""
@@ -9923,6 +9994,7 @@
             "artist": "Markus Erdt",
             "alias": "",
             "position": "64",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -9945,6 +10017,7 @@
             "artist": "Milica \u010celikovi\u0107",
             "alias": "",
             "position": "65",
+            "rotated": false,
             "notes": "FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -9967,6 +10040,7 @@
             "artist": "Ellina Akhiamova",
             "alias": "",
             "position": "66",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -9989,6 +10063,7 @@
             "artist": "Mac Smith",
             "alias": "",
             "position": "67",
+            "rotated": false,
             "notes": "FoodMaker, Removal",
             "image_type": "png",
             "v_mana": ""
@@ -10011,6 +10086,7 @@
             "artist": "Shin San",
             "alias": "",
             "position": "68",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10033,6 +10109,7 @@
             "artist": "Marco Wulfr",
             "alias": "",
             "position": "69",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10055,6 +10132,7 @@
             "artist": "Elvira Shatunova",
             "alias": "",
             "position": "70",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10077,6 +10155,7 @@
             "artist": "Frank Barbera",
             "alias": "",
             "position": "71",
+            "rotated": false,
             "notes": "ConjecturePayoff,",
             "image_type": "png",
             "v_mana": ""
@@ -10110,6 +10189,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10132,6 +10213,7 @@
             "artist": "Mauricio Carrasco",
             "alias": "",
             "position": "73",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10154,6 +10236,7 @@
             "artist": "Bo Chen",
             "alias": "",
             "position": "74",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10176,6 +10259,7 @@
             "artist": "LeafYe",
             "alias": "",
             "position": "75",
+            "rotated": false,
             "notes": "!exportname RZ05 -- May I Have Your Name",
             "image_type": "png",
             "v_mana": ""
@@ -10198,6 +10282,7 @@
             "artist": "Gabriel Cassata",
             "alias": "",
             "position": "76",
+            "rotated": false,
             "notes": "Removal, CardAdvantage\n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal > U",
             "image_type": "png",
             "v_mana": ""
@@ -10231,6 +10316,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10253,6 +10340,7 @@
             "artist": "Asur Misoa",
             "alias": "",
             "position": "78",
+            "rotated": false,
             "notes": "FoodMaker, Fixing",
             "image_type": "png",
             "v_mana": ""
@@ -10275,6 +10363,7 @@
             "artist": "Tuan Duong Chu",
             "alias": "",
             "position": "79",
+            "rotated": false,
             "notes": "FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -10297,6 +10386,7 @@
             "artist": "Bastien Grivet",
             "alias": "",
             "position": "80",
+            "rotated": false,
             "notes": "FoodEater, Planeoverlap, Ramp",
             "image_type": "png",
             "v_mana": ""
@@ -10330,6 +10420,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "Planeoverlap",
             "image_type": "png",
             "v_mana": ""
@@ -10352,6 +10444,7 @@
             "artist": "Pierre Ignaszewski",
             "alias": "",
             "position": "82",
+            "rotated": false,
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -10374,6 +10467,7 @@
             "artist": "Carlota Su\u00e1rez Villaverde",
             "alias": "",
             "position": "83",
+            "rotated": false,
             "notes": "!exportname CB13 -- Im Eternally Grateful",
             "image_type": "png",
             "v_mana": ""
@@ -10396,6 +10490,7 @@
             "artist": "Pauline Vo\u00df",
             "alias": "",
             "position": "84",
+            "rotated": false,
             "notes": "FoodMaker, Removal",
             "image_type": "png",
             "v_mana": ""
@@ -10418,6 +10513,7 @@
             "artist": "Von Milano",
             "alias": "",
             "position": "85",
+            "rotated": false,
             "notes": "Removal, CardAdvantage,",
             "image_type": "png",
             "v_mana": ""
@@ -10440,6 +10536,7 @@
             "artist": "Jacqueline Manherz",
             "alias": "",
             "position": "86",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10462,6 +10559,7 @@
             "artist": "Tomek Larek",
             "alias": "",
             "position": "87",
+            "rotated": false,
             "notes": "PlaneOverlap,",
             "image_type": "png",
             "v_mana": ""
@@ -10484,6 +10582,7 @@
             "artist": "Michelle Tolo",
             "alias": "",
             "position": "88",
+            "rotated": false,
             "notes": "FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -10506,6 +10605,7 @@
             "artist": "Sandara Tang",
             "alias": "",
             "position": "89",
+            "rotated": false,
             "notes": "FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -10528,6 +10628,7 @@
             "artist": "Narendra B Adi",
             "alias": "",
             "position": "90",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10550,6 +10651,7 @@
             "artist": "Clint Cearley",
             "alias": "",
             "position": "91",
+            "rotated": false,
             "notes": "FoodMaker, Card Advantage",
             "image_type": "png",
             "v_mana": ""
@@ -10572,6 +10674,7 @@
             "artist": "Marie Magny",
             "alias": "",
             "position": "92",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10594,6 +10697,7 @@
             "artist": "Jennifer Mills",
             "alias": "",
             "position": "93",
+            "rotated": false,
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -10616,6 +10720,7 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "94",
+            "rotated": false,
             "notes": "FoodMaker, CardAdvantage, GainLifeTrigger",
             "image_type": "png",
             "v_mana": ""
@@ -10638,6 +10743,7 @@
             "artist": "Leonardo Giordano",
             "alias": "",
             "position": "95",
+            "rotated": false,
             "notes": "FoodEater, Planeoverlap",
             "image_type": "png",
             "v_mana": ""
@@ -10660,6 +10766,7 @@
             "artist": "Daniela Guarecuco",
             "alias": "",
             "position": "96",
+            "rotated": false,
             "notes": "FoodEater, FoodMaker, CardAdvantage,",
             "image_type": "png",
             "v_mana": ""
@@ -10682,6 +10789,7 @@
             "artist": "Anton Ninov",
             "alias": "",
             "position": "97",
+            "rotated": false,
             "notes": "ConjecturePayoff",
             "image_type": "png",
             "v_mana": ""
@@ -10704,6 +10812,7 @@
             "artist": "Robert Tiess",
             "alias": "",
             "position": "98",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10726,6 +10835,7 @@
             "artist": "Alexandra GaudiBeundia Khitrova",
             "alias": "",
             "position": "99",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10748,6 +10858,7 @@
             "artist": "Victor Garcia",
             "alias": "",
             "position": "100",
+            "rotated": false,
             "notes": "ConjecturePayoff, Planeoverlap",
             "image_type": "png",
             "v_mana": ""
@@ -10770,6 +10881,7 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "101",
+            "rotated": false,
             "notes": "FoodMaker, FoodEater, GainLifeTrigger",
             "image_type": "png",
             "v_mana": ""
@@ -10792,6 +10904,7 @@
             "artist": "Yana Dokuchaeva",
             "alias": "",
             "position": "102",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10814,6 +10927,7 @@
             "artist": "David Astruga",
             "alias": "",
             "position": "103",
+            "rotated": false,
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -10836,6 +10950,7 @@
             "artist": "Rey Rad",
             "alias": "",
             "position": "104",
+            "rotated": false,
             "notes": "AddFlavorText",
             "image_type": "png",
             "v_mana": ""
@@ -10858,6 +10973,7 @@
             "artist": "Caio Monteiro",
             "alias": "",
             "position": "105",
+            "rotated": false,
             "notes": "CardAdvantage",
             "image_type": "png",
             "v_mana": ""
@@ -10880,6 +10996,7 @@
             "artist": "Nhan Nguyen",
             "alias": "",
             "position": "106",
+            "rotated": false,
             "notes": "!tokens Food\nFoodMaker, FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -10902,6 +11019,7 @@
             "artist": "Draken D.",
             "alias": "",
             "position": "107",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10924,6 +11042,7 @@
             "artist": "Amytis - Margaux Penhoat",
             "alias": "",
             "position": "108",
+            "rotated": false,
             "notes": "FoodMaker, FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -10946,6 +11065,7 @@
             "artist": "Raja Nandepu",
             "alias": "",
             "position": "109",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10968,6 +11088,7 @@
             "artist": "Anna Podedworna",
             "alias": "",
             "position": "110",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -10990,6 +11111,7 @@
             "artist": "Oleksandr Kuzmin",
             "alias": "",
             "position": "111",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11012,6 +11134,7 @@
             "artist": "Eggboy",
             "alias": "",
             "position": "112",
+            "rotated": false,
             "notes": "FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -11034,6 +11157,7 @@
             "artist": "Lyss Menold",
             "alias": "",
             "position": "113",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11056,6 +11180,7 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "114",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11078,6 +11203,7 @@
             "artist": "Nadine Sch\u00e4kel",
             "alias": "",
             "position": "115",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11100,6 +11226,7 @@
             "artist": "Evgeniy Shvenk",
             "alias": "",
             "position": "116",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11122,6 +11249,7 @@
             "artist": "D\u00e9bora Paes",
             "alias": "",
             "position": "117",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11144,6 +11272,7 @@
             "artist": "Michael Katchan",
             "alias": "",
             "position": "118",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11166,6 +11295,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "119",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11188,6 +11318,7 @@
             "artist": "Katerina Ladon",
             "alias": "",
             "position": "120",
+            "rotated": false,
             "notes": "AddFlavorText, ConjecturePayoff,",
             "image_type": "png",
             "v_mana": ""
@@ -11210,6 +11341,7 @@
             "artist": "Billy Christian",
             "alias": "",
             "position": "121",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11232,6 +11364,7 @@
             "artist": "Aimee Lynette",
             "alias": "",
             "position": "122",
+            "rotated": false,
             "notes": "FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -11254,6 +11387,7 @@
             "artist": "Kathleen O'Hara",
             "alias": "",
             "position": "123",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11276,6 +11410,7 @@
             "artist": "Antonio J. Manzanedo",
             "alias": "",
             "position": "124",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11298,6 +11433,7 @@
             "artist": "Chris Rahn",
             "alias": "",
             "position": "125",
+            "rotated": false,
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -11331,6 +11467,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "FoodMaker,",
             "image_type": "png",
             "v_mana": ""
@@ -11353,6 +11491,7 @@
             "artist": "Altered TCG",
             "alias": "",
             "position": "127",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11375,6 +11514,7 @@
             "artist": "Javier Gonz\u00e1lez",
             "alias": "",
             "position": "128",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11397,6 +11537,7 @@
             "artist": "Charlotte White",
             "alias": "",
             "position": "129",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11419,6 +11560,7 @@
             "artist": "Marcos V. Monken",
             "alias": "",
             "position": "130",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11441,6 +11583,7 @@
             "artist": "Pat Gabrielli",
             "alias": "",
             "position": "131",
+            "rotated": false,
             "notes": "CardAdvantage,",
             "image_type": "png",
             "v_mana": ""
@@ -11463,6 +11606,7 @@
             "artist": "Graziano Roccatani",
             "alias": "",
             "position": "132",
+            "rotated": false,
             "notes": "FoodEater, Disenchant",
             "image_type": "png",
             "v_mana": ""
@@ -11485,6 +11629,7 @@
             "artist": "Ishmael Hoover",
             "alias": "",
             "position": "133",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11518,6 +11663,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11540,6 +11687,7 @@
             "artist": "A. Lundell",
             "alias": "",
             "position": "135",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11562,6 +11710,7 @@
             "artist": "P. Nicholas Nodiff",
             "alias": "",
             "position": "136",
+            "rotated": false,
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -11584,6 +11733,7 @@
             "artist": "Brian Valeza",
             "alias": "",
             "position": "137",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11606,6 +11756,7 @@
             "artist": "Sandara Tang",
             "alias": "",
             "position": "138",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11628,6 +11779,7 @@
             "artist": "Tanya Podolskaia",
             "alias": "",
             "position": "139",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11650,6 +11802,7 @@
             "artist": "Drew Soman",
             "alias": "",
             "position": "140",
+            "rotated": false,
             "notes": "ConjecturePayoff,",
             "image_type": "png",
             "v_mana": ""
@@ -11672,6 +11825,7 @@
             "artist": "BoissB - Blanca.J",
             "alias": "",
             "position": "141",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11694,6 +11848,7 @@
             "artist": "Gonzalo Kenny",
             "alias": "",
             "position": "142",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11716,6 +11871,7 @@
             "artist": "Ina Wong",
             "alias": "",
             "position": "143",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11738,6 +11894,7 @@
             "artist": "Randy Vargas",
             "alias": "",
             "position": "144",
+            "rotated": false,
             "notes": "CardAdvantage,",
             "image_type": "png",
             "v_mana": ""
@@ -11760,6 +11917,7 @@
             "artist": "John Stone",
             "alias": "",
             "position": "145",
+            "rotated": false,
             "notes": "FoodEater, Planeoverlap",
             "image_type": "png",
             "v_mana": ""
@@ -11782,6 +11940,7 @@
             "artist": "Jan Rovira Romero",
             "alias": "",
             "position": "146",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11804,6 +11963,7 @@
             "artist": "Jacqueline Manherz",
             "alias": "",
             "position": "147",
+            "rotated": false,
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -11826,6 +11986,7 @@
             "artist": "Alayna Danner",
             "alias": "",
             "position": "148",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11848,6 +12009,7 @@
             "artist": "Rana Latham",
             "alias": "",
             "position": "149",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11870,6 +12032,7 @@
             "artist": "Pavel Kolomeyets",
             "alias": "",
             "position": "150",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -11892,6 +12055,7 @@
             "artist": "Yugin Maffioli",
             "alias": "",
             "position": "151",
+            "rotated": false,
             "notes": "CardAdvantage",
             "image_type": "png",
             "v_mana": ""
@@ -11914,6 +12078,7 @@
             "artist": "Michael Katchan",
             "alias": "",
             "position": "152",
+            "rotated": false,
             "notes": "FoodEater, Removal, Poison",
             "image_type": "png",
             "v_mana": ""
@@ -11936,6 +12101,7 @@
             "artist": "Saby Menyhei",
             "alias": "",
             "position": "153",
+            "rotated": false,
             "notes": "PlaneOverlap, FoodEater, Poison",
             "image_type": "png",
             "v_mana": ""
@@ -11958,6 +12124,7 @@
             "artist": "Zoltan Boros",
             "alias": "",
             "position": "154",
+            "rotated": false,
             "notes": "Removal, FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -11980,6 +12147,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "position": "155",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12002,6 +12170,7 @@
             "artist": "Giulio D'Amico",
             "alias": "",
             "position": "156",
+            "rotated": false,
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -12024,6 +12193,7 @@
             "artist": "Vinart",
             "alias": "",
             "position": "157",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12046,6 +12216,7 @@
             "artist": "Jun Kim",
             "alias": "",
             "position": "158",
+            "rotated": false,
             "notes": "GainLifeTrigger",
             "image_type": "png",
             "v_mana": ""
@@ -12068,6 +12239,7 @@
             "artist": "Adrian Pamplona",
             "alias": "",
             "position": "159",
+            "rotated": false,
             "notes": "FoodEater,ConjecturePayoff,",
             "image_type": "png",
             "v_mana": ""
@@ -12090,6 +12262,7 @@
             "artist": "Anna Christenson",
             "alias": "",
             "position": "160",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12112,6 +12285,7 @@
             "artist": "Victoria Nedelcheva",
             "alias": "",
             "position": "161",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12134,6 +12308,7 @@
             "artist": "Sleud",
             "alias": "",
             "position": "162",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12167,6 +12342,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "FoodMaker, FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -12189,6 +12366,7 @@
             "artist": "Sergio Mayo",
             "alias": "",
             "position": "164",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12211,6 +12389,7 @@
             "artist": "Queco",
             "alias": "",
             "position": "165",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12233,6 +12412,7 @@
             "artist": "Artur Treffner",
             "alias": "",
             "position": "166",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12255,6 +12435,7 @@
             "artist": "Link Chiang",
             "alias": "",
             "position": "167",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12277,6 +12458,7 @@
             "artist": "Anthony Avon",
             "alias": "",
             "position": "168",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12299,6 +12481,7 @@
             "artist": "nick southam",
             "alias": "",
             "position": "169",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12321,6 +12504,7 @@
             "artist": "Nele Diel",
             "alias": "",
             "position": "170",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12343,6 +12527,7 @@
             "artist": "Christina Kraus",
             "alias": "",
             "position": "171",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12365,6 +12550,7 @@
             "artist": "Leon Tukker",
             "alias": "",
             "position": "172",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12387,6 +12573,7 @@
             "artist": "Christina Kraus",
             "alias": "",
             "position": "173",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12409,6 +12596,7 @@
             "artist": "Brian Jackson",
             "alias": "",
             "position": "174",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12431,6 +12619,7 @@
             "artist": "Omar Vallejos",
             "alias": "",
             "position": "175",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12453,6 +12642,7 @@
             "artist": "Leon Tukker",
             "alias": "",
             "position": "176",
+            "rotated": false,
             "notes": "!tapped",
             "image_type": "png",
             "v_mana": ""
@@ -12475,6 +12665,7 @@
             "artist": "Maethavee.Kay'E",
             "alias": "",
             "position": "177",
+            "rotated": false,
             "notes": "!tapped",
             "image_type": "png",
             "v_mana": ""
@@ -12497,6 +12688,7 @@
             "artist": "Lea Dickert",
             "alias": "",
             "position": "178",
+            "rotated": false,
             "notes": "!tapped",
             "image_type": "png",
             "v_mana": ""
@@ -12519,6 +12711,7 @@
             "artist": "Nik Overdiek",
             "alias": "",
             "position": "179",
+            "rotated": false,
             "notes": "!tapped",
             "image_type": "png",
             "v_mana": ""
@@ -12541,6 +12734,7 @@
             "artist": "Alayna Lemmer-Danner",
             "alias": "",
             "position": "180",
+            "rotated": false,
             "notes": "!tapped",
             "image_type": "png",
             "v_mana": ""
@@ -12563,6 +12757,7 @@
             "artist": "Nutchapol Thitinunthakorn",
             "alias": "",
             "position": "181",
+            "rotated": false,
             "notes": "Removal, CardAdvantage\n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal/Wizard > U",
             "image_type": "png",
             "v_mana": ""
@@ -12585,6 +12780,7 @@
             "artist": "Daniel Jim\u00e9nez",
             "alias": "",
             "position": "182",
+            "rotated": false,
             "notes": "Riff on thought monitor",
             "image_type": "png",
             "v_mana": ""
@@ -12607,6 +12803,7 @@
             "artist": "Alexandra SJ",
             "alias": "",
             "position": "183",
+            "rotated": false,
             "notes": "Ramp, CardAdvantage,",
             "image_type": "png",
             "v_mana": ""
@@ -12629,6 +12826,7 @@
             "artist": "Carlos Justino",
             "alias": "",
             "position": "184",
+            "rotated": false,
             "notes": "FoodMaker,",
             "image_type": "png",
             "v_mana": ""
@@ -12651,6 +12849,7 @@
             "artist": "Hampus Lovebrant",
             "alias": "",
             "position": "185",
+            "rotated": false,
             "notes": "Fixing, FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -12673,6 +12872,7 @@
             "artist": "Faer - Elisa Guarnaroli",
             "alias": "",
             "position": "186",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12695,6 +12895,7 @@
             "artist": "Elvira Shatunova",
             "alias": "",
             "position": "187",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12717,6 +12918,7 @@
             "artist": "Diane \u00d6ZDAMAR",
             "alias": "",
             "position": "188",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12739,6 +12941,7 @@
             "artist": "Soenke C. \"Warby\" Seidel",
             "alias": "",
             "position": "189",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12761,6 +12964,7 @@
             "artist": "Von Milano",
             "alias": "",
             "position": "190",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12783,6 +12987,7 @@
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
             "position": "191",
+            "rotated": false,
             "notes": "Removal",
             "image_type": "png",
             "v_mana": ""
@@ -12805,6 +13010,7 @@
             "artist": "Rohland DeMoss",
             "alias": "",
             "position": "192",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12827,6 +13033,7 @@
             "artist": "Charlotte White",
             "alias": "",
             "position": "193",
+            "rotated": false,
             "notes": "AddFlavorText",
             "image_type": "png",
             "v_mana": ""
@@ -12849,6 +13056,7 @@
             "artist": "Quintin Gleim",
             "alias": "",
             "position": "194",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12871,6 +13079,7 @@
             "artist": "Ilya Vatutin",
             "alias": "",
             "position": "195",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12893,6 +13102,7 @@
             "artist": "Antonio J. Manzanedo",
             "alias": "",
             "position": "196",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12915,6 +13125,7 @@
             "artist": "Dominik Mayer",
             "alias": "",
             "position": "197",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12937,6 +13148,7 @@
             "artist": "FractalsByX",
             "alias": "",
             "position": "198",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12959,6 +13171,7 @@
             "artist": "David Laundry",
             "alias": "",
             "position": "199",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -12981,6 +13194,7 @@
             "artist": "Tatiana Rystenko",
             "alias": "",
             "position": "200",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13003,6 +13217,7 @@
             "artist": "Charlotte White",
             "alias": "",
             "position": "201",
+            "rotated": false,
             "notes": "Removal, CardAdvantage\n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal > U",
             "image_type": "png",
             "v_mana": ""
@@ -13036,6 +13251,8 @@
             "loyalty2": "",
             "artist2": "",
             "alias2": "",
+            "rules_text3": "",
+            "rotated": false,
             "notes": "FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -13058,6 +13275,7 @@
             "artist": "N\u00e9stor Ossand\u00f3n Leal",
             "alias": "",
             "position": "203",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13080,6 +13298,7 @@
             "artist": "Ivo Campelo da Silva",
             "alias": "",
             "position": "204",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13102,6 +13321,7 @@
             "artist": "Mauricio Carrasco",
             "alias": "",
             "position": "205",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13124,6 +13344,7 @@
             "artist": "Rayven Studios",
             "alias": "",
             "position": "206",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13146,6 +13367,7 @@
             "artist": "Mykyta Vasilchuk",
             "alias": "",
             "position": "207",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13168,6 +13390,7 @@
             "artist": "Gabrielle Ragusi",
             "alias": "",
             "position": "208",
+            "rotated": false,
             "notes": "CardAdvantage, PoliticsCard",
             "image_type": "png",
             "v_mana": ""
@@ -13190,6 +13413,7 @@
             "artist": "Evyn Fong",
             "alias": "",
             "position": "209",
+            "rotated": false,
             "notes": "FoodMaker, Removal\n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal > U",
             "image_type": "png",
             "v_mana": ""
@@ -13212,6 +13436,7 @@
             "artist": "Diego Gisbert Llorens",
             "alias": "",
             "position": "210",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13234,6 +13459,7 @@
             "artist": "Daniela Ivanova",
             "alias": "",
             "position": "211",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13256,6 +13482,7 @@
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
             "position": "212",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13278,6 +13505,7 @@
             "artist": "Pascal Quidault",
             "alias": "",
             "position": "213",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13300,6 +13528,7 @@
             "artist": "Alexander \"Minze\" Th\u00fcmler",
             "alias": "",
             "position": "214",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13322,6 +13551,7 @@
             "artist": "digsanchez",
             "alias": "",
             "position": "215",
+            "rotated": false,
             "notes": "",
             "image_type": "png",
             "v_mana": ""
@@ -13344,6 +13574,7 @@
             "artist": "Lisa Gaudr\u00e9",
             "alias": "",
             "position": "216",
+            "rotated": true,
             "notes": "landslot\nFoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -13366,6 +13597,7 @@
             "artist": "Alina Ertsgami",
             "alias": "",
             "position": "217",
+            "rotated": false,
             "notes": "landslot\nFoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -13388,6 +13620,7 @@
             "artist": "Ray Xie",
             "alias": "",
             "position": "218",
+            "rotated": false,
             "notes": "AddFlavorText",
             "image_type": "png",
             "v_mana": ""
@@ -13410,6 +13643,7 @@
             "artist": "Mari Suomela",
             "alias": "",
             "position": "219",
+            "rotated": false,
             "notes": "AddFlavorText",
             "image_type": "png",
             "v_mana": ""
@@ -13432,6 +13666,7 @@
             "artist": "AnsaLyn",
             "alias": "",
             "position": "220",
+            "rotated": false,
             "notes": "FoodEater, FoodMaker, DifferentPlane",
             "image_type": "png",
             "v_mana": ""
@@ -13454,6 +13689,7 @@
             "artist": "Taras Susak",
             "alias": "",
             "position": "221",
+            "rotated": false,
             "notes": "FoodEater, FoodMaker, DifferentPlane",
             "image_type": "png",
             "v_mana": ""
@@ -13476,6 +13712,7 @@
             "artist": "Diane \u00d6ZDAMAR",
             "alias": "",
             "position": "222",
+            "rotated": false,
             "notes": "DifferentPlane, ConjecturePayoff,",
             "image_type": "png",
             "v_mana": ""
@@ -13498,6 +13735,7 @@
             "artist": "Henri Kutvonen",
             "alias": "",
             "position": "223",
+            "rotated": false,
             "notes": "DifferentPlane, ConjecturePayoff,",
             "image_type": "png",
             "v_mana": ""
@@ -13520,6 +13758,7 @@
             "artist": "Kirigakureanjo",
             "alias": "",
             "position": "224",
+            "rotated": false,
             "notes": "DifferentPlane",
             "image_type": "png",
             "v_mana": ""
@@ -13542,6 +13781,7 @@
             "artist": "AnsaLyn",
             "alias": "",
             "position": "225",
+            "rotated": false,
             "notes": "DifferentPlane",
             "image_type": "png",
             "v_mana": ""
@@ -13564,6 +13804,7 @@
             "artist": "Vladan Zhervanov",
             "alias": "",
             "position": "226",
+            "rotated": false,
             "notes": "SamePlane",
             "image_type": "png",
             "v_mana": ""
@@ -13586,6 +13827,7 @@
             "artist": "Andy Aslamov",
             "alias": "",
             "position": "227",
+            "rotated": false,
             "notes": "SamePlane",
             "image_type": "png",
             "v_mana": ""
@@ -13608,6 +13850,7 @@
             "artist": "Alex Cash",
             "alias": "",
             "position": "228",
+            "rotated": false,
             "notes": "SamePlane\nFoodMaker, FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -13630,6 +13873,7 @@
             "artist": "Riz Yangpeiv",
             "alias": "",
             "position": "229",
+            "rotated": false,
             "notes": "SamePlane\nFoodMaker, FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -13652,6 +13896,7 @@
             "artist": "Pascal Quidault",
             "alias": "",
             "position": "230",
+            "rotated": false,
             "notes": "Phy-PhySamePlane",
             "image_type": "png",
             "v_mana": ""
@@ -13674,6 +13919,7 @@
             "artist": "Stephanie Herrera",
             "alias": "",
             "position": "231",
+            "rotated": false,
             "notes": "Phy-PhySamePlane",
             "image_type": "png",
             "v_mana": ""
@@ -13696,6 +13942,7 @@
             "artist": "Kerem Beyit",
             "alias": "",
             "position": "232",
+            "rotated": false,
             "notes": "Stx-StxSamePlane",
             "image_type": "png",
             "v_mana": ""
@@ -13718,6 +13965,7 @@
             "artist": "Riz Yangpeiv",
             "alias": "",
             "position": "233",
+            "rotated": false,
             "notes": "Stx-StxSamePlane",
             "image_type": "png",
             "v_mana": ""
@@ -13740,6 +13988,7 @@
             "artist": "lie setiawan",
             "alias": "",
             "position": "234",
+            "rotated": false,
             "notes": "SamePlane\nFoodMaker, FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -13762,6 +14011,7 @@
             "artist": "Chalky Nan",
             "alias": "",
             "position": "235",
+            "rotated": false,
             "notes": "SamePlane\nFoodMaker, FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -13784,6 +14034,7 @@
             "artist": "Yanmo Zhang",
             "alias": "",
             "position": "236",
+            "rotated": false,
             "notes": "DifferentPlane, GainLifeTrigger",
             "image_type": "png",
             "v_mana": ""
@@ -13806,6 +14057,7 @@
             "artist": "Alessandro Grioni",
             "alias": "",
             "position": "237",
+            "rotated": false,
             "notes": "DifferentPlane, GainLifeTrigger",
             "image_type": "png",
             "v_mana": ""
@@ -13828,6 +14080,7 @@
             "artist": "Alexey Kruglov",
             "alias": "",
             "position": "238",
+            "rotated": false,
             "notes": "DifferentPlane\nFoodMaker, FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -13850,6 +14103,7 @@
             "artist": "Victor Garcia",
             "alias": "",
             "position": "239",
+            "rotated": false,
             "notes": "DifferentPlane\nFoodMaker, FoodEater",
             "image_type": "png",
             "v_mana": ""
@@ -13872,6 +14126,7 @@
             "artist": "Mac Smith",
             "alias": "",
             "position": "240",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -13894,6 +14149,7 @@
             "artist": "Steve Sims",
             "alias": "",
             "position": "241",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -13916,6 +14172,7 @@
             "artist": "Othon Nikolaidis",
             "alias": "",
             "position": "242",
+            "rotated": true,
             "notes": "landslot\nFoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -13938,6 +14195,7 @@
             "artist": "Anastasiya Stolyarova",
             "alias": "",
             "position": "243",
+            "rotated": true,
             "notes": "landslot\nFoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -13960,6 +14218,7 @@
             "artist": "Tim Shepherd",
             "alias": "",
             "position": "244",
+            "rotated": true,
             "notes": "landslot\nFoodMaker\n\n\nFT:\"The louder they scream, the harder he laughs.\"",
             "image_type": "png",
             "v_mana": ""
@@ -13982,6 +14241,7 @@
             "artist": "Alex Chow",
             "alias": "",
             "position": "245",
+            "rotated": false,
             "notes": "landslot\nFoodMaker\n\n\nFT:\"The louder they scream, the harder he laughs.\"",
             "image_type": "png",
             "v_mana": ""
@@ -14004,6 +14264,7 @@
             "artist": "Graziano Roccatani",
             "alias": "",
             "position": "246",
+            "rotated": true,
             "notes": "landslot\nRamp",
             "image_type": "png",
             "v_mana": ""
@@ -14026,6 +14287,7 @@
             "artist": "Brian Valeza",
             "alias": "",
             "position": "247",
+            "rotated": true,
             "notes": "landslot\nRamp",
             "image_type": "png",
             "v_mana": ""
@@ -14048,6 +14310,7 @@
             "artist": "Brian Valeza",
             "alias": "",
             "position": "248",
+            "rotated": true,
             "notes": "landslot\nFoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -14070,6 +14333,7 @@
             "artist": "Johannes Voss",
             "alias": "",
             "position": "249",
+            "rotated": false,
             "notes": "landslot\nFoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -14092,6 +14356,7 @@
             "artist": "Bryan Bitter",
             "alias": "",
             "position": "250",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14114,6 +14379,7 @@
             "artist": "Nicol\u00e1s Arce",
             "alias": "",
             "position": "251",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14136,6 +14402,7 @@
             "artist": "Leon Tukker",
             "alias": "",
             "position": "252",
+            "rotated": true,
             "notes": "landslot\nRansack, FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -14158,6 +14425,7 @@
             "artist": "Chun Lo",
             "alias": "",
             "position": "253",
+            "rotated": false,
             "notes": "landslot\nRansack, FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -14180,6 +14448,7 @@
             "artist": "Altered TCG",
             "alias": "",
             "position": "254",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14202,6 +14471,7 @@
             "artist": "Goodname Studio",
             "alias": "",
             "position": "255",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14224,6 +14494,7 @@
             "artist": "Scott Purdy",
             "alias": "",
             "position": "256",
+            "rotated": true,
             "notes": "landslot\nRansack, FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -14246,6 +14517,7 @@
             "artist": "Kuraaa",
             "alias": "",
             "position": "257",
+            "rotated": false,
             "notes": "landslot\nRansack, FoodMaker",
             "image_type": "png",
             "v_mana": ""
@@ -14268,6 +14540,7 @@
             "artist": "kirinkarwai",
             "alias": "",
             "position": "258",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14290,6 +14563,7 @@
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
             "position": "259",
+            "rotated": false,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14312,6 +14586,7 @@
             "artist": "Anato Finnstark",
             "alias": "",
             "position": "260",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14334,6 +14609,7 @@
             "artist": "HannaH L",
             "alias": "",
             "position": "261",
+            "rotated": false,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14356,6 +14632,7 @@
             "artist": "Jerome Jacinto",
             "alias": "",
             "position": "262",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14378,6 +14655,7 @@
             "artist": "Max Wilson",
             "alias": "",
             "position": "263",
+            "rotated": false,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14400,6 +14678,7 @@
             "artist": "Leon Tukker",
             "alias": "",
             "position": "264",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14422,6 +14701,7 @@
             "artist": "Leon Tukker",
             "alias": "",
             "position": "265",
+            "rotated": false,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14444,6 +14724,7 @@
             "artist": "Asur Misoa",
             "alias": "",
             "position": "266",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14466,6 +14747,7 @@
             "artist": "Kristian Agerkvist",
             "alias": "",
             "position": "267",
+            "rotated": false,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14488,6 +14770,7 @@
             "artist": "Yuri Cameirana",
             "alias": "",
             "position": "268",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14510,6 +14793,7 @@
             "artist": "Dylan Amelot",
             "alias": "",
             "position": "269",
+            "rotated": false,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14532,6 +14816,7 @@
             "artist": "Liiga Smilshkalne",
             "alias": "",
             "position": "270",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14554,6 +14839,7 @@
             "artist": "Kay Vi",
             "alias": "",
             "position": "271",
+            "rotated": false,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14576,6 +14862,7 @@
             "artist": "Stu Harrington",
             "alias": "",
             "position": "272",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14598,6 +14885,7 @@
             "artist": "Paul Canavan",
             "alias": "",
             "position": "273",
+            "rotated": false,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14620,6 +14908,7 @@
             "artist": "Zyralynn (Malena Santos)",
             "alias": "",
             "position": "274",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14642,6 +14931,7 @@
             "artist": "Daniela Ivanova",
             "alias": "",
             "position": "275",
+            "rotated": false,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14664,6 +14954,7 @@
             "artist": "Jose Ochoa",
             "alias": "",
             "position": "276",
+            "rotated": true,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""
@@ -14686,6 +14977,7 @@
             "artist": "Carson Daniel",
             "alias": "",
             "position": "277",
+            "rotated": false,
             "notes": "landslot",
             "image_type": "png",
             "v_mana": ""

@@ -1,4 +1,574 @@
-﻿VERSION 18 CHANGELOG
+﻿VERSION 19 CHANGELOG
+====================
+
+
+
+UZ27 — Reason
+
+Z — New Mechanics
+
+UZ21 — Skeptic
+
+RW05 — Blood
+
+Z — Golden Egg Token
+
+CU10 — Re-Hash
+
+CW07 — Devote Evangelist
+
+UZ07 — Tenured Bondologist
+
+CB08 — Big Bad Ouphe
+
+UW05 — Auriok Descendant
+
+UW02 — Porcelain Myr
+
+UR07 — Heartfire Bolt
+
+CR12 — Fling a Pie
+
+CB05 — Innocuous Prankster
+
+RG04 — Biomewide Migration
+
+UG04 — Dualcat
+
+CR05 — Owl-Eyed Bowman
+
+RB04 — Careful What You Ask For
+
+RR04 — Flavor of Autumn
+
+RW02 — Flavor of Orthodoxy
+
+RU04 — Chronicle
+
+UB08 — Killer Deal
+
+CB07 — Professor From Another Realm
+
+CB03 — Marsh Mellow-o-Wisps
+
+CB02 — Midnight Snacqueraider
+
+CB01 — Brackish Fencer
+
+CB14 — Entreating Witch
+
+CU11 — Check your work!
+
+UU08 — Two Weeks Suspension
+
+CU14 — Group Study
+
+UU10 — Calculate A Prophecy
+
+CU08 — Missing Ingredient
+
+CU07 — Exponentiation Professor
+
+CU05 — Professor of Culinary Arts
+
+UW01 — Hosting Hawk
+
+UU02 — Snapping Torus
+
+CU02 — Arithmetic Frogression
+rules_text: Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token.”)[/i]
+When Arithmetic Frogression enters, if a gift was promised, create a Food token and put a +1/+1 counter on target creature. => Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token. It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+When Arithmetic Frogression enters, if a gift was promised, create a Food token and put a +1/+1 counter on target creature.
+
+CU06 — Campus Security
+
+CW10 — Served In Ice
+
+CW08 — Sleeperagent Skymount
+
+CW01 — Phyrexian Pridemate
+
+CW02 — Bladed Ambassador
+
+CW03 — Autocatalytic Hare
+
+CW04 — Celestial Crier
+
+UW03 — Charging Invader
+
+CW05 — Elder Cenobite
+
+CW09 — Preator's Glory
+
+CG01 — Hungry Brushwagg
+
+UG03 — Drannith Mess Sergeant
+
+CG08 — Indatha Ooze
+
+UG10 — Nourish The Young
+
+CG04 — Webbonder
+
+CB06 — The Tooth Faerie
+
+CG02 — Thornvault Anomaly
+
+CG03 — Symbiotic Shaman
+
+CG05 — Beetle-Horned Rhino
+
+CG10 — Peckish Pinekraken
+
+UG08 — Establish Eludha
+
+CW11 — Hunger of Mites
+
+CR01 — Raging Marten
+rules_text: Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token.”)[/i]
+Haste, Battle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+When Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card. => Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token. It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+Haste, Battle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+When Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card.
+
+CR02 — Pilfering Vole
+
+UR01 — Root Maze Hatcher
+
+CR08 — Rabid Chase Wolves
+
+CR04 — Sharp Clawed Scout
+
+UR03 — Seedbed Sentry
+
+CR10 — Pond Creek Predator
+
+UR10 — Alluring Aromas
+
+CR14 — Wield the Seed Flame
+
+CZ03 — Consummate Bladetail
+
+CZ04 — OilFang Bonder
+
+UZ05 — Book Thief
+
+CZ06 — Hydrodynamicist
+
+CZ08 — Haymeadow Brigand
+
+UZ10 — Gnaw Bonder
+
+UU07 — Give Insight
+
+RZ05 -- May I Have Your Name
+
+UB03 — Faerie Assassin
+
+CZ05 — Entrancing Faye
+
+CG11 — Advantageous Adaptation
+
+CG06 — Zagoth Snapper
+
+CG07 — Mandelbrot Grazer
+
+CG09 — Reynard Bonder
+
+CG11 — Devour Whole
+
+CB13 -- Im Eternally Grateful
+
+CB10 — Delicious Apples
+
+CG14 — Thunderous Stomp
+
+UG01 — Venom Meringue Pie
+
+CR06 — Micro Ecologist
+
+CR03 — Emberheart Mouster
+
+CR07 — Burning Oak Duo
+
+CR11 — Uplift Animalfolk
+
+CR13 — Rally the Squirrels
+
+CB09 — Shadow Swap
+
+CB11 — Negotiate With Death
+
+CW12 — Phyrexian Chalice
+
+CW06 — Lorehold Paleodietitian
+
+CU09 — Inspiring Lemma Beans
+
+CU01 — Quandrix Garden Gates
+
+UU04 — Square Elemental
+
+CU13 — Publish Analysis
+
+CU04 — Sneaky Researcher
+
+CW14 — Oleaginous Portal
+
+RL01 — The Holy Oil Spring
+
+CW13 — Open Wide
+
+RL05 — Living Great Tree
+
+UU03 — Paperback Snake
+
+CU12 — Freshman Meal Plan
+
+MW11 — Elesh Norn, Fidei Defensor
+
+MR14 — Mabel, Valley's Champion
+
+MG15 — Umori, Glue Beast
+
+MU12 — Zimone, Galeforce Researcher
+
+RL04 — Emberheart Greatsword
+
+RZ01 — Holy Relics Masterclass
+
+RZ03 — Blight Rabbit
+
+RZ04 — Wormcoil Hydra
+
+RZ06 — Advanced Bravery
+
+RZ09 — Esdragot
+
+RZ10 — Find the Magic Acorn
+
+RW01 — Mondrak, Impassable Horror
+
+RW04 — Begin the Feast
+
+RU01 — Larine Arneza, Valedictorian
+
+RU02 — Pensive Professor
+
+RB01 — Agatha, Cauldron Witch
+
+RR02 — Calamity Lavabuck
+
+RG03 — WildCat Bonder
+
+RG01 — Kogla, the Titan Appe
+
+RB02 — Gumdrop Poisoner
+
+UZ01 — Bibliochef
+
+UR04 — Riverbank Paladin
+
+RR03 — Sword from the Pond
+
+UR06 — Calamity Ember Owl
+
+UG02 — Chevill's Apprentice
+
+UG05 — Ravenous Hyena
+
+UB09 — Graverob
+
+UB05 — Red Riding Hood
+
+UZ03 — Soul Rodent
+
+UZ04 — Tithe Monster
+
+UZ09 — Itsy Bitey Spider
+
+UR05 — Wiskerbow Archer
+
+MB13 — Rankle, Trusted Borrower
+
+UU01 — Axiom Channeler
+
+CZ07 — Strix Bonder
+
+CZ09 — Elder Bonder
+
+CZ10 — Frenzied Bonder
+
+CG13— Surivor's Bond
+
+CB04 — Oilsworn Paladin
+
+CZ02 — Liturgy Preparer
+
+CA01 — Egg BombBomb
+
+UA04 — Eriette's Tempting Apple
+
+CU03 — Quaildratic Formula
+
+UU06 — Stress of Finals Week
+
+UW10 — Call to Compleation
+
+UW09 — Punishment Sphere
+
+CR09 — Oilslick Watchfrog
+
+CB12 — Baked into a Pie
+
+UR08 — Return the Flavor
+
+UU09 — Doesn't Count
+
+UA02 — Giant Loaf
+
+UZ02 — Dawn Knight
+
+CZ01 — Biblopex Caterer
+
+RZ07 — Quandrix Illusionist
+
+UB07 — Back for Seconds
+
+RB03 — Magic Piggies
+
+UB04 — Hell's Sous Chef
+
+UZ23 — Nightwatch Blade
+
+UZ06 — Mace The Exam
+
+UZ24 — Boarish Roar
+
+UZ25 — Plagiarism
+
+UW07 — Oily Shimmer
+
+CL01 — Raugrin Lavaflats
+
+CL02 — The Woods at Twilight
+
+CL03 — Department of Environmental Sciences
+
+CL04 — Phyrexian Passage
+
+CL05 — The Valley Market
+
+UZ29 — Hoot of the Horned Owl
+
+UZ30 — Mythos of Kogla
+
+CL06 — Norn's Basilica
+
+CL07 — Bilbelopex
+
+CL08 — Witches Hut
+
+CL09 — Oystershroom Lodge
+
+CL10 — Ketria Bosque
+
+UG09 — Snap Up
+
+UU05 — Tater Tot Monitor
+
+CA02 — Magic Fruit Stand
+
+CA03 — Cabbatrice
+
+UA08 — Ginger Snaposaurus
+
+UA01 — Chef's Knife
+
+UA03 — Triple Berry Patrol
+
+UA05 — Her Royal Meringue
+
+UA06 — Toffee Golem
+
+UG07 — Voyaging Reefshell
+
+RZ02 — Duskhunter Bat
+
+RW03 — Chef of Machines
+
+RR01 — Whisker, the Fearless
+
+UR02 — Agate Instigator
+
+RU03 — Cosmophysicist
+
+UG06 — Razorback Bonder
+
+UB02 — Night Knight
+
+RL02 — Atollpology
+
+RZ08 — Sand Witch
+
+UB01 — Gingerbread Cabin
+
+UR09 — Slay The Beast
+
+UB06 — Dark Lilly Ambushers
+
+UW04 — Mite Overseer
+
+RU05 — Isometric Transformation
+
+RR05 — Topple The Tall
+
+RB05 — Wicked Famine
+
+RG05 — Savai Stampede
+
+UB10 — Price of Royalty
+
+UW08 — Uncork
+
+UZ08 — The Girl Who Cried Ouphe
+
+UZ26 — Safety in Numbers
+
+UZ22 — Glistening Rites
+
+UW06 — Phyrexian Health Inspector
+
+UZ28 — Feed the Throng
+
+RG02 — Drannith Beast Hunter
+
+CR16 — Ransack the Emberheart-Oven
+
+CR16 — Mabel's Rise
+
+RL03 — The Dusk Woods
+
+RL03 — Rankle's Greatest Trick
+
+MZ02 — Ms. Bumbleflower, Generous Hare
+
+MZ02 — Nymris, Sprightly Deciever
+
+MZ03 — Gyruda, Oscilating Wave
+
+MZ03 — Plargg, Chaos Instructor
+
+MZ01 — Ixhel, Porcelain Angel
+
+MZ01 — Yorion, Cloud Coatl
+
+MZ04 — Cruelclaw, Leader of the Red Scarves
+
+MZ04 — Hazel, Leader of the Acrons
+
+MZ05 — Kaheera, Monster Paragon
+
+MZ05 — Jirina, Humanity's General
+
+MZ06 — Urabrask, Rebel Praetor
+
+MZ06 — Sheoldred, Grinning Resurrector
+
+MZ07 — Quandrix, Resonance Maestro
+
+MZ07 — Prismari, Theatrical Maestro
+
+MZ08 — Eriette of Love's Bite
+
+MZ08 — Greta, SweetArrow Avenger
+
+MZ09 — Quintorious, Defender of History
+
+MZ09 — Brudiclad, Roaring Crafter
+
+MZ10 - The Golden Goose
+
+MZ10 — Ygra, Eater of Infinity
+
+CR15 — Scuffle of Scurry
+
+CR15 — Campfire Companions
+
+CB15 — Trial of Guile
+
+CB15 — Sweet Associates
+
+CB16 — Ransack the Faerie Garden
+
+CB16 — Rankle's Reveal
+
+CG15 — Fight of Might
+
+CG15 — Kindred Packmates
+
+CG16 — Ransack the Ketria Gemgrove
+
+CG16 — Umori Snaps Back
+
+CW15 — Ceremony of Faith
+
+CW15 — The Porcelain Legion
+
+CW16 — Ransack the Fifth Sphere
+
+CW16 — Mother's Retribution
+
+CU15 — Test of Intellect
+
+CU15 — Collaborative Scholars
+
+CU16 — Ransack the Library
+
+CU16 — Zimone Gets Even
+
+UZ11 — Syphon the Infinity Fountain
+
+UZ11 — All They Can Eat
+
+UZ12 — Polemics of Apostasy
+
+UZ12 — Sibyls in Rapture
+
+UZ13 — Guard the Fountainport Parapet
+
+UZ13 — Ember Festival Revelry
+
+UZ14 — Traverse the Hunter Maze
+
+UZ14 — Prey to Apex of the Swarm
+
+UZ15 — Beset Your Dreams
+
+UZ15 — Sleep Study
+
+UZ16 — Thesis Defense
+
+UZ16 — Prismari Flourish
+
+UZ17 — Traverse The Ketria Great Tree
+
+UZ17 —Wild Flock of Abundance
+
+UZ18 — Challenge the Court of High Chance
+
+UZ18 — Gamble with the RedScarves
+
+UZ19 — Abscond the Golden Eggs
+
+UZ19 — Collect on Promises
+
+UZ20 — Hunt in the Raugrin Shoals
+
+UZ20 — Mutative Advantage
+
+
+VERSION 18 CHANGELOG
 ====================
 
 Z — New Mechanics added.

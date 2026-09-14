@@ -1,0 +1,5302 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<cockatrice_carddatabase version='4'>
+	<sets>
+		<set>
+			<name>CoA</name>
+			<longname>Change on Avishkar</longname>
+			<settype>Custom</settype>
+			<releasedate>2026-09-13</releasedate>
+		</set>
+	</sets>
+	<cards>
+		<card>
+			<name>Thriving Grubs</name>
+			<text>When Thriving Grubs enters, you get {E}{E}.
+Whenever Thriving Grubs attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/115_Thriving Grubs.png" num="115">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Gremlins</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dovin Baan, Persistent Ruler</name>
+			<text>Persist
+Whenever a nontoken permanent you control is put into a graveyard from play, you may pay 2 life. If you do, another target creature manufactures 2.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/164_Dovin Baan, Persistent Ruler.png" num="164">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Vedalken Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Narset, Panharmonastic Sage</name>
+			<text>Prowess
+Raid - If you&apos;ve attacked this turn, if casting a noncreature spell causes a triggered ability of a permanent you control to trigger, that ability triggers an additional time.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/184_Narset, Panharmonastic Sage.png" num="184">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Zurgo, Anarchist Leader</name>
+			<text>Haste
+During your turn, Zurgo has indestructible.
+Whenever one or more +1/+1 counters are put on a creature you control, you get that many {E}.
+When Zurgo attacks, you may pay {E}{E}. If you do, creatures you control gain menace until end of turn.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/210_Zurgo, Anarchist Leader.png" num="210">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Orc Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>7/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kurna Majan, Luminary Financier</name>
+			<text>Ward {2}
+Whenever you cast a spell, choose one that hasn&apos;t been chosen this turn —
+• Proliferate.
+• Gain 4 life.
+• Scry 2, then draw a card.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/180_Kurna Majan, Luminary Financier.png" num="180">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Merchant</type>
+				<maintype>Creature</maintype>
+				<manacost>3GWU</manacost>
+				<cmc>6</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Waste Land</name>
+			<text>{T}: Add {C}.
+{T}, Sacrifice Waste Land: Destroy target nonbasic land. That land&apos;s controller creates a Wastes token.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/260_Waste Land.png" num="260">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Cataclysmic Earthquake</name>
+			<text>Vigilance
+Morph {5}{G}{W}
+When Cataclysmic Earthquake is turned face up, your opponents each choose one artifact, creature, and enchantment they control. Stun each non-land permanent opponents control not chosen this way. Enchantments tapped this way lose all abilities as long as they remain tapped.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/157_Cataclysmic Earthquake.png" num="157">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental Servo</type>
+				<maintype>Creature</maintype>
+				<manacost>3GW</manacost>
+				<cmc>5</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Noxious Duststorm</name>
+			<text>Menace
+Morph {5}{U}{B}
+When Noxious Duststorm is turned face up, destroy all other creatures that are one or more colors. Target opponent loses 1 life for each creature destroyed this way.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/186_Noxious Duststorm.png" num="186">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental Servo</type>
+				<maintype>Creature</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Torrential Ice Wave</name>
+			<text>Flying 
+Morph {5}{W}{U}
+When Torrential Ice Wave is turned face up, you may cast target instant card from your graveyard without paying its mana cost. You gain life equal to its mana value.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/202_Torrential Ice Wave.png" num="202">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental Servo</type>
+				<maintype>Creature</maintype>
+				<manacost>3WU</manacost>
+				<cmc>5</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Verdurous Wildfire</name>
+			<text>Trample
+Morph {4}{R}{G}
+When Verdurous Wildfire is turned face up, double the power of other creatures you control until end of turn.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/205_Verdurous Wildfire.png" num="205">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental Servo</type>
+				<maintype>Creature</maintype>
+				<manacost>3RG</manacost>
+				<cmc>5</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>6/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Combustible Lightning</name>
+			<text>Haste
+Morph {3}{B}{R}
+When Combustible Lightning is turned face up, target opponent may have you draw three cards. If the player doesn&apos;t, you mill three cards, then they lose life equal to the total mana value of those cards.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/162_Combustible Lightning.png" num="162">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elemental Servo</type>
+				<maintype>Creature</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>7/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aethermate Roc</name>
+			<text>Flying
+Raid - When Aethermate Roc enters, if you attacked this turn, create two 1/1 white bird creature tokens with flying.
+When Aethermate Roc attacks, creatures you control gain prowess until end of turn.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/1_Aethermate Roc.png" num="1">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winds of Industry</name>
+			<text>Flying, ward {1}
+When Winds of Industry enters, it manufactures 3.
+Artifact and face-down creatures you control get +1/+1.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/58_Winds of Industry.png" num="58">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Demon of Dark Schemes</name>
+			<text>Flying
+When Demon of Dark Schemes enters, all other creatures get -2/-2 until end of turn.
+Whenever another creature dies, you get {E}.
+{2}{B}, Pay {E}{E}{E}{E}: Put target creature card from a graveyard onto the battlefield under your control tapped.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/64_Demon of Dark Schemes.png" num="64">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Demon</type>
+				<maintype>Creature</maintype>
+				<manacost>3BBB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lightning Runner</name>
+			<text>Double strike, haste
+Whenever Lightning Runner attacks, you get {E}{E}, then you may pay eight {E}. If you pay, untap all creatures you control, and after this phase, there is an additional combat phase.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/103_Lightning Runner.png" num="103">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Longtusk Pride</name>
+			<text>First strike
+When Longtusk Pride enters, if it isn&apos;t a token, create a token that is a copy of it.
+Whenever a Cat you control deals combat damage, put a +1/+1 counter on each Cat you control.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/133_Longtusk Pride.png" num="133">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Adi Thandray, Platinum Ancestor</name>
+			<text>When Adi Thandray enters, gain {E}{E}{E}.
+{E}{E}{E},{T}:Return target creature from your graveyard to the battlefield tapped. It gains flying and is an Angel in addition to its other types.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/146_Adi Thandray, Platinum Ancestor.png" num="146">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1UBR</manacost>
+				<cmc>4</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Yahenni, Altruistic Ancestor</name>
+			<text>Flying
+When Yahenni enters, it manufactures 1.
+Whenever a permanent you control manufactures, instead of choosing one, you both add counters and make servos.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/208_Yahenni, Altruistic Ancestor.png" num="208">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Aetherborn Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>1WUB</manacost>
+				<cmc>4</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Surrak, Pelt-Clad Ancestor</name>
+			<text>Trample
+Other creatures you control have trample.
+Whenever a creature you control with base power and toughness 2/2 becomes target of a spell, draw a card.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/199_Surrak, Pelt-Clad Ancestor.png" num="199">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Bear Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>1GWU</manacost>
+				<cmc>4</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Houn, Beguiling Ancestor</name>
+			<text>Flying, prowess
+Whenever you cast a noncreature spell, you may tap target creature and scry 1.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/172_Houn, Beguiling Ancestor.png" num="172">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1RGW</manacost>
+				<cmc>4</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ancestor, Who Smirks at Law</name>
+			<text>First strike
+When Ancestor attacks, you may pay {E}{E}. If you do, she gains deathtouch and indestructible until end of turn and you draw a card.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/148_Ancestor, Who Smirks at Law.png" num="148">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1BRG</manacost>
+				<cmc>4</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Dustblast</name>
+			<text>Return each creature without a +1/+1 counter on it to its owner&apos;s hand.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/166_Dustblast.png" num="166">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3GWU</manacost>
+				<cmc>6</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dynastic Inheritance</name>
+			<text>Draw X plus one cards.
+You may put up to X cards with a morph ability from your hand onto the battlefield face down.
+
+Turn up to X face down creatures you control face up.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/167_Dynastic Inheritance.png" num="167">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XXGWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Temporize Activist</name>
+			<text>Counter target creature spell.
+Create a 1/1 colorless Servo artifact creature token, then put a +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/200_Temporize Activist.png" num="200">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dragonfist Technique</name>
+			<text>Creatures you control gain +1/+1, first strike, and vigilance until end of turn.
+If you control two or more Monks, there is an additional combat phase after this phase followed by an additional main phase.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/165_Dragonfist Technique.png" num="165">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Booming Karma</name>
+			<text>Booming Karma deals 2 damage to target player. 
+Target player sacrifices a creature with the greatest mana value among creatures they control.
+Destroy target artifact, enchantment, or land.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/155_Booming Karma.png" num="155">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BRG</manacost>
+				<cmc>4</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sagu Deforester</name>
+			<text>Flying, ward {2}
+Morph {3}{U}{B}{R}</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/192_Sagu Deforester.png" num="192">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Beast Golem</type>
+				<maintype>Creature</maintype>
+				<manacost>4UBR</manacost>
+				<cmc>7</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kneecap Blaster</name>
+			<text>Haste, trample
+When Kneecap Blaster attacks, attacking creatures you control gain +2/+0 and trample.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/179_Kneecap Blaster.png" num="179">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Beserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Assemblyman of Preservation</name>
+			<text>When Assemblyman of Preservation enters, draw a card.
+Noncreature and face-down creature spells cost your opponent {1} more to cast.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/150_Assemblyman of Preservation.png" num="150">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sage of the Vitalfire</name>
+			<text>Flying
+Whenever you cast a noncreature spell, target creature gains lifelink until end of turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/191_Sage of the Vitalfire.png" num="191">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Djinn Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Savage Union Busters</name>
+			<text>{R}: Savage Union Busters gains haste until end of turn.
+{1}{B}: Savage Union Bustersgets +2/+2 until end of turn. You lose 2 life. Activate this ability only once each turn.
+{2}{U}: Savage Union Busters gains hexproof until end of turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/195_Savage Union Busters.png" num="195">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ogre Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sai&apos;s Patronage</name>
+			<text>Create two 1/1 colorless Thopter artifact creature tokens with flying.
+Distribute two +1/+1 counters among creatures you control.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/193_Sai&apos;s Patronage.png" num="193">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2WU</manacost>
+				<cmc>4</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Impulsive Fracking</name>
+			<text>As additional cost to cast this spell pay {2} or sacrifice a land.
+You gain {E}{E}{E}, then you may pay {E}{E}. If you do, draw a card.
+Destroy target creature.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/175_Impulsive Fracking.png" num="175">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Birth of Rebellion</name>
+			<text>Whenever you attack with one or more creatures gain {E}.
+Raid - At the beginning of your end step, if you attacked this turn, you may pay {E}{E}. If you do, draw a card.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/154_Birth of Rebellion.png" num="154">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Chianul&apos;s Guidance</name>
+			<text>Rebound (If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)
+Create a 2/2 green and white Monk creature token with prowess, then scry 1.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/158_Chianul&apos;s Guidance.png" num="158">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fumigate</name>
+			<text>Destroy all creatures. You gain 1 life for each creature destroyed this way.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/13_Fumigate.png" num="13">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3WW</manacost>
+				<cmc>5</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Confiscation Coup</name>
+			<text>Choose target artifact or creature.You get {E}{E}{E}{E}, then you may pay an amount of {E} equal to that permanent&apos;s mana value. If you do, gain control of it.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/35_Confiscation Coup.png" num="35">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bloodsoaked Champion</name>
+			<text>Bloodsoaked Champion can&apos;t block.
+Raid — {1}{B}: Return this card from your graveyard to the battlefield. Activate only if you attacked this turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/61_Bloodsoaked Champion.png" num="61">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hooded Hydra</name>
+			<text>Hooded Hydra enters with X +1/+1 counters on it.
+When Hooded Hydra dies, create a 1/1 green Snake creature token for each +1/+1 counter on it.
+Morph {3}{G}{G}
+As Hooded Hydra is turned face up, put five +1/+1 counters on it.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/127_Hooded Hydra.png" num="127">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Hydra</type>
+				<maintype>Creature</maintype>
+				<manacost>XGG</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Liberated Dreadnought</name>
+			<text>Whenever a creature you control manufactures, put a +1/+1 counter on Liberated Dreadnought.
+Crew 6</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/132_Liberated Dreadnought.png" num="132">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/10</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Thousand Winds</name>
+			<text>Flying
+Morph {5}{U}{U} 
+When Thousand Winds is turned face up, return all other tapped creatures to their owners&apos; hands.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/55_Thousand Winds.png" num="55">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4UU</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>5/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Jeering Instigator</name>
+			<text>Morph {2}{R} 
+When Jeering Instigator is turned face up, if it&apos;s your turn, gain control of another target creature until end of turn. Untap that creature. It gains haste until end of turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/102_Jeering Instigator.png" num="102">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Grim Haruspex</name>
+			<text>Morph {B} 
+Whenever another nontoken creature you control dies, draw a card.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/72_Grim Haruspex.png" num="72">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Master of Pearls</name>
+			<text>Morph {3}{W}{W} 
+When Master of Pearls is turned face up, creatures you control get +2/+2 until end of turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/17_Master of Pearls.png" num="17">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Chianul, Qal Sisma Mystic</name>
+			<text>{T}: Add {G}, {W}, or {R}.
+Morph {2}
+When Chianul is turned face up, add {G}{W}{R}.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/118_Chianul, Qal Sisma Mystic.png" num="118">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Machiavellian Will</name>
+			<text>Choose two —
+• Counter target spell.
+• Proliferate.
+• Exile target creature, then return it to the battlefield under its owner&apos;s control.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/48_Machiavellian Will.png" num="48">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unscrupulous Puppeteer</name>
+			<text>When Unscrupulous Puppeteer enters, it manufactures 3.
+Whenever an artifact you control is put into a graveyard from the battlefield, target creature an opponent controls gets -X/-X until end of turn, where X is Unscrupulous Puppeteer&apos;s power.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/86_Unscrupulous Puppeteer.png" num="86">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pearl Lake Salar</name>
+			<text>Multikicker {E} (You may pay an additional {E} any number of times as you cast this spell.)
+Choose target creature, then choose another target creature for each time this spell was kicked. Pearl Lake Salar deals X damage to each of them.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/110_Pearl Lake Salar.png" num="110">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>XRR</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gremlin Anarchist</name>
+			<text>Flash
+When Gremlin Anarchist enters, you gain {E}{E}{E} and then may pay any amount of {E}. Return target instant or sorcery with mana value equal to the amount on {E} paid from your graveyard to your hand.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/98_Gremlin Anarchist.png" num="98">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Giant Gremlin</type>
+				<maintype>Creature</maintype>
+				<manacost>3RR</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>The Assembly&apos;s Orator</name>
+			<text>Whenever you cast a noncreature spell with mana value 3 or less, scry 2 then creatures you control get +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/6_The Assembly&apos;s Orator.png" num="6">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Syndicate Logistician</name>
+			<text>{2}, Sacrifice another artifact, creature, or land: Syndicate Logistician manufactures 1 and gains indestructible until end of turn. Activate only once each turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/83_Syndicate Logistician.png" num="83">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snapping Sanctuary</name>
+			<text>Morph {6}{G}{G}
+When Snapping Sanctuary is turned face up, creatures you control gain indestructible until end of turn.
+Whenever Snapping Sanctuary attacks or blocks, at the end of combat, it gains indestructible until end of turn and turn it face down.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/142_Snapping Sanctuary.png" num="142">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Turtle Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/9</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Industrious Angel</name>
+			<text>Flying, lifelink
+Morph {2}{W}
+When Industrious Angel enters or is turned face up, up to three target creatures you control manufacture 1.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/16_Industrious Angel.png" num="16">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Angel</type>
+				<maintype>Creature</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mine for Solutions</name>
+			<text>Mine for Solutions costs {1} less to cast for each colorless permanent you control.
+Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in any order.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/49_Mine for Solutions.png" num="49">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>10UU</manacost>
+				<cmc>12</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Exploration Module</name>
+			<text>Whenever a Thopter enters under your control, create a Map token. 
+{5},{T}: Create a 1/1 colorless Thopter artifact creature token with flying.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/218_Exploration Module.png" num="218">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Extraction Module</name>
+			<text>Whenever you sacrifice an artifact or land, gain {E}.
+{2},{T} Sacrifice a land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/219_Extraction Module.png" num="219">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Execution Module</name>
+			<text>Whenever you get one or more {E}, you may pay {2}. If you do, create a 1/1 colorless Thopter artifact creature token with flying.
+{4},{T}: Proliferate.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/217_Execution Module.png" num="217">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Skysovereign, Grounded Flagship</name>
+			<text>Defender, reach
+Whenever Skysovereign enters or blocks, draw a card.
+Crew 3</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/241_Skysovereign, Grounded Flagship.png" num="241">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/7</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Smuggler&apos;s ATV</name>
+			<text>Whenever Smuggler&apos;s ATV attacks or blocks, draw a card then discard a card.
+Crew 1</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/242_Smuggler&apos;s ATV.png" num="242">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cultivator&apos;s Caravan</name>
+			<text>{T}: Add one mana of any color.
+Crew 3</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/216_Cultivator&apos;s Caravan.png" num="216">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Fleetwheel Cruiser</name>
+			<text>Trample, haste
+When Fleetwheel Cruiser enters, it becomes an artifact creature until end of turn.
+Crew 2</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/222_Fleetwheel Cruiser.png" num="222">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Metallic Mimic</name>
+			<text>As Metallic Mimic enters, choose a creature type.
+Metallic Mimic is the chosen type in addition to its other types.
+Each other creature you control of the chosen type enters with an additional +1/+1 counter on it.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/233_Metallic Mimic.png" num="233">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Shapeshifter</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Altar of the Brood</name>
+			<text>Whenever another permanent you control enters, each opponent mills a card.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/212_Altar of the Brood.png" num="212">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ghostfire Blade</name>
+			<text>Equipped creature gets +2/+2.
+Equip {3}
+Equip colorless creature {1}</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/225_Ghostfire Blade.png" num="225">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Corrupted Workshop</name>
+			<text>When Corrupted Workshop enters, target creature you control manufactures 1.
+{T}: Add {C}</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/248_Corrupted Workshop.png" num="248">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Desert Rift</name>
+			<text>Colorless spells you cast cost you {1} less to cast.
+{T}: Add {C}.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/250_Desert Rift.png" num="250">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Land — Desert</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Seaside Citadel</name>
+			<text>Seaside Citadel enters tapped.
+{T}: Add {G}, {W}, or {U}.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/258_Seaside Citadel.png" num="258">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Arcane Sanctum</name>
+			<text>Arcane Sanctum enters tapped.
+{T}: Add {B}, {W}, or {U}.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/247_Arcane Sanctum.png" num="247">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Crumbling Necropolis</name>
+			<text>Crumbling Necropolis enters tapped.
+{T}: Add {U}, {B}, or {R}.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/249_Crumbling Necropolis.png" num="249">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Savage Lands</name>
+			<text>Savage Lands enters tapped.
+{T}: Add {B}, {R}, or {G}.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/257_Savage Lands.png" num="257">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jungle Shrine</name>
+			<text>Jungle Shrine enters tapped.
+{T}: Add {R}, {G}, or {W}.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/254_Jungle Shrine.png" num="254">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Aether Hub</name>
+			<text>When Aether Hub enters, you get {E}.
+{T}: Add {C}.
+{T}, Pay {E}: Add one mana of any color.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/246_Aether Hub.png" num="246">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Zurgo&apos;s Encampment</name>
+			<text>{T}: Add {C}
+Raid - {T}: Add one mana of any color. Activate only if you&apos;ve attacked this turn.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/261_Zurgo&apos;s Encampment.png" num="261">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Indigo Monmument</name>
+			<text>{T}: Add {C}
+{3},{T}: You gain 1 life for each colorless creature you control</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/266_Indigo Monmument.png" num="266">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Vedalken Aetherlooter</name>
+			<text>Deathtouch, Vigilance
+When Vedalken Aetherlooter enters or is turned face up, you gain {E}{E}.
+{T}, Pay {E}: Draw a card, then discard a card.
+Morph {U}{B}{R}</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/204_Vedalken Aetherlooter.png" num="204">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Citizen&apos;s Companion</name>
+			<text>When Citizen&apos;s Companion enters, it manufactures 3. (Put three +1/+1 counters on this creature, or create three 1/1 colorless Servo artifact creature tokens.)</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/161_Citizen&apos;s Companion.png" num="161">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Servo Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>2GWU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Whisper Virtuoso</name>
+			<text>First strike 
+At the beginning of your upkeep you may pay {3}. If you do, Whisper Virtuoso manufactures 2. 
+Servos you control have menace.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/207_Whisper Virtuoso.png" num="207">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warden of the Scrolls</name>
+			<text>When Warden of the Scrolls enters, return target card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/206_Warden of the Scrolls.png" num="206">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Djinn Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nihilist Roughrider</name>
+			<text>Whenever Nihilist Roughrider attacks, tap up to one target vehicle you control. It becomes an attacking artifact creature until end of turn.
+{E}{E}: Target creature can&apos;t block this turn. Activate only as a sorcery</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/185_Nihilist Roughrider.png" num="185">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Beserker</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Unlicensed Syphoning</name>
+			<text>Destroy target creature. 
+You get {E}{E}, then you may pay {E}{E}. If you do, Unlicensed Syphoning deals 3 damage to that creature&apos;s controller.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/203_Unlicensed Syphoning.png" num="203">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bull Market</name>
+			<text>Whenever a creature you control manufactures for the first time each turn, it manufactures an additional time.
+{3}, Discard a card: Target creature manufactures 1.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/156_Bull Market.png" num="156">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Icefeather Carrion</name>
+			<text>Flying
+Morph {U}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Icefeather Carrion is turned face up, you may return target creature card from your graveyard to your hand.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/173_Icefeather Carrion.png" num="173">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird Zombie Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inventor&apos;s Mantle</name>
+			<text>Target creature gains hexproof and indestructible until end of turn then it manufactures 1. Scry 2.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/177_Inventor&apos;s Mantle.png" num="177">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Smash Up</name>
+			<text>Destroy target blocking creature. Creatures that were blocked by that creature this combat gain trample until end of turn.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/198_Smash Up.png" num="198">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Contraband Kingpin</name>
+			<text>Lifelink
+Whenever an artifact you control enters, scry 1.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/163_Contraband Kingpin.png" num="163">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Highspire Adept</name>
+			<text>Trample, prowess</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/171_Highspire Adept.png" num="171">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Insect Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Baral, Renegade Brawler</name>
+			<text>Whenever you cast an instant or sorcery spell, you get {E}.
+When Baral attacks, you may pay {E}{E}, if you do he manufactures 1.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/152_Baral, Renegade Brawler.png" num="152">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>BR</manacost>
+				<cmc>2</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Labor Charm</name>
+			<text>Choose one —
+• Destroy target attacking creature.
+• Counter target spell unless its controller pays {3}.
+• Target opponent reveals their hand. You choose a nonland card from it. That player discards that card.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/181_Labor Charm.png" num="181">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>UBR</manacost>
+				<cmc>3</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Political Charm</name>
+			<text>Choose one —
+• You may sacrifice a permanent. If you do, draw two cards.
+• Create two 1/1 colorless Thopter artifact creature tokens with flying.
+• Put target creature on top of its owner&apos;s library.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/189_Political Charm.png" num="189">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WUB</manacost>
+				<cmc>3</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Finance Charm</name>
+			<text>Choose one —
+• Draw two cards.
+• Exile target creature with mana value 3 or less.
+• Distribute two +1/+1 counters among one or two target creatures.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/169_Finance Charm.png" num="169">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>GWU</manacost>
+				<cmc>3</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Monastic Charm</name>
+			<text>Choose one —
+• Target creature you control gets +1/+1 until end of turn. It fights target creature you don&apos;t control.
+• Create a 2/2 green and white Monk creature token with prowess.
+• Destroy target artifact or enchantment.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/182_Monastic Charm.png" num="182">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>RGW</manacost>
+				<cmc>3</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Rebelious Charm</name>
+			<text>Choose one —
+• Each creature deals 1 damage to its controller.
+• Destroy target creature that is one or more colors.
+• Exile the top three cards of your library. You may play them until the end of your next turn.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/190_Rebelious Charm.png" num="190">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>BRG</manacost>
+				<cmc>3</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sage-Eye Apprentice</name>
+			<text>Lifelink
+Morph—Reveal a white card in your hand. 
+When Sage-Eye Apprentice is turned face up, it gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/24_Sage-Eye Apprentice.png" num="24">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Entrant of the Way</name>
+			<text>Vigilance
+When Entrant of the Way enters, another target creature manufactures 1.
+Each creature you control with a +1/+1 counter on it has vigilance.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/12_Entrant of the Way.png" num="12">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gearshift Pitcrew</name>
+			<text>When Gearshift Pitcrew enters, choose one:
+• You get {E}{E}{E}{E}.
+• Gearshift Pitcrew manufactures 2.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/44_Gearshift Pitcrew.png" num="44">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>0/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Devout Kirin</name>
+			<text>Flying, vigilance, prowess</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/9_Devout Kirin.png" num="9">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Kirin</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Roost&apos;s Guardian</name>
+			<text>Flying 
+Morph {4}{W}{W}
+When Roost&apos;s Guardian is turned face up, you may exile target creature. If you do, return it to the battlefield under its owner&apos;s control. Then Roost&apos;s Guardian manufactures 2.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/23_Roost&apos;s Guardian.png" num="23">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird Solider</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghostfire&apos;s Light</name>
+			<text>Exile target creature. If it was tapped, create a 1/1 white Human Monk creature token with prowess.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/14_Ghostfire&apos;s Light.png" num="14">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Resistance Factor</name>
+			<text>Target creature you control manufactures 1 and gains protection from the color of your choice until end of turn.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/139_Resistance Factor.png" num="139">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Skywhaler&apos;s Shot</name>
+			<text>Destroy target creature with power 3 or greater. Scry 1.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/26_Skywhaler&apos;s Shot.png" num="26">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Salt Road Tank</name>
+			<text>Vigilance
+Whenever you cast a noncreature spell, until end of turn Salt Road Tank becomes an artifact creature and gets +1/+1.
+Crew 2</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/194_Salt Road Tank.png" num="194">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1GW</manacost>
+				<cmc>3</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Cogify</name>
+			<text>Target creature&apos;s controller chooses one:
+• Until end of turn, that creature loses all abilities and is a colorless Servo artifact creature with base power and toughness 1/1. 
+• Put that creature on top of its owner&apos;s library.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/34_Cogify.png" num="34">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glimmer of Genius</name>
+			<text>Scry 2, then draw two cards. You get {E}{E}.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/46_Glimmer of Genius.png" num="46">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Shrewd Negotiation</name>
+			<text>Exchange control of target artifact you control and target artifact or creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/52_Shrewd Negotiation.png" num="52">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4U</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Innovation Setbacks</name>
+			<text>Return target nonland permanent to its owner&apos;s hand.
+Up to one target creature you control manufactures 1.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/47_Innovation Setbacks.png" num="47">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Glacial Glintfisher</name>
+			<text>Flying, defender
+{3}: Glacial Glintfisher can attack this turn as though it didn&apos;t have defender.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/45_Glacial Glintfisher.png" num="45">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Denial Lobbyist</name>
+			<text>Flash
+When Denial Lobbyist enters or is turned face up, counter target spell.
+Morph {U}{U}</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/38_Denial Lobbyist.png" num="38">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Naga Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>3UU</manacost>
+				<cmc>5</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Astute Fairground Vendor</name>
+			<text>Hexproof
+Morph—Reveal a blue card in your hand. 
+When Astute Fairground Vendor is turned face up, target creature manufactures 1. (Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/32_Astute Fairground Vendor.png" num="32">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Merchant</type>
+				<maintype>Creature</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Subverter</name>
+			<text>Morph {1}{U}
+When Subverter is turned face up, gain control of target instant or sorcery spell that has at least one target. You may choose new targets for it.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/54_Subverter.png" num="54">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Filigreed Skywhale</name>
+			<text>Flying
+When Filigreed Skywhale enters, it manufactures 1, then stun up to one target creature.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/42_Filigreed Skywhale.png" num="42">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tenth Bridge Copter</name>
+			<text>Flying 
+Whenever Tenth Bridge Copter attacks, target creature you control gains flying until end of turn and you may look at up to one target face-down creature.
+Crew 2</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/201_Tenth Bridge Copter.png" num="201">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1WU</manacost>
+				<cmc>3</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Gonti&apos;s Illicit Ironworks</name>
+			<text>Whenever you attack with one or more creatures, you get {E}.
+{T}, Pay {E}{E}{E}: Target creature you control manufactures 2. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/70_Gonti&apos;s Illicit Ironworks.png" num="70">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Underhanded Designs</name>
+			<text>Whenever an artifact you control enters, you may pay {1}. If you do, each opponent loses 1 life and you gain 1 life.
+{1}{B}, Sacrifice Underhanded Designs: Destroy target creature. Activate only if you control two or more artifacts.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/85_Underhanded Designs.png" num="85">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aether Extraction</name>
+			<text>Destroy target creature with mana value 3 or less. You get {E}{E} and gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/59_Aether Extraction.png" num="59">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ruthless Ripper</name>
+			<text>Deathtouch
+Morph—Reveal a black card in your hand. 
+When Ruthless Ripper is turned face up, target player loses 2 life.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/79_Ruthless Ripper.png" num="79">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Assassin</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Glintsleeve Bruiser</name>
+			<text>Whenever Glintsleeve Bruiser enters or attacks, you get {E}.
+Raid - At the beginning of your end step, if you attacked this turn, you may pay {E}{E}. If you do, you draw a card and you lose 1 life.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/69_Glintsleeve Bruiser.png" num="69">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Heir of the Wastes</name>
+			<text>Deathtouch
+During your turn, Heir of the Wastes gets +1/+1 if you or a creature you control has a counter on it.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/73_Heir of the Wastes.png" num="73">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Orc Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloody Auctioneer</name>
+			<text>When Bloody Auctioneer enters or is turned face up, each player sacrifices two creatures. 
+Morph {E}{E}{E}</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/62_Bloody Auctioneer.png" num="62">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Merchant</type>
+				<maintype>Creature</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Shambling Aetherborn</name>
+			<text>Deathtouch
+Whenever an artifact or land is put into a graveyard from the battlefield, you may have target opponent lose 1 life.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/81_Shambling Aetherborn.png" num="81">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kheru Harvester</name>
+			<text>Whenever Kheru Harvester blocks a creature, stun that creature then you gain {E}{E}.
+Crew 2</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/178_Kheru Harvester.png" num="178">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Hordeling Troublemaker</name>
+			<text>Haste
+Morph—Reveal a red card in your hand. 
+When Hordeling Troublemaker is turned face up or dies, it deals 1 damage to any target.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/100_Hordeling Troublemaker.png" num="100">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aetherbomb Arsonist</name>
+			<text>Whenever Aetherbomb Arsonist becomes blocked by a creature, it deals 1 damage to that creature.
+Raid - When Aetherbomb Arsonist dies, if you attacked this turn, you get {E}{E} and it deals 3 damage to target creature.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/89_Aetherbomb Arsonist.png" num="89">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Goblin Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>War-Name Aspirant</name>
+			<text>Raid — War-Name Aspirant enters with a +1/+1 counter on it if you attacked this turn.
+War-Name Aspirant can&apos;t be blocked by creatures with power 1 or less.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/116_War-Name Aspirant.png" num="116">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Bloodfire Sage</name>
+			<text>Whenever Bloodfire Sage becomes the target of an instant or sorcery spell, it deals 1 damage to target creature and you scry 1.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/92_Bloodfire Sage.png" num="92">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Djinn Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ashcloud Dragster</name>
+			<text>Menace
+Whenever Ashcloud Dragster attacks or blocks, put a velocity counter on it. Then if it has three or more velocity counters on it, sacrifice it and draw a card for each velocity counter on it.
+Crew 2</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/149_Ashcloud Dragster.png" num="149">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1BR</manacost>
+				<cmc>3</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Maulfist Doorbuster</name>
+			<text>When Maulfist Doorbuster enters, you get {E}{E}.
+Whenever Maulfist Doorbuster attacks, you may pay {E}. If you do, target creature can&apos;t block this turn.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/105_Maulfist Doorbuster.png" num="105">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fairgrounds Acrobat</name>
+			<text>Reach
+Whenever a creature you control with reach blocks, you get {E}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/96_Fairgrounds Acrobat.png" num="96">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Myopic Pillaging</name>
+			<text>Destroy target artifact or non-basic land. It can&apos;t be regenerated.
+You get {E}{E}.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/106_Myopic Pillaging.png" num="106">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Harnessed Lightning</name>
+			<text>Choose target creature. You get {E}{E}{E}, then you may pay any amount of {E}. Harnessed Lightning deals that much damage to that creature.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/99_Harnessed Lightning.png" num="99">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Purchase Armorcraft</name>
+			<text>Untap target creature, then it manufactures 1.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/20_Purchase Armorcraft.png" num="20">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Guardian of the Cowl</name>
+			<text>Whenever one or more +1/+1 counters are put on a creature or vehicle you control, that many plus one +1/+1 counters are put on that creature instead.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/126_Guardian of the Cowl.png" num="126">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Riparian Jaguar</name>
+			<text>When Riparian Jaguar enters, it fights up to one target creature an opponent controls.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/140_Riparian Jaguar.png" num="140">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Incensed Druid</name>
+			<text>Vigilance, reach
+Must attack each turn if able.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/130_Incensed Druid.png" num="130">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk Beserker</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tuskguard Colonel</name>
+			<text>Raid - At the beginning of your end step, if you attacked this turn with a nontoken creature, create a 4/4 green Beast creature token.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/145_Tuskguard Colonel.png" num="145">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tenth Bridge Turret Guard</name>
+			<text>Reach
+Morph—Reveal a green card in your hand. 
+When Tenth Bridge Turret Guard is turned face up, target creature loses flying until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/144_Tenth Bridge Turret Guard.png" num="144">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Naga Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>0/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guarded Supply Freighter</name>
+			<text>Trample
+Crew 2
+Raid - At the beginning of your end step, if you attacked this turn and Guarded Supply Freighter is a creature, put a +1/+1 on target creature you control.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/170_Guarded Supply Freighter.png" num="170">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>1RG</manacost>
+				<cmc>3</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Ovalchase Dragster</name>
+			<text>Trample, haste
+Crew 1</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/235_Ovalchase Dragster.png" num="235">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>6/1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Bomat Bazaar Barge</name>
+			<text>When Bomat Bazaar Barge enters, draw a card.
+Crew 3</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/214_Bomat Bazaar Barge.png" num="214">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Consol&apos;s Bodyguards</name>
+			<text>Consol&apos;s Bodyguards enters with two +1/+1 counters on it. 
+Each creature you control with a +1/+1 counter on it has ward {1}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/36_Consol&apos;s Bodyguards.png" num="36">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Servo Wizard</type>
+				<maintype>Creature</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Owl-Strix Archers</name>
+			<text>Flying 
+Other colorless creatures you control have reach.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/236_Owl-Strix Archers.png" num="236">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird Archer</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Powered Down Timepiece</name>
+			<text>When Powered Down Timepiece enters, create a 1/1 colorless Servo artifact creature token.
+{1},{T}: Scry 1.
+{2}, Sacrifice Powered Down Timepiece: Draw a card and you get {E}{E}.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/78_Powered Down Timepiece.png" num="78">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Improvised Weather Machine</name>
+			<text>{2},{T}: Until the end of turn you may play lands from your graveyard. Surveil 1, then reveal the top card of your library. If it is a land, put it onto the battlefield tapped. Otherwise, you get {E}{E}.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/226_Improvised Weather Machine.png" num="226">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Alloy Loxodon</name>
+			<text>Morph {5}{G}</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/117_Alloy Loxodon.png" num="117">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>6G</manacost>
+				<cmc>7</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>6/7</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Filigree Familiar</name>
+			<text>When Filigree Familiar enters, you gain 2 life.
+When Filigree Familiar dies, draw a card.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/221_Filigree Familiar.png" num="221">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ghirapur&apos;s Golden Parapets</name>
+			<text>Defender
+{1},{T}: Ghirapur&apos;s Golden Parapets deals 1 damage to each opponent.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/224_Ghirapur&apos;s Golden Parapets.png" num="224">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Wall</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>0/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Loxodon Memorial</name>
+			<text>When Loxodon Memorial enters, scry 2 and you gain 4 life.
+Non-Human, non-artifact creatures you control get +2/+2.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/134_Loxodon Memorial.png" num="134">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lobbiers&apos;s Purse</name>
+			<text>Lobbiers&apos;s Purse enters with X gem counters.
+At the beginning of each combat you, may remove a gem counter from Lobbiers&apos;s Purse. If you do, tap target permanent. 
+{2}, {T}, Add a gem counter to Lobbiers&apos;s Purse.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/231_Lobbiers&apos;s Purse.png" num="231">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>XX</manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Tranquil Cove</name>
+			<text>Tranquil Cove enters tapped.
+When Tranquil Cove enters, you gain 1 life.
+{T}: Add {W} or {U}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/272_Tranquil Cove.png" num="272">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WU</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dismal Backwater</name>
+			<text>Dismal Backwater enters tapped.
+When Dismal Backwater enters, you gain 1 life.
+{T}: Add {B} or {U}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/265_Dismal Backwater.png" num="265">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Bloodfell Caves</name>
+			<text>Bloodfell Caves enters tapped.
+When Bloodfell Caves enters, you gain 1 life.
+{T}: Add {B} or {R}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/263_Bloodfell Caves.png" num="263">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Rugged Highlands</name>
+			<text>Rugged Highlands enters tapped.
+When Rugged Highlands enters, you gain 1 life.
+{T}: Add {G} or {R}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/268_Rugged Highlands.png" num="268">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Blossoming Sands</name>
+			<text>Blossoming Sands enters tapped.
+When Blossoming Sands enters, you gain 1 life.
+{T}: Add {G} or {W}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/264_Blossoming Sands.png" num="264">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Scoured Barrens</name>
+			<text>Scoured Barrens enters tapped.
+When Scoured Barrens enters, you gain 1 life.
+{T}: Add {B} or {W}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/269_Scoured Barrens.png" num="269">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Swiftwater Cliffs</name>
+			<text>Swiftwater Cliffs enters tapped.
+When Swiftwater Cliffs enters, you gain 1 life.
+{T}: Add {U} or {R}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/270_Swiftwater Cliffs.png" num="270">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Jungle Hollow</name>
+			<text>wJungle Hollow enters tapped.
+When Jungle Hollow enters, you gain 1 life.
+{T}: Add {B} or {G}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/267_Jungle Hollow.png" num="267">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Wind-Scarred Crag</name>
+			<text>Wind-Scarred Crag enters tapped.
+When Wind-Scarred Crag enters, you gain 1 life.
+{T}: Add {W} or {R}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/273_Wind-Scarred Crag.png" num="273">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Thornwood Falls</name>
+			<text>Thornwood Falls enters tapped.
+When Thornwood Falls enters, you gain 1 life.
+{T}: Add {U} or {G}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/271_Thornwood Falls.png" num="271">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Backslide</name>
+			<text>Turn target creature with a morph ability face down.
+Cycling {U}</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/33_Backslide.png" num="33">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Thriving Rats</name>
+			<text>When Thriving Rats enters, you get {E}{E}.
+Whenever Thriving Rats attacks, you may pay {E}{E}. If you do, put a +1/+1 counter on it.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/84_Thriving Rats.png" num="84">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Rat</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Irreversible Nightmare</name>
+			<text>Choose up to one target creature card in a graveyard. You get {E}{E}{E}{E}. Then you may pay an amount of {E} equal to that card&apos;s mana value. If you do, return it from the graveyard to the battlefield under your control.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/74_Irreversible Nightmare.png" num="74">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Chief of the Nail</name>
+			<text>Colorless creatures you control get +1/+0.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/160_Chief of the Nail.png" num="160">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rocslide</name>
+			<text>Whenever you cast a noncreature spell with mana value 3 or less, you may pay {1}. If you do, create a 1/1 white Bird creature token with flying.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/22_Rocslide.png" num="22">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aradara Station</name>
+			<text>{T}: Add {C}.
+{2}{T}: Target colorless creature you control gets +1/+1 until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/262_Aradara Station.png" num="262">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Aetherborn Dreamwalker</name>
+			<text>Flying, vigilance
+Whenever you gain one or more {E}, Aetherborn Dreamwalker gets +2/+0 until end of turn.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/147_Aetherborn Dreamwalker.png" num="147">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Nightmare</type>
+				<maintype>Creature</maintype>
+				<manacost>2UBR</manacost>
+				<cmc>5</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>3/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inspector Brigade</name>
+			<text>Vigilance
+When Inspector Brigade enters or is turned face up, create two 1/1 colorless Servo artifact creature tokens.
+Morph {W}{U}{B} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/176_Inspector Brigade.png" num="176">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2WUB</manacost>
+				<cmc>5</cmc>
+				<colors>WUB</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Illusion of Luxury</name>
+			<text>Flying
+Whenever Illusion of Luxury deals combat damage to a player, you may draw a card. If you do, remove a +1/+1 counter from a creature you control or discard a card.
+Morph {G}{W}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/174_Illusion of Luxury.png" num="174">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Naga Illusion</type>
+				<maintype>Creature</maintype>
+				<manacost>2GWU</manacost>
+				<cmc>5</cmc>
+				<colors>WUG</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mystic of The Way</name>
+			<text>Haste, prowess
+When Inspector Brigade enters or is turned face up, target creature gains lifelink until end of turn.
+Morph {R}{W}{G} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/183_Mystic of The Way.png" num="183">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2RGW</manacost>
+				<cmc>5</cmc>
+				<colors>WRG</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Peema Woods Champions</name>
+			<text>Trample 
+When Peema Woods Champions enters or is turned face up, you gain {E}{E}.
+When Peema Woods Champions attacks you may pay {E}{E}. If you do, creatures you control gains trample until end of turn.
+Morph {G}{R}{B}</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/188_Peema Woods Champions.png" num="188">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Ape Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2BRG</manacost>
+				<cmc>5</cmc>
+				<colors>BRG</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Factory BannerKnot</name>
+			<text>When Factory BannerKnot enters, you get {E}{E} and scry 2.
+{T}: Add {U}, {R}, or {B}.
+{U}{R}{B}, Sacrifice Factory BannerKnot: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/220_Factory BannerKnot.png" num="220">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lawful BannerKnot</name>
+			<text>When Lawful BannerKnot enters, create a 1/1 colorless Thopter artifact creature token with flying.
+{T}: Add {U}, {W}, or {B}.
+{W}{U}{B}, Sacrifice Lawful BannerKnot: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/228_Lawful BannerKnot.png" num="228">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Market BannerKnot</name>
+			<text>When Market BannerKnot enters, target creature you control manufactures 1.
+{T}: Add {U}, {W}, or {G}.
+{U}{W}{G}, Sacrifice Market BannerKnot: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/232_Market BannerKnot.png" num="232">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Monastery BannerKnot</name>
+			<text>When Monastery BannerKnot enters, it deals 1 damage to any target.
+{T}: Add {R}, {W}, or {G}.
+{R}{W}{G}, Sacrifice Monastery BannerKnot: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/234_Monastery BannerKnot.png" num="234">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lawless BannerKnot</name>
+			<text>When Lawless BannerKnot enters, you draw a card and you lose 2 life.
+{T}: Add {G}, {R}, or {B}.
+{R}{B}{G}, Sacrifice Lawless BannerKnot: Draw a card.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/229_Lawless BannerKnot.png" num="229">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Brass Winged Vulture</name>
+			<text>{B}: Brass Winged Vulture gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/215_Brass Winged Vulture.png" num="215">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>B</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Steel Horned Ibex</name>
+			<text>{1}{W}: Steel Horned Ibex gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/244_Steel Horned Ibex.png" num="244">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Goat</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<coloridentity>W</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Silver Tusked Walrus</name>
+			<text>{1}{U}: Silver Tusked Walrus gains hexproof until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/240_Silver Tusked Walrus.png" num="240">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Walrus</type>
+				<maintype>Creature</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+				<coloridentity>U</coloridentity>
+				<pt>0/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Wrought Iron Rhino</name>
+			<text>{G}: Wrought Iron Rhino gains trample until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/245_Wrought Iron Rhino.png" num="245">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Rhino</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<coloridentity>G</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lead Toothed Hyenas</name>
+			<text>{R}: Lead Toothed Hyenas gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/230_Lead Toothed Hyenas.png" num="230">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Hound</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<coloridentity>R</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Artificer&apos;s MIG</name>
+			<text>Whenever equipped creature attacks, it manufactures 1. (Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)
+Equip {2}</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/213_Artificer&apos;s MIG.png" num="213">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>1</manacost>
+				<cmc>1</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Lathnu Funicular</name>
+			<text>Flying
+Crew 2</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/227_Lathnu Funicular.png" num="227">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Aetherspout Bulldozer</name>
+			<text>Trample
+{T}: You gain {E}.
+Pay {E}{E}: Aetherspout Bulldozer becomes an artifact creature until end of turn.
+Crew 3</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/90_Aetherspout Bulldozer.png" num="90">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/2</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Adara Cable Car</name>
+			<text>Whenever Adara Cable Car attacks, put a +1/+1 counter on it.
+Crew 1</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/211_Adara Cable Car.png" num="211">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Vehicle</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Prophetic Prism</name>
+			<text>When Prophetic Prism enters, draw a card.
+{1}, {T}: Add one mana of any color.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/237_Prophetic Prism.png" num="237">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Foundry Auditor</name>
+			<text>Colorless spells you cast cost {1} less to cast.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/223_Foundry Auditor.png" num="223">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Assembly-Worker</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Self-Assembler</name>
+			<text>When Self-Assembler enters, you may search your library for an Assembly-Worker creature card, reveal it, put it into your hand, then shuffle.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/239_Self-Assembler.png" num="239">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Assembly-Worker</type>
+				<maintype>Creature</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Snare Thopter</name>
+			<text>Flying, haste</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/243_Snare Thopter.png" num="243">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Thopter</type>
+				<maintype>Creature</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Spur to Believe</name>
+			<text>Target creature gets +1/+0 until end of turn.
+Draw a card.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/27_Spur to Believe.png" num="27">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Empower the Masses</name>
+			<text>Creatures you control get +1/+1 until end of turn.
+Draw a card.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/11_Empower the Masses.png" num="11">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1WW</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Tax On Action</name>
+			<text>Tax On Action deals damage equal to the number of creatures and artifacts you control to target attacking or blocking creature .</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/28_Tax On Action.png" num="28">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Disassemble</name>
+			<text>Destroy target artifact, enchantment, or colorless creature.
+You gain 2 life.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/10_Disassemble.png" num="10">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Medatative Inspiration</name>
+			<text>Creatures you control get +2/+1 until end of turn. Untap all Monks you control.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/18_Medatative Inspiration.png" num="18">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2WW</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Apprehend Dissident</name>
+			<text>Enchant creature.
+Enchanted creature can&apos;t attack, block, crew vehicles, or be turned face up, and its activated abilities can&apos;t be activated.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/2_Apprehend Dissident.png" num="2">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Assembly&apos;s Attache</name>
+			<text>Double strike
+Morph {4}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/5_Assembly&apos;s Attache.png" num="5">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Advisor</type>
+				<maintype>Creature</maintype>
+				<manacost>3W</manacost>
+				<cmc>4</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Skypatrol Aetherborn</name>
+			<text>Flying
+When Skypatrol Aetherborn enters, it manufactures 1. (Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/25_Skypatrol Aetherborn.png" num="25">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Bird</type>
+				<maintype>Creature</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aristocrats&apos; Steed</name>
+			<text>Morph {5}{W} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Aristocrats&apos; Steed enters or is turned face up, up to two target creatures gains indestructible until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/3_Aristocrats&apos; Steed.png" num="3">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Horse</type>
+				<maintype>Creature</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>5/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Charming Kata</name>
+			<text>{3}{G}: Put a +1/+1 counter on Charming Kata and it gains deathtouch until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/7_Charming Kata.png" num="7">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Snake Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>W</manacost>
+				<cmc>1</cmc>
+				<colors>W</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Teacher of the Way</name>
+			<text>Prowess
+Teacher of the Way can&apos;t attack alone.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/29_Teacher of the Way.png" num="29">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Polluting Byproduct</name>
+			<text>Enchant permanent.
+Enchanted permanent is a colorless land names Wastes and loses all other card types and abilities.
+Enchanted permanent has &quot;{T}: Add {C}.&quot; and &quot;{7}: Polluting Byproduct&apos;s owner sacrifices it and draws a card. Activate only as a sorcery.&quot;</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/51_Polluting Byproduct.png" num="51">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Contrive</name>
+			<text>Up to one target creature manufactures 1. (Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)
+Scry 1.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/37_Contrive.png" num="37">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>U</manacost>
+				<cmc>1</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Artificer&apos;s Epiphany</name>
+			<text>Draw two cards. If you control no artifacts, discard a card.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/31_Artificer&apos;s Epiphany.png" num="31">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Failed Inspection</name>
+			<text>Counter target spell. Draw a card, then discard a card.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/41_Failed Inspection.png" num="41">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2UU</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Unseasonal Squall</name>
+			<text>Stun target creature. 
+Stun target creature. (Tap that creature and put a stun counter on it.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/57_Unseasonal Squall.png" num="57">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2U</manacost>
+				<cmc>3</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Sponsor&apos;s Cruise</name>
+			<text>Sponsor&apos;s Cruise costs {1} less to cast for each colorless creature you control.
+Draw three cards.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/53_Sponsor&apos;s Cruise.png" num="53">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>6U</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Dovin&apos;s Spy</name>
+			<text>This creature can&apos;t be blocked.
+Morph {U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Dovin&apos;s Spy is turned face up, draw a card.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/39_Dovin&apos;s Spy.png" num="39">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Drone Vendor</name>
+			<text>When Drone Vendor enters, you may pay {B} or sacrifice a Servo. If you do, create a 1/1 colorless Thopter creature token with flying.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/40_Drone Vendor.png" num="40">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Citizen</type>
+				<maintype>Creature</maintype>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
+				<colors>U</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aetherborn Incumbent</name>
+			<text>When Aetherborn Incumbent enters, draw a card.
+{3}{WB}: Aetherborn Incumbent manufactures 1. (Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/30_Aetherborn Incumbent.png" num="30">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Noble</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>WUB</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Minister of Flight</name>
+			<text>Flying 
+Morph {5}{U} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Minister of Flight is turned face up, it manufactures 2. (Put two +1/+1 counters on this creature, or create two 1/1 colorless Servo artifact creature tokens.)</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/50_Minister of Flight.png" num="50">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>3U</manacost>
+				<cmc>4</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Gearseeker Squid</name>
+			<text>Ward {3}
+{2}{U}, Discard Gearseeker Squid: Up to two target creatures you control can&apos;t be blocked this turn. Draw a card.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/43_Gearseeker Squid.png" num="43">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Squid</type>
+				<maintype>Creature</maintype>
+				<manacost>5UU</manacost>
+				<cmc>7</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>6/8</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Miasmic Cloud</name>
+			<text>When Miasmic Cloud is turned face up, creatures your opponents control get -1/-1 until end of turn.
+Morph {2}{B}
+At the beginning of your combat on your turn, target creature gets +2/+0 and gains deathtouch until end of turn.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/76_Miasmic Cloud.png" num="76">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Live Fast</name>
+			<text>You draw two cards, lose 2 life, and get {E}{E} (two energy counters).</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/75_Live Fast.png" num="75">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Die Young</name>
+			<text>Choose target creature. You get {E}{E}, then you may pay any amount of {E}. The creature gets -1/-1 until end of turn for each {E} paid this way.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/65_Die Young.png" num="65">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Seize the Means</name>
+			<text>Enchant creature
+When Seize the Means enters you get {E}{E} and target opponent discards a card.
+Enchanted creature gets +1/+1 and gains &quot;Pay {E}{E}: Target opponent discards a card. Activate only as a sorcery and only once each turn.&quot;</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/80_Seize the Means.png" num="80">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3B</manacost>
+				<cmc>4</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Exhausting Shift</name>
+			<text>Target creature gets -12/-12 until end of turn.
+Up to one target creature you control manufactures 1. (Put a +1/+1 counter on that creature, or create a 1/1 colorless Servo artifact creature token.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/67_Exhausting Shift.png" num="67">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>3BB</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Worker Strike</name>
+			<text>Choose two —
+• Until end of turn, creatures can&apos;t manufacture. 
+• Target creature gets -1/-1 counter until end of turn.
+• Put a +1/+1 counter on target non-artifact creature.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/87_Worker Strike.png" num="87">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1BB</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ghirapur Pickpocket</name>
+			<text>Raid - At the beginning of your end step, if you attacked this turn, each opponent loses 1 life.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/68_Ghirapur Pickpocket.png" num="68">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Vedalken Rogue</type>
+				<maintype>Creature</maintype>
+				<manacost>B</manacost>
+				<cmc>1</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Midnight Inspector</name>
+			<text>{3}{U}: Scry 2.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/77_Midnight Inspector.png" num="77">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Detective</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sidisi&apos;s Scavenger</name>
+			<text>Flying
+When Sidisi&apos;s Scavenger enters, it manufactures 1. (Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/82_Sidisi&apos;s Scavenger.png" num="82">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Bird Servo</type>
+				<maintype>Creature</maintype>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>0/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Defeatist Recycler</name>
+			<text>{1}{UR}, {T}, Sacrifice a permanent: Each opponent loses 2 life and you gain 2 life.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/63_Defeatist Recycler.png" num="63">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Servo</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Graveyard Lurker</name>
+			<text>When Graveyard Lurker enters, you get {E}{E} and mill 2 cards, then you may pay {E}{E}{E}{E}. If you do, return up to two target creature cards from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/71_Graveyard Lurker.png" num="71">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Zombie</type>
+				<maintype>Creature</maintype>
+				<manacost>2B</manacost>
+				<cmc>3</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Aetherborn Bond-Kin</name>
+			<text>When Aetherborn Bond-Kin enters, you get {E}{E}.
+Whenever Aetherborn Bond-Kin attacks, you may pay {E}{E}. If you do, Aetherborn creatures you control gain deathtouch, lifelink, and menace until end of turn.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/60_Aetherborn Bond-Kin.png" num="60">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Elephant</type>
+				<maintype>Creature</maintype>
+				<manacost>4B</manacost>
+				<cmc>5</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Pupil of the Hidden Eye</name>
+			<text>{1}{BG}: Look at up to one target face-down creature and target opponent reveals one card from their hand at random.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/112_Pupil of the Hidden Eye.png" num="112">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>BRG</coloridentity>
+				<pt>3/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Narset&apos;s Student</name>
+			<text>Prowess</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/107_Narset&apos;s Student.png" num="107">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Inauspicious Skyclaw</name>
+			<text>First strike, Reach
+Inauspicious Skyclaw enters with a +1/+1 counter on it. 
+{1}, Remove a +1/+1 counter from Inauspicious Skyclaw: You gain {E}{E}.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/101_Inauspicious Skyclaw.png" num="101">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Cat Dragon</type>
+				<maintype>Creature</maintype>
+				<manacost>2RR</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Malign Aetherborn</name>
+			<text>When Malign Aetherborn enters, it manufactures 1. (Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)
+{1}{B}: Malign Aetherborn gains menace until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/104_Malign Aetherborn.png" num="104">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Aetherborn Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>BR</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Factory Mazdoor</name>
+			<text>When Factory Mazdoor enters you get {E}{E}{E}.
+When Factory Mazdoor attacks or blocks you may pay {E}, if you do, it manufactures 1. (Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/95_Factory Mazdoor.png" num="95">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>2R</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Summit Postulant</name>
+			<text>When Summit Postulant enters or attacks, you get {E}{E}.
+Pay {E}{E}{E}{E}: Exile the top card of your library. You may play that card this turn</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/114_Summit Postulant.png" num="114">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Yeti Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>4R</manacost>
+				<cmc>5</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Provoked Lightning</name>
+			<text>Trample, haste
+Morph {4}{R} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/111_Provoked Lightning.png" num="111">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>5/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rising Temperatures</name>
+			<text>Rising Temperatures deals 4 damage to target creature. If excess damage was dealt to a permanent this way, you get {E}{E}.
+Raid - If you&apos;ve attacked this turn, this spell deals 7 damage instead.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/113_Rising Temperatures.png" num="113">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Offload</name>
+			<text>Offload deals 2 to target creature.
+Scry 2.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/108_Offload.png" num="108">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Optimistic Nihilism</name>
+			<text>As an additional cost to cast Optimistic Nihilism, discard a card or sacrifice a land.
+You gain {E}{E} (two energy counters).
+Draw two cards.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/109_Optimistic Nihilism.png" num="109">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1R</manacost>
+				<cmc>2</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Fanatical Recruitment</name>
+			<text>Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.
+You may pay {E}{E}{E}{E}{E}{E}. If you do, at the beginning of the next end step, sacrifice that creature and Fanatical Recruitment deals damage equal to its power to any target.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/97_Fanatical Recruitment.png" num="97">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3R</manacost>
+				<cmc>4</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Aetherspout Eruption</name>
+			<text>Aetherspout Eruption deals 3 damage to each creature. Then you may pay {E}{E}, if you do draw a card.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/91_Aetherspout Eruption.png" num="91">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5R</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Peema Colossus</name>
+			<text>Trample
+Morph {3}{G}{G}
+{2}{G}, Discard Peema Colossus: Destroy target artifact and you gain 2 life.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/137_Peema Colossus.png" num="137">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fairgrounds Security</name>
+			<text>Protection from colorless
+{0}: Look at target face-down creature. Activate only once per turn and only as a sorcery.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/122_Fairgrounds Security.png" num="122">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>4G</manacost>
+				<cmc>5</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kurna&apos;s Consultant</name>
+			<text>Kurna&apos;s Consultant enters with a +1/+1 counter on it.
+Raid — When Kurna&apos;s Consultant enters, if you attacked this turn, add {G}{W}{U}.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/131_Kurna&apos;s Consultant.png" num="131">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Merchant Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Ferrophage Spider</name>
+			<text>Reach
+When Ferrophage Spider blocks a creature with flying, it gains +3/+0 until end of t urn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/123_Ferrophage Spider.png" num="123">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Spider Servo</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Disrupted Hibernator</name>
+			<text>Trample
+Each creature you control with a +1/+1 counter on it has trample.
+Morph {1}{G} (You may cast this card face down as a 2/2 creature for 3. Turn it face up any time for its morph cost.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/120_Disrupted Hibernator.png" num="120">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Filigree-horn Luddite</name>
+			<text>{2}{RW}: Filigree-horn Luddite gets +1/+0 and gains first strike until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/124_Filigree-horn Luddite.png" num="124">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Centaur Rebel</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>WRG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sage-Eyed Enforcer</name>
+			<text>Prowess</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/141_Sage-Eyed Enforcer.png" num="141">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Reimmerse In Nature</name>
+			<text>Look at the top five cards of your library. You may reveal a creature and/or land card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/138_Reimmerse In Nature.png" num="138">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Gift of Sagacity</name>
+			<text>Target creature you control gets +2/+2 and &quot;Whenever this creature deals combat damage to a player, draw a card&quot; until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/125_Gift of Sagacity.png" num="125">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Devolution</name>
+			<text>Choose one -
+• Destroy target artifact.
+• Destroy target colorless creature.
+• You gain 4 life.
+• Proliferate</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/119_Devolution.png" num="119">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Peema Boxer</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/136_Peema Boxer.png" num="136">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Bear</type>
+				<maintype>Creature</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Immense Development</name>
+			<text>Put a +1/+1 counter and it gets trample until end of turn. If it&apos;s colorless, it gets +2/+2 until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/129_Immense Development.png" num="129">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Extinction Rebellion</name>
+			<text>Raid — At the beginning of your end step, if you attacked this turn, choose target permanent card in your graveyard with mana value 3 or less. You may pay {W}. If you do, return that card to the battlefield. Otherwise, put it into your hand.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/121_Extinction Rebellion.png" num="121">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>3G</manacost>
+				<cmc>4</cmc>
+				<colors>G</colors>
+				<coloridentity>WG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Complete Devotion</name>
+			<text>Target creature you control gets +2/+2 until end of turn. If that creature is a Monk, you draw a card.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/8_Complete Devotion.png" num="8">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Raise the Alms</name>
+			<text>Create two 1/1 white Human Monk creature tokens with prowess.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/21_Raise the Alms.png" num="21">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>2W</manacost>
+				<cmc>3</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Hypnotizing AetherBorealis</name>
+			<text>Untap all creatures.
+Until end of turn, creatures you control can&apos;t be blocked by more than one creature.
+Creatures your opponents control must block this turn if able.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/128_Hypnotizing AetherBorealis.png" num="128">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>2G</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Ceaseless Fires</name>
+			<text>Until end of turn damage can&apos;t be prevented. 
+Ceaseless Fires deals 4 damage to target creature.
+Raid - If you attacked this turn you get {E}{E}, then you may pay {E}{E}{E}{E}, if you do, Ceaseless Fires deals 4 damage to any target.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/93_Ceaseless Fires.png" num="93">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>4RR</manacost>
+				<cmc>6</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Bear Market</name>
+			<text>Artifact creatures you control get +1/+1.
+Whenever a creature you control dies, target player loses 1 life and you gain 1 life.
+{3}, Sacrifice a creature you control: Draw a card.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/153_Bear Market.png" num="153">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Empty The Vault</name>
+			<text>Until end of turn, whenever an artifact is put into a graveyard from the battlefield, each opponent lose 1 life.
+
+Destroy all creatures, then you may pay all your {E} counters. If you paid seven or more {E} this way, destroy all creatures you don&apos;t control instead.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/168_Empty The Vault.png" num="168">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
+				<colors>BR</colors>
+				<coloridentity>BR</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Yasova, Firebrand Zealot</name>
+			<text>Non-creature spells cost you {1} less to cast.
+Monk creatures you control have trample.
+Non-Monk creatures you control have prowess.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/209_Yasova, Firebrand Zealot.png" num="209">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Warrior</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Oviya Pashiri, Onlooking Spiritcrafter</name>
+			<text>{1}{W}{T}: Create a 1/1 white Human Monk creature tokens with prowess.
+{3}{G}{G}{T}: Create an Eternal Witness token. Activate only as a sorcery.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/187_Oviya Pashiri, Onlooking Spiritcrafter.png" num="187">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Spirit Mystic</type>
+				<maintype>Creature</maintype>
+				<manacost>GW</manacost>
+				<cmc>2</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Eternal Witness CoA</name>
+			<text>When Eternal Witness enters, you may return target card from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/22t_Eternal Witness.png" num="22">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Shaman</type>
+				<maintype>Creature</maintype>
+				<manacost>1GG</manacost>
+				<cmc>3</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Longtusk Pride CoA</name>
+			<text>First strike
+When Longtusk Pride enters, if it isn&apos;t a token, create a token copy of it.
+Whenever a Cat you control deals combat damage, put a +1/+1 counter on each Cat you control.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/23t_Longtusk Pride.png" num="23">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Cat</type>
+				<maintype>Creature</maintype>
+				<manacost>4GG</manacost>
+				<cmc>6</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Highspire Mystic</name>
+			<text>Highspire Mystic enters with a +1/+1 counter on it.
+{2}{GU}: Highspire Mystic gains flying until end of turn.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/15_Highspire Mystic.png" num="15">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>WUG</coloridentity>
+				<pt>2/0</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Monk CoA</name>
+			<text>Prowess</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/20t_Monk.png" num="20">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Monk</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Human Monk CoA</name>
+			<text>Prowess</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/25t_Human Monk.png" num="25">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>WG</colors>
+				<coloridentity>WG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Morph CoA</name>
+			<text>(You can cover a face-down morphed creature with this reminder card.
+A card with morph can be turned face up any time for its morph cost.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/2t_Morph.png" num="2">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Thopter CoA</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/28t_Thopter.png" num="28">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Thopter</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Servo CoA</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/27t_Servo.png" num="27">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact Creature — Servo</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Snake CoA</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/24t_Snake.png" num="24">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Snake</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Beast CoA</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/21t_Beast.png" num="21">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>4/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Bird CoA</name>
+			<text>Flying</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/19t_Bird.png" num="19">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Bird</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Assembly-Worker CoA</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/1t_Assembly-Worker.png" num="1">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Assembly-Worker</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Wastes CoA</name>
+			<text></text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/29t_Wastes.png" num="29">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Basic Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Aether Dart</name>
+			<text>Aether Dart deals 1 damage to target creature. If this spell was cast from a graveyard, it deals 2 damage instead.
+Flashback—{R}, Sacrifice a Mountain. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/88_Aether Dart.png" num="88">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R</manacost>
+				<cmc>1</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Mineral Appraiser</name>
+			<text>Whenever an artifact or a colorless creature you control enters, you gain 1 life.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/19_Mineral Appraiser.png" num="19">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Dwarf Artificer</type>
+				<maintype>Creature</maintype>
+				<manacost>1W</manacost>
+				<cmc>2</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Displaced Dreadmaw</name>
+			<text>Menace
+{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn and you get {E}{E}. Activate only as a sorcery.</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/66_Displaced Dreadmaw.png" num="66">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Wurm</type>
+				<maintype>Creature</maintype>
+				<manacost>4BB</manacost>
+				<cmc>6</cmc>
+				<colors>B</colors>
+				<coloridentity>B</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Tradewind Stalker</name>
+			<text>Flying
+Morph {4}{U}{U}</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/56_Tradewind Stalker.png" num="56">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Whale</type>
+				<maintype>Creature</maintype>
+				<manacost>5U</manacost>
+				<cmc>6</cmc>
+				<colors>U</colors>
+				<coloridentity>U</coloridentity>
+				<pt>4/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Storm Harmonist</name>
+			<text>Morph {3}{G}{G}
+When Storm Harmonist is turned face up, draw two cards.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/143_Storm Harmonist.png" num="143">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Elf Bard</type>
+				<maintype>Creature</maintype>
+				<manacost>G</manacost>
+				<cmc>1</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sunset Smoglands</name>
+			<text>{T}: Add {C}.
+Morph {2} 
+Basic landcycling {1}</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/259_Sunset Smoglands.png" num="259">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Dusk Factory</name>
+			<text>This land enters tapped unless you control an Island or a Mountain.
+{T}: Add {B}.
+{1}{U}{R}, {T}: You get {E}{E}, draw a card then discard a card.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/252_Dusk Factory.png" num="252">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>UBR</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Kurna Headquarters</name>
+			<text>This land enters tapped unless you control a Plains or an Island 
+{T}: Add {G}.
+{1}{W}{U}, {T}: Put a +1/+1 counter on target creatures you control.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/255_Kurna Headquarters.png" num="255">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Hall of The Assembly</name>
+			<text>This land enters tapped unless you control a Plains or a Swamp.
+{T}: Add {U}.
+{1}{W}{B}, {T}: Servos and Thopters you control get +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/253_Hall of The Assembly.png" num="253">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUB</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Salt Road Shelter</name>
+			<text>This land enters tapped unless you control a Forest or a Swamp.
+{T}: Add {R}.
+{1}{B}{G}, {T}: Proliferate.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/256_Salt Road Shelter.png" num="256">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>BRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Devra Temple</name>
+			<text>This land enters tapped unless you control a Forest or a Mountain.
+{T}: Add {W}.
+{1}{R}{G}, {T}: Humans and Monks you control get +1/+1 until end of turn.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/251_Devra Temple.png" num="251">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Land</type>
+				<maintype>Land</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WRG</coloridentity>
+			</prop>
+			<tablerow>0</tablerow>
+		</card>
+		<card>
+			<name>Eye of the Dragon</name>
+			<text>Prowess
+Whenever Eye of the Dragon attacks, the next instant or sorcery spell you cast this turn gains rebound. (If you cast that spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast that card from exile without paying its mana cost.)</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/94_Eye of the Dragon.png" num="94">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Monk</type>
+				<maintype>Creature</maintype>
+				<manacost>1RR</manacost>
+				<cmc>3</cmc>
+				<colors>R</colors>
+				<coloridentity>R</coloridentity>
+				<pt>3/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Sidisi, Scales of Industry</name>
+			<text>When Sidisi enters or attacks, sacrifice a land, then she manufactures 2, you draw a card and get {E}{E}.
+Servos and Thopters you control get +2/+2.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/CoA-files/img/197_Sidisi, Scales of Industry.png" num="197">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Snake Demigod</type>
+				<maintype>Creature</maintype>
+				<manacost>4UBR</manacost>
+				<cmc>7</cmc>
+				<colors>UBR</colors>
+				<coloridentity>UBR</coloridentity>
+				<pt>5/5</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Player 6 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 2
+Round 2 — Matching record of 4 vs 8
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/8t_Player 6 - Energy Reserve.png" num="8">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 3 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 7
+Round 2 — Matching record of 1 vs 5
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/5t_Player 3 - Energy Reserve.png" num="5">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 4 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 8
+Round 2 — Matching record of 2 vs 6
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/6t_Player 4 - Energy Reserve.png" num="6">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 1 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 5
+Round 2 — Matching record of 3 vs 7
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/3t_Player 1 - Energy Reserve.png" num="3">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 2 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 6
+Round 2 — Matching record of 4 vs 8
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/4t_Player 2 - Energy Reserve.png" num="4">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 13 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 9
+Round 2 — Matching record of 11 vs 15
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/15t_Player 13 - Energy Reserve.png" num="15">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 7 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 3
+Round 2 — Matching record of 1 vs 5
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/9t_Player 7 - Energy Reserve.png" num="9">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 14 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 10
+Round 2 — Matching record of 12 vs 16
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/16t_Player 14 - Energy Reserve.png" num="16">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 5 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 1
+Round 2 — Matching record of 3 vs 7
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/7t_Player 5 - Energy Reserve.png" num="7">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 16 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 12
+Round 2 — Matching record of 10 vs 14
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/18t_Player 16 - Energy Reserve.png" num="18">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 15 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 11
+Round 2 — Matching record of 9 vs 13
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/17t_Player 15 - Energy Reserve.png" num="17">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 12 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 16
+Round 2 — Matching record of 10 vs 14
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/14t_Player 12 - Energy Reserve.png" num="14">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 11 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 15
+Round 2 — Matching record of 9 vs13 
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/13t_Player 11 - Energy Reserve.png" num="13">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 8 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 4
+Round 2 — Matching record of 2 vs 6
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/10t_Player 8 - Energy Reserve.png" num="10">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 10 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 14
+Round 2 — Matching record of 12 vs 16
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/12t_Player 10 - Energy Reserve.png" num="12">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Player 9 - Energy Reserve CoA</name>
+			<text>Round 1 — Player 13
+Round 2 — Matching record of 11 vs 15
+Round 3 — Matching record</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/11t_Player 9 - Energy Reserve.png" num="11">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token</type>
+				<maintype>Token</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Feedback</name>
+			<text>{R}{G}{W}: Monk Prowess Aggro
+{G}{W}{U}: Manufacture Counters
+{W}{U}{B}: Go-Wide Manufacture
+{U}{B}{R}: Energy Control
+{B}{R}{G}: Energy Aggro</text>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/CoA-files/img/274_Feedback.png" num="274">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Archtypes</type>
+				<maintype>Archtypes</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+			<related>ape</related>
+		</card>
+		<card>
+			<name>Chief of the Hammer</name>
+			<text>Creatures you control that are one or more colors get +1/+0.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/159_Chief of the Hammer.png" num="159">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Berserker</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Nature&apos;s Glare</name>
+			<text>This spell costs {1} less to cast if it targets a creature you control with a +1/+1 counter on it.
+Target creature you control deals damage equal to its power to target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/135_Nature&apos;s Glare.png" num="135">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Self-regulated Saftey</name>
+			<text>Each player chooses a creature they control, then sacrifices the rest.</text>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/CoA-files/img/196_Self-regulated Saftey.png" num="196">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>3UB</manacost>
+				<cmc>5</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Assembly&apos;s Gryphoner</name>
+			<text>Each creature you control with a +1/+1 counter on it has flying.
+{2}, {T}: Put a +1/+1 counter on target creature. Activate only as a sorcery.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/151_Assembly&apos;s Gryphoner.png" num="151">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Human Merchant</type>
+				<maintype>Creature</maintype>
+				<manacost>WU</manacost>
+				<cmc>2</cmc>
+				<colors>WU</colors>
+				<coloridentity>WU</coloridentity>
+				<pt>1/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Army for Hire</name>
+			<text>Create three 2/2 colorless Assembly-Worker creature tokens.
+Scry 2.</text>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/CoA-files/img/4_Army for Hire.png" num="4">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>5W</manacost>
+				<cmc>6</cmc>
+				<colors>W</colors>
+				<coloridentity>W</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Scouting Servo</name>
+			<text>When Scouting Servo enters or is turned face up, you may search your library for a basic land card, reveal it, then shuffle and put that card on top.
+Morph {0} (You may cast this card face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/238_Scouting Servo.png" num="238">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact Creature — Servo Assembly-Worker</type>
+				<maintype>Creature</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+				<pt>2/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Map CoA</name>
+			<text>{1}, {T}, Sacrifice this artifact: Target creature you control explores. Activate only as a sorcery. (Reveal the top card of your library. Put that card into your hand if it&apos;s a land. Otherwise, put a +1/+1 counter on that creature, then put the card back or put it into your graveyard.)</text>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/CoA-files/img/26t_Map.png" num="26">CoA</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Map</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+			<related>ape</related>
+		</card>
+	</cards>
+</cockatrice_carddatabase>
