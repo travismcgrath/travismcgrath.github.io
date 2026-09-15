@@ -1,4 +1,140 @@
-﻿VERSION 19 CHANGELOG
+﻿VERSION 21 CHANGELOG
+====================
+
+
+CR16 — Mabel's Rise removed.
+RL03 — Rankle's Greatest Trick removed.
+MZ02 — Nymris, Sprightly Deciever removed.
+MZ03 — Plargg, Chaos Instructor removed.
+MZ01 — Yorion, Cloud Coatl removed.
+MZ04 — Hazel, Leader of the Acrons removed.
+MZ05 — Jirina, Humanity's General removed.
+MZ06 — Sheoldred, Grinning Resurrector removed.
+MZ07 — Prismari, Theatrical Maestro removed.
+MZ08 — Greta, SweetArrow Avenger removed.
+MZ09 — Brudiclad, Roaring Crafter removed.
+MZ10 — Ygra, Eater of Infinity removed.
+CR15 — Campfire Companions removed.
+CB15 — Sweet Associates removed.
+CB16 — Rankle's Reveal removed.
+CG15 — Kindred Packmates removed.
+CG16 — Umori Snaps Back removed.
+CW15 — The Porcelain Legion removed.
+CW16 — Mother's Retribution removed.
+CU15 — Collaborative Scholars removed.
+CU16 — Zimone Gets Even removed.
+UZ11 — All They Can Eat removed.
+UZ12 — Sibyls in Rapture removed.
+UZ13 — Ember Festival Revelry removed.
+UZ14 — Prey to Apex of the Swarm removed.
+UZ15 — Sleep Study removed.
+UZ16 — Prismari Flourish removed.
+UZ17 —Wild Flock of Abundance removed.
+UZ18 — Gamble with the RedScarves removed.
+UZ19 — Collect on Promises removed.
+UZ20 — Mutative Advantage removed.
+
+Z — New Mechanics
+rules_text: [/i][i][b]Conjecture[/b][/i][i] [i]([i]Cast from anywhere but your hand.)[/i]
+
+[/i][b]Help[/b][i] [i](Other players can pay up to {0} of this spell's cost.)[/i]
+[/i]
+[b]Haggle[/b] [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+
+[b]Incubate Food N [/b](Put N +1/+1 counters on target non-creature Food you control and it gains “{2}: Transform this artifact.” It transforms into a 0/0 Phyrexian artifact creature.) => [/i][i][b]Conjecture[/b][/i][i] [i]([i]Cast from anywhere but your hand.)[/i]
+
+[/i][b]Help[/b][i] [i](Other players can pay for the generic mana of this spell's cost.)[/i]
+[/i]
+[b]Haggle[/b] [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+[b]
+Incubate Food N [/b][i](To incubate food N, Put N +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]
+
+Z — Golden Egg Token
+
+CG02 — Thornvault Anomaly
+
+CR16 — Ransack the Emberheart-Oven
+
+RL03 — The Dusk Woods
+
+MZ02 — Ms. Bumbleflower, Generous Hare
+
+MZ03 — Gyruda, Oscilating Wave
+
+MZ01 — Ixhel, Porcelain Angel
+
+MZ04 — Cruelclaw, Leader of the Red Scarves
+
+MZ05 — Kaheera, Monster Paragon
+
+MZ06 — Urabrask, Rebel Praetor
+
+MZ07 — Quandrix, Resonance Maestro
+
+MZ08 — Eriette of Love's Bite
+
+MZ09 — Quintorious, Defender of History
+
+MZ10 - The Golden Goose
+
+CR15 — Scuffle of Scurry
+
+CB15 — Trial of Guile
+
+CB16 — Ransack the Faerie Garden
+
+CG15 — Fight of Might
+
+CG16 — Ransack the Ketria Gemgrove
+
+CW15 — Ceremony of Faith
+
+CW16 — Ransack the Fifth Sphere
+
+CU15 — Test of Intellect
+
+CU16 — Ransack the Library
+
+UZ11 — Syphon the Infinity Fountain
+
+UZ12 — Polemics of Apostasy
+
+UZ13 — Guard the Fountainport Parapet
+
+UZ14 — Traverse the Hunter Maze
+
+UZ15 — Beset Your Dreams
+
+UZ16 — Thesis Defense
+
+UZ17 — Traverse The Ketria Great Tree
+
+UZ18 — Challenge the Court of High Chance
+
+UZ19 — Abscond the Golden Eggs
+
+UZ20 — Hunt in the Raugrin Shoals
+
+
+VERSION 20 CHANGELOG
+====================
+
+
+
+CU02 — Arithmetic Frogression
+rules_text: Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token. It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+When Arithmetic Frogression enters, if a gift was promised, create a Food token and put a +1/+1 counter on target creature. => Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token.”)[/i]
+When Arithmetic Frogression enters, if a gift was promised, create a Food token and put a +1/+1 counter on target creature.
+
+CR01 — Raging Marten
+rules_text: Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token. It's an artifact with “{2}, {T}, Sacrifice this token: You gain 3 life.”)[/i]
+Haste, Battle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+When Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card. => Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token.”)[/i]
+Haste, Battle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+When Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card.
+
+
+VERSION 19 CHANGELOG
 ====================
 
 
