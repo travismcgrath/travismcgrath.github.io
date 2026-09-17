@@ -3205,7 +3205,110 @@
 	4 Nature's Glare
 	4 Assembly's Gryphoner
 	4 Army for Hire
-[common(7)]
+[common(6)]
+	8 Thriving Grubs
+	8 Indigo Monmument
+	8 Vedalken Aetherlooter
+	8 Sage-Eye Apprentice
+	8 Devout Kirin
+	8 Cogify
+	8 Astute Fairground Vendor
+	8 Ruthless Ripper
+	8 Shambling Aetherborn
+	8 Hordeling Troublemaker
+	8 Fairgrounds Acrobat
+	8 Incensed Druid
+	8 Tenth Bridge Turret Guard
+	8 Consol's Bodyguards
+	8 Alloy Loxodon
+	8 Filigree Familiar
+	8 Ghirapur's Golden Parapets
+	8 Tranquil Cove
+	8 Dismal Backwater
+	8 Bloodfell Caves
+	8 Rugged Highlands
+	8 Blossoming Sands
+	8 Scoured Barrens
+	8 Swiftwater Cliffs
+	8 Jungle Hollow
+	8 Wind-Scarred Crag
+	8 Thornwood Falls
+	8 Backslide
+	8 Thriving Rats
+	8 Aradara Station
+	8 Inspector Brigade
+	8 Illusion of Luxury
+	8 Mystic of The Way
+	8 Peema Woods Champions
+	8 Brass Winged Vulture
+	8 Steel Horned Ibex
+	8 Silver Tusked Walrus
+	8 Wrought Iron Rhino
+	8 Lead Toothed Hyenas
+	8 Artificer's MIG
+	8 Lathnu Funicular
+	8 Adara Cable Car
+	8 Prophetic Prism
+	8 Foundry Auditor
+	8 Self-Assembler
+	8 Snare Thopter
+	8 Spur to Believe
+	8 Tax On Action
+	8 Disassemble
+	8 Medatative Inspiration
+	8 Apprehend Dissident
+	8 Assembly's Attache
+	8 Skypatrol Aetherborn
+	8 Aristocrats' Steed
+	8 Charming Kata
+	8 Contrive
+	8 Artificer's Epiphany
+	8 Failed Inspection
+	8 Unseasonal Squall
+	8 Sponsor's Cruise
+	8 Dovin's Spy
+	8 Drone Vendor
+	8 Aetherborn Incumbent
+	8 Gearseeker Squid
+	8 Live Fast
+	8 Die Young
+	8 Seize the Means
+	8 Exhausting Shift
+	8 Worker Strike
+	8 Ghirapur Pickpocket
+	8 Midnight Inspector
+	8 Sidisi's Scavenger
+	8 Defeatist Recycler
+	8 Graveyard Lurker
+	8 Pupil of the Hidden Eye
+	8 Narset's Student
+	8 Malign Aetherborn
+	8 Factory Mazdoor
+	8 Summit Postulant
+	8 Provoked Lightning
+	8 Rising Temperatures
+	8 Offload
+	8 Optimistic Nihilism
+	8 Fanatical Recruitment
+	8 Fairgrounds Security
+	8 Kurna's Consultant
+	8 Ferrophage Spider
+	8 Disrupted Hibernator
+	8 Filigree-horn Luddite
+	8 Sage-Eyed Enforcer
+	8 Reimmerse In Nature
+	8 Gift of Sagacity
+	8 Devolution
+	8 Peema Boxer
+	8 Immense Development
+	8 Complete Devotion
+	8 Highspire Mystic
+	8 Aether Dart
+	8 Mineral Appraiser
+	8 Displaced Dreadmaw
+	8 Tradewind Stalker
+	8 Scouting Servo
+[common | masterpiece(1)]
 	8 Thriving Grubs
 	8 Indigo Monmument
 	8 Vedalken Aetherlooter
@@ -3856,4 +3959,3 @@
 	15 Assembly's Gryphoner
 	15 Army for Hire
 	6 Scouting Servo
-[landslot(1)]

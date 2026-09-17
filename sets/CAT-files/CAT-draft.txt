@@ -1260,7 +1260,36 @@
 	4 Huntmaster Liger
 	4 Malakir Rebirth
 	4 Malakir Mire
-[common(7)]
+[common(6)]
+	8 Ephemerate
+	8 Not Dead After All
+	8 Cloudshift
+	8 Night's Whispuuurrrr
+	8 Command Tower
+	8 Bojuka Bog
+	8 Flicker of Fate
+	8 Oreskos Explorer
+	8 Path of Ancestry
+	8 Supernatural Stamina
+	8 Helpful Hunter
+	8 Enlightened Ascetic
+	8 Whitemane Lion
+	8 Spectral Lynx
+	8 Cat
+	8 Cat Warrior
+	8 Cat
+	8 Fish
+	8 Shattered Landscape
+	8 Cat
+	8 Cat
+	8 Cat
+	8 Cat
+	8 Cat
+	8 Cat
+	8 Cat Warrior
+	8 Cat Warrior
+	8 Cat Warrior
+[common | masterpiece(1)]
 	8 Ephemerate
 	8 Not Dead After All
 	8 Cloudshift
@@ -1499,4 +1528,3 @@
 	6 Cat Warrior
 	6 Cat Warrior
 	6 Cat Warrior
-[landslot(1)]

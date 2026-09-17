@@ -149,27 +149,6 @@
             "notes": ""
         },
         {
-            "card_name": "CU10 \u2014 Re-Hash",
-            "color": "U",
-            "rarity": "common",
-            "type": "Instant",
-            "number": 42,
-            "color_identity": "U",
-            "cost": "{1}{U}",
-            "rules_text": "Draw a card. \n[i]Conjecture[/i] \u2014 If this spell was cast from anywhere other than you hand, create a Food token.\nFlashback {1}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "",
-            "special_text": "",
-            "shape": "normal",
-            "set": "FOOD",
-            "loyalty": "",
-            "artist": "KAI LIN",
-            "alias": "",
-            "position": "5",
-            "rotated": false,
-            "notes": "ConjectureEnabler, ConjecturePayoff, FoodMaker, CardAdvantage,"
-        },
-        {
             "card_name": "CW07 \u2014 Devote Evangelist",
             "color": "W",
             "rarity": "common",
@@ -186,7 +165,7 @@
             "loyalty": "",
             "artist": "Matias Tapia",
             "alias": "",
-            "position": "6",
+            "position": "5",
             "rotated": false,
             "notes": ""
         },
@@ -207,7 +186,7 @@
             "loyalty": "",
             "artist": "Swanno",
             "alias": "",
-            "position": "7",
+            "position": "6",
             "rotated": false,
             "notes": ""
         },
@@ -228,7 +207,7 @@
             "loyalty": "",
             "artist": "Diego Gisbert Llorens",
             "alias": "",
-            "position": "8",
+            "position": "7",
             "rotated": false,
             "notes": "FoodEater"
         },
@@ -249,7 +228,7 @@
             "loyalty": "",
             "artist": "Marina Karakatsani",
             "alias": "",
-            "position": "9",
+            "position": "8",
             "rotated": false,
             "notes": ""
         },
@@ -270,9 +249,9 @@
             "loyalty": "",
             "artist": "Joshua Hardie",
             "alias": "",
-            "position": "10",
+            "position": "9",
             "rotated": false,
-            "notes": "GainLifeTrigger"
+            "notes": "FoodMaker, GainLifeTrigger"
         },
         {
             "card_name": "UR07 \u2014 Heartfire Bolt",
@@ -291,7 +270,7 @@
             "loyalty": "",
             "artist": "Jack Kozitza",
             "alias": "",
-            "position": "11",
+            "position": "10",
             "rotated": false,
             "notes": ""
         },
@@ -312,7 +291,7 @@
             "loyalty": "",
             "artist": "Stephen Cornu",
             "alias": "",
-            "position": "12",
+            "position": "11",
             "rotated": false,
             "notes": "FoodEater, Removal"
         },
@@ -333,7 +312,7 @@
             "loyalty": "",
             "artist": "Marjorie Davis",
             "alias": "",
-            "position": "13",
+            "position": "12",
             "rotated": false,
             "notes": ""
         },
@@ -354,7 +333,7 @@
             "loyalty": "",
             "artist": "Hampus Lovebrant",
             "alias": "",
-            "position": "14",
+            "position": "13",
             "rotated": false,
             "notes": ""
         },
@@ -375,7 +354,7 @@
             "loyalty": "",
             "artist": "Nadine Sch\u00e4kel",
             "alias": "",
-            "position": "15",
+            "position": "14",
             "rotated": false,
             "notes": ""
         },
@@ -396,7 +375,7 @@
             "loyalty": "",
             "artist": "Tom Dale",
             "alias": "",
-            "position": "16",
+            "position": "15",
             "rotated": false,
             "notes": ""
         },
@@ -417,7 +396,7 @@
             "loyalty": "",
             "artist": "Acrassan",
             "alias": "",
-            "position": "17",
+            "position": "16",
             "rotated": false,
             "notes": ""
         },
@@ -429,7 +408,7 @@
             "number": 119,
             "color_identity": "R",
             "cost": "{4}{R}{R}",
-            "rules_text": "Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]\nChoose up to five {J} worth of modes. You may choose the same mode more than once.\n{J} \u2014 Make a Food token.\n{J}{J} \u2014 Exile target artifact.\n{J}{J}{J} \u2014 Create a 1/1 token copy of target creature you control.",
+            "rules_text": "Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]\nChoose up to five {J} worth of modes. You may choose the same mode more than once.\n{J}{J} \u2014 Create a Food token.\n{J}{J} \u2014 Exile target artifact.\n{J}{J}{J} \u2014 Create a 1/1 token copy of target creature you control, except the token isn't legendary.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -438,7 +417,7 @@
             "loyalty": "",
             "artist": "Nicolas Derio",
             "alias": "",
-            "position": "18",
+            "position": "17",
             "rotated": false,
             "notes": "FoodMaker"
         },
@@ -459,7 +438,7 @@
             "loyalty": "",
             "artist": "David Mull",
             "alias": "",
-            "position": "19",
+            "position": "18",
             "rotated": false,
             "notes": "FoodEater,"
         },
@@ -480,7 +459,7 @@
             "loyalty": "",
             "artist": "Stella Spente",
             "alias": "",
-            "position": "20",
+            "position": "19",
             "rotated": false,
             "notes": ""
         },
@@ -501,7 +480,7 @@
             "loyalty": "",
             "artist": "Arif Wijaya",
             "alias": "",
-            "position": "21",
+            "position": "20",
             "rotated": false,
             "notes": ""
         },
@@ -513,7 +492,7 @@
             "number": 72,
             "color_identity": "B",
             "cost": "{3}{BP}{B}",
-            "rules_text": "[i][i]Repartee[/i] -[/i] Whenever you cast an instant or sorcery spell that targets a creature, each opponent loses 2 life and you gain 2 life.",
+            "rules_text": "[i][i]Repartee[/i] -[/i] Whenever you cast an instant or sorcery spell that targets a creature, each opponent loses 2 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -522,7 +501,7 @@
             "loyalty": "",
             "artist": "Louis-Mary Touzalin",
             "alias": "",
-            "position": "22",
+            "position": "21",
             "card_name2": "Drink in Knowledge",
             "color2": "B",
             "type2": "Instant \u2014 Adventure",
@@ -536,7 +515,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "Foodmaker, Planeoverlap, CardAdvantage,"
+            "notes": "Planeoverlap, CardAdvantage,"
         },
         {
             "card_name": "CB03 \u2014 Marsh Mellow-o-Wisps",
@@ -546,7 +525,7 @@
             "number": 68,
             "color_identity": "B",
             "cost": "{2}{B}",
-            "rules_text": "Flying\nAt the beginning of combat on each turn, if you've gained life this turn, goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]\n{2}, {T}, Sacrifice Marsh Mellow-o-Wisps: You gain 3 life.",
+            "rules_text": "Flying, lifelink\nAt the beginning of combat on each turn, if you've gained life this turn, goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "2/1",
             "special_text": "",
@@ -555,9 +534,9 @@
             "loyalty": "",
             "artist": "Carys Cuttlefish",
             "alias": "",
-            "position": "23",
+            "position": "22",
             "rotated": false,
-            "notes": "FoodEater, FoodMaker, LifeGaintrigger"
+            "notes": "FoodEater, LifeGaintrigger"
         },
         {
             "card_name": "CB02 \u2014 Midnight Snacqueraider",
@@ -576,7 +555,7 @@
             "loyalty": "",
             "artist": "Kate Fox",
             "alias": "",
-            "position": "24",
+            "position": "23",
             "card_name2": "Call to Dance",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
@@ -609,7 +588,7 @@
             "loyalty": "",
             "artist": "Mike Andreoli",
             "alias": "",
-            "position": "25",
+            "position": "24",
             "rotated": false,
             "notes": "FoodEater, Planeoverlap"
         },
@@ -621,7 +600,7 @@
             "number": 79,
             "color_identity": "B",
             "cost": "{5}{B}",
-            "rules_text": "Help [i](Other players can pay up to {5} of this spell's cost.)[/i]\nWhen Entreating Witch enters, you and each player who helped cast this spell create a Food token. Opponents who didn't help cast this spell lose 3 life.",
+            "rules_text": "Help [i](Other players can pay up to {5} of this spell's cost.)[/i]\nWhen Entreating Witch enters, you and each player who helped cast this spell surveils 1. Opponents who didn't help cast this spell lose 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -630,9 +609,9 @@
             "loyalty": "",
             "artist": "Carlota Su\u00e1rez Villaverde",
             "alias": "",
-            "position": "26",
+            "position": "25",
             "rotated": false,
-            "notes": "FoodMaker"
+            "notes": ""
         },
         {
             "card_name": "CU11 \u2014 Check your work!",
@@ -651,7 +630,7 @@
             "loyalty": "",
             "artist": "Nick Moskvin",
             "alias": "",
-            "position": "27",
+            "position": "26",
             "rotated": false,
             "notes": "ConjectureEnabler, Removal"
         },
@@ -672,7 +651,7 @@
             "loyalty": "",
             "artist": "Paul Takahashi",
             "alias": "",
-            "position": "28",
+            "position": "27",
             "rotated": false,
             "notes": "Removal, CardAdvantage, ConjectureEnabler, \n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal > U"
         },
@@ -693,7 +672,7 @@
             "loyalty": "",
             "artist": "Dave Greco",
             "alias": "",
-            "position": "29",
+            "position": "28",
             "rotated": false,
             "notes": "CardAdvantage,"
         },
@@ -714,19 +693,19 @@
             "loyalty": "",
             "artist": "Emilio Grasso",
             "alias": "",
-            "position": "30",
+            "position": "29",
             "rotated": false,
             "notes": "Removal"
         },
         {
-            "card_name": "CU08 \u2014 Missing Ingredient",
+            "card_name": "CU09 \u2014 Missing Ingredient",
             "color": "U",
             "rarity": "common",
             "type": "Instant",
-            "number": 40,
+            "number": 41,
             "color_identity": "U",
             "cost": "{U}",
-            "rules_text": "Counter target noncreature spell unless its controller pays {1}. If they do, you create a Food token and a 1/1 black and green Pest creature token with \u201cWhen this token dies, you gain 1 life.\u201d",
+            "rules_text": "Counter target noncreature spell unless its controller pays {1}. If they do, you create a 1/1 black and green Pest creature token with \u201cWhen this token dies, you gain 1 life.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -735,9 +714,9 @@
             "loyalty": "",
             "artist": "Andreia Ugrai",
             "alias": "",
-            "position": "31",
+            "position": "30",
             "rotated": false,
-            "notes": "FoodMaker, Removal"
+            "notes": "Removal"
         },
         {
             "card_name": "CU07 \u2014 Exponentiation Professor",
@@ -756,7 +735,7 @@
             "loyalty": "",
             "artist": "Riz Yangpeiv",
             "alias": "",
-            "position": "32",
+            "position": "31",
             "card_name2": "Un Integrate",
             "color2": "U",
             "type2": "Instant \u2014 Lesson",
@@ -789,7 +768,7 @@
             "loyalty": "",
             "artist": "Calros C Diaz",
             "alias": "",
-            "position": "33",
+            "position": "32",
             "rotated": false,
             "notes": "FoodMaker,FoodEater"
         },
@@ -810,7 +789,7 @@
             "loyalty": "",
             "artist": "Alex Meyer",
             "alias": "",
-            "position": "34",
+            "position": "33",
             "rotated": false,
             "notes": ""
         },
@@ -831,7 +810,7 @@
             "loyalty": "",
             "artist": "Abishek Hudson",
             "alias": "",
-            "position": "35",
+            "position": "34",
             "rotated": false,
             "notes": "ConjecturePayoff,"
         },
@@ -843,7 +822,7 @@
             "number": 34,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token.\u201d)[/i]\nWhen Arithmetic Frogression enters, if a gift was promised, create a Food token and put a +1/+1 counter on target creature.",
+            "rules_text": "Gift a Scry 2 [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they scry 2.\u201d)[/i]\nWhen Arithmetic Frogression enters, if a gift was promised, draw a card then discard a card. Then put a +1/+1 counter on target creature.",
             "flavor_text": "[i][/i]",
             "pt": "0/2",
             "special_text": "",
@@ -852,7 +831,7 @@
             "loyalty": "",
             "artist": "Rana Latham",
             "alias": "",
-            "position": "36",
+            "position": "35",
             "rotated": false,
             "notes": "Planeoverlap"
         },
@@ -873,7 +852,7 @@
             "loyalty": "",
             "artist": "Ilia Kole",
             "alias": "",
-            "position": "37",
+            "position": "36",
             "rotated": false,
             "notes": "ConjectureEnabler"
         },
@@ -894,7 +873,7 @@
             "loyalty": "",
             "artist": "Tomasz Ryger",
             "alias": "",
-            "position": "38",
+            "position": "37",
             "rotated": false,
             "notes": "FoodEater,Removal\n\nEnchant creature.\nEnchanted creature can't attack or block.\nSacrifice two Food: Exile enchanted creature and draw a card."
         },
@@ -915,7 +894,7 @@
             "loyalty": "",
             "artist": "Dorian Duric",
             "alias": "",
-            "position": "39",
+            "position": "38",
             "rotated": false,
             "notes": ""
         },
@@ -936,7 +915,7 @@
             "loyalty": "",
             "artist": "Jack Kozitza",
             "alias": "",
-            "position": "40",
+            "position": "39",
             "rotated": false,
             "notes": "FoodEater, GainLifeTrigger, Poison"
         },
@@ -957,7 +936,7 @@
             "loyalty": "",
             "artist": "Nino Vecia",
             "alias": "",
-            "position": "41",
+            "position": "40",
             "rotated": false,
             "notes": ""
         },
@@ -969,7 +948,7 @@
             "number": 3,
             "color_identity": "W",
             "cost": "{W}{W}",
-            "rules_text": "Offspring\u2014Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\nToxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]\nWhen Autocatalytic Hare enters, create a Food token.",
+            "rules_text": "Offspring\u2014sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\nToxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]\nWhen Autocatalytic Hare enters, create a Food token.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -978,7 +957,7 @@
             "loyalty": "",
             "artist": "Marin Mohan",
             "alias": "",
-            "position": "42",
+            "position": "41",
             "rotated": false,
             "notes": "FoodMaker, FoodEater, Planeoverlap, Poison"
         },
@@ -999,7 +978,7 @@
             "loyalty": "",
             "artist": "Gauvin REMY",
             "alias": "",
-            "position": "43",
+            "position": "42",
             "rotated": false,
             "notes": "FoodMaker,"
         },
@@ -1020,7 +999,7 @@
             "loyalty": "",
             "artist": "Mike Jordana",
             "alias": "",
-            "position": "44",
+            "position": "43",
             "rotated": false,
             "notes": "GainLifeTrigger"
         },
@@ -1041,7 +1020,7 @@
             "loyalty": "",
             "artist": "Andy Aslamov",
             "alias": "",
-            "position": "45",
+            "position": "44",
             "rotated": false,
             "notes": "CardAdvantage, GainLifeTrigger"
         },
@@ -1062,7 +1041,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "46",
+            "position": "45",
             "rotated": false,
             "notes": "Planeoverlap"
         },
@@ -1074,7 +1053,7 @@
             "number": 131,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Trample \n{3}{G}, sacrifice a Food: Put three +1/+1 counters on Hungry Brushwagg.",
+            "rules_text": "Trample \n{3}{G}, sacrifice a token: Put three +1/+1 counters on Hungry Brushwagg.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -1083,7 +1062,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "position": "47",
+            "position": "46",
             "rotated": false,
             "notes": "FoodEater"
         },
@@ -1095,7 +1074,7 @@
             "number": 156,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "{T}: Create a Food token.\nWhenever a bonded non-human creature you control attacks, it devours food 1. [i](You may sacrifice any number of food. Put that many +1/+1 counters on this creature.)[/i]",
+            "rules_text": "Whenever one or more Humans you control attack, create a Food token.\nWhenever a bonded non-human creature you control attacks, it devours tokens 1. [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/3",
             "special_text": "",
@@ -1104,7 +1083,7 @@
             "loyalty": "",
             "artist": "Alexey Kruglov",
             "alias": "",
-            "position": "48",
+            "position": "47",
             "rotated": false,
             "notes": "FoodMaker"
         },
@@ -1125,7 +1104,7 @@
             "loyalty": "",
             "artist": "Verena G.",
             "alias": "",
-            "position": "49",
+            "position": "48",
             "rotated": false,
             "notes": "Planeoverlap, Poison"
         },
@@ -1137,7 +1116,7 @@
             "number": 163,
             "color_identity": "G",
             "cost": "{1}{G}",
-            "rules_text": "Create a Food token.\nTarget creature you control devours Food 1. Then it fights target creature you don't control. [i](You may sacrifice any number of food. Put that many +1/+1 counters on that creature.)[/i]\nIf that creature is bonded, it also gains \u201cWhenever this creature deals combat damage to a player or battle, draw that many cards.\u201d until end of turn.",
+            "rules_text": "Create a Food token.\nTarget creature you control devours tokens 1. Then it fights target creature you don't control. [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on that creature.)[/i]\nIf that creature is bonded, it also gains \u201cWhenever this creature deals combat damage to a player or battle, draw that many cards.\u201d until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1146,7 +1125,7 @@
             "loyalty": "",
             "artist": "\u017deljka Dobra\u0161",
             "alias": "",
-            "position": "50",
+            "position": "49",
             "rotated": false,
             "notes": "FoodMaker, FoodEater"
         },
@@ -1167,7 +1146,7 @@
             "loyalty": "",
             "artist": "Ashe",
             "alias": "",
-            "position": "51",
+            "position": "50",
             "rotated": false,
             "notes": ""
         },
@@ -1188,7 +1167,7 @@
             "loyalty": "",
             "artist": "Caio Monteiro",
             "alias": "",
-            "position": "52",
+            "position": "51",
             "rotated": false,
             "notes": "FoodEater"
         },
@@ -1209,7 +1188,7 @@
             "loyalty": "",
             "artist": "Louis-Mary TOUZALIN",
             "alias": "",
-            "position": "53",
+            "position": "52",
             "rotated": false,
             "notes": "Planeoverlap, Rampz"
         },
@@ -1230,7 +1209,7 @@
             "loyalty": "",
             "artist": "Julien Fenoglio",
             "alias": "",
-            "position": "54",
+            "position": "53",
             "rotated": false,
             "notes": "FoodMaker"
         },
@@ -1251,7 +1230,7 @@
             "loyalty": "",
             "artist": "yangyang sui",
             "alias": "",
-            "position": "55",
+            "position": "54",
             "rotated": false,
             "notes": ""
         },
@@ -1272,7 +1251,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "position": "56",
+            "position": "55",
             "rotated": false,
             "notes": "FoodEater"
         },
@@ -1293,7 +1272,7 @@
             "loyalty": "",
             "artist": "Michelle Tolo",
             "alias": "",
-            "position": "57",
+            "position": "56",
             "rotated": false,
             "notes": ""
         },
@@ -1306,7 +1285,7 @@
             "color_identity": "W",
             "cost": "{1}{W}",
             "rules_text": "Create a Food token.\nTarget creature gets +2/+0 until end of turn for each artifact you control.",
-            "flavor_text": "[i]Their is so great, they can't help but share it with others. [/i]",
+            "flavor_text": "[i]Their hunger is so great, they can't help but share it with others. [/i]",
             "pt": "",
             "special_text": "",
             "shape": "normal",
@@ -1314,37 +1293,37 @@
             "loyalty": "",
             "artist": "guillaume NORMAND",
             "alias": "",
-            "position": "58",
+            "position": "57",
             "rotated": false,
-            "notes": "FoodMaker, FoodEater"
+            "notes": "FoodMaker"
         },
         {
-            "card_name": "CR01 \u2014 Raging Marten",
+            "card_name": "CR02 \u2014 Raging Marten",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Mouse Knight",
-            "number": 98,
+            "number": 99,
             "color_identity": "R",
-            "cost": "{R}",
-            "rules_text": "Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token.\u201d)[/i]\nHaste, Battle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\nWhen Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card.",
+            "cost": "{1}{R}",
+            "rules_text": "Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they put a +1/+1 counter on a creature they control.)[/i]\nBattle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\nWhen Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card.",
             "flavor_text": "[i][/i]",
-            "pt": "1/1",
+            "pt": "2/2",
             "special_text": "",
             "shape": "normal",
             "set": "FOOD",
             "loyalty": "",
             "artist": "John Stone",
             "alias": "",
-            "position": "59",
+            "position": "58",
             "rotated": false,
-            "notes": "CardAdvantage"
+            "notes": "CardAdvantage, FoodMaker"
         },
         {
-            "card_name": "CR02 \u2014 Pilfering Vole",
+            "card_name": "CR01 \u2014 Pilfering Vole",
             "color": "R",
             "rarity": "common",
             "type": "Creature \u2014 Mouse Rogue",
-            "number": 99,
+            "number": 98,
             "color_identity": "R",
             "cost": "{R}",
             "rules_text": "First strike\nWhen Pilfering Vole enters, create a Food token.",
@@ -1356,12 +1335,12 @@
             "loyalty": "",
             "artist": "Candice Broersma",
             "alias": "",
-            "position": "60",
+            "position": "59",
             "card_name2": "Big Smores",
             "color2": "R",
             "type2": "Instant \u2014 Adventure",
             "cost2": "{2}{R}",
-            "rules_text2": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create two Food tokens.",
+            "rules_text2": "As an additional cost to cast this spell, discard a card.\nDraw two cards and create a Food token.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -1380,7 +1359,7 @@
             "number": 121,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Offspring\u2014Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\nMyriad [i](Whenever this creature attacks, for each opponent other than defending player, you may create a token copy of this creature that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)[/i]",
+            "rules_text": "Offspring\u2014sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\nMyriad [i](Whenever this creature attacks, for each opponent other than defending player, you may create a token copy of this creature that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/1",
             "special_text": "",
@@ -1389,7 +1368,7 @@
             "loyalty": "",
             "artist": "Candice Broersma",
             "alias": "",
-            "position": "61",
+            "position": "60",
             "rotated": false,
             "notes": ""
         },
@@ -1410,7 +1389,7 @@
             "loyalty": "",
             "artist": "Yuri Cameirana",
             "alias": "",
-            "position": "62",
+            "position": "61",
             "rotated": false,
             "notes": ""
         },
@@ -1422,7 +1401,7 @@
             "number": 101,
             "color_identity": "R",
             "cost": "{2}{R}",
-            "rules_text": "Menace\nWhen Sharp Clawed Scout enters, you may sacrifice a Food. If you do, surveil 1, then draw a card.",
+            "rules_text": "Menace\nWhen Sharp Clawed Scout enters, you may sacrifice a token. If you do, surveil 1, then draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "3/2",
             "special_text": "",
@@ -1431,16 +1410,16 @@
             "loyalty": "",
             "artist": "Jerome Jacinto",
             "alias": "",
-            "position": "63",
+            "position": "62",
             "rotated": false,
             "notes": "FoodEater, CardAdvantage"
         },
         {
-            "card_name": "UR03 \u2014 Seedbed Sentry",
+            "card_name": "UR04 \u2014 Seedbed Sentry",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Badger Knight",
-            "number": 123,
+            "number": 124,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
             "rules_text": "Trample\nSeedbed Sentry's power is equal to twice the number of creatures tokens you control.",
@@ -1452,7 +1431,7 @@
             "loyalty": "",
             "artist": "Markus Erdt",
             "alias": "",
-            "position": "64",
+            "position": "63",
             "rotated": false,
             "notes": ""
         },
@@ -1473,7 +1452,7 @@
             "loyalty": "",
             "artist": "Milica \u010celikovi\u0107",
             "alias": "",
-            "position": "65",
+            "position": "64",
             "rotated": false,
             "notes": "FoodMaker"
         },
@@ -1494,7 +1473,7 @@
             "loyalty": "",
             "artist": "Ellina Akhiamova",
             "alias": "",
-            "position": "66",
+            "position": "65",
             "rotated": false,
             "notes": ""
         },
@@ -1506,7 +1485,7 @@
             "number": 111,
             "color_identity": "R",
             "cost": "{5}{R}",
-            "rules_text": "Help [i](Other players can pay up to {5} of this spell's cost.)[/i]\nWield deals 6 damage to target creature an opponent controls and 2 damage to target opponent or battle. \nYou and each player who helped pay for this spell creates a Food token.",
+            "rules_text": "Help [i](Other players can pay up to {5} of this spell's cost.)[/i]\nWield deals 6 damage to target creature an opponent controls and 2 damage to target opponent or battle. \nYou and each player who helped pay for this spell puts a +1/+1 counter on a creature they control.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1515,9 +1494,9 @@
             "loyalty": "",
             "artist": "Mac Smith",
             "alias": "",
-            "position": "67",
+            "position": "66",
             "rotated": false,
-            "notes": "FoodMaker, Removal"
+            "notes": "Removal"
         },
         {
             "card_name": "CZ03 \u2014 Consummate Bladetail",
@@ -1536,7 +1515,7 @@
             "loyalty": "",
             "artist": "Shin San",
             "alias": "",
-            "position": "68",
+            "position": "67",
             "rotated": false,
             "notes": ""
         },
@@ -1557,7 +1536,7 @@
             "loyalty": "",
             "artist": "Marco Wulfr",
             "alias": "",
-            "position": "69",
+            "position": "68",
             "rotated": false,
             "notes": ""
         },
@@ -1578,7 +1557,7 @@
             "loyalty": "",
             "artist": "Elvira Shatunova",
             "alias": "",
-            "position": "70",
+            "position": "69",
             "rotated": false,
             "notes": ""
         },
@@ -1599,7 +1578,7 @@
             "loyalty": "",
             "artist": "Frank Barbera",
             "alias": "",
-            "position": "71",
+            "position": "70",
             "rotated": false,
             "notes": "ConjecturePayoff,"
         },
@@ -1620,7 +1599,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "position": "72",
+            "position": "71",
             "card_name2": "Roadside Ambush",
             "color2": "BR",
             "type2": "Instant \u2014 Adventure",
@@ -1653,7 +1632,7 @@
             "loyalty": "",
             "artist": "Mauricio Carrasco",
             "alias": "",
-            "position": "73",
+            "position": "72",
             "rotated": false,
             "notes": ""
         },
@@ -1674,7 +1653,7 @@
             "loyalty": "",
             "artist": "Bo Chen",
             "alias": "",
-            "position": "74",
+            "position": "73",
             "rotated": false,
             "notes": ""
         },
@@ -1695,7 +1674,7 @@
             "loyalty": "",
             "artist": "LeafYe",
             "alias": "",
-            "position": "75",
+            "position": "74",
             "rotated": false,
             "notes": "!exportname RZ05 -- May I Have Your Name"
         },
@@ -1716,7 +1695,7 @@
             "loyalty": "",
             "artist": "Gabriel Cassata",
             "alias": "",
-            "position": "76",
+            "position": "75",
             "rotated": false,
             "notes": "Removal, CardAdvantage\n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal > U"
         },
@@ -1737,7 +1716,7 @@
             "loyalty": "",
             "artist": "Gabriela Birchal",
             "alias": "",
-            "position": "77",
+            "position": "76",
             "card_name2": "Transfixing Song",
             "color2": "UB",
             "type2": "Sorcery \u2014 Adventure",
@@ -1761,7 +1740,7 @@
             "number": 141,
             "color_identity": "G",
             "cost": "{G}",
-            "rules_text": "Choose one:\n\u2022 Create two Food tokens.\n \u2022 Put a +1/+1, vigilance, or reach counter on target creature you control.\n \u2022 Search your library for a basic land card, put it into your hand, then shuffle.\nCycling {G} [i]({G}, Discard this card: Draw a card.)[/i]",
+            "rules_text": "Choose one:\n\u2022 Create a Food token.\n \u2022 Put a +1/+1, vigilance, or reach counter on target creature you control.\n \u2022 Search your library for a basic land card, put it into your hand, then shuffle.\nCycling {G} [i]({G}, Discard this card: Draw a card.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1770,7 +1749,7 @@
             "loyalty": "",
             "artist": "Asur Misoa",
             "alias": "",
-            "position": "78",
+            "position": "77",
             "rotated": false,
             "notes": "FoodMaker, Fixing"
         },
@@ -1782,7 +1761,7 @@
             "number": 136,
             "color_identity": "G",
             "cost": "{3}{G}",
-            "rules_text": "[i]Landfall[/i] \u2014 Whenever a land you control enters, create a Food token.",
+            "rules_text": "When Zagoth Snapper attacks, create a Food token.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -1791,9 +1770,9 @@
             "loyalty": "",
             "artist": "Tuan Duong Chu",
             "alias": "",
-            "position": "79",
+            "position": "78",
             "rotated": false,
-            "notes": "FoodMaker"
+            "notes": "FoodMaker\n\nRework \u2014 give landfall"
         },
         {
             "card_name": "CG07 \u2014 Mandelbrot Grazer",
@@ -1803,7 +1782,7 @@
             "number": 137,
             "color_identity": "G",
             "cost": "{2}{G}{G}",
-            "rules_text": "Mandelbrot Grazer enters with four +1/+1 counters on it.\nVigilance\n{2}, Sacrifice a Food: Reveal the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.",
+            "rules_text": "Mandelbrot Grazer enters with four +1/+1 counters on it.\nVigilance\n{2}, Sacrifice a token: Reveal the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.",
             "flavor_text": "[i][/i]",
             "pt": "0/0",
             "special_text": "",
@@ -1812,7 +1791,7 @@
             "loyalty": "",
             "artist": "Bastien Grivet",
             "alias": "",
-            "position": "80",
+            "position": "79",
             "rotated": false,
             "notes": "FoodEater, Planeoverlap, Ramp"
         },
@@ -1833,7 +1812,7 @@
             "loyalty": "",
             "artist": "Louis-Mary Touzalin",
             "alias": "",
-            "position": "81",
+            "position": "80",
             "card_name2": "Fox's Jump",
             "color2": "G",
             "type2": "Instant \u2014 Adventure",
@@ -1866,7 +1845,7 @@
             "loyalty": "",
             "artist": "Pierre Ignaszewski",
             "alias": "",
-            "position": "82",
+            "position": "81",
             "rotated": false,
             "notes": "Removal"
         },
@@ -1887,7 +1866,7 @@
             "loyalty": "",
             "artist": "Carlota Su\u00e1rez Villaverde",
             "alias": "",
-            "position": "83",
+            "position": "82",
             "rotated": false,
             "notes": "!exportname CB13 -- Im Eternally Grateful"
         },
@@ -1908,7 +1887,7 @@
             "loyalty": "",
             "artist": "Pauline Vo\u00df",
             "alias": "",
-            "position": "84",
+            "position": "83",
             "rotated": false,
             "notes": "FoodMaker, Removal"
         },
@@ -1929,7 +1908,7 @@
             "loyalty": "",
             "artist": "Von Milano",
             "alias": "",
-            "position": "85",
+            "position": "84",
             "rotated": false,
             "notes": "Removal, CardAdvantage,"
         },
@@ -1950,7 +1929,7 @@
             "loyalty": "",
             "artist": "Jacqueline Manherz",
             "alias": "",
-            "position": "86",
+            "position": "85",
             "rotated": false,
             "notes": ""
         },
@@ -1971,7 +1950,7 @@
             "loyalty": "",
             "artist": "Tomek Larek",
             "alias": "",
-            "position": "87",
+            "position": "86",
             "rotated": false,
             "notes": "PlaneOverlap,"
         },
@@ -1983,7 +1962,7 @@
             "number": 100,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Offspring\u2014Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\n{T}: Target creature gains haste until end of turn.",
+            "rules_text": "Offspring\u2014sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\n{T}: Target creature gains haste until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -1992,7 +1971,7 @@
             "loyalty": "",
             "artist": "Michelle Tolo",
             "alias": "",
-            "position": "88",
+            "position": "87",
             "rotated": false,
             "notes": "FoodEater"
         },
@@ -2013,7 +1992,7 @@
             "loyalty": "",
             "artist": "Sandara Tang",
             "alias": "",
-            "position": "89",
+            "position": "88",
             "rotated": false,
             "notes": "FoodEater"
         },
@@ -2034,7 +2013,7 @@
             "loyalty": "",
             "artist": "Narendra B Adi",
             "alias": "",
-            "position": "90",
+            "position": "89",
             "rotated": false,
             "notes": ""
         },
@@ -2046,7 +2025,7 @@
             "number": 110,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "Choose one \u2014 \n\u2022 Create three 1/1 green Squirrel Rogue creature tokens. \n\u2022 Create three Food tokens.\n\u2022 Exile two card from the top of your library. Until the end of your next turn, you may play those cards.",
+            "rules_text": "Choose one \u2014 \n\u2022 Create three 1/1 green Squirrel Rogue creature tokens. \n\u2022 Exile two card from the top of your library. Until the end of your next turn, you may play those cards.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2055,9 +2034,9 @@
             "loyalty": "",
             "artist": "Clint Cearley",
             "alias": "",
-            "position": "91",
+            "position": "90",
             "rotated": false,
-            "notes": "FoodMaker, Card Advantage"
+            "notes": "Card Advantage"
         },
         {
             "card_name": "CB09 \u2014 Shadow Swap",
@@ -2076,7 +2055,7 @@
             "loyalty": "",
             "artist": "Marie Magny",
             "alias": "",
-            "position": "92",
+            "position": "91",
             "rotated": false,
             "notes": ""
         },
@@ -2097,7 +2076,7 @@
             "loyalty": "",
             "artist": "Jennifer Mills",
             "alias": "",
-            "position": "93",
+            "position": "92",
             "rotated": false,
             "notes": "Removal"
         },
@@ -2109,7 +2088,7 @@
             "number": 12,
             "color_identity": "W",
             "cost": "{2}{W}",
-            "rules_text": "Whenever you gain life, put an oil counter on this artifact.\n{WP}, {T}, Remove two oil counters from this artifact: Draw a card and create a Food token.",
+            "rules_text": "Whenever you gain life during your turn, put an oil counter on Phyrexian Chalice.\n{WP}, {T}, Remove two oil counters from Phyrexian Chalice: Draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2118,9 +2097,9 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "position": "94",
+            "position": "93",
             "rotated": false,
-            "notes": "FoodMaker, CardAdvantage, GainLifeTrigger"
+            "notes": "CardAdvantage, GainLifeTrigger"
         },
         {
             "card_name": "CW06 \u2014 Lorehold Paleodietitian",
@@ -2130,7 +2109,7 @@
             "number": 6,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Vigilance, Reach\nWhenever Lorehold Paleodietitian blocks, create a Food token then Incubate Food 2 [i](Put two +1/+1 counters on target noncreature Food you control and it gains \u201c{2}: Transform this Food.\u201d It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]",
+            "rules_text": "Vigilance, Reach\nWhenever Lorehold Paleodietitian attacks, create a Food token then Incubate Food 2 [i](Put two +1/+1 counters on target noncreature Food you control and it gains \u201c{2}: Transform this Food.\u201d It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -2139,30 +2118,30 @@
             "loyalty": "",
             "artist": "Leonardo Giordano",
             "alias": "",
-            "position": "95",
+            "position": "94",
             "rotated": false,
-            "notes": "FoodEater, Planeoverlap"
+            "notes": "FoodMaker, FoodEater, Planeoverlap"
         },
         {
-            "card_name": "CU09 \u2014 Inspiring Lemma Beans",
+            "card_name": "CU08 \u2014 Inspiring Lemma Beans",
             "color": "U",
             "rarity": "common",
             "type": "Artifact Creature \u2014 Food Dragon",
-            "number": 41,
+            "number": 40,
             "color_identity": "U",
             "cost": "{5}{U}",
-            "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nWhen Inspiring Lemma Beans enters,create a Food token, then Discover X where X is the number of Food you control. \n{2}, {T}, sacrifice Inspiring Lemma Beans: You gain 3 life.",
+            "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nWhen Inspiring Lemma Beans enters, create a Food token, then Discover X where X is the number of artifacts you control.",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "3/3",
             "special_text": "",
             "shape": "normal",
             "set": "FOOD",
             "loyalty": "",
             "artist": "Daniela Guarecuco",
             "alias": "",
-            "position": "96",
+            "position": "95",
             "rotated": false,
-            "notes": "FoodEater, FoodMaker, CardAdvantage,"
+            "notes": "FoodEater, FoodMaker, CardAdvantage,\nRework"
         },
         {
             "card_name": "CU01 \u2014 Quandrix Garden Gates",
@@ -2172,7 +2151,7 @@
             "number": 33,
             "color_identity": "U",
             "cost": "{1}{U}",
-            "rules_text": "Defender, reach\n[i]Conjecture[/i] \u2014 Whenever you cast a spell from anywhere other than your hand, you draw a card then discard a card.",
+            "rules_text": "Defender, reach\n{T}: Add {C}{C}. This mana can't be spent to cast spells from your hand.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2181,9 +2160,9 @@
             "loyalty": "",
             "artist": "Anton Ninov",
             "alias": "",
-            "position": "97",
+            "position": "96",
             "rotated": false,
-            "notes": "ConjecturePayoff"
+            "notes": "Ramp"
         },
         {
             "card_name": "UU04 \u2014 Square Elemental",
@@ -2202,7 +2181,7 @@
             "loyalty": "",
             "artist": "Robert Tiess",
             "alias": "",
-            "position": "98",
+            "position": "97",
             "rotated": false,
             "notes": ""
         },
@@ -2223,7 +2202,7 @@
             "loyalty": "",
             "artist": "Alexandra GaudiBeundia Khitrova",
             "alias": "",
-            "position": "99",
+            "position": "98",
             "rotated": false,
             "notes": ""
         },
@@ -2244,7 +2223,7 @@
             "loyalty": "",
             "artist": "Victor Garcia",
             "alias": "",
-            "position": "100",
+            "position": "99",
             "rotated": false,
             "notes": "ConjecturePayoff, Planeoverlap"
         },
@@ -2256,7 +2235,7 @@
             "number": 14,
             "color_identity": "W",
             "cost": "{3}{W}",
-            "rules_text": "Help [i](Other players can pay up to {3} of this spell's cost.)[/i]\nWhen Oleaginous Portal enters, create a 2/2 white Horror Knight token with vigilance.Then you and each other player who helped pay for it create a Food token. \nAt the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Horror Knight tokens with vigilance.",
+            "rules_text": "Help [i](Other players can pay up to {3} of this spell's cost.)[/i]\nWhen Oleaginous Portal enters, create a 2/2 white Horror Knight token with vigilance.Then you and each other player who helped pay for it gains 2 life.\nAt the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Horror Knight tokens with vigilance.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2265,9 +2244,9 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "position": "101",
+            "position": "100",
             "rotated": false,
-            "notes": "FoodMaker, FoodEater, GainLifeTrigger"
+            "notes": "FoodEater, GainLifeTrigger"
         },
         {
             "card_name": "RL01 \u2014 The Holy Oil Spring",
@@ -2286,7 +2265,7 @@
             "loyalty": "",
             "artist": "Yana Dokuchaeva",
             "alias": "",
-            "position": "102",
+            "position": "101",
             "rotated": false,
             "notes": ""
         },
@@ -2307,7 +2286,7 @@
             "loyalty": "",
             "artist": "David Astruga",
             "alias": "",
-            "position": "103",
+            "position": "102",
             "rotated": false,
             "notes": "Removal"
         },
@@ -2328,7 +2307,7 @@
             "loyalty": "",
             "artist": "Rey Rad",
             "alias": "",
-            "position": "104",
+            "position": "103",
             "rotated": false,
             "notes": "AddFlavorText"
         },
@@ -2349,7 +2328,7 @@
             "loyalty": "",
             "artist": "Caio Monteiro",
             "alias": "",
-            "position": "105",
+            "position": "104",
             "rotated": false,
             "notes": "CardAdvantage"
         },
@@ -2361,7 +2340,7 @@
             "number": 44,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "When Freshman Meal Plan enters, create two Food token.\nWhenever you discard one or more cards, create a Food token.\nSacrifice two Food: Create a 0/0 green and blue Fractal creature token and puts a +1/+1 counter on each Fractal you control. Activate only as a sorcery.",
+            "rules_text": "When Freshman Meal Plan enters, draw a card then discard a card.\nWhenever you discard a card, create a Food token. This ability triggers only once each turn.\nSacrifice two Food: Create a 0/0 green and blue Fractal creature token and puts a +1/+1 counter on each Fractal you control. Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2370,7 +2349,7 @@
             "loyalty": "",
             "artist": "Nhan Nguyen",
             "alias": "",
-            "position": "106",
+            "position": "105",
             "rotated": false,
             "notes": "!tokens Food\nFoodMaker, FoodEater"
         },
@@ -2391,7 +2370,7 @@
             "loyalty": "",
             "artist": "Draken D.",
             "alias": "",
-            "position": "107",
+            "position": "106",
             "rotated": false,
             "notes": ""
         },
@@ -2403,7 +2382,7 @@
             "number": 114,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "First strike\n[i]Valiant[/i] \u2014 Whenever Mabel becomes target of a spell or ability you control for the first time each turn, create a Food token.\nAt the beginning of combat each turn, you may sacrifice forage twice. If you do, creatures you control get +X/+0 until end of turn, where X is Mable's power. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]",
+            "rules_text": "First strike\n[i]Valiant[/i] \u2014 Whenever Mabel becomes target of a spell or ability you control for the first time each turn, create a Food token.\nAt the beginning of combat each turn, you may forage twice. If you do, creatures you control get +X/+0 until end of turn, where X is Mable's power. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -2412,7 +2391,7 @@
             "loyalty": "",
             "artist": "Amytis - Margaux Penhoat",
             "alias": "",
-            "position": "108",
+            "position": "107",
             "rotated": false,
             "notes": "FoodMaker, FoodEater"
         },
@@ -2433,7 +2412,7 @@
             "loyalty": "",
             "artist": "Raja Nandepu",
             "alias": "",
-            "position": "109",
+            "position": "108",
             "rotated": false,
             "notes": ""
         },
@@ -2454,7 +2433,7 @@
             "loyalty": "",
             "artist": "Anna Podedworna",
             "alias": "",
-            "position": "110",
+            "position": "109",
             "rotated": false,
             "notes": ""
         },
@@ -2475,7 +2454,7 @@
             "loyalty": "",
             "artist": "Oleksandr Kuzmin",
             "alias": "",
-            "position": "111",
+            "position": "110",
             "rotated": false,
             "notes": ""
         },
@@ -2487,16 +2466,16 @@
             "number": 174,
             "color_identity": "WU",
             "cost": "{W}{U}",
-            "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this class enters, draw a card.\n{W}{U} Level 2\nWhen this class becomes Level 2, create two Food tokens.\n{W}{W}{U}{U} Level 3\nTap two untapped artifacts you control: Gain 1 life. \n{2}{W}{W}{U}{U} Level 4\nSpells you control have affinity for artifacts.",
+            "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this class enters, draw a card.\n{W}{U} Level 2\nWhen this class becomes Level 2, create a Food token.\n{W}{W}{U}{U} Level 3\nTap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.\n{2}{W}{W}{U}{U} Level 4\nSpells you control have affinity for artifacts.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this class enters, draw a card.\n{W}{U} Level 2\nWhen this class becomes Level 2, create two Food tokens.\n{W}{W}{U}{U} Level 3\nTap two untapped artifacts you control: Gain 1 life. \n{2}{W}{W}{U}{U} Level 4\nSpells you control have affinity for artifacts.",
+            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this class enters, draw a card.\n{W}{U} Level 2\nWhen this class becomes Level 2, create a Food token.\n{W}{W}{U}{U} Level 3\nTap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.\n{2}{W}{W}{U}{U} Level 4\nSpells you control have affinity for artifacts.",
             "shape": "class",
             "set": "FOOD",
             "loyalty": "",
             "artist": "Eggboy",
             "alias": "",
-            "position": "112",
+            "position": "111",
             "rotated": false,
             "notes": "FoodMaker"
         },
@@ -2508,7 +2487,7 @@
             "number": 176,
             "color_identity": "WR",
             "cost": "{R}{W}",
-            "rules_text": "Double strike\nWhenever a player sacrifices a Food, put a +1/+1 counter on Blight Rabbit.",
+            "rules_text": "Double strike\nWhenever a player sacrifices a token, put a +1/+1 counter on Blight Rabbit.",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -2517,7 +2496,7 @@
             "loyalty": "",
             "artist": "Lyss Menold",
             "alias": "",
-            "position": "113",
+            "position": "112",
             "rotated": false,
             "notes": ""
         },
@@ -2538,7 +2517,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "position": "114",
+            "position": "113",
             "rotated": false,
             "notes": ""
         },
@@ -2559,7 +2538,7 @@
             "loyalty": "",
             "artist": "Nadine Sch\u00e4kel",
             "alias": "",
-            "position": "115",
+            "position": "114",
             "rotated": false,
             "notes": ""
         },
@@ -2580,7 +2559,7 @@
             "loyalty": "",
             "artist": "Evgeniy Shvenk",
             "alias": "",
-            "position": "116",
+            "position": "115",
             "rotated": false,
             "notes": ""
         },
@@ -2601,7 +2580,7 @@
             "loyalty": "",
             "artist": "D\u00e9bora Paes",
             "alias": "",
-            "position": "117",
+            "position": "116",
             "rotated": false,
             "notes": ""
         },
@@ -2622,7 +2601,7 @@
             "loyalty": "",
             "artist": "Michael Katchan",
             "alias": "",
-            "position": "118",
+            "position": "117",
             "rotated": false,
             "notes": ""
         },
@@ -2643,7 +2622,7 @@
             "loyalty": "",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "119",
+            "position": "118",
             "rotated": false,
             "notes": ""
         },
@@ -2664,7 +2643,7 @@
             "loyalty": "",
             "artist": "Katerina Ladon",
             "alias": "",
-            "position": "120",
+            "position": "119",
             "rotated": false,
             "notes": "AddFlavorText, ConjecturePayoff,"
         },
@@ -2685,7 +2664,7 @@
             "loyalty": "",
             "artist": "Billy Christian",
             "alias": "",
-            "position": "121",
+            "position": "120",
             "rotated": false,
             "notes": ""
         },
@@ -2697,7 +2676,7 @@
             "number": 83,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "{1}{B}, {T}, Sacrifice a Food: For each opponent, choose a creature they control. For each creature choose and apply a different effect: \n\u2022 [i]Love \u2014 [/i]Goad them.\n\u2022 [i]Sleep [/i]\u2014 Stun them.\n\u2022 [i]Transform [/i]\u2014 Until your next turn they lose all abilities and become a 0/1 green Salamander.",
+            "rules_text": "{1}{B}, {T}, Sacrifice a token: For each opponent, choose a creature they control. For each creature choose and apply a different effect: \n\u2022 [i]Love \u2014 [/i]Goad them.\n\u2022 [i]Sleep [/i]\u2014 Stun them.\n\u2022 [i]Transform [/i]\u2014 Until your next turn they lose all abilities and become a 0/1 green Salamander.",
             "flavor_text": "[i]Taunt'em, tempt'em, make'em in a newt.[/i]",
             "pt": "2/2",
             "special_text": "",
@@ -2706,9 +2685,9 @@
             "loyalty": "",
             "artist": "Aimee Lynette",
             "alias": "",
-            "position": "122",
+            "position": "121",
             "rotated": false,
-            "notes": "FoodEater"
+            "notes": ""
         },
         {
             "card_name": "RR02 \u2014 Calamity Lavabuck",
@@ -2727,7 +2706,7 @@
             "loyalty": "",
             "artist": "Kathleen O'Hara",
             "alias": "",
-            "position": "123",
+            "position": "122",
             "rotated": false,
             "notes": ""
         },
@@ -2748,7 +2727,7 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "position": "124",
+            "position": "123",
             "rotated": false,
             "notes": ""
         },
@@ -2769,7 +2748,7 @@
             "loyalty": "",
             "artist": "Chris Rahn",
             "alias": "",
-            "position": "125",
+            "position": "124",
             "rotated": false,
             "notes": "Removal"
         },
@@ -2790,7 +2769,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "position": "126",
+            "position": "125",
             "card_name2": "Tempt with Treat",
             "color2": "B",
             "type2": "Instant \u2014 Adventure",
@@ -2804,7 +2783,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "FoodMaker,"
+            "notes": "FoodMaker"
         },
         {
             "card_name": "UZ01 \u2014 Bibliochef",
@@ -2823,16 +2802,16 @@
             "loyalty": "",
             "artist": "Altered TCG",
             "alias": "",
-            "position": "127",
+            "position": "126",
             "rotated": false,
             "notes": ""
         },
         {
-            "card_name": "UR04 \u2014 Riverbank Paladin",
+            "card_name": "UR03 \u2014 Riverbank Paladin",
             "color": "R",
             "rarity": "uncommon",
             "type": "Creature \u2014 Frog Knight",
-            "number": 124,
+            "number": 123,
             "color_identity": "R",
             "cost": "{2}{R}",
             "rules_text": "Haste\nWhenever you expend 4, destroy up to one target artifact. [i](You expend 4 as you spend your fourth total mana to cast spells during a turn.)[/i]",
@@ -2844,7 +2823,7 @@
             "loyalty": "",
             "artist": "Javier Gonz\u00e1lez",
             "alias": "",
-            "position": "128",
+            "position": "127",
             "rotated": false,
             "notes": ""
         },
@@ -2865,7 +2844,7 @@
             "loyalty": "",
             "artist": "Charlotte White",
             "alias": "",
-            "position": "129",
+            "position": "128",
             "rotated": false,
             "notes": ""
         },
@@ -2886,7 +2865,7 @@
             "loyalty": "",
             "artist": "Marcos V. Monken",
             "alias": "",
-            "position": "130",
+            "position": "129",
             "rotated": false,
             "notes": ""
         },
@@ -2907,7 +2886,7 @@
             "loyalty": "",
             "artist": "Pat Gabrielli",
             "alias": "",
-            "position": "131",
+            "position": "130",
             "rotated": false,
             "notes": "CardAdvantage,"
         },
@@ -2928,7 +2907,7 @@
             "loyalty": "",
             "artist": "Graziano Roccatani",
             "alias": "",
-            "position": "132",
+            "position": "131",
             "rotated": false,
             "notes": "FoodEater, Disenchant"
         },
@@ -2949,7 +2928,7 @@
             "loyalty": "",
             "artist": "Ishmael Hoover",
             "alias": "",
-            "position": "133",
+            "position": "132",
             "rotated": false,
             "notes": ""
         },
@@ -2970,7 +2949,7 @@
             "loyalty": "",
             "artist": "Jakub Jagoda",
             "alias": "",
-            "position": "134",
+            "position": "133",
             "card_name2": "Grandma's Delivery",
             "color2": "B",
             "type2": "Instant \u2014 Adventure",
@@ -3003,7 +2982,7 @@
             "loyalty": "",
             "artist": "A. Lundell",
             "alias": "",
-            "position": "135",
+            "position": "134",
             "rotated": false,
             "notes": ""
         },
@@ -3024,7 +3003,7 @@
             "loyalty": "",
             "artist": "P. Nicholas Nodiff",
             "alias": "",
-            "position": "136",
+            "position": "135",
             "rotated": false,
             "notes": "Removal"
         },
@@ -3045,7 +3024,7 @@
             "loyalty": "",
             "artist": "Brian Valeza",
             "alias": "",
-            "position": "137",
+            "position": "136",
             "rotated": false,
             "notes": ""
         },
@@ -3066,7 +3045,7 @@
             "loyalty": "",
             "artist": "Sandara Tang",
             "alias": "",
-            "position": "138",
+            "position": "137",
             "rotated": false,
             "notes": ""
         },
@@ -3087,7 +3066,7 @@
             "loyalty": "",
             "artist": "Tanya Podolskaia",
             "alias": "",
-            "position": "139",
+            "position": "138",
             "rotated": false,
             "notes": ""
         },
@@ -3108,7 +3087,7 @@
             "loyalty": "",
             "artist": "Drew Soman",
             "alias": "",
-            "position": "140",
+            "position": "139",
             "rotated": false,
             "notes": "ConjecturePayoff,"
         },
@@ -3129,7 +3108,7 @@
             "loyalty": "",
             "artist": "BoissB - Blanca.J",
             "alias": "",
-            "position": "141",
+            "position": "140",
             "rotated": false,
             "notes": ""
         },
@@ -3150,7 +3129,7 @@
             "loyalty": "",
             "artist": "Gonzalo Kenny",
             "alias": "",
-            "position": "142",
+            "position": "141",
             "rotated": false,
             "notes": ""
         },
@@ -3171,7 +3150,7 @@
             "loyalty": "",
             "artist": "Ina Wong",
             "alias": "",
-            "position": "143",
+            "position": "142",
             "rotated": false,
             "notes": ""
         },
@@ -3192,7 +3171,7 @@
             "loyalty": "",
             "artist": "Randy Vargas",
             "alias": "",
-            "position": "144",
+            "position": "143",
             "rotated": false,
             "notes": "CardAdvantage,"
         },
@@ -3213,7 +3192,7 @@
             "loyalty": "",
             "artist": "John Stone",
             "alias": "",
-            "position": "145",
+            "position": "144",
             "rotated": false,
             "notes": "FoodEater, Planeoverlap"
         },
@@ -3234,7 +3213,7 @@
             "loyalty": "",
             "artist": "Jan Rovira Romero",
             "alias": "",
-            "position": "146",
+            "position": "145",
             "rotated": false,
             "notes": ""
         },
@@ -3246,7 +3225,7 @@
             "number": 223,
             "color_identity": "C",
             "cost": "{1}",
-            "rules_text": "When Egg BombBomb enters, it deals 1 damage to any target.\n{6},{T}, Sacrifice Egg BombBomb: Destroy target nonland permanent.\n{2}, {T}, Sacrifice Egg BombBomb: You gain 3 life.",
+            "rules_text": "When Egg BombBomb enters, it deals 1 damage to any target.\n{6},{T}, Sacrifice Egg BombBomb: Destroy target nonland permanent.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3255,7 +3234,7 @@
             "loyalty": "",
             "artist": "Jacqueline Manherz",
             "alias": "",
-            "position": "147",
+            "position": "146",
             "rotated": false,
             "notes": "Removal"
         },
@@ -3276,7 +3255,7 @@
             "loyalty": "",
             "artist": "Alayna Danner",
             "alias": "",
-            "position": "148",
+            "position": "147",
             "rotated": false,
             "notes": ""
         },
@@ -3297,7 +3276,7 @@
             "loyalty": "",
             "artist": "Rana Latham",
             "alias": "",
-            "position": "149",
+            "position": "148",
             "rotated": false,
             "notes": ""
         },
@@ -3318,9 +3297,9 @@
             "loyalty": "",
             "artist": "Pavel Kolomeyets",
             "alias": "",
-            "position": "150",
+            "position": "149",
             "rotated": false,
-            "notes": ""
+            "notes": "Ramp"
         },
         {
             "card_name": "UW10 \u2014 Call to Compleation",
@@ -3339,7 +3318,7 @@
             "loyalty": "",
             "artist": "Yugin Maffioli",
             "alias": "",
-            "position": "151",
+            "position": "150",
             "rotated": false,
             "notes": "CardAdvantage"
         },
@@ -3351,7 +3330,7 @@
             "number": 31,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "Affinity for Food [i](This spell costs {1} less to cast for each Food you control.)[/i]\nWhen Punishment Sphere enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\nWhen you gain life, target opponent gets a poison counter. This ability triggers only once each turn",
+            "rules_text": "Affinity for Food [i](This spell costs {1} less to cast for each Food you control.)[/i]\nWhen Punishment Sphere enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.\nWhen you gain life during your turn, target opponent gets a poison counter. This ability triggers only once each turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3360,7 +3339,7 @@
             "loyalty": "",
             "artist": "Michael Katchan",
             "alias": "",
-            "position": "152",
+            "position": "151",
             "rotated": false,
             "notes": "FoodEater, Removal, Poison"
         },
@@ -3372,7 +3351,7 @@
             "number": 106,
             "color_identity": "R",
             "cost": "{3}{RP}{R}",
-            "rules_text": "Offspring\u2014 Sacrifice a Food [i](You may Sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\nTrample, toxic 2 [i](Players dealt combat damage by this creature also get two poison counters.)[/i]",
+            "rules_text": "Offspring\u2014sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\nTrample, toxic 2 [i](Players dealt combat damage by this creature also get two poison counters.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -3381,7 +3360,7 @@
             "loyalty": "",
             "artist": "Saby Menyhei",
             "alias": "",
-            "position": "153",
+            "position": "152",
             "rotated": false,
             "notes": "PlaneOverlap, FoodEater, Poison"
         },
@@ -3402,7 +3381,7 @@
             "loyalty": "",
             "artist": "Zoltan Boros",
             "alias": "",
-            "position": "154",
+            "position": "153",
             "rotated": false,
             "notes": "Removal, FoodMaker"
         },
@@ -3414,7 +3393,7 @@
             "number": 128,
             "color_identity": "R",
             "cost": "{R}{R}",
-            "rules_text": "Gift one or two Food to different opponents.\nChoose one for each gift promised.\n\u2022 Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.\n\u2022 Change the target of target spell or ability with a single target.",
+            "rules_text": "Gift one Food or Gift two Food to different opponents.\nChoose one for each gift promised.\n\u2022 Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.\n\u2022 Change the target of target spell or ability with a single target.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3423,7 +3402,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "position": "155",
+            "position": "154",
             "rotated": false,
             "notes": ""
         },
@@ -3444,7 +3423,7 @@
             "loyalty": "",
             "artist": "Giulio D'Amico",
             "alias": "",
-            "position": "156",
+            "position": "155",
             "rotated": false,
             "notes": "Removal"
         },
@@ -3465,7 +3444,7 @@
             "loyalty": "",
             "artist": "Vinart",
             "alias": "",
-            "position": "157",
+            "position": "156",
             "rotated": false,
             "notes": ""
         },
@@ -3486,7 +3465,7 @@
             "loyalty": "",
             "artist": "Jun Kim",
             "alias": "",
-            "position": "158",
+            "position": "157",
             "rotated": false,
             "notes": "GainLifeTrigger"
         },
@@ -3507,7 +3486,7 @@
             "loyalty": "",
             "artist": "Adrian Pamplona",
             "alias": "",
-            "position": "159",
+            "position": "158",
             "rotated": false,
             "notes": "FoodEater,ConjecturePayoff,"
         },
@@ -3528,7 +3507,7 @@
             "loyalty": "",
             "artist": "Anna Christenson",
             "alias": "",
-            "position": "160",
+            "position": "159",
             "rotated": false,
             "notes": ""
         },
@@ -3549,7 +3528,7 @@
             "loyalty": "",
             "artist": "Victoria Nedelcheva",
             "alias": "",
-            "position": "161",
+            "position": "160",
             "rotated": false,
             "notes": ""
         },
@@ -3570,7 +3549,7 @@
             "loyalty": "",
             "artist": "Sleud",
             "alias": "",
-            "position": "162",
+            "position": "161",
             "rotated": false,
             "notes": ""
         },
@@ -3591,12 +3570,12 @@
             "loyalty": "",
             "artist": "Filigreen Art",
             "alias": "",
-            "position": "163",
+            "position": "162",
             "card_name2": "Buy Ingrediants",
             "color2": "B",
             "type2": "Sorcery \u2014 Adventure",
             "cost2": "{B}",
-            "rules_text2": "Haggle [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]\nCreate a Food. If this spell was haggled create three Food instead.",
+            "rules_text2": "Haggle [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]\nCreate a Food token. If this spell was haggled create two Food tokens instead.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -3624,7 +3603,7 @@
             "loyalty": "",
             "artist": "Sergio Mayo",
             "alias": "",
-            "position": "164",
+            "position": "163",
             "rotated": false,
             "notes": ""
         },
@@ -3645,7 +3624,7 @@
             "loyalty": "",
             "artist": "Queco",
             "alias": "",
-            "position": "165",
+            "position": "164",
             "rotated": false,
             "notes": ""
         },
@@ -3666,7 +3645,7 @@
             "loyalty": "",
             "artist": "Artur Treffner",
             "alias": "",
-            "position": "166",
+            "position": "165",
             "rotated": false,
             "notes": ""
         },
@@ -3687,7 +3666,7 @@
             "loyalty": "",
             "artist": "Link Chiang",
             "alias": "",
-            "position": "167",
+            "position": "166",
             "rotated": false,
             "notes": ""
         },
@@ -3708,7 +3687,7 @@
             "loyalty": "",
             "artist": "Anthony Avon",
             "alias": "",
-            "position": "168",
+            "position": "167",
             "rotated": false,
             "notes": ""
         },
@@ -3729,7 +3708,7 @@
             "loyalty": "",
             "artist": "nick southam",
             "alias": "",
-            "position": "169",
+            "position": "168",
             "rotated": false,
             "notes": ""
         },
@@ -3750,7 +3729,7 @@
             "loyalty": "",
             "artist": "Nele Diel",
             "alias": "",
-            "position": "170",
+            "position": "169",
             "rotated": false,
             "notes": ""
         },
@@ -3771,7 +3750,7 @@
             "loyalty": "",
             "artist": "Christina Kraus",
             "alias": "",
-            "position": "171",
+            "position": "170",
             "rotated": false,
             "notes": ""
         },
@@ -3792,7 +3771,7 @@
             "loyalty": "",
             "artist": "Leon Tukker",
             "alias": "",
-            "position": "172",
+            "position": "171",
             "rotated": false,
             "notes": ""
         },
@@ -3813,7 +3792,7 @@
             "loyalty": "",
             "artist": "Christina Kraus",
             "alias": "",
-            "position": "173",
+            "position": "172",
             "rotated": false,
             "notes": ""
         },
@@ -3834,7 +3813,7 @@
             "loyalty": "",
             "artist": "Brian Jackson",
             "alias": "",
-            "position": "174",
+            "position": "173",
             "rotated": false,
             "notes": ""
         },
@@ -3855,7 +3834,7 @@
             "loyalty": "",
             "artist": "Omar Vallejos",
             "alias": "",
-            "position": "175",
+            "position": "174",
             "rotated": false,
             "notes": ""
         },
@@ -3876,7 +3855,7 @@
             "loyalty": "",
             "artist": "Leon Tukker",
             "alias": "",
-            "position": "176",
+            "position": "175",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -3897,7 +3876,7 @@
             "loyalty": "",
             "artist": "Maethavee.Kay'E",
             "alias": "",
-            "position": "177",
+            "position": "176",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -3918,7 +3897,7 @@
             "loyalty": "",
             "artist": "Lea Dickert",
             "alias": "",
-            "position": "178",
+            "position": "177",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -3939,7 +3918,7 @@
             "loyalty": "",
             "artist": "Nik Overdiek",
             "alias": "",
-            "position": "179",
+            "position": "178",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -3960,7 +3939,7 @@
             "loyalty": "",
             "artist": "Alayna Lemmer-Danner",
             "alias": "",
-            "position": "180",
+            "position": "179",
             "rotated": false,
             "notes": "!tapped"
         },
@@ -3981,7 +3960,7 @@
             "loyalty": "",
             "artist": "Nutchapol Thitinunthakorn",
             "alias": "",
-            "position": "181",
+            "position": "180",
             "rotated": false,
             "notes": "Removal, CardAdvantage\n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal/Wizard > U"
         },
@@ -3993,7 +3972,7 @@
             "number": 59,
             "color_identity": "U",
             "cost": "{6}{U}",
-            "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nFlying\nWhen Tater Tot Monitor enters, draw three cards then discard a card. \n{2}, {T}, Sacrifice Tater Tot Monitor: You gain 3 life.",
+            "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nFlying\nWhen Tater Tot Monitor enters, draw three cards then discard a card.",
             "flavor_text": "[i][/i]",
             "pt": "2/2",
             "special_text": "",
@@ -4002,7 +3981,7 @@
             "loyalty": "",
             "artist": "Daniel Jim\u00e9nez",
             "alias": "",
-            "position": "182",
+            "position": "181",
             "rotated": false,
             "notes": "Riff on thought monitor"
         },
@@ -4023,7 +4002,7 @@
             "loyalty": "",
             "artist": "Alexandra SJ",
             "alias": "",
-            "position": "183",
+            "position": "182",
             "rotated": false,
             "notes": "Ramp, CardAdvantage,"
         },
@@ -4035,7 +4014,7 @@
             "number": 225,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "Reach\nWhenever this creature blocks or becomes blocked by a non-Food creature, destroy that creature at end of combat.\n{2}, {T}, Sacrifice Cabbatrice: You gain 3 life.",
+            "rules_text": "Reach\nWhenever this creature blocks or becomes blocked by a non-Food creature, destroy that creature at end of combat.",
             "flavor_text": "[i][/i]",
             "pt": "3/5",
             "special_text": "",
@@ -4044,9 +4023,9 @@
             "loyalty": "",
             "artist": "Carlos Justino",
             "alias": "",
-            "position": "184",
+            "position": "183",
             "rotated": false,
-            "notes": "FoodMaker,"
+            "notes": ""
         },
         {
             "card_name": "UA08 \u2014 Ginger Snaposaurus",
@@ -4056,7 +4035,7 @@
             "number": 232,
             "color_identity": "C",
             "cost": "{8}",
-            "rules_text": "Reach, Trample\n{2},{T}, Sacrifice Ginger Snaposaurus: You gain 3 life.\nBasic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]",
+            "rules_text": "Reach, Trample\nBasic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "7/7",
             "special_text": "",
@@ -4065,9 +4044,9 @@
             "loyalty": "",
             "artist": "Hampus Lovebrant",
             "alias": "",
-            "position": "185",
+            "position": "184",
             "rotated": false,
-            "notes": "Fixing, FoodMaker"
+            "notes": "Fixing"
         },
         {
             "card_name": "UA01 \u2014 Chef's Knife",
@@ -4086,7 +4065,7 @@
             "loyalty": "",
             "artist": "Faer - Elisa Guarnaroli",
             "alias": "",
-            "position": "186",
+            "position": "185",
             "rotated": false,
             "notes": ""
         },
@@ -4107,7 +4086,7 @@
             "loyalty": "",
             "artist": "Elvira Shatunova",
             "alias": "",
-            "position": "187",
+            "position": "186",
             "rotated": false,
             "notes": ""
         },
@@ -4119,7 +4098,7 @@
             "number": 230,
             "color_identity": "C",
             "cost": "{5}",
-            "rules_text": "Ward\u2014 Sacrifice a Food. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Sacrifice a Food. .)[/i]\nVigilance, Reach\n{2}, {T}, Sacrifice Her Royal Meringue: You gain 3 life.",
+            "rules_text": "Ward\u2014sacrifices a token. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a token.)[/i]\nVigilance, Reach",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -4128,7 +4107,7 @@
             "loyalty": "",
             "artist": "Diane \u00d6ZDAMAR",
             "alias": "",
-            "position": "188",
+            "position": "187",
             "rotated": false,
             "notes": ""
         },
@@ -4149,7 +4128,7 @@
             "loyalty": "",
             "artist": "Soenke C. \"Warby\" Seidel",
             "alias": "",
-            "position": "189",
+            "position": "188",
             "rotated": false,
             "notes": ""
         },
@@ -4170,7 +4149,7 @@
             "loyalty": "",
             "artist": "Von Milano",
             "alias": "",
-            "position": "190",
+            "position": "189",
             "rotated": false,
             "notes": ""
         },
@@ -4191,7 +4170,7 @@
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
-            "position": "191",
+            "position": "190",
             "rotated": false,
             "notes": "Removal"
         },
@@ -4212,7 +4191,7 @@
             "loyalty": "",
             "artist": "Rohland DeMoss",
             "alias": "",
-            "position": "192",
+            "position": "191",
             "rotated": false,
             "notes": ""
         },
@@ -4233,7 +4212,7 @@
             "loyalty": "",
             "artist": "Charlotte White",
             "alias": "",
-            "position": "193",
+            "position": "192",
             "rotated": false,
             "notes": "AddFlavorText"
         },
@@ -4254,7 +4233,7 @@
             "loyalty": "",
             "artist": "Quintin Gleim",
             "alias": "",
-            "position": "194",
+            "position": "193",
             "rotated": false,
             "notes": ""
         },
@@ -4266,7 +4245,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Ward\u2014 Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Stun a creature.)[/i]\nFlying\nWhen Cosmophysicist attacks, draw a card.",
+            "rules_text": "Ward\u2014 Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player chooses and stuns an untapped creature they control.)[/i]\nFlying\nWhen Cosmophysicist attacks, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -4275,7 +4254,7 @@
             "loyalty": "",
             "artist": "Ilya Vatutin",
             "alias": "",
-            "position": "195",
+            "position": "194",
             "rotated": false,
             "notes": ""
         },
@@ -4296,7 +4275,7 @@
             "loyalty": "",
             "artist": "Antonio J. Manzanedo",
             "alias": "",
-            "position": "196",
+            "position": "195",
             "rotated": false,
             "notes": ""
         },
@@ -4317,7 +4296,7 @@
             "loyalty": "",
             "artist": "Dominik Mayer",
             "alias": "",
-            "position": "197",
+            "position": "196",
             "rotated": false,
             "notes": ""
         },
@@ -4338,7 +4317,7 @@
             "loyalty": "",
             "artist": "FractalsByX",
             "alias": "",
-            "position": "198",
+            "position": "197",
             "rotated": false,
             "notes": ""
         },
@@ -4359,7 +4338,7 @@
             "loyalty": "",
             "artist": "David Laundry",
             "alias": "",
-            "position": "199",
+            "position": "198",
             "rotated": false,
             "notes": ""
         },
@@ -4380,7 +4359,7 @@
             "loyalty": "",
             "artist": "Tatiana Rystenko",
             "alias": "",
-            "position": "200",
+            "position": "199",
             "rotated": false,
             "notes": ""
         },
@@ -4401,7 +4380,7 @@
             "loyalty": "",
             "artist": "Charlotte White",
             "alias": "",
-            "position": "201",
+            "position": "200",
             "rotated": false,
             "notes": "Removal, CardAdvantage\n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal > U"
         },
@@ -4422,7 +4401,7 @@
             "loyalty": "",
             "artist": "Tom Dale",
             "alias": "",
-            "position": "202",
+            "position": "201",
             "card_name2": "Rankles Edict",
             "color2": "B",
             "type2": "Instant \u2014 Adventure",
@@ -4455,7 +4434,7 @@
             "loyalty": "",
             "artist": "N\u00e9stor Ossand\u00f3n Leal",
             "alias": "",
-            "position": "203",
+            "position": "202",
             "rotated": false,
             "notes": ""
         },
@@ -4476,7 +4455,7 @@
             "loyalty": "",
             "artist": "Ivo Campelo da Silva",
             "alias": "",
-            "position": "204",
+            "position": "203",
             "rotated": false,
             "notes": ""
         },
@@ -4497,7 +4476,7 @@
             "loyalty": "",
             "artist": "Mauricio Carrasco",
             "alias": "",
-            "position": "205",
+            "position": "204",
             "rotated": false,
             "notes": ""
         },
@@ -4518,7 +4497,7 @@
             "loyalty": "",
             "artist": "Rayven Studios",
             "alias": "",
-            "position": "206",
+            "position": "205",
             "rotated": false,
             "notes": ""
         },
@@ -4539,7 +4518,7 @@
             "loyalty": "",
             "artist": "Mykyta Vasilchuk",
             "alias": "",
-            "position": "207",
+            "position": "206",
             "rotated": false,
             "notes": ""
         },
@@ -4560,7 +4539,7 @@
             "loyalty": "",
             "artist": "Gabrielle Ragusi",
             "alias": "",
-            "position": "208",
+            "position": "207",
             "rotated": false,
             "notes": "CardAdvantage, PoliticsCard"
         },
@@ -4581,7 +4560,7 @@
             "loyalty": "",
             "artist": "Evyn Fong",
             "alias": "",
-            "position": "209",
+            "position": "208",
             "rotated": false,
             "notes": "FoodMaker, Removal\n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal > U"
         },
@@ -4602,7 +4581,7 @@
             "loyalty": "",
             "artist": "Diego Gisbert Llorens",
             "alias": "",
-            "position": "210",
+            "position": "209",
             "rotated": false,
             "notes": ""
         },
@@ -4623,7 +4602,7 @@
             "loyalty": "",
             "artist": "Daniela Ivanova",
             "alias": "",
-            "position": "211",
+            "position": "210",
             "rotated": false,
             "notes": ""
         },
@@ -4644,7 +4623,7 @@
             "loyalty": "",
             "artist": "Eryk Szczygie\u0142",
             "alias": "",
-            "position": "212",
+            "position": "211",
             "rotated": false,
             "notes": ""
         },
@@ -4665,7 +4644,7 @@
             "loyalty": "",
             "artist": "Pascal Quidault",
             "alias": "",
-            "position": "213",
+            "position": "212",
             "rotated": false,
             "notes": ""
         },
@@ -4677,7 +4656,7 @@
             "number": 206,
             "color_identity": "BR",
             "cost": "{2}{B}{R}",
-            "rules_text": "As an additional cost to cast this spell, sacrifice one or more Food. \nCreate X 1/1 black Rat creature token with \u201cThis token can't block.\u201d where X is the the number of Food sacrificed. Until end of turn, creatures you control get +2/+0 and gain haste and menace until end of turn.",
+            "rules_text": "Kicker sacrifice one or more Food [i](You may sacrifice one or more Food as you cast this spell.)[/i]\nCreate X 1/1 black Rat creature token with \u201cThis token can't block.\u201d where X is one plus the the number of Food sacrificed. Until end of turn, creatures you control get +2/+0 and gain haste and menace until end of turn.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -4686,7 +4665,7 @@
             "loyalty": "",
             "artist": "Alexander \"Minze\" Th\u00fcmler",
             "alias": "",
-            "position": "214",
+            "position": "213",
             "rotated": false,
             "notes": ""
         },
@@ -4707,7 +4686,7 @@
             "loyalty": "",
             "artist": "digsanchez",
             "alias": "",
-            "position": "215",
+            "position": "214",
             "rotated": false,
             "notes": ""
         },
@@ -4728,7 +4707,7 @@
             "loyalty": "3",
             "artist": "Lisa Gaudr\u00e9",
             "alias": "",
-            "position": "216",
+            "position": "215",
             "card_name2": "CR16 \u2014 Mabel's Rise",
             "color2": "R",
             "type2": "Sorcery",
@@ -4742,7 +4721,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nFoodMaker\nlandslot\nFoodMaker"
+            "notes": "!Battle\nFoodMaker\nFoodMaker"
         },
         {
             "card_name": "RL03 \u2014 The Dusk Woods",
@@ -4761,7 +4740,7 @@
             "loyalty": "",
             "artist": "Ray Xie",
             "alias": "",
-            "position": "218",
+            "position": "217",
             "card_name2": "RL03 \u2014 Rankle's Greatest Trick",
             "color2": "B",
             "type2": "Enchantment \u2014 Saga",
@@ -4785,7 +4764,7 @@
             "number": 165,
             "color_identity": "WUB",
             "cost": "{3}{W}{U}",
-            "rules_text": "Lifelink\nWhenever a player casts their second spell each turn, choose one \u2014\n\u2022 Gift a Food, if you do, create a Food token.\n\u2022 Put a +1/+1 counter on target creature, then proliferate.\n\u2022 Incubate Food 3.",
+            "rules_text": "Lifelink\nWhenever a player casts their second spell each turn, choose one \u2014\n\u2022 Gift a Scry 2, if you do, draw a card.\n\u2022 Put a +1/+1 counter on another target creature, then proliferate.\n\u2022 Create a Food, then incubate Food 3.",
             "flavor_text": "[i][/i]",
             "pt": "1/5",
             "special_text": "",
@@ -4794,7 +4773,7 @@
             "loyalty": "",
             "artist": "AnsaLyn",
             "alias": "",
-            "position": "220",
+            "position": "219",
             "card_name2": "MZ02 \u2014 Nymris, Sprightly Deciever",
             "color2": "UB",
             "type2": "Legendary Creature \u2014 Faerie Warlock",
@@ -4808,7 +4787,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "FoodEater, FoodMaker, DifferentPlane\nFoodEater, FoodMaker, DifferentPlane"
+            "notes": "FoodEater, DifferentPlane\nFoodEater, FoodMaker, DifferentPlane"
         },
         {
             "card_name": "MZ03 \u2014 Gyruda, Oscilating Wave",
@@ -4827,7 +4806,7 @@
             "loyalty": "",
             "artist": "Diane \u00d6ZDAMAR",
             "alias": "",
-            "position": "222",
+            "position": "221",
             "card_name2": "MZ03 \u2014 Plargg, Chaos Instructor",
             "color2": "BR",
             "type2": "Legendary Creature \u2014 Orc Shaman",
@@ -4860,7 +4839,7 @@
             "loyalty": "",
             "artist": "Kirigakureanjo",
             "alias": "",
-            "position": "224",
+            "position": "223",
             "card_name2": "MZ01 \u2014 Yorion, Cloud Coatl",
             "color2": "WU",
             "type2": "Legendary Creature \u2014 Bird Serpent",
@@ -4893,7 +4872,7 @@
             "loyalty": "",
             "artist": "Vladan Zhervanov",
             "alias": "",
-            "position": "226",
+            "position": "225",
             "card_name2": "MZ04 \u2014 Hazel, Leader of the Acrons",
             "color2": "RG",
             "type2": "Legendary Creature \u2014 Squirrel Druid",
@@ -4917,7 +4896,7 @@
             "number": 168,
             "color_identity": "WRG",
             "cost": "{3}{R}{G}",
-            "rules_text": "Non-Human creature spells you cast have Offspring\u2014 Sacrifice a Food. [i](You may Sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\nWhen Kaheera deals combat damage to an opponent, populate. [i](Create a token that's a copy of a creature token you control.)[/i]",
+            "rules_text": "Non-Human creature spells you cast have Offspring\u2014sacrifice a Food. [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\nWhen Kaheera deals combat damage to an opponent, populate. [i](Create a token that's a copy of a creature token you control.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "7/5",
             "special_text": "",
@@ -4926,7 +4905,7 @@
             "loyalty": "",
             "artist": "Alex Cash",
             "alias": "",
-            "position": "228",
+            "position": "227",
             "card_name2": "MZ05 \u2014 Jirina, Humanity's General",
             "color2": "WG",
             "type2": "Legendary Creature \u2014 Human Solider",
@@ -4959,7 +4938,7 @@
             "loyalty": "",
             "artist": "Pascal Quidault",
             "alias": "",
-            "position": "230",
+            "position": "229",
             "card_name2": "MZ06 \u2014 Sheoldred, Grinning Resurrector",
             "color2": "WB",
             "type2": "Legendary Creature \u2014 Phyrexian Praetor",
@@ -4992,7 +4971,7 @@
             "loyalty": "",
             "artist": "Kerem Beyit",
             "alias": "",
-            "position": "232",
+            "position": "231",
             "card_name2": "MZ07 \u2014 Prismari, Theatrical Maestro",
             "color2": "UR",
             "type2": "Legendary Creature \u2014 Elder Dragon",
@@ -5016,7 +4995,7 @@
             "number": 171,
             "color_identity": "WBG",
             "cost": "{1}{W}{B}",
-            "rules_text": "Creatures can't attack you unless their controller pays {2} or sacrifices a Food for each of those creatures.\nWhenever an opponent sacrifices a Food, they lose 3 life.",
+            "rules_text": "Creatures can't attack you unless their controller pays {2} or bargains for each of those creatures. [i](Sacrifices an artifact, enchantment, or token.)[/i]\nWhenever an opponent sacrifices a token they lose 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -5025,7 +5004,7 @@
             "loyalty": "",
             "artist": "lie setiawan",
             "alias": "",
-            "position": "234",
+            "position": "233",
             "card_name2": "MZ08 \u2014 Greta, SweetArrow Avenger",
             "color2": "BG",
             "type2": "Legendary Creature \u2014 Human Warrior",
@@ -5058,7 +5037,7 @@
             "loyalty": "",
             "artist": "Yanmo Zhang",
             "alias": "",
-            "position": "236",
+            "position": "235",
             "card_name2": "MZ09 \u2014 Brudiclad, Roaring Crafter",
             "color2": "UR",
             "type2": "Legendary Artifact Creature \u2014 Phyrexian Artificer",
@@ -5091,12 +5070,12 @@
             "loyalty": "",
             "artist": "Alexey Kruglov",
             "alias": "",
-            "position": "238",
+            "position": "237",
             "card_name2": "MZ10 \u2014 Ygra, Eater of Infinity",
             "color2": "BG",
             "type2": "Legendary Creature \u2014 Elemental Cat",
             "cost2": "{X}{B}{G}",
-            "rules_text2": "Ward\u2014Sacrifice a Food.\nFirst strike\nWhen Ygra enters, create X Food tokens.\nWhenever a Food is put into a graveyard from the battlefield, put a +1/+1 counter on Ygra.",
+            "rules_text2": "Ward\u2014Sacrifice a token. \nFirst strike\nWhen Ygra enters, create X Food tokens.\nWhenever a Food is put into a graveyard from the battlefield, put a +1/+1 counter on Ygra.",
             "flavor_text2": "[i][/i]",
             "pt2": "2/2",
             "special_text2": "",
@@ -5124,7 +5103,7 @@
             "loyalty": "4",
             "artist": "Mac Smith",
             "alias": "",
-            "position": "240",
+            "position": "239",
             "card_name2": "CR15 \u2014 Campfire Companions",
             "color2": "R",
             "type2": "Battle \u2014 Alliance",
@@ -5138,7 +5117,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
         },
         {
             "card_name": "CB15 \u2014 Trial of Guile",
@@ -5157,7 +5136,7 @@
             "loyalty": "4",
             "artist": "Othon Nikolaidis",
             "alias": "",
-            "position": "242",
+            "position": "241",
             "card_name2": "CB15 \u2014 Sweet Associates",
             "color2": "B",
             "type2": "Battle \u2014 Alliance",
@@ -5171,7 +5150,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nFoodMaker\nlandslot\nFoodMaker"
+            "notes": "!Battle\nFoodMaker\n\nFoodMaker\nRework"
         },
         {
             "card_name": "CB16 \u2014 Ransack the Faerie Garden",
@@ -5190,7 +5169,7 @@
             "loyalty": "3",
             "artist": "Tim Shepherd",
             "alias": "",
-            "position": "244",
+            "position": "243",
             "card_name2": "CB16 \u2014 Rankle's Reveal",
             "color2": "B",
             "type2": "Sorcery",
@@ -5204,7 +5183,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nFoodMaker\n\n\nFT:\"The louder they scream, the harder he laughs.\"\nlandslot\nFoodMaker\n\n\nFT:\"The louder they scream, the harder he laughs.\""
+            "notes": "!Battle\nFoodMaker\n\n\nFT:\"The louder they scream, the harder he laughs.\"\nFoodMaker\n\n\nFT:\"The louder they scream, the harder he laughs.\""
         },
         {
             "card_name": "CG15 \u2014 Fight of Might",
@@ -5223,7 +5202,7 @@
             "loyalty": "4",
             "artist": "Graziano Roccatani",
             "alias": "",
-            "position": "246",
+            "position": "245",
             "card_name2": "CG15 \u2014 Kindred Packmates",
             "color2": "G",
             "type2": "Battle \u2014 Alliance",
@@ -5237,7 +5216,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nRamp\nlandslot\nRamp"
+            "notes": "!Battle\nRamp\nRamp"
         },
         {
             "card_name": "CG16 \u2014 Ransack the Ketria Gemgrove",
@@ -5256,7 +5235,7 @@
             "loyalty": "3",
             "artist": "Brian Valeza",
             "alias": "",
-            "position": "248",
+            "position": "247",
             "card_name2": "CG16 \u2014 Umori Snaps Back",
             "color2": "G",
             "type2": "Sorcery",
@@ -5270,40 +5249,28 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nFoodMaker\nlandslot\nFoodMaker"
+            "notes": "!Battle\nFoodMaker\nFoodMaker"
         },
         {
-            "card_name": "CW15 \u2014 Ceremony of Faith",
+            "card_name": "CW15 \u2014 The Porcelain Legion",
             "color": "W",
             "rarity": "common",
-            "type": "Battle \u2014 Trial",
+            "type": "Battle \u2014 Alliance",
             "number": 15,
             "color_identity": "W",
-            "cost": "{1}{W}",
-            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]\nWhen this Trial enters, you gain 2 life then scry 2.\nFood tokens you control have \u201c{2}, {T}, Sacrifice this token: Target player gets a poison counter.\u201d",
+            "cost": "",
+            "rules_text": "[i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]\nWhenever you or the owner of this battle gains life for the first time each turn, they create a 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \u201cThis token can't block. [i](Players dealt combat damage by that creature also get a poison counter.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4",
             "special_text": "",
-            "shape": "transform double faced",
+            "shape": "battle",
             "set": "FOOD",
-            "loyalty": "4",
-            "artist": "Bryan Bitter",
+            "loyalty": "",
+            "artist": "Nicol\u00e1s Arce",
             "alias": "",
-            "position": "250",
-            "card_name2": "CW15 \u2014 The Porcelain Legion",
-            "color2": "W",
-            "type2": "Battle \u2014 Alliance",
-            "cost2": "",
-            "rules_text2": "[i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]\nWhenever you or the owner of this battle gains life for the first time each turn, they create a 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \u201cThis token can't block. [i](Players dealt combat damage by that creature also get a poison counter.)[/i]",
-            "flavor_text2": "[i][/i]",
-            "pt2": "4",
-            "special_text2": "",
-            "loyalty2": "",
-            "artist2": "Nicol\u00e1s Arce",
-            "alias2": "",
-            "rules_text3": "",
+            "position": "249",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": ""
         },
         {
             "card_name": "CW16 \u2014 Ransack the Fifth Sphere",
@@ -5322,7 +5289,7 @@
             "loyalty": "2",
             "artist": "Leon Tukker",
             "alias": "",
-            "position": "252",
+            "position": "250",
             "card_name2": "CW16 \u2014 Mother's Retribution",
             "color2": "W",
             "type2": "Sorcery",
@@ -5336,7 +5303,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nRansack, FoodMaker\nlandslot\nRansack, FoodMaker"
+            "notes": "!Battle\nRansack, FoodMaker\nRansack, FoodMaker"
         },
         {
             "card_name": "CU15 \u2014 Test of Intellect",
@@ -5355,7 +5322,7 @@
             "loyalty": "4",
             "artist": "Altered TCG",
             "alias": "",
-            "position": "254",
+            "position": "252",
             "card_name2": "CU15 \u2014 Collaborative Scholars",
             "color2": "U",
             "type2": "Battle \u2014 Alliance",
@@ -5369,7 +5336,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
         },
         {
             "card_name": "CU16 \u2014 Ransack the Library",
@@ -5388,7 +5355,7 @@
             "loyalty": "4",
             "artist": "Scott Purdy",
             "alias": "",
-            "position": "256",
+            "position": "254",
             "card_name2": "CU16 \u2014 Zimone Gets Even",
             "color2": "U",
             "type2": "Sorcery",
@@ -5402,7 +5369,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nRansack, FoodMaker\nlandslot\nRansack, FoodMaker"
+            "notes": "!Battle\nRansack, FoodMaker\nRansack, FoodMaker"
         },
         {
             "card_name": "UZ11 \u2014 Syphon the Infinity Fountain",
@@ -5421,7 +5388,7 @@
             "loyalty": "5",
             "artist": "kirinkarwai",
             "alias": "",
-            "position": "258",
+            "position": "256",
             "card_name2": "UZ11 \u2014 All They Can Eat",
             "color2": "WU",
             "type2": "Enchantment",
@@ -5435,7 +5402,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
         },
         {
             "card_name": "UZ12 \u2014 Polemics of Apostasy",
@@ -5454,7 +5421,7 @@
             "loyalty": "4",
             "artist": "Anato Finnstark",
             "alias": "",
-            "position": "260",
+            "position": "258",
             "card_name2": "UZ12 \u2014 Sibyls in Rapture",
             "color2": "WB",
             "type2": "Enchantment",
@@ -5468,7 +5435,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
         },
         {
             "card_name": "UZ13 \u2014 Guard the Fountainport Parapet",
@@ -5487,7 +5454,7 @@
             "loyalty": "5",
             "artist": "Jerome Jacinto",
             "alias": "",
-            "position": "262",
+            "position": "260",
             "card_name2": "UZ13 \u2014 Ember Festival Revelry",
             "color2": "WR",
             "type2": "Enchantment",
@@ -5501,7 +5468,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
         },
         {
             "card_name": "UZ14 \u2014 Traverse the Hunter Maze",
@@ -5520,12 +5487,12 @@
             "loyalty": "6",
             "artist": "Leon Tukker",
             "alias": "",
-            "position": "264",
+            "position": "262",
             "card_name2": "UZ14 \u2014 Prey to Apex of the Swarm",
             "color2": "WG",
             "type2": "Enchantment",
             "cost2": "",
-            "rules_text2": "At the beginning of combat on your turn, exile target creature card from a graveyard. Then put an oil counter on it and up to one target creature you control.\nCreatures you control with oil counters have all the abilities of cards you own in exile with oil counters among: flying, first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, toxic 1, trample, and vigilance.",
+            "rules_text2": "At the beginning of combat on your turn, exile target creature card from a graveyard. Then put an oil counter on up to one target creature you control.\nCreatures you control with oil counters on them have all the abilities of cards exiled by Prey to Apex among: flying, first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, toxic 1, trample, and vigilance.",
             "flavor_text2": "[i][/i]",
             "pt2": "",
             "special_text2": "",
@@ -5534,7 +5501,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
         },
         {
             "card_name": "UZ15 \u2014 Beset Your Dreams",
@@ -5553,7 +5520,7 @@
             "loyalty": "5",
             "artist": "Asur Misoa",
             "alias": "",
-            "position": "266",
+            "position": "264",
             "card_name2": "UZ15 \u2014 Sleep Study",
             "color2": "UB",
             "type2": "Enchantment",
@@ -5567,7 +5534,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
         },
         {
             "card_name": "UZ16 \u2014 Thesis Defense",
@@ -5586,7 +5553,7 @@
             "loyalty": "6",
             "artist": "Yuri Cameirana",
             "alias": "",
-            "position": "268",
+            "position": "266",
             "card_name2": "UZ16 \u2014 Prismari Flourish",
             "color2": "UR",
             "type2": "Enchantment",
@@ -5600,7 +5567,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
         },
         {
             "card_name": "UZ17 \u2014 Traverse The Ketria Great Tree",
@@ -5619,7 +5586,7 @@
             "loyalty": "6",
             "artist": "Liiga Smilshkalne",
             "alias": "",
-            "position": "270",
+            "position": "268",
             "card_name2": "UZ17 \u2014Wild Flock of Abundance",
             "color2": "UG",
             "type2": "Enchantment",
@@ -5633,7 +5600,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
         },
         {
             "card_name": "UZ18 \u2014 Challenge the Court of High Chance",
@@ -5652,7 +5619,7 @@
             "loyalty": "4",
             "artist": "Stu Harrington",
             "alias": "",
-            "position": "272",
+            "position": "270",
             "card_name2": "UZ18 \u2014 Gamble with the RedScarves",
             "color2": "BR",
             "type2": "Enchantment",
@@ -5666,7 +5633,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
         },
         {
             "card_name": "UZ19 \u2014 Abscond the Golden Eggs",
@@ -5685,7 +5652,7 @@
             "loyalty": "5",
             "artist": "Zyralynn (Malena Santos)",
             "alias": "",
-            "position": "274",
+            "position": "272",
             "card_name2": "UZ19 \u2014 Collect on Promises",
             "color2": "BG",
             "type2": "Enchantment",
@@ -5699,7 +5666,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
         },
         {
             "card_name": "UZ20 \u2014 Hunt in the Raugrin Shoals",
@@ -5718,7 +5685,7 @@
             "loyalty": "6",
             "artist": "Jose Ochoa",
             "alias": "",
-            "position": "276",
+            "position": "274",
             "card_name2": "UZ20 \u2014 Mutative Advantage",
             "color2": "RG",
             "type2": "Enchantment",
@@ -5732,7 +5699,28 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "landslot\nlandslot"
+            "notes": "!Battle\n"
+        },
+        {
+            "card_name": "CU10 \u2014 Recursive Research",
+            "color": "U",
+            "rarity": "common",
+            "type": "Instant",
+            "number": 42,
+            "color_identity": "U",
+            "cost": "{1}{U}",
+            "rules_text": "Draw a card. \n[i]Conjecture[/i] \u2014 If this spell was cast from anywhere other than you hand, surveil 1 then draw a card instead. \nFlashback {1}{U} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "Freddie Samson",
+            "alias": "",
+            "position": "276",
+            "rotated": false,
+            "notes": "ConjectureEnabler, ConjecturePayoff, CardAdvantage,"
         }
     ]
 }

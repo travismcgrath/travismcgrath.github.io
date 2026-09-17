@@ -1,4 +1,786 @@
-﻿VERSION 21 CHANGELOG
+﻿VERSION 25 CHANGELOG
+====================
+
+CU09 — Missing Ingredient added.
+CR02 — Raging Marten added.
+CR01 — Pilfering Vole added.
+UR04 — Seedbed Sentry added.
+CU08 — Inspiring Lemma Beans added.
+UR03 — Riverbank Paladin added.
+CW15 — The Porcelain Legion added.
+CU10 — Recursive Research added.
+
+CU10 — Re-Hash removed.
+CU08 — Missing Ingredient removed.
+CR01 — Raging Marten removed.
+CR02 — Pilfering Vole removed.
+UR03 — Seedbed Sentry removed.
+CU09 — Inspiring Lemma Beans removed.
+UR04 — Riverbank Paladin removed.
+CW15 — Ceremony of Faith removed.
+
+CW07 — Devote Evangelist
+
+UZ07 — Tenured Bondologist
+
+CB08 — Big Bad Ouphe
+
+UW05 — Auriok Descendant
+
+UW02 — Porcelain Myr
+
+UR07 — Heartfire Bolt
+
+CR12 — Fling a Pie
+
+CB05 — Innocuous Prankster
+
+RG04 — Biomewide Migration
+
+UG04 — Dualcat
+
+CR05 — Owl-Eyed Bowman
+
+RB04 — Careful What You Ask For
+
+RR04 — Flavor of Autumn
+rules_text: Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Choose up to five {J} worth of modes. You may choose the same mode more than once.
+{J} — Make a Food token.
+{J}{J} — Exile target artifact.
+{J}{J}{J} — Create a 1/1 token copy of target creature you control. => Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Choose up to five {J} worth of modes. You may choose the same mode more than once.
+{J}{J} — Create a Food token.
+{J}{J} — Exile target artifact.
+{J}{J}{J} — Create a 1/1 token copy of target creature you control, except the token isn't legendary.
+
+RW02 — Flavor of Orthodoxy
+
+RU04 — Chronicle
+
+UB08 — Killer Deal
+
+CB07 — Professor From Another Realm
+rules_text: [i][i]Repartee[/i] -[/i] Whenever you cast an instant or sorcery spell that targets a creature, each opponent loses 2 life and you gain 2 life. => [i][i]Repartee[/i] -[/i] Whenever you cast an instant or sorcery spell that targets a creature, each opponent loses 2 life.
+
+CB03 — Marsh Mellow-o-Wisps
+rules_text: Flying
+At the beginning of combat on each turn, if you've gained life this turn, goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]
+{2}, {T}, Sacrifice Marsh Mellow-o-Wisps: You gain 3 life. => Flying, lifelink
+At the beginning of combat on each turn, if you've gained life this turn, goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]
+
+CB02 — Midnight Snacqueraider
+
+CB01 — Brackish Fencer
+
+CB14 — Entreating Witch
+rules_text: Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+When Entreating Witch enters, you and each player who helped cast this spell create a Food token. Opponents who didn't help cast this spell lose 3 life. => Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+When Entreating Witch enters, you and each player who helped cast this spell surveils 1. Opponents who didn't help cast this spell lose 3 life.
+
+CU11 — Check your work!
+
+UU08 — Two Weeks Suspension
+
+CU14 — Group Study
+
+UU10 — Calculate A Prophecy
+
+CU07 — Exponentiation Professor
+
+CU05 — Professor of Culinary Arts
+
+UW01 — Hosting Hawk
+
+UU02 — Snapping Torus
+
+CU02 — Arithmetic Frogression
+rules_text: Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they create a Food token.”)[/i]
+When Arithmetic Frogression enters, if a gift was promised, create a Food token and put a +1/+1 counter on target creature. => Gift a Scry 2 [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they scry 2.”)[/i]
+When Arithmetic Frogression enters, if a gift was promised, draw a card then discard a card. Then put a +1/+1 counter on target creature.
+
+CU06 — Campus Security
+
+CW10 — Served In Ice
+
+CW08 — Sleeperagent Skymount
+
+CW01 — Phyrexian Pridemate
+
+CW02 — Bladed Ambassador
+
+CW03 — Autocatalytic Hare
+rules_text: Offspring—Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+When Autocatalytic Hare enters, create a Food token. => Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+When Autocatalytic Hare enters, create a Food token.
+
+CW04 — Celestial Crier
+
+UW03 — Charging Invader
+
+CW05 — Elder Cenobite
+
+CW09 — Preator's Glory
+
+CG01 — Hungry Brushwagg
+rules_text: Trample 
+{3}{G}, sacrifice a Food: Put three +1/+1 counters on Hungry Brushwagg. => Trample 
+{3}{G}, sacrifice a token: Put three +1/+1 counters on Hungry Brushwagg.
+
+UG03 — Drannith Mess Sergeant
+rules_text: {T}: Create a Food token.
+Whenever a bonded non-human creature you control attacks, it devours food 1. [i](You may sacrifice any number of food. Put that many +1/+1 counters on this creature.)[/i] => Whenever one or more Humans you control attack, create a Food token.
+Whenever a bonded non-human creature you control attacks, it devours tokens 1. [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)[/i]
+
+CG08 — Indatha Ooze
+
+UG10 — Nourish The Young
+rules_text: Create a Food token.
+Target creature you control devours Food 1. Then it fights target creature you don't control. [i](You may sacrifice any number of food. Put that many +1/+1 counters on that creature.)[/i]
+If that creature is bonded, it also gains “Whenever this creature deals combat damage to a player or battle, draw that many cards.” until end of turn. => Create a Food token.
+Target creature you control devours tokens 1. Then it fights target creature you don't control. [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on that creature.)[/i]
+If that creature is bonded, it also gains “Whenever this creature deals combat damage to a player or battle, draw that many cards.” until end of turn.
+
+CG04 — Webbonder
+
+CB06 — The Tooth Faerie
+
+CG02 — Thornvault Anomaly
+
+CG03 — Symbiotic Shaman
+
+CG05 — Beetle-Horned Rhino
+
+CG10 — Peckish Pinekraken
+
+UG08 — Establish Eludha
+
+CW11 — Hunger of Mites
+
+UR01 — Root Maze Hatcher
+rules_text: Offspring—Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Myriad [i](Whenever this creature attacks, for each opponent other than defending player, you may create a token copy of this creature that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)[/i] => Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Myriad [i](Whenever this creature attacks, for each opponent other than defending player, you may create a token copy of this creature that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)[/i]
+
+CR08 — Rabid Chase Wolves
+
+CR04 — Sharp Clawed Scout
+rules_text: Menace
+When Sharp Clawed Scout enters, you may sacrifice a Food. If you do, surveil 1, then draw a card. => Menace
+When Sharp Clawed Scout enters, you may sacrifice a token. If you do, surveil 1, then draw a card.
+
+CR10 — Pond Creek Predator
+
+UR10 — Alluring Aromas
+
+CR14 — Wield the Seed Flame
+rules_text: Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+Wield deals 6 damage to target creature an opponent controls and 2 damage to target opponent or battle. 
+You and each player who helped pay for this spell creates a Food token. => Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+Wield deals 6 damage to target creature an opponent controls and 2 damage to target opponent or battle. 
+You and each player who helped pay for this spell puts a +1/+1 counter on a creature they control.
+
+CZ03 — Consummate Bladetail
+
+CZ04 — OilFang Bonder
+
+UZ05 — Book Thief
+
+CZ06 — Hydrodynamicist
+
+CZ08 — Haymeadow Brigand
+
+UZ10 — Gnaw Bonder
+
+UU07 — Give Insight
+
+RZ05 -- May I Have Your Name
+
+UB03 — Faerie Assassin
+
+CZ05 — Entrancing Faye
+
+CG11 — Advantageous Adaptation
+rules_text: Choose one:
+• Create two Food tokens.
+ • Put a +1/+1, vigilance, or reach counter on target creature you control.
+ • Search your library for a basic land card, put it into your hand, then shuffle.
+Cycling {G} [i]({G}, Discard this card: Draw a card.)[/i] => Choose one:
+• Create a Food token.
+ • Put a +1/+1, vigilance, or reach counter on target creature you control.
+ • Search your library for a basic land card, put it into your hand, then shuffle.
+Cycling {G} [i]({G}, Discard this card: Draw a card.)[/i]
+
+CG06 — Zagoth Snapper
+rules_text: [i]Landfall[/i] — Whenever a land you control enters, create a Food token. => When Zagoth Snapper attacks, create a Food token.
+
+CG07 — Mandelbrot Grazer
+rules_text: Mandelbrot Grazer enters with four +1/+1 counters on it.
+Vigilance
+{2}, Sacrifice a Food: Reveal the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order. => Mandelbrot Grazer enters with four +1/+1 counters on it.
+Vigilance
+{2}, Sacrifice a token: Reveal the top five cards of your library. You may put a land card from among them onto the battlefield tapped. Put the rest on the bottom of your library in a random order.
+
+CG09 — Reynard Bonder
+
+CG11 — Devour Whole
+
+CB13 -- Im Eternally Grateful
+
+CB10 — Delicious Apples
+
+CG14 — Thunderous Stomp
+
+UG01 — Venom Meringue Pie
+
+CR06 — Micro Ecologist
+
+CR03 — Emberheart Mouster
+rules_text: Offspring—Sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+{T}: Target creature gains haste until end of turn. => Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+{T}: Target creature gains haste until end of turn.
+
+CR07 — Burning Oak Duo
+
+CR11 — Uplift Animalfolk
+
+CR13 — Rally the Squirrels
+rules_text: Choose one — 
+• Create three 1/1 green Squirrel Rogue creature tokens. 
+• Create three Food tokens.
+• Exile two card from the top of your library. Until the end of your next turn, you may play those cards. => Choose one — 
+• Create three 1/1 green Squirrel Rogue creature tokens. 
+• Exile two card from the top of your library. Until the end of your next turn, you may play those cards.
+
+CB09 — Shadow Swap
+
+CB11 — Negotiate With Death
+
+CW12 — Phyrexian Chalice
+rules_text: Whenever you gain life, put an oil counter on this artifact.
+{WP}, {T}, Remove two oil counters from this artifact: Draw a card and create a Food token. => Whenever you gain life during your turn, put an oil counter on Phyrexian Chalice.
+{WP}, {T}, Remove two oil counters from Phyrexian Chalice: Draw a card.
+
+CW06 — Lorehold Paleodietitian
+rules_text: Vigilance, Reach
+Whenever Lorehold Paleodietitian blocks, create a Food token then Incubate Food 2 [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i] => Vigilance, Reach
+Whenever Lorehold Paleodietitian attacks, create a Food token then Incubate Food 2 [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]
+
+CU01 — Quandrix Garden Gates
+rules_text: Defender, reach
+[i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, you draw a card then discard a card. => Defender, reach
+{T}: Add {C}{C}. This mana can't be spent to cast spells from your hand.
+
+UU04 — Square Elemental
+
+CU13 — Publish Analysis
+
+CU04 — Sneaky Researcher
+
+CW14 — Oleaginous Portal
+rules_text: Help [i](Other players can pay up to {3} of this spell's cost.)[/i]
+When Oleaginous Portal enters, create a 2/2 white Horror Knight token with vigilance.Then you and each other player who helped pay for it create a Food token. 
+At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Horror Knight tokens with vigilance. => Help [i](Other players can pay up to {3} of this spell's cost.)[/i]
+When Oleaginous Portal enters, create a 2/2 white Horror Knight token with vigilance.Then you and each other player who helped pay for it gains 2 life.
+At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Horror Knight tokens with vigilance.
+
+RL01 — The Holy Oil Spring
+
+CW13 — Open Wide
+
+RL05 — Living Great Tree
+
+UU03 — Paperback Snake
+
+CU12 — Freshman Meal Plan
+rules_text: When Freshman Meal Plan enters, create two Food token.
+Whenever you discard one or more cards, create a Food token.
+Sacrifice two Food: Create a 0/0 green and blue Fractal creature token and puts a +1/+1 counter on each Fractal you control. Activate only as a sorcery. => When Freshman Meal Plan enters, draw a card then discard a card.
+Whenever you discard a card, create a Food token. This ability triggers only once each turn.
+Sacrifice two Food: Create a 0/0 green and blue Fractal creature token and puts a +1/+1 counter on each Fractal you control. Activate only as a sorcery.
+
+MW11 — Elesh Norn, Fidei Defensor
+
+MR14 — Mabel, Valley's Champion
+rules_text: First strike
+[i]Valiant[/i] — Whenever Mabel becomes target of a spell or ability you control for the first time each turn, create a Food token.
+At the beginning of combat each turn, you may sacrifice forage twice. If you do, creatures you control get +X/+0 until end of turn, where X is Mable's power. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i] => First strike
+[i]Valiant[/i] — Whenever Mabel becomes target of a spell or ability you control for the first time each turn, create a Food token.
+At the beginning of combat each turn, you may forage twice. If you do, creatures you control get +X/+0 until end of turn, where X is Mable's power. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]
+
+MG15 — Umori, Glue Beast
+
+MU12 — Zimone, Galeforce Researcher
+
+RL04 — Emberheart Greatsword
+
+RZ01 — Holy Relics Masterclass
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create two Food tokens.
+{W}{W}{U}{U} Level 3
+Tap two untapped artifacts you control: Gain 1 life. 
+{2}{W}{W}{U}{U} Level 4
+Spells you control have affinity for artifacts. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create a Food token.
+{W}{W}{U}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{2}{W}{W}{U}{U} Level 4
+Spells you control have affinity for artifacts.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create two Food tokens.
+{W}{W}{U}{U} Level 3
+Tap two untapped artifacts you control: Gain 1 life. 
+{2}{W}{W}{U}{U} Level 4
+Spells you control have affinity for artifacts. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create a Food token.
+{W}{W}{U}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{2}{W}{W}{U}{U} Level 4
+Spells you control have affinity for artifacts.
+
+RZ03 — Blight Rabbit
+rules_text: Double strike
+Whenever a player sacrifices a Food, put a +1/+1 counter on Blight Rabbit. => Double strike
+Whenever a player sacrifices a token, put a +1/+1 counter on Blight Rabbit.
+
+RZ04 — Wormcoil Hydra
+
+RZ06 — Advanced Bravery
+
+RZ09 — Esdragot
+
+RZ10 — Find the Magic Acorn
+
+RW01 — Mondrak, Impassable Horror
+
+RW04 — Begin the Feast
+
+RU01 — Larine Arneza, Valedictorian
+
+RU02 — Pensive Professor
+
+RB01 — Agatha, Cauldron Witch
+rules_text: {1}{B}, {T}, Sacrifice a Food: For each opponent, choose a creature they control. For each creature choose and apply a different effect: 
+• [i]Love — [/i]Goad them.
+• [i]Sleep [/i]— Stun them.
+• [i]Transform [/i]— Until your next turn they lose all abilities and become a 0/1 green Salamander. => {1}{B}, {T}, Sacrifice a token: For each opponent, choose a creature they control. For each creature choose and apply a different effect: 
+• [i]Love — [/i]Goad them.
+• [i]Sleep [/i]— Stun them.
+• [i]Transform [/i]— Until your next turn they lose all abilities and become a 0/1 green Salamander.
+
+RR02 — Calamity Lavabuck
+
+RG03 — WildCat Bonder
+
+RG01 — Kogla, the Titan Appe
+
+RB02 — Gumdrop Poisoner
+
+UZ01 — Bibliochef
+
+RR03 — Sword from the Pond
+
+UR06 — Calamity Ember Owl
+
+UG02 — Chevill's Apprentice
+
+UG05 — Ravenous Hyena
+
+UB09 — Graverob
+
+UB05 — Red Riding Hood
+
+UZ03 — Soul Rodent
+
+UZ04 — Tithe Monster
+
+UZ09 — Itsy Bitey Spider
+
+UR05 — Wiskerbow Archer
+
+MB13 — Rankle, Trusted Borrower
+
+UU01 — Axiom Channeler
+
+CZ07 — Strix Bonder
+
+CZ09 — Elder Bonder
+
+CZ10 — Frenzied Bonder
+
+CG13— Surivor's Bond
+
+CB04 — Oilsworn Paladin
+
+CZ02 — Liturgy Preparer
+
+CA01 — Egg BombBomb
+rules_text: When Egg BombBomb enters, it deals 1 damage to any target.
+{6},{T}, Sacrifice Egg BombBomb: Destroy target nonland permanent.
+{2}, {T}, Sacrifice Egg BombBomb: You gain 3 life. => When Egg BombBomb enters, it deals 1 damage to any target.
+{6},{T}, Sacrifice Egg BombBomb: Destroy target nonland permanent.
+
+UA04 — Eriette's Tempting Apple
+
+CU03 — Quaildratic Formula
+
+UU06 — Stress of Finals Week
+
+UW10 — Call to Compleation
+
+UW09 — Punishment Sphere
+rules_text: Affinity for Food [i](This spell costs {1} less to cast for each Food you control.)[/i]
+When Punishment Sphere enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+When you gain life, target opponent gets a poison counter. This ability triggers only once each turn => Affinity for Food [i](This spell costs {1} less to cast for each Food you control.)[/i]
+When Punishment Sphere enters, exile target nonland permanent an opponent controls until this enchantment leaves the battlefield.
+When you gain life during your turn, target opponent gets a poison counter. This ability triggers only once each turn.
+
+CR09 — Oilslick Watchfrog
+rules_text: Offspring— Sacrifice a Food [i](You may Sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Trample, toxic 2 [i](Players dealt combat damage by this creature also get two poison counters.)[/i] => Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Trample, toxic 2 [i](Players dealt combat damage by this creature also get two poison counters.)[/i]
+
+CB12 — Baked into a Pie
+
+UR08 — Return the Flavor
+rules_text: Gift one or two Food to different opponents.
+Choose one for each gift promised.
+• Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.
+• Change the target of target spell or ability with a single target. => Gift one Food or Gift two Food to different opponents.
+Choose one for each gift promised.
+• Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.
+• Change the target of target spell or ability with a single target.
+
+UU09 — Doesn't Count
+
+UA02 — Giant Loaf
+
+UZ02 — Dawn Knight
+
+CZ01 — Biblopex Caterer
+
+RZ07 — Quandrix Illusionist
+
+UB07 — Back for Seconds
+
+RB03 — Magic Piggies
+
+UB04 — Hell's Sous Chef
+
+UZ23 — Nightwatch Blade
+
+UZ06 — Mace The Exam
+
+UZ24 — Boarish Roar
+
+UZ25 — Plagiarism
+
+UW07 — Oily Shimmer
+
+CL01 — Raugrin Lavaflats
+
+CL02 — The Woods at Twilight
+
+CL03 — Department of Environmental Sciences
+
+CL04 — Phyrexian Passage
+
+CL05 — The Valley Market
+
+UZ29 — Hoot of the Horned Owl
+
+UZ30 — Mythos of Kogla
+
+CL06 — Norn's Basilica
+
+CL07 — Bilbelopex
+
+CL08 — Witches Hut
+
+CL09 — Oystershroom Lodge
+
+CL10 — Ketria Bosque
+
+UG09 — Snap Up
+
+UU05 — Tater Tot Monitor
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Flying
+When Tater Tot Monitor enters, draw three cards then discard a card. 
+{2}, {T}, Sacrifice Tater Tot Monitor: You gain 3 life. => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Flying
+When Tater Tot Monitor enters, draw three cards then discard a card.
+
+CA02 — Magic Fruit Stand
+
+CA03 — Cabbatrice
+rules_text: Reach
+Whenever this creature blocks or becomes blocked by a non-Food creature, destroy that creature at end of combat.
+{2}, {T}, Sacrifice Cabbatrice: You gain 3 life. => Reach
+Whenever this creature blocks or becomes blocked by a non-Food creature, destroy that creature at end of combat.
+
+UA08 — Ginger Snaposaurus
+rules_text: Reach, Trample
+{2},{T}, Sacrifice Ginger Snaposaurus: You gain 3 life.
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Reach, Trample
+Basic landcycling {2} [i]({2}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i]
+
+UA01 — Chef's Knife
+
+UA03 — Triple Berry Patrol
+
+UA05 — Her Royal Meringue
+rules_text: Ward— Sacrifice a Food. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Sacrifice a Food. .)[/i]
+Vigilance, Reach
+{2}, {T}, Sacrifice Her Royal Meringue: You gain 3 life. => Ward—sacrifices a token. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a token.)[/i]
+Vigilance, Reach
+
+UA06 — Toffee Golem
+
+UG07 — Voyaging Reefshell
+
+RZ02 — Duskhunter Bat
+
+RW03 — Chef of Machines
+
+RR01 — Whisker, the Fearless
+
+UR02 — Agate Instigator
+
+RU03 — Cosmophysicist
+rules_text: Ward— Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Stun a creature.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card. => Ward— Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player chooses and stuns an untapped creature they control.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card.
+
+UG06 — Razorback Bonder
+
+UB02 — Night Knight
+
+RL02 — Atollpology
+
+RZ08 — Sand Witch
+
+UB01 — Gingerbread Cabin
+
+UR09 — Slay The Beast
+
+UB06 — Dark Lilly Ambushers
+
+UW04 — Mite Overseer
+
+RU05 — Isometric Transformation
+
+RR05 — Topple The Tall
+
+RB05 — Wicked Famine
+
+RG05 — Savai Stampede
+
+UB10 — Price of Royalty
+
+UW08 — Uncork
+
+UZ08 — The Girl Who Cried Ouphe
+
+UZ26 — Safety in Numbers
+
+UZ22 — Glistening Rites
+
+UW06 — Phyrexian Health Inspector
+
+UZ28 — Feed the Throng
+rules_text: As an additional cost to cast this spell, sacrifice one or more Food. 
+Create X 1/1 black Rat creature token with “This token can't block.” where X is the the number of Food sacrificed. Until end of turn, creatures you control get +2/+0 and gain haste and menace until end of turn. => Kicker sacrifice one or more Food [i](You may sacrifice one or more Food as you cast this spell.)[/i]
+Create X 1/1 black Rat creature token with “This token can't block.” where X is one plus the the number of Food sacrificed. Until end of turn, creatures you control get +2/+0 and gain haste and menace until end of turn.
+
+RG02 — Drannith Beast Hunter
+
+CR16 — Ransack the Emberheart-Oven
+
+RL03 — The Dusk Woods
+
+MZ02 — Ms. Bumbleflower, Generous Hare
+rules_text: Lifelink
+Whenever a player casts their second spell each turn, choose one —
+• Gift a Food, if you do, create a Food token.
+• Put a +1/+1 counter on target creature, then proliferate.
+• Incubate Food 3. => Lifelink
+Whenever a player casts their second spell each turn, choose one —
+• Gift a Scry 2, if you do, draw a card.
+• Put a +1/+1 counter on another target creature, then proliferate.
+• Create a Food, then incubate Food 3.
+
+MZ03 — Gyruda, Oscilating Wave
+
+MZ01 — Ixhel, Porcelain Angel
+
+MZ04 — Cruelclaw, Leader of the Red Scarves
+
+MZ05 — Kaheera, Monster Paragon
+rules_text: Non-Human creature spells you cast have Offspring— Sacrifice a Food. [i](You may Sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+When Kaheera deals combat damage to an opponent, populate. [i](Create a token that's a copy of a creature token you control.)[/i] => Non-Human creature spells you cast have Offspring—sacrifice a Food. [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+When Kaheera deals combat damage to an opponent, populate. [i](Create a token that's a copy of a creature token you control.)[/i]
+
+MZ06 — Urabrask, Rebel Praetor
+
+MZ07 — Quandrix, Resonance Maestro
+
+MZ08 — Eriette of Love's Bite
+rules_text: Creatures can't attack you unless their controller pays {2} or sacrifices a Food for each of those creatures.
+Whenever an opponent sacrifices a Food, they lose 3 life. => Creatures can't attack you unless their controller pays {2} or bargains for each of those creatures. [i](Sacrifices an artifact, enchantment, or token.)[/i]
+Whenever an opponent sacrifices a token they lose 3 life.
+
+MZ09 — Quintorious, Defender of History
+
+MZ10 - The Golden Goose
+
+CR15 — Scuffle of Scurry
+
+CB15 — Trial of Guile
+
+CB16 — Ransack the Faerie Garden
+
+CG15 — Fight of Might
+
+CG16 — Ransack the Ketria Gemgrove
+
+CW16 — Ransack the Fifth Sphere
+
+CU15 — Test of Intellect
+
+CU16 — Ransack the Library
+
+UZ11 — Syphon the Infinity Fountain
+
+UZ12 — Polemics of Apostasy
+
+UZ13 — Guard the Fountainport Parapet
+
+UZ14 — Traverse the Hunter Maze
+
+UZ15 — Beset Your Dreams
+
+UZ16 — Thesis Defense
+
+UZ17 — Traverse The Ketria Great Tree
+
+UZ18 — Challenge the Court of High Chance
+
+UZ19 — Abscond the Golden Eggs
+
+UZ20 — Hunt in the Raugrin Shoals
+
+
+VERSION 24 CHANGELOG
+====================
+
+
+
+CR16 — Ransack the Emberheart-Oven
+
+CR15 — Scuffle of Scurry
+
+CB15 — Trial of Guile
+
+CB16 — Ransack the Faerie Garden
+
+CG15 — Fight of Might
+
+CG16 — Ransack the Ketria Gemgrove
+
+CW15 — Ceremony of Faith
+
+CW16 — Ransack the Fifth Sphere
+
+CU15 — Test of Intellect
+
+CU16 — Ransack the Library
+
+UZ11 — Syphon the Infinity Fountain
+
+UZ12 — Polemics of Apostasy
+
+UZ13 — Guard the Fountainport Parapet
+
+UZ14 — Traverse the Hunter Maze
+
+UZ15 — Beset Your Dreams
+
+UZ16 — Thesis Defense
+
+UZ17 — Traverse The Ketria Great Tree
+
+UZ18 — Challenge the Court of High Chance
+
+UZ19 — Abscond the Golden Eggs
+
+UZ20 — Hunt in the Raugrin Shoals
+
+
+VERSION 23 CHANGELOG
+====================
+
+No changes.
+
+VERSION 22 CHANGELOG
+====================
+
+
+
+CR16 — Ransack the Emberheart-Oven
+
+CR15 — Scuffle of Scurry
+
+CB15 — Trial of Guile
+
+CB16 — Ransack the Faerie Garden
+
+CG15 — Fight of Might
+
+CG16 — Ransack the Ketria Gemgrove
+
+CW15 — Ceremony of Faith
+
+CW16 — Ransack the Fifth Sphere
+
+CU15 — Test of Intellect
+
+CU16 — Ransack the Library
+
+UZ11 — Syphon the Infinity Fountain
+
+UZ12 — Polemics of Apostasy
+
+UZ13 — Guard the Fountainport Parapet
+
+UZ14 — Traverse the Hunter Maze
+
+UZ15 — Beset Your Dreams
+
+UZ16 — Thesis Defense
+
+UZ17 — Traverse The Ketria Great Tree
+
+UZ18 — Challenge the Court of High Chance
+
+UZ19 — Abscond the Golden Eggs
+
+UZ20 — Hunt in the Raugrin Shoals
+
+
+VERSION 21 CHANGELOG
 ====================
 
 
