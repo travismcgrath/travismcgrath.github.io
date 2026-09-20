@@ -11,11 +11,11 @@
 			}
 		},
 		{
-			"name": "Z — New Mechanics",
+			"name": "New Mechanics",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "2",
+			"collector_number": "30",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/1.png"
 			}
@@ -41,11 +41,11 @@
 			}
 		},
 		{
-			"name": "Z — Golden Egg Token",
+			"name": "Golden Egg",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "1",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/4.png"
 			}
@@ -583,7 +583,7 @@
 		{
 			"name": "CR02 — Raging Marten",
 			"rarity": "common",
-			"mana_cost": "{1}{R}",
+			"mana_cost": "{R}",
 			"type": "Creature — Mouse Knight",
 			"collector_number": "99",
 			"image_uris": {
@@ -664,7 +664,7 @@
 			"name": "CR14 — Wield the Seed Flame",
 			"rarity": "common",
 			"mana_cost": "{5}{R}",
-			"type": "Sorcery",
+			"type": "Artifact — Equipment",
 			"collector_number": "111",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/66.png"
@@ -871,11 +871,11 @@
 			}
 		},
 		{
-			"name": "CR03 — Emberheart Mouster",
+			"name": "Emberheart Mouster",
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
-			"type": "Creature — Mouse Bard",
-			"collector_number": "100",
+			"type": "Token Creature — Mouse Bard",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/87.png"
 			}
@@ -1611,7 +1611,7 @@
 			}
 		},
 		{
-			"name": "RB03 — Magic Piggies",
+			"name": "RB03 — Little Pig",
 			"rarity": "rare",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment Creature — Boar Coward",
@@ -1883,7 +1883,7 @@
 		{
 			"name": "UA06 — Toffee Golem",
 			"rarity": "uncommon",
-			"mana_cost": "{7}",
+			"mana_cost": "{8}",
 			"type": "Artifact Creature — Food Golem",
 			"collector_number": "231",
 			"image_uris": {
@@ -2542,16 +2542,6 @@
 			}
 		},
 		{
-			"name": "CW15 — The Porcelain Legion",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Battle — Alliance",
-			"collector_number": "15",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/249.png"
-			}
-		},
-		{
 			"name": "CW16 — Ransack the Fifth Sphere",
 			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
@@ -2672,21 +2662,8 @@
 			"mana_cost": "{1}{R}{W}",
 			"type": "Battle — Siege",
 			"collector_number": "195",
-			"back": {
-				"name": "",
-				"type": "",
-                    
-                                                                                                                                                                                                             
-      
-      
-				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/260_back.png"
-				}
-			},
-     
-        
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/260_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/260.png"
 			}
 		},
 		{
@@ -2741,21 +2718,8 @@
 			"mana_cost": "{3}{U}{R}",
 			"type": "Battle — Siege",
 			"collector_number": "198",
-			"back": {
-				"name": "",
-				"type": "",
-                    
-                                                                                                                                                                                                             
-      
-      
-				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/266_back.png"
-				}
-			},
-     
-        
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/266_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/266.png"
 			}
 		},
 		{
@@ -2859,6 +2823,319 @@
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/276.png"
 			}
+		},
+		{
+			"name": "CW15 — Ceremony of Faith",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Battle — Trial",
+			"collector_number": "15",
+			"back": {
+				"name": "",
+				"type": "",
+                    
+                                                                                                                                                                                                             
+      
+      
+				"image_uris": {
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/277_back.png"
+				}
+			},
+     
+        
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/277_front.png"
+			}
+		},
+		{
+			"name": "Food",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/278.png"
+			}
+		},
+		{
+			"name": "Faerie Rogue",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Faerie Rogue",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/279.png"
+			}
+		},
+		{
+			"name": "Fish",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Token Creature — Fish",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/280.png"
+			}
+		},
+		{
+			"name": "Fractal Beast",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Fractal Beast",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/281.png"
+			}
+		},
+		{
+			"name": "Phyrexian Mite",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Fractal Beast",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/282.png"
+			}
+		},
+		{
+			"name": "Mouse Knight",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/283.png"
+			}
+		},
+		{
+			"name": "Autocatalytic Hare",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Phyrexian Rabbit",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/284.png"
+			}
+		},
+		{
+			"name": "Horror Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Horror Knight",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/285.png"
+			}
+		},
+		{
+			"name": "Fractal",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Fractal",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/286.png"
+			}
+		},
+		{
+			"name": "Pest",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Pest",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/287.png"
+			}
+		},
+		{
+			"name": "Boar Citizen",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Boar Citizen",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/288.png"
+			}
+		},
+		{
+			"name": "Boar Warrior",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Board Warriror",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/289.png"
+			}
+		},
+		{
+			"name": "Gingerbrute",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Food Golem",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/290.png"
+			}
+		},
+		{
+			"name": "Royal Role",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Enchantment — Aura Role",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/291.png"
+			}
+		},
+		{
+			"name": "CR03 — Emberheart Mouster",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Creature — Mouse Bard",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/292.png"
+			}
+		},
+		{
+			"name": "Lizard Elemental",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Lizard Elemental",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/293.png"
+			}
+		},
+		{
+			"name": "Root Maze Hatcher",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Token Creature — Racoon Rogue",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/294.png"
+			}
+		},
+		{
+			"name": "Agate Instigator",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{R}",
+			"type": "Token Creature — Lizard Rogue",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/295.png"
+			}
+		},
+		{
+			"name": "Ooze",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Ooze",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/296.png"
+			}
+		},
+		{
+			"name": "Cat Beast",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Cat Beast",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/297.png"
+			}
+		},
+		{
+			"name": "Urabrask Mouse Knight",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Mouse Knight",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/298.png"
+			}
+		},
+		{
+			"name": "Elephant Spirit",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elephant Spirit",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/299.png"
+			}
+		},
+		{
+			"name": "Phyrexian Wurm",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact Creature — Phyrexian Wurm",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/300.png"
+			}
+		},
+		{
+			"name": "Frog",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Token Creature — Frog",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/301.png"
+			}
+		},
+		{
+			"name": "Otter",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Otter",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/302.png"
+			}
+		},
+		{
+			"name": "Elemental",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/303.png"
+			}
+		},
+		{
+			"name": "Human Rogue",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Human Rogue",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/304.png"
+			}
+		},
+		{
+			"name": "Rat",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Rat",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/305.png"
+			}
+		},
+		{
+			"name": "Squirrel",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Squirrel",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/306.png"
+			}
 		}
 	]
 
@@ -2895,7 +3172,7 @@
 	2 RR03 — Sword from the Pond
 	1 MB13 — Rankle, Trusted Borrower
 	2 RZ07 — Quandrix Illusionist
-	2 RB03 — Magic Piggies
+	2 RB03 — Little Pig
 	2 RZ02 — Duskhunter Bat
 	2 RW03 — Chef of Machines
 	2 RR01 — Whisker, the Fearless
@@ -2926,7 +3203,6 @@
 	4 UW02 — Porcelain Myr
 	4 UR07 — Heartfire Bolt
 	4 UG04 — Dualcat
-	4 UB08 — Killer Deal
 	4 UU08 — Two Weeks Suspension
 	4 UU10 — Calculate A Prophecy
 	4 UW01 — Hosting Hawk
@@ -2968,7 +3244,6 @@
 	4 UB07 — Back for Seconds
 	4 UB04 — Hell's Sous Chef
 	4 UZ23 — Nightwatch Blade
-	4 UZ06 — Mace The Exam
 	4 UZ24 — Boarish Roar
 	4 UZ25 — Plagiarism
 	4 UW07 — Oily Shimmer
@@ -3051,7 +3326,6 @@
 	8 CB10 — Delicious Apples
 	8 CG14 — Thunderous Stomp
 	8 CR06 — Micro Ecologist
-	8 CR03 — Emberheart Mouster
 	8 CR07 — Burning Oak Duo
 	8 CR11 — Uplift Animalfolk
 	8 CR13 — Rally the Squirrels
@@ -3089,8 +3363,8 @@
 	8 CL10 — Ketria Bosque
 	8 CA02 — Magic Fruit Stand
 	8 CA03 — Cabbatrice
-	8 CW15 — The Porcelain Legion
 	8 CU10 — Recursive Research
+	8 CR03 — Emberheart Mouster
 [foil(1)]
 	6 UZ27 — Reason
 	6 UZ21 — Skeptic
@@ -3110,7 +3384,6 @@
 	2 RR04 — Flavor of Autumn
 	2 RW02 — Flavor of Orthodoxy
 	2 RU04 — Chronicle
-	6 UB08 — Killer Deal
 	12 CB07 — Professor From Another Realm
 	12 CB03 — Marsh Mellow-o-Wisps
 	12 CB02 — Midnight Snacqueraider
@@ -3177,7 +3450,6 @@
 	12 CG14 — Thunderous Stomp
 	6 UG01 — Venom Meringue Pie
 	12 CR06 — Micro Ecologist
-	12 CR03 — Emberheart Mouster
 	12 CR07 — Burning Oak Duo
 	12 CR11 — Uplift Animalfolk
 	12 CR13 — Rally the Squirrels
@@ -3251,10 +3523,9 @@
 	12 CZ01 — Biblopex Caterer
 	2 RZ07 — Quandrix Illusionist
 	6 UB07 — Back for Seconds
-	2 RB03 — Magic Piggies
+	2 RB03 — Little Pig
 	6 UB04 — Hell's Sous Chef
 	6 UZ23 — Nightwatch Blade
-	6 UZ06 — Mace The Exam
 	6 UZ24 — Boarish Roar
 	6 UZ25 — Plagiarism
 	6 UW07 — Oily Shimmer
@@ -3316,8 +3587,8 @@
 	1 MZ08 — Eriette of Love's Bite
 	1 MZ09 — Quintorious, Defender of History
 	1 MZ10 - The Golden Goose
-	12 CW15 — The Porcelain Legion
 	12 CU10 — Recursive Research
+	12 CR03 — Emberheart Mouster
 [wildcard(1)]
 	15 UZ27 — Reason
 	15 UZ21 — Skeptic
@@ -3337,7 +3608,6 @@
 	7 RR04 — Flavor of Autumn
 	7 RW02 — Flavor of Orthodoxy
 	7 RU04 — Chronicle
-	15 UB08 — Killer Deal
 	6 CB07 — Professor From Another Realm
 	6 CB03 — Marsh Mellow-o-Wisps
 	6 CB02 — Midnight Snacqueraider
@@ -3404,7 +3674,6 @@
 	6 CG14 — Thunderous Stomp
 	15 UG01 — Venom Meringue Pie
 	6 CR06 — Micro Ecologist
-	6 CR03 — Emberheart Mouster
 	6 CR07 — Burning Oak Duo
 	6 CR11 — Uplift Animalfolk
 	6 CR13 — Rally the Squirrels
@@ -3478,10 +3747,9 @@
 	6 CZ01 — Biblopex Caterer
 	7 RZ07 — Quandrix Illusionist
 	15 UB07 — Back for Seconds
-	7 RB03 — Magic Piggies
+	7 RB03 — Little Pig
 	15 UB04 — Hell's Sous Chef
 	15 UZ23 — Nightwatch Blade
-	15 UZ06 — Mace The Exam
 	15 UZ24 — Boarish Roar
 	15 UZ25 — Plagiarism
 	15 UW07 — Oily Shimmer
@@ -3543,8 +3811,8 @@
 	4 MZ08 — Eriette of Love's Bite
 	4 MZ09 — Quintorious, Defender of History
 	4 MZ10 - The Golden Goose
-	6 CW15 — The Porcelain Legion
 	6 CU10 — Recursive Research
+	6 CR03 — Emberheart Mouster
 [Battle(1)]
 	8 CR16 — Ransack the Emberheart-Oven
 	8 CR15 — Scuffle of Scurry
@@ -3565,3 +3833,4 @@
 	4 UZ18 — Challenge the Court of High Chance
 	4 UZ19 — Abscond the Golden Eggs
 	4 UZ20 — Hunt in the Raugrin Shoals
+	8 CW15 — Ceremony of Faith

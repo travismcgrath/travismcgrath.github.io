@@ -41,11 +41,11 @@
             "notes": ""
         },
         {
-            "card_name": "Z \u2014 New Mechanics",
+            "card_name": "New Mechanics",
             "color": "",
             "rarity": "special",
             "type": "Token Artifact \u2014 Food",
-            "number": 2,
+            "number": 30,
             "color_identity": "C",
             "cost": "",
             "rules_text": "[/i][i][b]Conjecture[/b][/i][i] [i]([i]Cast from anywhere but your hand.)[/i]\n\n[/i][b]Help[/b][i] [i](Other players can pay for the generic mana of this spell's cost.)[/i]\n[/i]\n[b]Haggle[/b] [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]\n[b]\nIncubate Food N [/b][i](To incubate food N, Put N +1/+1 counters on target noncreature Food you control and it gains \u201c{2}: Transform this Food.\u201d It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]",
@@ -125,17 +125,17 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Phyrexian Mite"
         },
         {
-            "card_name": "Z \u2014 Golden Egg Token",
+            "card_name": "Golden Egg",
             "color": "",
             "rarity": "special",
             "type": "Token Artifact \u2014 Food",
-            "number": 1,
+            "number": 29,
             "color_identity": "C",
             "cost": "",
-            "rules_text": "When this artifact enters, draw a card.\n{1}, {T}, Sacrifice this artifact: Add one mana of any color.\n{2}, {T}, Sacrifice this artifact: You gain 3 life.",
+            "rules_text": "When this artifact enters, draw a card.\n{1}, {T}, Sacrifice this token: Add one mana of any color.\n{2}, {T}, Sacrifice this token: You gain 3 life.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -156,7 +156,7 @@
             "number": 7,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "When Devote Evangelist enters, create a Food token and three 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \u201cThis token can't block.\u201d [i](Players dealt combat damage by this creature also get a poison counter.)[/i]",
+            "rules_text": "When Devote Evangelist enters, create three 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \u201cThis token can't block.\u201d [i](Players dealt combat damage by this creature also get a poison counter.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "1/1",
             "special_text": "",
@@ -167,7 +167,7 @@
             "alias": "",
             "position": "5",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Phyrexian Mite<3>"
         },
         {
             "card_name": "UZ07 \u2014 Tenured Bondologist",
@@ -251,7 +251,7 @@
             "alias": "",
             "position": "9",
             "rotated": false,
-            "notes": "FoodMaker, GainLifeTrigger"
+            "notes": "!tokens Food\nFoodMaker, GainLifeTrigger"
         },
         {
             "card_name": "UR07 \u2014 Heartfire Bolt",
@@ -335,7 +335,7 @@
             "alias": "",
             "position": "13",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Ooze"
         },
         {
             "card_name": "UG04 \u2014 Dualcat",
@@ -356,7 +356,7 @@
             "alias": "",
             "position": "14",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Cat Beast"
         },
         {
             "card_name": "CR05 \u2014 Owl-Eyed Bowman",
@@ -419,7 +419,7 @@
             "alias": "",
             "position": "17",
             "rotated": false,
-            "notes": "FoodMaker"
+            "notes": "!tokens Food\nFoodMaker,"
         },
         {
             "card_name": "RW02 \u2014 Flavor of Orthodoxy",
@@ -440,7 +440,7 @@
             "alias": "",
             "position": "18",
             "rotated": false,
-            "notes": "FoodEater,"
+            "notes": "!tokens Food\nFoodEater, FoodMaker"
         },
         {
             "card_name": "RU04 \u2014 Chronicle",
@@ -475,14 +475,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "FOOD",
             "loyalty": "",
             "artist": "Arif Wijaya",
             "alias": "",
             "position": "20",
             "rotated": false,
-            "notes": ""
+            "notes": "!token Faerie Rogue"
         },
         {
             "card_name": "CB07 \u2014 Professor From Another Realm",
@@ -716,7 +716,7 @@
             "alias": "",
             "position": "30",
             "rotated": false,
-            "notes": "Removal"
+            "notes": "!tokens Pest\nRemoval"
         },
         {
             "card_name": "CU07 \u2014 Exponentiation Professor",
@@ -770,7 +770,7 @@
             "alias": "",
             "position": "32",
             "rotated": false,
-            "notes": "FoodMaker,FoodEater"
+            "notes": "!tokens Food\nFoodMaker,FoodEater"
         },
         {
             "card_name": "UW01 \u2014 Hosting Hawk",
@@ -885,7 +885,7 @@
             "number": 8,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "Flying\n[i]Corrupted[/i] \u2014 As long as an opponent has three or more poison counters, Sleeperagent Skymount has lifelink.\nPlainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]",
+            "rules_text": "Flying\n[i]Corrupted[/i] \u2014 As long as an opponent has three or more poison counters, Sleeperagent Skymount has first strike.\nPlainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -959,7 +959,7 @@
             "alias": "",
             "position": "41",
             "rotated": false,
-            "notes": "FoodMaker, FoodEater, Planeoverlap, Poison"
+            "notes": "!tokens Food, Autocatalytic Hare\nFoodMaker, FoodEater, Planeoverlap, Poison"
         },
         {
             "card_name": "CW04 \u2014 Celestial Crier",
@@ -980,7 +980,7 @@
             "alias": "",
             "position": "42",
             "rotated": false,
-            "notes": "FoodMaker,"
+            "notes": "!tokens Food\nFoodMaker,"
         },
         {
             "card_name": "UW03 \u2014 Charging Invader",
@@ -1039,7 +1039,7 @@
             "shape": "normal",
             "set": "FOOD",
             "loyalty": "",
-            "artist": "Anato Finnstark",
+            "artist": "Alice Boudry",
             "alias": "",
             "position": "45",
             "rotated": false,
@@ -1085,7 +1085,7 @@
             "alias": "",
             "position": "47",
             "rotated": false,
-            "notes": "FoodMaker"
+            "notes": "!tokens Food\nFoodMaker"
         },
         {
             "card_name": "CG08 \u2014 Indatha Ooze",
@@ -1106,7 +1106,7 @@
             "alias": "",
             "position": "48",
             "rotated": false,
-            "notes": "Planeoverlap, Poison"
+            "notes": "!tokens Ooze\nPlaneoverlap, Poison"
         },
         {
             "card_name": "UG10 \u2014 Nourish The Young",
@@ -1127,7 +1127,7 @@
             "alias": "",
             "position": "49",
             "rotated": false,
-            "notes": "FoodMaker, FoodEater"
+            "notes": "!tokens Food\nFoodMaker, FoodEater"
         },
         {
             "card_name": "CG04 \u2014 Webbonder",
@@ -1211,7 +1211,7 @@
             "alias": "",
             "position": "53",
             "rotated": false,
-            "notes": "FoodMaker"
+            "notes": "!tokens Food\nFoodMaker"
         },
         {
             "card_name": "CG05 \u2014 Beetle-Horned Rhino",
@@ -1232,7 +1232,7 @@
             "alias": "",
             "position": "54",
             "rotated": false,
-            "notes": ""
+            "notes": "Rework"
         },
         {
             "card_name": "CG10 \u2014 Peckish Pinekraken",
@@ -1295,7 +1295,7 @@
             "alias": "",
             "position": "57",
             "rotated": false,
-            "notes": "FoodMaker"
+            "notes": "!tokens Food\nFoodMaker,"
         },
         {
             "card_name": "CR02 \u2014 Raging Marten",
@@ -1304,10 +1304,10 @@
             "type": "Creature \u2014 Mouse Knight",
             "number": 99,
             "color_identity": "R",
-            "cost": "{1}{R}",
-            "rules_text": "Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they put a +1/+1 counter on a creature they control.)[/i]\nBattle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]\nWhen Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card.",
+            "cost": "{R}",
+            "rules_text": "Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they put a +1/+1 counter on a creature they control.)[/i]\nHaste\nWhen Raging Marten enters, if a gift was promised, it enters with a Battle Cry counter on it. [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "1/2",
             "special_text": "",
             "shape": "normal",
             "set": "FOOD",
@@ -1349,7 +1349,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "FoodMaker, PlaneOverlap"
+            "notes": "!tokens Food\nFoodMaker, PlaneOverlap"
         },
         {
             "card_name": "UR01 \u2014 Root Maze Hatcher",
@@ -1370,7 +1370,7 @@
             "alias": "",
             "position": "60",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Root Maze Hatcher"
         },
         {
             "card_name": "CR08 \u2014 Rabid Chase Wolves",
@@ -1481,11 +1481,11 @@
             "card_name": "CR14 \u2014 Wield the Seed Flame",
             "color": "R",
             "rarity": "common",
-            "type": "Sorcery",
+            "type": "Artifact \u2014 Equipment",
             "number": 111,
             "color_identity": "R",
             "cost": "{5}{R}",
-            "rules_text": "Help [i](Other players can pay up to {5} of this spell's cost.)[/i]\nWield deals 6 damage to target creature an opponent controls and 2 damage to target opponent or battle. \nYou and each player who helped pay for this spell puts a +1/+1 counter on a creature they control.",
+            "rules_text": "Help [i](Other players can pay up to {5} of this spell's cost.)[/i]\nWhen Wield the Seed Flame enters it deals 6 damage to target creature an opponent controls and 3 damage to each opponent who didn't help pay for this spell. \nEquipped creature gets +2/+1.\nEquip {1}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -1751,7 +1751,7 @@
             "alias": "",
             "position": "77",
             "rotated": false,
-            "notes": "FoodMaker, Fixing"
+            "notes": "!tokens Food\nFoodMaker, Fixing"
         },
         {
             "card_name": "CG06 \u2014 Zagoth Snapper",
@@ -1772,7 +1772,7 @@
             "alias": "",
             "position": "78",
             "rotated": false,
-            "notes": "FoodMaker\n\nRework \u2014 give landfall"
+            "notes": "!tokens Food\nFoodMaker"
         },
         {
             "card_name": "CG07 \u2014 Mandelbrot Grazer",
@@ -1955,25 +1955,25 @@
             "notes": "PlaneOverlap,"
         },
         {
-            "card_name": "CR03 \u2014 Emberheart Mouster",
+            "card_name": "Emberheart Mouster",
             "color": "R",
             "rarity": "common",
-            "type": "Creature \u2014 Mouse Bard",
-            "number": 100,
+            "type": "Token Creature \u2014 Mouse Bard",
+            "number": 13,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "Offspring\u2014sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\n{T}: Target creature gains haste until end of turn.",
+            "rules_text": "{T}: Target creature gains haste until end of turn. \n[i](This token's mana cost is {1}{R}.)[/i]",
             "flavor_text": "[i][/i]",
-            "pt": "2/2",
+            "pt": "1/1",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "FOOD",
             "loyalty": "",
             "artist": "Michelle Tolo",
             "alias": "",
             "position": "87",
             "rotated": false,
-            "notes": "FoodEater"
+            "notes": "!tokens Emberheart Mouster\nOffspringToken\nFoodEater"
         },
         {
             "card_name": "CR07 \u2014 Burning Oak Duo",
@@ -1983,7 +1983,7 @@
             "number": 104,
             "color_identity": "R",
             "cost": "{3}{R}",
-            "rules_text": "When Burning Oak Duo attacks, you may forage. If you do, it gains double strike until end of turn. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]",
+            "rules_text": "When Burning Oak Duo attacks, you may forage. If you do, create a token copy of it tapped and attacking. Sacrifice that token at the beginning of the next end step. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -1994,7 +1994,7 @@
             "alias": "",
             "position": "88",
             "rotated": false,
-            "notes": "FoodEater"
+            "notes": "FoodEater\n"
         },
         {
             "card_name": "CR11 \u2014 Uplift Animalfolk",
@@ -2004,7 +2004,7 @@
             "number": 108,
             "color_identity": "R",
             "cost": "{R}",
-            "rules_text": "Target player may surveil 2. \nPut a first strike counter on target non-Human creature you control.",
+            "rules_text": "Put a haste or first strike counter on target non-Human creature you control. \nTarget player exiles a card from the top of their library. Until the end of their next turn, they may play that card.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2120,7 +2120,7 @@
             "alias": "",
             "position": "94",
             "rotated": false,
-            "notes": "FoodMaker, FoodEater, Planeoverlap"
+            "notes": "!tokens Food\nFoodMaker, FoodEater, Planeoverlap"
         },
         {
             "card_name": "CU08 \u2014 Inspiring Lemma Beans",
@@ -2141,7 +2141,7 @@
             "alias": "",
             "position": "95",
             "rotated": false,
-            "notes": "FoodEater, FoodMaker, CardAdvantage,\nRework"
+            "notes": "!tokens Food\nFoodEater, FoodMaker, CardAdvantage,"
         },
         {
             "card_name": "CU01 \u2014 Quandrix Garden Gates",
@@ -2204,7 +2204,7 @@
             "alias": "",
             "position": "98",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Fractal"
         },
         {
             "card_name": "CU04 \u2014 Sneaky Researcher",
@@ -2246,7 +2246,7 @@
             "alias": "",
             "position": "100",
             "rotated": false,
-            "notes": "FoodEater, GainLifeTrigger"
+            "notes": "!tokens Horror Knight\nFoodEater, GainLifeTrigger"
         },
         {
             "card_name": "RL01 \u2014 The Holy Oil Spring",
@@ -2351,7 +2351,7 @@
             "alias": "",
             "position": "105",
             "rotated": false,
-            "notes": "!tokens Food\nFoodMaker, FoodEater"
+            "notes": "!tokens Food, Fractal\nFoodMaker, FoodEater"
         },
         {
             "card_name": "MW11 \u2014 Elesh Norn, Fidei Defensor",
@@ -2393,7 +2393,7 @@
             "alias": "",
             "position": "107",
             "rotated": false,
-            "notes": "FoodMaker, FoodEater"
+            "notes": "!tokens Food\nFoodMaker, FoodEater"
         },
         {
             "card_name": "MG15 \u2014 Umori, Glue Beast",
@@ -2466,10 +2466,10 @@
             "number": 174,
             "color_identity": "WU",
             "cost": "{W}{U}",
-            "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this class enters, draw a card.\n{W}{U} Level 2\nWhen this class becomes Level 2, create a Food token.\n{W}{W}{U}{U} Level 3\nTap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.\n{2}{W}{W}{U}{U} Level 4\nSpells you control have affinity for artifacts.",
+            "rules_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this class enters, draw a card.\n{W}{U} Level 2\nWhen this class becomes Level 2, create two Food tokens.\n{W}{W}{U}{U} Level 3\nTap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.\n{2}{W}{W}{U}{U} Level 4\nSpells you control have affinity for artifacts.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this class enters, draw a card.\n{W}{U} Level 2\nWhen this class becomes Level 2, create a Food token.\n{W}{W}{U}{U} Level 3\nTap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.\n{2}{W}{W}{U}{U} Level 4\nSpells you control have affinity for artifacts.",
+            "special_text": "[i](Gain the next level as a sorcery to add its ability.)[/i]\nWhen this class enters, draw a card.\n{W}{U} Level 2\nWhen this class becomes Level 2, create two Food tokens.\n{W}{W}{U}{U} Level 3\nTap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.\n{2}{W}{W}{U}{U} Level 4\nSpells you control have affinity for artifacts.",
             "shape": "class",
             "set": "FOOD",
             "loyalty": "",
@@ -2477,7 +2477,7 @@
             "alias": "",
             "position": "111",
             "rotated": false,
-            "notes": "FoodMaker"
+            "notes": "!tokens Food<2>\nFoodMaker"
         },
         {
             "card_name": "RZ03 \u2014 Blight Rabbit",
@@ -2519,7 +2519,7 @@
             "alias": "",
             "position": "113",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Phyrexian Wurm<2>"
         },
         {
             "card_name": "RZ06 \u2014 Advanced Bravery",
@@ -2540,7 +2540,7 @@
             "alias": "",
             "position": "114",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Otter"
         },
         {
             "card_name": "RZ09 \u2014 Esdragot",
@@ -2624,7 +2624,7 @@
             "alias": "",
             "position": "118",
             "rotated": false,
-            "notes": ""
+            "notes": "Rework"
         },
         {
             "card_name": "RU01 \u2014 Larine Arneza, Valedictorian",
@@ -2697,7 +2697,7 @@
             "number": 117,
             "color_identity": "R",
             "cost": "{2}{R}{R}",
-            "rules_text": "Other players can't gain life.\nAt the beginning of each end step, if an opponent has lost 6 or more life, create a red 1/1 Lizard Elemental creature token with \u201cWhen this creature dies, it deals 1 damage to target player.\u201d",
+            "rules_text": "Other players can't gain life.\nAt the beginning of each end step, if an opponent has lost 6 or more life, create a red 1/1 Lizard Elemental creature token with \u201cWhen this token dies, it deals 1 damage to target player.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "5/4",
             "special_text": "",
@@ -2783,7 +2783,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "FoodMaker"
+            "notes": "!tokens Food\nFoodMaker"
         },
         {
             "card_name": "UZ01 \u2014 Bibliochef",
@@ -2804,7 +2804,7 @@
             "alias": "",
             "position": "126",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Food\nFoodMaker"
         },
         {
             "card_name": "UR03 \u2014 Riverbank Paladin",
@@ -2835,7 +2835,7 @@
             "number": 118,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "When Sword from the Pond enters, create a 1/1 red Mouse creature token, then attach this to it.\nEquipped creature gets +2/+1.\nWhenever equipped creature attacks with at least two other creatures, draw a card.\nEquip {1}{R}",
+            "rules_text": "When Sword from the Pond enters, create a 1/1 red Mouse Knight creature token, then attach this to it.\nEquipped creature gets +2/+1.\nWhenever equipped creature attacks with at least two other creatures, draw a card.\nEquip {1}{R}",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -2846,7 +2846,7 @@
             "alias": "",
             "position": "128",
             "rotated": false,
-            "notes": ""
+            "notes": "!rokens Mouse Knight"
         },
         {
             "card_name": "UR06 \u2014 Calamity Ember Owl",
@@ -2963,7 +2963,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Food"
         },
         {
             "card_name": "UZ03 \u2014 Soul Rodent",
@@ -3309,7 +3309,7 @@
             "number": 32,
             "color_identity": "W",
             "cost": "{4}{W}{W}",
-            "rules_text": "Put a +1/+1 counter on each creature you control. Creatures you control gain vigilance and lifelink until end of turn.\n[i]Corrupted[/i] \u2014 If an opponent has three or more poison counters, proliferate.",
+            "rules_text": "Put a +1/+1 counter on each creature you control. Creatures you control gain vigilance and first strike until end of turn.\n[i]Corrupted[/i] \u2014 If an opponent has three or more poison counters, proliferate.",
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
@@ -3383,7 +3383,7 @@
             "alias": "",
             "position": "153",
             "rotated": false,
-            "notes": "Removal, FoodMaker"
+            "notes": "!tokens Food\nFoodMaker, Removal"
         },
         {
             "card_name": "UR08 \u2014 Return the Flavor",
@@ -3488,7 +3488,7 @@
             "alias": "",
             "position": "158",
             "rotated": false,
-            "notes": "FoodEater,ConjecturePayoff,"
+            "notes": "!tokens Food\nFoodEater,ConjecturePayoff,"
         },
         {
             "card_name": "RZ07 \u2014 Quandrix Illusionist",
@@ -3509,7 +3509,7 @@
             "alias": "",
             "position": "159",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Fractal<2>"
         },
         {
             "card_name": "UB07 \u2014 Back for Seconds",
@@ -3533,7 +3533,7 @@
             "notes": ""
         },
         {
-            "card_name": "RB03 \u2014 Magic Piggies",
+            "card_name": "RB03 \u2014 Little Pig",
             "color": "B",
             "rarity": "rare",
             "type": "Enchantment Creature \u2014 Boar Coward",
@@ -3551,7 +3551,7 @@
             "alias": "",
             "position": "161",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Boar Citizen"
         },
         {
             "card_name": "UB04 \u2014 Hell's Sous Chef",
@@ -3584,7 +3584,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "FoodMaker, FoodEater"
+            "notes": "!tokens Food\nFoodMaker, FoodEater"
         },
         {
             "card_name": "UZ23 \u2014 Nightwatch Blade",
@@ -3619,14 +3619,14 @@
             "flavor_text": "[i][/i]",
             "pt": "",
             "special_text": "",
-            "shape": "normal",
+            "shape": "token",
             "set": "FOOD",
             "loyalty": "",
             "artist": "Queco",
             "alias": "",
             "position": "164",
             "rotated": false,
-            "notes": ""
+            "notes": "!token Frog"
         },
         {
             "card_name": "UZ24 \u2014 Boarish Roar",
@@ -3857,7 +3857,7 @@
             "alias": "",
             "position": "175",
             "rotated": false,
-            "notes": "!tapped"
+            "notes": "!tapped\n!tokens Food\nFoodMaker"
         },
         {
             "card_name": "CL07 \u2014 Bilbelopex",
@@ -3878,7 +3878,7 @@
             "alias": "",
             "position": "176",
             "rotated": false,
-            "notes": "!tapped"
+            "notes": "!tapped\n!tokens Food\nFoodMaker"
         },
         {
             "card_name": "CL08 \u2014 Witches Hut",
@@ -3899,7 +3899,7 @@
             "alias": "",
             "position": "177",
             "rotated": false,
-            "notes": "!tapped"
+            "notes": "!tapped\n!tokens Food\nFoodMaker"
         },
         {
             "card_name": "CL09 \u2014 Oystershroom Lodge",
@@ -3920,7 +3920,7 @@
             "alias": "",
             "position": "178",
             "rotated": false,
-            "notes": "!tapped"
+            "notes": "!tapped\n!tokens Food\nFoodMaker"
         },
         {
             "card_name": "CL10 \u2014 Ketria Bosque",
@@ -3941,7 +3941,7 @@
             "alias": "",
             "position": "179",
             "rotated": false,
-            "notes": "!tapped"
+            "notes": "!tapped\n!tokens Food\nFoodMaker"
         },
         {
             "card_name": "UG09 \u2014 Snap Up",
@@ -4067,7 +4067,7 @@
             "alias": "",
             "position": "185",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Food\nFoodMaker"
         },
         {
             "card_name": "UA03 \u2014 Triple Berry Patrol",
@@ -4118,8 +4118,8 @@
             "type": "Artifact Creature \u2014 Food Golem",
             "number": 231,
             "color_identity": "C",
-            "cost": "{7}",
-            "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nPrevent all combat damage that would be dealt to this creature.\n{2}, {T}, Sacrifice this creature: You gain 3 life.",
+            "cost": "{8}",
+            "rules_text": "Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]\nProtection from creatures [i](This creature can't be blocked, targeted or dealt damage by creatures.)[/i]",
             "flavor_text": "[i][/i]",
             "pt": "3/3",
             "special_text": "",
@@ -4193,7 +4193,7 @@
             "alias": "",
             "position": "191",
             "rotated": false,
-            "notes": ""
+            "notes": "Rework"
         },
         {
             "card_name": "RR01 \u2014 Whisker, the Fearless",
@@ -4235,7 +4235,7 @@
             "alias": "",
             "position": "193",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Agate Instigator"
         },
         {
             "card_name": "RU03 \u2014 Cosmophysicist",
@@ -4245,7 +4245,7 @@
             "number": 52,
             "color_identity": "U",
             "cost": "{3}{U}{U}",
-            "rules_text": "Ward\u2014 Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player chooses and stuns an untapped creature they control.)[/i]\nFlying\nWhen Cosmophysicist attacks, draw a card.",
+            "rules_text": "Ward\u2014 Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Stun a creature.)[/i]\nFlying\nWhen Cosmophysicist attacks, draw a card.",
             "flavor_text": "[i][/i]",
             "pt": "5/5",
             "special_text": "",
@@ -4361,7 +4361,7 @@
             "alias": "",
             "position": "199",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Gingerbrute"
         },
         {
             "card_name": "UR09 \u2014 Slay The Beast",
@@ -4436,7 +4436,7 @@
             "alias": "",
             "position": "202",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Phyrexian Mite"
         },
         {
             "card_name": "RU05 \u2014 Isometric Transformation",
@@ -4457,7 +4457,7 @@
             "alias": "",
             "position": "203",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Fractal"
         },
         {
             "card_name": "RR05 \u2014 Topple The Tall",
@@ -4541,7 +4541,7 @@
             "alias": "",
             "position": "207",
             "rotated": false,
-            "notes": "CardAdvantage, PoliticsCard"
+            "notes": "!tokens Royal Role\nCardAdvantage, PoliticsCard"
         },
         {
             "card_name": "UW08 \u2014 Uncork",
@@ -4562,7 +4562,7 @@
             "alias": "",
             "position": "208",
             "rotated": false,
-            "notes": "FoodMaker, Removal\n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal > U"
+            "notes": "!tokens Food\nFoodMaker, Removal\n\nW > Humans > GU\nU > Faerie/Rogue > RB\nB > Knights > RBW\nR > Beasts > G\nG > Fractal > U"
         },
         {
             "card_name": "UZ08 \u2014 The Girl Who Cried Ouphe",
@@ -4572,10 +4572,10 @@
             "number": 190,
             "color_identity": "BR",
             "cost": "{B}{R}",
-            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2014 Choose a creature type, then create a black 1/1 Human Rogue creature token.\nII, III \u2014 Discard a card then draw a card.\nIV \u2014 Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.",
+            "rules_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2014 Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.\nII, III \u2014 Discard a card then draw a card.\nIV \u2014 Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.",
             "flavor_text": "[i]\u200b[/i]",
             "pt": "",
-            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2014 Choose a creature type, then create a black 1/1 Human Rogue creature token.\nII, III \u2014 Discard a card then draw a card.\nIV \u2014 Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.",
+            "special_text": "[i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]\nI \u2014 Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.\nII, III \u2014 Discard a card then draw a card.\nIV \u2014 Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.",
             "shape": "saga",
             "set": "FOOD",
             "loyalty": "",
@@ -4583,7 +4583,7 @@
             "alias": "",
             "position": "209",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Human Rogue"
         },
         {
             "card_name": "UZ26 \u2014 Safety in Numbers",
@@ -4625,7 +4625,7 @@
             "alias": "",
             "position": "211",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Phyrexian Mite"
         },
         {
             "card_name": "UW06 \u2014 Phyrexian Health Inspector",
@@ -4635,7 +4635,7 @@
             "number": 28,
             "color_identity": "W",
             "cost": "{4}{W}",
-            "rules_text": "Reach\nWhen Phyrexian Health Inspector, create two Food tokens.\nFood you control have \u201c{2}, Sacrifice this Food: Draw a card.\u201d",
+            "rules_text": "Reach\nWhen Phyrexian Health Inspector, create one Food tokens.\nFood you control have \u201c{2}, Sacrifice this Food: Draw a card.\u201d",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -4646,7 +4646,7 @@
             "alias": "",
             "position": "212",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Food"
         },
         {
             "card_name": "UZ28 \u2014 Feed the Throng",
@@ -4667,7 +4667,7 @@
             "alias": "",
             "position": "213",
             "rotated": false,
-            "notes": ""
+            "notes": "!tokens Rat"
         },
         {
             "card_name": "RG02 \u2014 Drannith Beast Hunter",
@@ -4698,7 +4698,7 @@
             "number": 113,
             "color_identity": "R",
             "cost": "{1}{R}{R}",
-            "rules_text": "[i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then this Battle deals 1 damage to each other player.",
+            "rules_text": "[i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then this Battle deals 2 damage to each other player.",
             "flavor_text": "[i][/i]",
             "pt": "3",
             "special_text": "",
@@ -4721,7 +4721,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\nFoodMaker\nFoodMaker"
+            "notes": "!Battle\n!tokens Food\nFoodMaker, \nFoodMaker"
         },
         {
             "card_name": "RL03 \u2014 The Dusk Woods",
@@ -4754,7 +4754,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "AddFlavorText\nAddFlavorText"
+            "notes": "!tokens Faerie Rogue\nAddFlavorText\n!tokens Faerie Rogue\nAddFlavorText"
         },
         {
             "card_name": "MZ02 \u2014 Ms. Bumbleflower, Generous Hare",
@@ -4787,7 +4787,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "FoodEater, DifferentPlane\nFoodEater, FoodMaker, DifferentPlane"
+            "notes": "!tokens Food\nFoodMaker, \nFoodEater, FoodMaker, DifferentPlane"
         },
         {
             "card_name": "MZ03 \u2014 Gyruda, Oscilating Wave",
@@ -4853,7 +4853,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "DifferentPlane\nDifferentPlane"
+            "notes": "!tokens Phyrexian Mite\n\nDifferentPlane\n\nDifferentPlane"
         },
         {
             "card_name": "MZ04 \u2014 Cruelclaw, Leader of the Red Scarves",
@@ -4877,7 +4877,7 @@
             "color2": "RG",
             "type2": "Legendary Creature \u2014 Squirrel Druid",
             "cost2": "{1}{R}{G}",
-            "rules_text2": "Whenever one or more non-Squirrel token enters under your control, create a 1/1 green squirrel token. \nTap four untapped Squirrels you control: Draw a card and deal 1 damage to each opponent.",
+            "rules_text2": "Whenever one or more non-Squirrel token enters under your control, create a 1/1 green Squirrel token. \nTap four untapped Squirrels you control: Draw a card and deal 1 damage to each opponent.",
             "flavor_text2": "[i][/i]",
             "pt2": "1/3",
             "special_text2": "",
@@ -4886,7 +4886,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "SamePlane\nSamePlane"
+            "notes": "SamePlane\n!tokens Squirrel\nSamePlane\nRework"
         },
         {
             "card_name": "MZ05 \u2014 Kaheera, Monster Paragon",
@@ -4919,7 +4919,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "SamePlane\nFoodMaker, FoodEater\nSamePlane\nFoodMaker, FoodEater"
+            "notes": "SamePlane\nFoodMaker, FoodEater\n!tokens Food\nFoodMaker, FoodEater"
         },
         {
             "card_name": "MZ06 \u2014 Urabrask, Rebel Praetor",
@@ -4952,7 +4952,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "Phy-PhySamePlane\nPhy-PhySamePlane"
+            "notes": "!tokens Urabrask Mouse Knight\nPhy-PhySamePlane\nPhy-PhySamePlane"
         },
         {
             "card_name": "MZ07 \u2014 Quandrix, Resonance Maestro",
@@ -5018,7 +5018,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "SamePlane\nFoodMaker, FoodEater\nSamePlane\nFoodMaker, FoodEater"
+            "notes": "SamePlane\nFoodMaker, FoodEater\n!tokens Food\nFoodMaker, FoodEater"
         },
         {
             "card_name": "MZ09 \u2014 Quintorious, Defender of History",
@@ -5028,7 +5028,7 @@
             "number": 172,
             "color_identity": "WUR",
             "cost": "{2}{R}{W}",
-            "rules_text": "Lifelink\nCreature tokens you control have vigilance.\nWhenever you gain life, you may sacrifice a 1/1 creature. If you do, create a red and white 4/4 elephant spirit token.",
+            "rules_text": "Lifelink\nCreature tokens you control have vigilance.\nWhenever you gain life, you may sacrifice a 1/1 creature. If you do, create a red and white 4/4 Elephant Spirit token.",
             "flavor_text": "[i][/i]",
             "pt": "4/4",
             "special_text": "",
@@ -5051,7 +5051,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "DifferentPlane, GainLifeTrigger\nDifferentPlane, GainLifeTrigger"
+            "notes": "!tokens Elephant Spirit\nDifferentPlane, GainLifeTrigger\n!tokens Food\nFoodMaker, GainLifeTrigger"
         },
         {
             "card_name": "MZ10 - The Golden Goose",
@@ -5084,7 +5084,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": false,
-            "notes": "DifferentPlane\nFoodMaker, FoodEater\nDifferentPlane\nFoodMaker, FoodEater"
+            "notes": "!tokens Golden Egg\nDifferentPlane\nFoodMaker, FoodEater\n!tokens Food\nDifferentPlane\nFoodMaker, FoodEater"
         },
         {
             "card_name": "CR15 \u2014 Scuffle of Scurry",
@@ -5094,7 +5094,7 @@
             "number": 112,
             "color_identity": "R",
             "cost": "{1}{R}",
-            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]\nWhen this Trial enters, you may forage. If you do,it deals 3 damage to target player or battle. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]\nFood you control have \u201c{1}, {T}: Discard a card, Sacrifice this token: Draw a card\u201d",
+            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]\nWhen this Trial enters,create a Food token then it deals 3 damage to target player or another target battle.\nFood you control have \u201c{1}, {T}, Sacrifice this token: Discard a card then draw a card,\u201d",
             "flavor_text": "[i][/i]",
             "pt": "4",
             "special_text": "",
@@ -5117,7 +5117,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\n"
+            "notes": "!Battle\nFoodMaker\n"
         },
         {
             "card_name": "CB15 \u2014 Trial of Guile",
@@ -5127,7 +5127,7 @@
             "number": 80,
             "color_identity": "B",
             "cost": "{1}{B}",
-            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]\nWhen this Trial enters, each opponent discards a card.\nFood tokens you control have \u201c{1}, {T}, Goad target creature.\u201d Activate only as a sorcery.",
+            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]\nWhen this Trial enters, create a Food token then each opponent discards a card.\nFood tokens you control have \u201c{1}, {T}, sacrifice this token: Goad target creature.\u201d Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "4",
             "special_text": "",
@@ -5141,7 +5141,7 @@
             "color2": "B",
             "type2": "Battle \u2014 Alliance",
             "cost2": "",
-            "rules_text2": "[i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]\nWhenever a nontoken creature not controlled by you or the owner of this battle dies, you and the owner of this battle each create a Food token.",
+            "rules_text2": "[i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]\nWhenever a nontoken creature not controlled by you or the owner of this battle dies, you and the owner of this battle each create a Food token. This ability triggers only once each turn.",
             "flavor_text2": "[i][/i]",
             "pt2": "4",
             "special_text2": "",
@@ -5150,7 +5150,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\nFoodMaker\n\nFoodMaker\nRework"
+            "notes": "!Battle\n!tokens Food\nFoodMaker\n!tokens Food\nFoodMaker\nRework"
         },
         {
             "card_name": "CB16 \u2014 Ransack the Faerie Garden",
@@ -5183,7 +5183,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\nFoodMaker\n\n\nFT:\"The louder they scream, the harder he laughs.\"\nFoodMaker\n\n\nFT:\"The louder they scream, the harder he laughs.\""
+            "notes": "!Battle\n!tokens Food\nFoodMaker, \n\n\nFT:\"The louder they scream, the harder he laughs.\"\n!tokens Faerie Rogue\nFoodMaker\n\n\nFT:\"The louder they scream, the harder he laughs.\""
         },
         {
             "card_name": "CG15 \u2014 Fight of Might",
@@ -5193,7 +5193,7 @@
             "number": 145,
             "color_identity": "G",
             "cost": "{2}{G}",
-            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]\nWhen this Trial enters, search your library for a basic land card. Put it onto the battlefield tapped, then shuffle.\nFood tokens you control have \u201c{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature.\u201d Activate only as a sorcery.",
+            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]\nWhen this Trial enters, create a Food token then, search your library for a basic land card. Put it onto the battlefield tapped, then shuffle.\nFood tokens you control have \u201c{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature.\u201d Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "4",
             "special_text": "",
@@ -5216,7 +5216,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\nRamp\nRamp"
+            "notes": "!Battle\n!tokens Food\nFoodMaker\nRamp\nRamp"
         },
         {
             "card_name": "CG16 \u2014 Ransack the Ketria Gemgrove",
@@ -5226,7 +5226,7 @@
             "number": 146,
             "color_identity": "G",
             "cost": "{1}{G}{G}",
-            "rules_text": "[i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then you may put a land card from your graveyard onto the battlefield tapped.",
+            "rules_text": "[i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then you may put a land card from your hand or graveyard onto the battlefield tapped.",
             "flavor_text": "[i][/i]",
             "pt": "3",
             "special_text": "",
@@ -5249,28 +5249,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\nFoodMaker\nFoodMaker"
-        },
-        {
-            "card_name": "CW15 \u2014 The Porcelain Legion",
-            "color": "W",
-            "rarity": "common",
-            "type": "Battle \u2014 Alliance",
-            "number": 15,
-            "color_identity": "W",
-            "cost": "",
-            "rules_text": "[i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]\nWhenever you or the owner of this battle gains life for the first time each turn, they create a 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \u201cThis token can't block. [i](Players dealt combat damage by that creature also get a poison counter.)[/i]",
-            "flavor_text": "[i][/i]",
-            "pt": "4",
-            "special_text": "",
-            "shape": "battle",
-            "set": "FOOD",
-            "loyalty": "",
-            "artist": "Nicol\u00e1s Arce",
-            "alias": "",
-            "position": "249",
-            "rotated": true,
-            "notes": ""
+            "notes": "!Battle\n!tokens Food\nFoodMaker, \nFoodMaker"
         },
         {
             "card_name": "CW16 \u2014 Ransack the Fifth Sphere",
@@ -5303,7 +5282,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\nRansack, FoodMaker\nRansack, FoodMaker"
+            "notes": "!Battle\n!tokens Food\nFoodMaker, \nRansack, FoodMaker"
         },
         {
             "card_name": "CU15 \u2014 Test of Intellect",
@@ -5313,7 +5292,7 @@
             "number": 47,
             "color_identity": "U",
             "cost": "{2}{U}",
-            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]\nWhen this Trial enters, draw two cards.\nFood tokens you control have \u201c{1}, {T}, Sacrifice this token: Target creature gains flying until end of turn.\u201d Activate only as a sorcery.",
+            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]\nWhen this Trial enters, create a Food token then draw two cards.\nFood tokens you control have \u201c{1}, {T}, Sacrifice this token: Target creature gains flying until end of turn.\u201d Activate only as a sorcery.",
             "flavor_text": "[i][/i]",
             "pt": "4",
             "special_text": "",
@@ -5336,7 +5315,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\n"
+            "notes": "!Battle\nFoodMaker\n"
         },
         {
             "card_name": "CU16 \u2014 Ransack the Library",
@@ -5369,7 +5348,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\nRansack, FoodMaker\nRansack, FoodMaker"
+            "notes": "!Battle\n!tokens Food\nFoodMaker, \nRansack, FoodMaker"
         },
         {
             "card_name": "UZ11 \u2014 Syphon the Infinity Fountain",
@@ -5402,7 +5381,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\n"
+            "notes": "!Battle\n!tokens Food\nFoodMaker"
         },
         {
             "card_name": "UZ12 \u2014 Polemics of Apostasy",
@@ -5449,7 +5428,7 @@
             "flavor_text": "[i][/i]",
             "pt": "4",
             "special_text": "",
-            "shape": "transform double faced",
+            "shape": "token",
             "set": "FOOD",
             "loyalty": "5",
             "artist": "Jerome Jacinto",
@@ -5468,7 +5447,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\n"
+            "notes": "!Battle\n!token Mouse Knight<2>\n"
         },
         {
             "card_name": "UZ14 \u2014 Traverse the Hunter Maze",
@@ -5548,7 +5527,7 @@
             "flavor_text": "[i][/i]",
             "pt": "6",
             "special_text": "",
-            "shape": "transform double faced",
+            "shape": "token",
             "set": "FOOD",
             "loyalty": "6",
             "artist": "Yuri Cameirana",
@@ -5567,7 +5546,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\n"
+            "notes": "!Battle\n!token Elemental\n"
         },
         {
             "card_name": "UZ17 \u2014 Traverse The Ketria Great Tree",
@@ -5577,7 +5556,7 @@
             "number": 199,
             "color_identity": "UG",
             "cost": "{3}{G}{U}",
-            "rules_text": "[i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhen this Siege enters, create a 3/3 green Beast Fractal creature token.\nWhenever one or more creature attacks you or a battle you own, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.",
+            "rules_text": "[i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]\nWhen this Siege enters, create a 3/3 blue and green Beast Fractal creature token.\nWhenever one or more creature attacks you or a battle you own, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.",
             "flavor_text": "[i][/i]",
             "pt": "6",
             "special_text": "",
@@ -5600,7 +5579,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\n"
+            "notes": "!Battle\n!tokens Beast Fractal\n!tokens Food\nFoodMaker"
         },
         {
             "card_name": "UZ18 \u2014 Challenge the Court of High Chance",
@@ -5666,7 +5645,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\n"
+            "notes": "!Battle\n!tokens Faerie Rogue\n!tokens Golden Egg"
         },
         {
             "card_name": "UZ20 \u2014 Hunt in the Raugrin Shoals",
@@ -5699,7 +5678,7 @@
             "alias2": "",
             "rules_text3": "",
             "rotated": true,
-            "notes": "!Battle\n"
+            "notes": "!Battle\n!tokens Fish"
         },
         {
             "card_name": "CU10 \u2014 Recursive Research",
@@ -5721,6 +5700,648 @@
             "position": "276",
             "rotated": false,
             "notes": "ConjectureEnabler, ConjecturePayoff, CardAdvantage,"
+        },
+        {
+            "card_name": "CW15 \u2014 Ceremony of Faith",
+            "color": "W",
+            "rarity": "common",
+            "type": "Battle \u2014 Trial",
+            "number": 15,
+            "color_identity": "W",
+            "cost": "{1}{W}",
+            "rules_text": "[i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]\nWhen this Trial enters,create a Food token then scry 2.\nFood tokens you control have \u201c{2}, {T}, Sacrifice this token: Target player gets a poison counter.\u201d Activate only as a sorcery.",
+            "flavor_text": "[i][/i]",
+            "pt": "4",
+            "special_text": "",
+            "shape": "transform double faced",
+            "set": "FOOD",
+            "loyalty": "4",
+            "artist": "Bryan Bitter",
+            "alias": "",
+            "position": "277",
+            "card_name2": "CW15 \u2014 The Porcelain Legion",
+            "color2": "W",
+            "type2": "Battle \u2014 Alliance",
+            "cost2": "",
+            "rules_text2": "[i](Any opponent may attack this battle. You or its owner may protect it. When it's defeated, exile it.)[/i]\nWhenever you or the owner of this battle gains life for the first time each turn, they create a 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and \u201cThis token can't block. [i](Players dealt combat damage by that creature also get a poison counter.)[/i]",
+            "flavor_text2": "[i][/i]",
+            "pt2": "4",
+            "special_text2": "",
+            "loyalty2": "",
+            "artist2": "Nicol\u00e1s Arce",
+            "alias2": "",
+            "rules_text3": "",
+            "rotated": true,
+            "notes": "!Battle\n!tokens Food\nFoodMaker\n!tokens Phyrexian Mite"
+        },
+        {
+            "card_name": "Food",
+            "color": "",
+            "rarity": "special",
+            "type": "Token Artifact \u2014 Food",
+            "number": 27,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{2}, {T}, Sacrifice this token: You gain 3 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "Samantha Stahlke",
+            "alias": "",
+            "position": "278",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Faerie Rogue",
+            "color": "B",
+            "rarity": "special",
+            "type": "Token Creature \u2014 Faerie Rogue",
+            "number": 9,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "Flying",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "Benjamin Hill",
+            "alias": "",
+            "position": "279",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Fish",
+            "color": "U",
+            "rarity": "uncommon",
+            "type": "Token Creature \u2014 Fish",
+            "number": 5,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "Ingram Schell",
+            "alias": "",
+            "position": "280",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Fractal Beast",
+            "color": "UG",
+            "rarity": "special",
+            "type": "Token Creature \u2014 Fractal Beast",
+            "number": 22,
+            "color_identity": "UG",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "Aldo Dom\u00ednguez",
+            "alias": "",
+            "position": "281",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Phyrexian Mite",
+            "color": "",
+            "rarity": "special",
+            "type": "Token Creature \u2014 Fractal Beast",
+            "number": 1,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]\nThis creature can't block.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "282",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Mouse Knight",
+            "color": "R",
+            "rarity": "special",
+            "type": "Token Creature",
+            "number": 23,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "Mathieu Clochard",
+            "alias": "",
+            "position": "283",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Autocatalytic Hare",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Phyrexian Rabbit",
+            "number": 3,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "Toxic 2 [i](Players dealt combat damage by this creature also get two poison counters.)[/i]\nWhen Autocatalytic Hare enters, create a Food token.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "Marin Mohan",
+            "alias": "",
+            "position": "284",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Horror Knight",
+            "color": "W",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Horror Knight",
+            "number": 4,
+            "color_identity": "W",
+            "cost": "",
+            "rules_text": "Vigilance",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "285",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Fractal",
+            "color": "UG",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Fractal",
+            "number": 21,
+            "color_identity": "UG",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "0/0",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "286",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Pest",
+            "color": "BG",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Pest",
+            "number": 25,
+            "color_identity": "BG",
+            "cost": "",
+            "rules_text": "When this token dies, you gain 1 life.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "287",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Boar Citizen",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Boar Citizen",
+            "number": 7,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "When this creature dies, create a 6/6 black Boar Warrior creature token with an Indestructible counter and a Defender counter on it and \u201cWhenever this creature is dealt damage, it deals that much damage to target opponent.\u201d",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "288",
+            "rotated": false,
+            "notes": "!tokens Boar Warrior"
+        },
+        {
+            "card_name": "Boar Warrior",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Board Warriror",
+            "number": 8,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "This token enters with an Indestructible and a Defender counter on it.\nWhenever this creature is dealt damage, it deals that much damage to target opponent.",
+            "flavor_text": "[i][/i]",
+            "pt": "6/6",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "289",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Gingerbrute",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Food Golem",
+            "number": 28,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "{1}: This creature can't be blocked this turn except by creatures with haste.\n{2}{T}, Sacrifice this token: You gain 3 life.",
+            "flavor_text": "[i]Sometimes, \u201cas fast as you can\u201d isn't quite fast enough.[/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "290",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Royal Role",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Enchantment \u2014 Aura Role",
+            "number": 2,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "Enchant creature\nEnchanted creature gets +1/+1 and has ward {1}. [i](Whenever this enchantment becomes the target of a spell or ability an opponent controls, counter it unless that player pays {1}.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "291",
+            "rotated": false,
+            "notes": "token"
+        },
+        {
+            "card_name": "CR03 \u2014 Emberheart Mouster",
+            "color": "R",
+            "rarity": "common",
+            "type": "Creature \u2014 Mouse Bard",
+            "number": 100,
+            "color_identity": "R",
+            "cost": "{1}{R}",
+            "rules_text": "Offspring\u2014sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]\n{T}: Target creature gains haste until end of turn.",
+            "flavor_text": "[i][/i]",
+            "pt": "2/2",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "Michelle Tolo",
+            "alias": "",
+            "position": "292",
+            "rotated": false,
+            "notes": "!tokens Emberheart Mouster\nFoodEater"
+        },
+        {
+            "card_name": "Lizard Elemental",
+            "color": "R",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Lizard Elemental",
+            "number": 14,
+            "color_identity": "R",
+            "cost": "",
+            "rules_text": "When this token dies, it deals 1 damage to target player.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "293",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Root Maze Hatcher",
+            "color": "R",
+            "rarity": "uncommon",
+            "type": "Token Creature \u2014 Racoon Rogue",
+            "number": 15,
+            "color_identity": "R",
+            "cost": "{1}{R}",
+            "rules_text": "Myriad\n[i](This token's mana value is {1}{R}.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "3/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "Candice Broersma",
+            "alias": "",
+            "position": "294",
+            "rotated": false,
+            "notes": "!tokens Root Maze Hatcher"
+        },
+        {
+            "card_name": "Agate Instigator",
+            "color": "R",
+            "rarity": "uncommon",
+            "type": "Token Creature \u2014 Lizard Rogue",
+            "number": 12,
+            "color_identity": "R",
+            "cost": "{1}{R}",
+            "rules_text": "Whenever another creature you control enters, this creature deals 1 damage to each opponent.\n[i](This token's mana value is {1}{R}.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "3/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "Quintin Gleim",
+            "alias": "",
+            "position": "295",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Ooze",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Ooze",
+            "number": 17,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]",
+            "flavor_text": "[i][/i]",
+            "pt": "3/3",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "296",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Cat Beast",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Cat Beast",
+            "number": 16,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "4/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "297",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Urabrask Mouse Knight",
+            "color": "WR",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Mouse Knight",
+            "number": 26,
+            "color_identity": "WR",
+            "cost": "",
+            "rules_text": "Trample\nHaste",
+            "flavor_text": "[i][/i]",
+            "pt": "X/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "298",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Elephant Spirit",
+            "color": "WR",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Elephant Spirit",
+            "number": 20,
+            "color_identity": "WR",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "4/4",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "299",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Phyrexian Wurm",
+            "color": "",
+            "rarity": "common",
+            "type": "Token Artifact Creature \u2014 Phyrexian Wurm",
+            "number": 31,
+            "color_identity": "C",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "X/X",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "300",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Frog",
+            "color": "U",
+            "rarity": "uncommon",
+            "type": "Token Creature \u2014 Frog",
+            "number": 6,
+            "color_identity": "U",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "301",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Otter",
+            "color": "UR",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Otter",
+            "number": 24,
+            "color_identity": "UR",
+            "cost": "",
+            "rules_text": "Prowess",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "302",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Elemental",
+            "color": "UR",
+            "rarity": "uncommon",
+            "type": "Token Creature \u2014 Elemental",
+            "number": 19,
+            "color_identity": "UR",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "4/4",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "303",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Human Rogue",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Human Rogue",
+            "number": 10,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "Menace",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "304",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Rat",
+            "color": "B",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Rat",
+            "number": 11,
+            "color_identity": "B",
+            "cost": "",
+            "rules_text": "This token can't block.",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "305",
+            "rotated": false,
+            "notes": ""
+        },
+        {
+            "card_name": "Squirrel",
+            "color": "G",
+            "rarity": "common",
+            "type": "Token Creature \u2014 Squirrel",
+            "number": 18,
+            "color_identity": "G",
+            "cost": "",
+            "rules_text": "",
+            "flavor_text": "[i][/i]",
+            "pt": "1/1",
+            "special_text": "",
+            "shape": "token",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "",
+            "alias": "",
+            "position": "306",
+            "rotated": false,
+            "notes": ""
         }
     ]
 }

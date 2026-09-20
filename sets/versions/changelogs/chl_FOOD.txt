@@ -1,4 +1,402 @@
-﻿VERSION 25 CHANGELOG
+﻿VERSION 27 CHANGELOG
+====================
+
+New Mechanics added.
+Golden Egg added.
+Emberheart Mouster added.
+RB03 — Little Pig added.
+Food added.
+Faerie Rogue added.
+Fish added.
+Fractal Beast added.
+Phyrexian Mite added.
+Mouse Knight added.
+Autocatalytic Hare added.
+Horror Knight added.
+Fractal added.
+Pest added.
+Boar Citizen added.
+Boar Warrior added.
+Gingerbrute added.
+Royal Role added.
+Lizard Elemental added.
+Root Maze Hatcher added.
+Agate Instigator added.
+Ooze added.
+Cat Beast added.
+Urabrask Mouse Knight added.
+Elephant Spirit added.
+Phyrexian Wurm added.
+Frog added.
+Otter added.
+Elemental added.
+Human Rogue added.
+Rat added.
+Squirrel added.
+
+Z — New Mechanics removed.
+Z — Golden Egg Token removed.
+RB03 — Magic Piggies removed.
+
+RW05 — Blood
+
+CW07 — Devote Evangelist
+
+UW02 — Porcelain Myr
+
+RG04 — Biomewide Migration
+
+UG04 — Dualcat
+
+RW02 — Flavor of Orthodoxy
+
+UB08 — Killer Deal
+
+CU09 — Missing Ingredient
+
+CU05 — Professor of Culinary Arts
+
+CW08 — Sleeperagent Skymount
+rules_text: Flying
+[i]Corrupted[/i] — As long as an opponent has three or more poison counters, Sleeperagent Skymount has lifelink.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+[i]Corrupted[/i] — As long as an opponent has three or more poison counters, Sleeperagent Skymount has first strike.
+Plainscycling {2} [i]({2}, Discard this card: Search your library for a Plains card, reveal it, put it into your hand, then shuffle.)[/i]
+
+CW03 — Autocatalytic Hare
+
+CW04 — Celestial Crier
+
+UG03 — Drannith Mess Sergeant
+
+CG08 — Indatha Ooze
+
+CG03 — Symbiotic Shaman
+
+CR02 — Raging Marten
+cost: {1}{R} => {R}
+rules_text: Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they put a +1/+1 counter on a creature they control.)[/i]
+Battle Cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+When Raging Marten enters, if a gift was promised, exile a card from the top of your library. Until the end of your next turn, you may play that card. => Gift a Food [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they put a +1/+1 counter on a creature they control.)[/i]
+Haste
+When Raging Marten enters, if a gift was promised, it enters with a Battle Cry counter on it. [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+pt: 2/2 => 1/2
+
+CR01 — Pilfering Vole
+
+UR01 — Root Maze Hatcher
+
+CR14 — Wield the Seed Flame
+type: Sorcery => Artifact — Equipment
+rules_text: Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+Wield deals 6 damage to target creature an opponent controls and 2 damage to target opponent or battle. 
+You and each player who helped pay for this spell puts a +1/+1 counter on a creature they control. => Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+When Wield the Seed Flame enters it deals 6 damage to target creature an opponent controls and 3 damage to each opponent who didn't help pay for this spell. 
+Equipped creature gets +2/+1.
+Equip {1}
+
+CR07 — Burning Oak Duo
+rules_text: When Burning Oak Duo attacks, you may forage. If you do, it gains double strike until end of turn. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i] => When Burning Oak Duo attacks, you may forage. If you do, create a token copy of it tapped and attacking. Sacrifice that token at the beginning of the next end step. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]
+
+CR11 — Uplift Animalfolk
+rules_text: Target player may surveil 2. 
+Put a first strike counter on target non-Human creature you control. => Put a haste or first strike counter on target non-Human creature you control. 
+Target player exiles a card from the top of their library. Until the end of their next turn, they may play that card.
+
+CW06 — Lorehold Paleodietitian
+
+CU08 — Inspiring Lemma Beans
+
+CU13 — Publish Analysis
+
+CW14 — Oleaginous Portal
+
+CU12 — Freshman Meal Plan
+
+RZ01 — Holy Relics Masterclass
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create a Food token.
+{W}{W}{U}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{2}{W}{W}{U}{U} Level 4
+Spells you control have affinity for artifacts. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create two Food tokens.
+{W}{W}{U}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{2}{W}{W}{U}{U} Level 4
+Spells you control have affinity for artifacts.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create a Food token.
+{W}{W}{U}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{2}{W}{W}{U}{U} Level 4
+Spells you control have affinity for artifacts. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create two Food tokens.
+{W}{W}{U}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{2}{W}{W}{U}{U} Level 4
+Spells you control have affinity for artifacts.
+
+RZ04 — Wormcoil Hydra
+
+RZ06 — Advanced Bravery
+
+RR02 — Calamity Lavabuck
+rules_text: Other players can't gain life.
+At the beginning of each end step, if an opponent has lost 6 or more life, create a red 1/1 Lizard Elemental creature token with “When this creature dies, it deals 1 damage to target player.” => Other players can't gain life.
+At the beginning of each end step, if an opponent has lost 6 or more life, create a red 1/1 Lizard Elemental creature token with “When this token dies, it deals 1 damage to target player.”
+
+RB02 — Gumdrop Poisoner
+
+UZ01 — Bibliochef
+
+RR03 — Sword from the Pond
+rules_text: When Sword from the Pond enters, create a 1/1 red Mouse creature token, then attach this to it.
+Equipped creature gets +2/+1.
+Whenever equipped creature attacks with at least two other creatures, draw a card.
+Equip {1}{R} => When Sword from the Pond enters, create a 1/1 red Mouse Knight creature token, then attach this to it.
+Equipped creature gets +2/+1.
+Whenever equipped creature attacks with at least two other creatures, draw a card.
+Equip {1}{R}
+
+UB05 — Red Riding Hood
+
+UW10 — Call to Compleation
+rules_text: Put a +1/+1 counter on each creature you control. Creatures you control gain vigilance and lifelink until end of turn.
+[i]Corrupted[/i] — If an opponent has three or more poison counters, proliferate. => Put a +1/+1 counter on each creature you control. Creatures you control gain vigilance and first strike until end of turn.
+[i]Corrupted[/i] — If an opponent has three or more poison counters, proliferate.
+
+CZ01 — Biblopex Caterer
+
+RZ07 — Quandrix Illusionist
+
+UB04 — Hell's Sous Chef
+
+UZ06 — Mace The Exam
+
+UA01 — Chef's Knife
+
+UA06 — Toffee Golem
+cost: {7} => {8}
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Prevent all combat damage that would be dealt to this creature.
+{2}, {T}, Sacrifice this creature: You gain 3 life. => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+Protection from creatures [i](This creature can't be blocked, targeted or dealt damage by creatures.)[/i]
+
+UR02 — Agate Instigator
+
+UB01 — Gingerbread Cabin
+
+UW04 — Mite Overseer
+
+RU05 — Isometric Transformation
+
+UB10 — Price of Royalty
+
+UZ08 — The Girl Who Cried Ouphe
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.
+
+UZ22 — Glistening Rites
+
+UW06 — Phyrexian Health Inspector
+rules_text: Reach
+When Phyrexian Health Inspector, create two Food tokens.
+Food you control have “{2}, Sacrifice this Food: Draw a card.” => Reach
+When Phyrexian Health Inspector, create one Food tokens.
+Food you control have “{2}, Sacrifice this Food: Draw a card.”
+
+UZ28 — Feed the Throng
+
+RL03 — The Dusk Woods
+
+MZ01 — Ixhel, Porcelain Angel
+
+MZ04 — Cruelclaw, Leader of the Red Scarves
+
+MZ06 — Urabrask, Rebel Praetor
+
+MZ09 — Quintorious, Defender of History
+rules_text: Lifelink
+Creature tokens you control have vigilance.
+Whenever you gain life, you may sacrifice a 1/1 creature. If you do, create a red and white 4/4 elephant spirit token. => Lifelink
+Creature tokens you control have vigilance.
+Whenever you gain life, you may sacrifice a 1/1 creature. If you do, create a red and white 4/4 Elephant Spirit token.
+
+MZ10 - The Golden Goose
+
+CR15 — Scuffle of Scurry
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters,create a Food token then it deals 3 damage to target player or battle.
+Food you control have “{1}, {T}, Sacrifice this token: Discard a card then draw a card,” => [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters,create a Food token then it deals 3 damage to target player or another target battle.
+Food you control have “{1}, {T}, Sacrifice this token: Discard a card then draw a card,”
+
+CB15 — Trial of Guile
+
+CB16 — Ransack the Faerie Garden
+
+CG15 — Fight of Might
+
+UZ13 — Guard the Fountainport Parapet
+
+UZ16 — Thesis Defense
+
+UZ17 — Traverse The Ketria Great Tree
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, create a 3/3 green Beast Fractal creature token.
+Whenever one or more creature attacks you or a battle you own, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, create a 3/3 blue and green Beast Fractal creature token.
+Whenever one or more creature attacks you or a battle you own, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.
+
+UZ19 — Abscond the Golden Eggs
+
+UZ20 — Hunt in the Raugrin Shoals
+
+CW15 — Ceremony of Faith
+
+CR03 — Emberheart Mouster
+
+
+VERSION 26 CHANGELOG
+====================
+
+CW15 — Ceremony of Faith added.
+
+CW15 — The Porcelain Legion removed.
+
+CW07 — Devote Evangelist
+rules_text: When Devote Evangelist enters, create a Food token and three 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and “This token can't block.” [i](Players dealt combat damage by this creature also get a poison counter.)[/i] => When Devote Evangelist enters, create three 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and “This token can't block.” [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+
+RR04 — Flavor of Autumn
+
+RW02 — Flavor of Orthodoxy
+
+CW03 — Autocatalytic Hare
+
+CW09 — Preator's Glory
+
+UG10 — Nourish The Young
+
+CG05 — Beetle-Horned Rhino
+
+CW11 — Hunger of Mites
+
+CG11 — Advantageous Adaptation
+
+CG06 — Zagoth Snapper
+
+CU08 — Inspiring Lemma Beans
+
+MR14 — Mabel, Valley's Champion
+
+RW04 — Begin the Feast
+
+UZ01 — Bibliochef
+
+CB12 — Baked into a Pie
+
+CL06 — Norn's Basilica
+
+CL07 — Bilbelopex
+
+CL08 — Witches Hut
+
+CL09 — Oystershroom Lodge
+
+CL10 — Ketria Bosque
+
+UA01 — Chef's Knife
+
+RW03 — Chef of Machines
+
+RU03 — Cosmophysicist
+rules_text: Ward— Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player chooses and stuns an untapped creature they control.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card. => Ward— Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player Stun a creature.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card.
+
+UW08 — Uncork
+
+CR16 — Ransack the Emberheart-Oven
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then this Battle deals 1 damage to each other player. => [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then this Battle deals 2 damage to each other player.
+
+MZ02 — Ms. Bumbleflower, Generous Hare
+
+MZ05 — Kaheera, Monster Paragon
+
+MZ08 — Eriette of Love's Bite
+
+MZ09 — Quintorious, Defender of History
+
+CR15 — Scuffle of Scurry
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, you may forage. If you do,it deals 3 damage to target player or battle. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]
+Food you control have “{1}, {T}: Discard a card, Sacrifice this token: Draw a card” => [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters,create a Food token then it deals 3 damage to target player or battle.
+Food you control have “{1}, {T}, Sacrifice this token: Discard a card then draw a card,”
+
+CB15 — Trial of Guile
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, each opponent discards a card.
+Food tokens you control have “{1}, {T}, Goad target creature.” Activate only as a sorcery. => [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, create a Food token then each opponent discards a card.
+Food tokens you control have “{1}, {T}, sacrifice this token: Goad target creature.” Activate only as a sorcery.
+
+CB16 — Ransack the Faerie Garden
+
+CG15 — Fight of Might
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, search your library for a basic land card. Put it onto the battlefield tapped, then shuffle.
+Food tokens you control have “{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature.” Activate only as a sorcery. => [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, create a Food token then, search your library for a basic land card. Put it onto the battlefield tapped, then shuffle.
+Food tokens you control have “{1}, {T}, Sacrifice this token: Put a +1/+1 counter on target creature.” Activate only as a sorcery.
+
+CG16 — Ransack the Ketria Gemgrove
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then you may put a land card from your graveyard onto the battlefield tapped. => [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then you may put a land card from your hand or graveyard onto the battlefield tapped.
+
+CW16 — Ransack the Fifth Sphere
+
+CU15 — Test of Intellect
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, draw two cards.
+Food tokens you control have “{1}, {T}, Sacrifice this token: Target creature gains flying until end of turn.” Activate only as a sorcery. => [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, the victor gains control of it transformed.)[/i]
+When this Trial enters, create a Food token then draw two cards.
+Food tokens you control have “{1}, {T}, Sacrifice this token: Target creature gains flying until end of turn.” Activate only as a sorcery.
+
+CU16 — Ransack the Library
+
+UZ11 — Syphon the Infinity Fountain
+
+UZ17 — Traverse The Ketria Great Tree
+
+
+VERSION 25 CHANGELOG
 ====================
 
 CU09 — Missing Ingredient added.
