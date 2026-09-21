@@ -1,4 +1,47 @@
-﻿VERSION 27 CHANGELOG
+﻿VERSION 28 CHANGELOG
+====================
+
+UW05 — Phyrexian Health Inspector added.
+Oilslick Watchfrog added.
+UW06 — White Sundae's Solstice added.
+
+UW05 — Auriok Descendant removed.
+UW06 — Phyrexian Health Inspector removed.
+
+RU01 — Larine Arneza, Valedictorian
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, exile another target creature you control, then return it battlefield under your control.
+ {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere but your hand this turn. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, you may exile another target creature you control, then return it battlefield under your control.
+ {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere but your hand this turn.
+
+UG02 — Chevill's Apprentice
+rules_text: At the beginning of your upkeep, put a bounty counter on target token an opponent controls.
+Whenever a permanent an opponent controls with a bounty counter on it dies, draw a card. => At the beginning of your upkeep, put a bounty counter on target token an opponent controls.
+Whenever a permanent an opponent controls with a bounty counter on it is put into the graveyard from the battlefield, draw a card.
+
+UW10 — Call to Compleation
+cost: {4}{W}{W} => {3}{W}{W}
+
+CR09 — Oilslick Watchfrog
+
+UZ28 — Feed the Throng
+
+CB15 — Trial of Guile
+
+CU15 — Test of Intellect
+
+UZ19 — Abscond the Golden Eggs
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, create two 1/1 black Faerie Rogue creature tokens with flying.
+Whenever one or more creatures attacks you or a battle you own, put your choice of a +1/+1counter or a reach counter on target creature. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, create two 1/1 black Faerie Rogue creature tokens with flying.
+Whenever one or more creatures attacks you or a battle you own, put your choice of a +1/+1 counter or a reach counter on target creature.
+
+CW15 — Ceremony of Faith
+
+Fish
+
+
+VERSION 27 CHANGELOG
 ====================
 
 New Mechanics added.
