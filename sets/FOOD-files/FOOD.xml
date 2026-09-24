@@ -6182,122 +6182,47 @@ Whenever Gluttonfeeder attacks and isn&apos;t blocked, defending player loses 1 
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Swamp</name>
+			<name>Plains</name>
 			<text></text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/325.png" num="0">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Basic Land — Swamp</type>
+				<type>Basic Land — Plains</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>B</coloridentity>
+				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Plains</name>
+			<name>Forest</name>
 			<text></text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/326.png" num="0">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Basic Land — Plains</type>
+				<type>Basic Land — Forest</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
+				<coloridentity>G</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>
 		<card>
-			<name>Forest</name>
+			<name>Island</name>
 			<text></text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/327.png" num="0">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Basic Land — Forest</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Mountain</name>
-			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/328.png" num="0">FOOD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Mountain</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>R</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Island</name>
-			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/329.png" num="0">FOOD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
 				<type>Basic Land — Island</type>
 				<maintype>Land</maintype>
 				<manacost></manacost>
 				<cmc>0</cmc>
 				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Forest</name>
-			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/330.png" num="0">FOOD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Forest</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>G</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Island</name>
-			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/331.png" num="0">FOOD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Island</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>U</coloridentity>
-			</prop>
-			<tablerow>0</tablerow>
-		</card>
-		<card>
-			<name>Plains</name>
-			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/332.png" num="0">FOOD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Basic Land — Plains</type>
-				<maintype>Land</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
-				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>0</tablerow>
 		</card>

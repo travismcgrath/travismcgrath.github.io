@@ -2145,7 +2145,7 @@
         "position": "324"
     },
     {
-        "card_name": "Swamp",
+        "card_name": "Plains",
         "number": 0,
         "shape": "normal",
         "set": "FOOD",
@@ -2153,7 +2153,7 @@
         "position": "325"
     },
     {
-        "card_name": "Plains",
+        "card_name": "Forest",
         "number": 0,
         "shape": "normal",
         "set": "FOOD",
@@ -2161,52 +2161,12 @@
         "position": "326"
     },
     {
-        "card_name": "Forest",
+        "card_name": "Island",
         "number": 0,
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
         "position": "327"
-    },
-    {
-        "card_name": "Mountain",
-        "number": 0,
-        "shape": "normal",
-        "set": "FOOD",
-        "rotated": false,
-        "position": "328"
-    },
-    {
-        "card_name": "Island",
-        "number": 0,
-        "shape": "normal",
-        "set": "FOOD",
-        "rotated": false,
-        "position": "329"
-    },
-    {
-        "card_name": "Forest",
-        "number": 0,
-        "shape": "normal",
-        "set": "FOOD",
-        "rotated": false,
-        "position": "330"
-    },
-    {
-        "card_name": "Island",
-        "number": 0,
-        "shape": "normal",
-        "set": "FOOD",
-        "rotated": false,
-        "position": "331"
-    },
-    {
-        "card_name": "Plains",
-        "number": 0,
-        "shape": "normal",
-        "set": "FOOD",
-        "rotated": false,
-        "position": "332"
     },
     {
         "card_name": "er"

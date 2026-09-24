@@ -3316,83 +3316,33 @@
 			}
 		},
 		{
-			"name": "Swamp",
+			"name": "Plains",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Swamp",
+			"type": "Basic Land — Plains",
 			"collector_number": "0",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/325.png"
 			}
 		},
 		{
-			"name": "Plains",
+			"name": "Forest",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Plains",
+			"type": "Basic Land — Forest",
 			"collector_number": "0",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/326.png"
 			}
 		},
 		{
-			"name": "Forest",
+			"name": "Island",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Basic Land — Forest",
+			"type": "Basic Land — Island",
 			"collector_number": "0",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/327.png"
-			}
-		},
-		{
-			"name": "Mountain",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Mountain",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/328.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/329.png"
-			}
-		},
-		{
-			"name": "Forest",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Forest",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/330.png"
-			}
-		},
-		{
-			"name": "Island",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Island",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/331.png"
-			}
-		},
-		{
-			"name": "Plains",
-			"rarity": "common",
-			"mana_cost": "",
-			"type": "Basic Land — Plains",
-			"collector_number": "0",
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/332.png"
 			}
 		}
 	]

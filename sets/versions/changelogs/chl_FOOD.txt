@@ -1,4 +1,9 @@
-﻿VERSION 29 CHANGELOG
+﻿VERSION 30 CHANGELOG
+====================
+
+No changes.
+
+VERSION 29 CHANGELOG
 ====================
 
 CW06 — Lorehold Paleodietician added.
