@@ -1,4 +1,67 @@
-﻿VERSION 28 CHANGELOG
+﻿VERSION 29 CHANGELOG
+====================
+
+CW06 — Lorehold Paleodietician added.
+CZ01 — Biblioplex Caterer added.
+CL07 — Biblioplex added.
+RG02 — River Boa Bonder added.
+RW04 — White Sundae's Solstice added.
+UR11 —The Valley's Charge added.
+CR16 — Mabel's Rise added.
+Food Creature added.
+Incubated Food added.
+UU11 — The March of Knowledge added.
+UG11 — The Horned Stampede added.
+UW11 — The Infection Offensive added.
+UB11 — The Confection Confliction added.
+
+CW06 — Lorehold Paleodietitian removed.
+RW04 — Begin the Feast removed.
+CZ01 — Biblopex Caterer removed.
+CL07 — Bilbelopex removed.
+RG02 — Drannith Beast Hunter removed.
+UW06 — White Sundae's Solstice removed.
+
+New Mechanics
+rules_text: [/i][i][b]Conjecture[/b][/i][i] [i]([i]Cast from anywhere but your hand.)[/i]
+
+[/i][b]Help[/b][i] [i](Other players can pay for the generic mana of this spell's cost.)[/i]
+[/i]
+[b]Haggle[/b] [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+[b]
+Incubate Food N [/b][i](To incubate food N, Put N +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i] => [/i][i][b]Conjecture[/b][/i][i] [i]([i]Cast from anywhere but your hand.)[/i]
+
+[/i][b]Help[/b][i] [i](Other players can pay for the generic mana of this spell's cost.)[/i]
+[/i]
+[b]Haggle[/b] [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+[b]
+Incubate Food N [/b][i](To incubate food N, Put N +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)
+
+[b][/i]Wildbond [i][/b] [i](You may bond that creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+[/i]
+
+UZ21 — Skeptic
+
+UZ05 — Book Thief
+rules_text: Menace
+When Book Thief deals combat damage to a player, draw a card. => [i]Conjecture[/i] — This creature can't be blocked if you've cast a spell from anywhere but your hand. 
+When Book Thief deals combat damage to a player, draw a card.
+
+CR07 — Burning Oak Duo
+
+UW05 — Phyrexian Health Inspector
+rules_text: Reach
+When Phyrexian Health Inspector, create one Food token.
+Food you control have “{2}, Sacrifice this Food: Draw a card.” => Reach
+When Phyrexian Health Inspector enters, create one Food token.
+Food you control have “{2}, Sacrifice this Food: Draw a card.”
+
+MZ01 — Ixhel, Porcelain Angel
+
+Phyrexian Wurm
+
+
+VERSION 28 CHANGELOG
 ====================
 
 UW05 — Phyrexian Health Inspector added.
