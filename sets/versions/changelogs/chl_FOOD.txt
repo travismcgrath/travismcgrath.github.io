@@ -1,4 +1,80 @@
-﻿VERSION 30 CHANGELOG
+﻿VERSION 31 CHANGELOG
+====================
+
+99UW05 — Auriok Mole added.
+99RW04 — Begin the Feast added.
+
+CR16 — Mabel's Rise removed.
+
+CB01 — Brackish Fencer
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+If Brackish Fencer if it was bargained, it enters with a +1/+1 counters on it.
+Menace
+{1}, Forage: Put a +1/+1 counter on Brackish Fencer. Activate only once each turn [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i] => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+If Brackish Fencer was bargained, it enters with a +1/+1 counters on it.
+Menace
+{1}, Forage: Put a +1/+1 counter on Brackish Fencer. Activate only once each turn [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]
+
+CU02 — Arithmetic Frogression
+rules_text: Gift a Scry 2 [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they scry 2.”)[/i]
+When Arithmetic Frogression enters, if a gift was promised, draw a card then discard a card. Then put a +1/+1 counter on target creature. => Gift a Scry 2 [i](You may promise an opponent a gift as you cast this spell. If you do, when it enters, they scry 2.”)[/i]
+When Arithmetic Frogression enters, put a +1/+1 counter on target creature. Then if a gift was promised, draw a card then discard a card.
+
+CG08 — Indatha Ooze
+rules_text: Whenever another nontoken Beast you control enters, create a 3/3 green Ooze creature token with a Toxic 1 counter on it. [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i] => Whenever another nontoken Beast you control enters, create a 3/3 green Ooze creature token with Toxic 1. [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i]
+
+CW12 — Phyrexian Chalice
+
+CR16 — Ransack the Emberheart-Oven
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then this Battle deals 2 damage to each other player. => [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then you create a 1/1 red Mouse Knight creature token.
+
+CR15 — Scuffle of Scurry
+
+CB16 — Ransack the Faerie Garden
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then each player mills a card. => [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then each player mills a card.
+
+CG15 — Fight of Might
+
+CG16 — Ransack the Ketria Gemgrove
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then you may put a land card from your hand or graveyard onto the battlefield tapped. => [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then you may put a land card from your hand or graveyard onto the battlefield tapped.
+
+CW16 — Ransack the Fifth Sphere
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then each other player gets a poison counter. => [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token. 
+Whenever a source deals damage to this battle, its controller creates a Food token. Then each other opponent gets a poison counter.
+
+CU16 — Ransack the Library
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+Whenever one or more sources deal damage to this Battle, each player who is either this Battle's owner or controlled one of those sources creates a Food token. Then you surveil 1. => [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then you surveil 1.
+
+Food Creature
+
+Incubated Food
+
+UU11 — The March of Knowledge
+
+UG11 — The Horned Stampede
+
+UW11 — The Infection Offensive
+
+UB11 — The Confection Confliction
+
+
+VERSION 30 CHANGELOG
 ====================
 
 No changes.
