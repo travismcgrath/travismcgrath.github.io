@@ -1,4 +1,300 @@
-﻿VERSION 32 CHANGELOG
+﻿VERSION 33 CHANGELOG
+====================
+
+UZ27 — Reason added.
+New Mechanics added.
+UZ21 — Skeptic added.
+RW05 — Blood added.
+Golden Egg added.
+CW07 — Devote Evangelist added.
+UZ07 — Tenured Bondologist added.
+CB08 — Big Bad Ouphe added.
+UW02 — Porcelain Myr added.
+UR07 — Heartfire Bolt added.
+CR12 — Fling a Pie added.
+CB05 — Innocuous Prankster added.
+RG04 — Biomewide Migration added.
+UG04 — Dualcat added.
+CR05 — Owl-Eyed Bowman added.
+RB04 — Careful What You Ask For added.
+RW02 — Flavor of Orthodoxy added.
+RU04 — Chronicle added.
+UB08 — Killer Deal added.
+CB07 — Professor From Another Realm added.
+CB03 — Marsh Mellow-o-Wisps added.
+CB02 — Midnight Snacqueraider added.
+CB01 — Brackish Fencer added.
+CB14 — Entreating Witch added.
+CU11 — Check your work! added.
+UU08 — Two Weeks Suspension added.
+CU14 — Group Study added.
+UU10 — Calculate A Prophecy added.
+CU09 — Missing Ingredient added.
+CU07 — Exponentiation Professor added.
+CU05 — Professor of Culinary Arts added.
+UW01 — Hosting Hawk added.
+UU02 — Snapping Torus added.
+CU02 — Arithmetic Frogression added.
+CU06 — Campus Security added.
+CW10 — Served In Ice added.
+CW08 — Sleeperagent Skymount added.
+CW01 — Phyrexian Pridemate added.
+CW02 — Bladed Ambassador added.
+CW03 — Autocatalytic Hare added.
+CW04 — Celestial Crier added.
+UW03 — Charging Invader added.
+CW05 — Elder Cenobite added.
+CW09 — Preator's Glory added.
+CG01 — Hungry Brushwagg added.
+UG03 — Drannith Mess Sergeant added.
+CG08 — Indatha Ooze added.
+UG10 — Nourish The Young added.
+CG04 — Webbonder added.
+CB06 — The Tooth Faerie added.
+CG02 — Thornvault Anomaly added.
+CG03 — Symbiotic Shaman added.
+CG05 — Beetle-Horned Rhino added.
+CG10 — Peckish Pinekraken added.
+UG08 — Establish Eludha added.
+CW11 — Hunger of Mites added.
+CR02 — Raging Marten added.
+CR01 — Pilfering Vole added.
+UR01 — Root Maze Hatcher added.
+CR08 — Rabid Chase Wolves added.
+CR04 — Sharp Clawed Scout added.
+UR04 — Seedbed Sentry added.
+CR10 — Pond Creek Predator added.
+UR10 — Alluring Aromas added.
+CR14 — Wield the Seed Flame added.
+CZ03 — Consummate Bladetail added.
+CZ04 — OilFang Bonder added.
+UZ05 — Book Thief added.
+CZ06 — Hydrodynamicist added.
+CZ08 — Haymeadow Brigand added.
+UZ10 — Gnaw Bonder added.
+UU07 — Give Insight added.
+RZ05 -- May I Have Your Name added.
+UB03 — Faerie Assassin added.
+CZ05 — Entrancing Faye added.
+CG11 — Advantageous Adaptation added.
+CG06 — Zagoth Snapper added.
+CG07 — Mandelbrot Grazer added.
+CG09 — Reynard Bonder added.
+CG11 — Devour Whole added.
+CB13 -- Im Eternally Grateful added.
+CB10 — Delicious Apples added.
+CG14 — Thunderous Stomp added.
+UG01 — Venom Meringue Pie added.
+CR06 — Micro Ecologist added.
+Emberheart Mouster added.
+CR07 — Burning Oak Duo added.
+CR11 — Uplift Animalfolk added.
+CR13 — Rally the Squirrels added.
+CB09 — Shadow Swap added.
+CB11 — Negotiate With Death added.
+CW12 — Phyrexian Chalice added.
+CW06 — Lorehold Paleodietician added.
+CU08 — Inspiring Lemma Beans added.
+CU01 — Quandrix Garden Gates added.
+UU04 — Square Elemental added.
+CU13 — Publish Analysis added.
+CU04 — Sneaky Researcher added.
+CW14 — Oleaginous Portal added.
+RL01 — The Holy Oil Spring added.
+CW13 — Open Wide added.
+RL05 — Living Great Tree added.
+UU03 — Paperback Snake added.
+CU12 — Freshman Meal Plan added.
+MW11 — Elesh Norn, Fidei Defensor added.
+MR14 — Mabel, Valley's Champion added.
+MG15 — Umori, Glue Beast added.
+MU12 — Zimone, Galeforce Researcher added.
+RL04 — Emberheart Greatsword added.
+RZ01 — Holy Relics Masterclass added.
+RZ03 — Blight Rabbit added.
+RZ04 — Wormcoil Hydra added.
+RZ06 — Advanced Bravery added.
+RZ09 — Esdragot added.
+RZ10 — Find the Magic Acorn added.
+RW01 — Mondrak, Impassable Horror added.
+RU01 — Larine Arneza, Valedictorian added.
+RU02 — Pensive Professor added.
+RB01 — Agatha, Cauldron Witch added.
+RR02 — Calamity Lavabuck added.
+RG03 — WildCat Bonder added.
+RG01 — Kogla, the Titan Appe added.
+RB02 — Gumdrop Poisoner added.
+UR03 — Riverbank Paladin added.
+RR03 — Sword from the Pond added.
+UR06 — Calamity Ember Owl added.
+UG02 — Chevill's Apprentice added.
+UG05 — Ravenous Hyena added.
+UB09 — Graverob added.
+UB05 — Red Riding Hood added.
+UZ03 — Soul Rodent added.
+UZ04 — Tithe Monster added.
+UZ09 — Itsy Bitey Spider added.
+UR05 — Wiskerbow Archer added.
+MB13 — Rankle, Trusted Borrower added.
+UU01 — Axiom Channeler added.
+CZ07 — Strix Bonder added.
+CZ09 — Elder Bonder added.
+CZ10 — Frenzied Bonder added.
+CG13— Surivor's Bond added.
+CB04 — Oilsworn Paladin added.
+CZ02 — Liturgy Preparer added.
+CA01 — Egg BombBomb added.
+UA04 — Eriette's Tempting Apple added.
+CU03 — Quaildratic Formula added.
+UU06 — Stress of Finals Week added.
+UW10 — Call to Compleation added.
+UW09 — Punishment Sphere added.
+CR09 — Oilslick Watchfrog added.
+CB12 — Baked into a Pie added.
+UR08 — Return the Flavor added.
+UU09 — Doesn't Count added.
+UA02 — Giant Loaf added.
+UZ02 — Dawn Knight added.
+CZ01 — Biblioplex Caterer added.
+RZ07 — Quandrix Illusionist added.
+UB07 — Back for Seconds added.
+RB03 — Little Pig added.
+UB04 — Hell's Sous Chef added.
+UZ23 — Nightwatch Blade added.
+UZ06 — Mace The Exam added.
+UZ24 — Boarish Roar added.
+UZ25 — Plagiarism added.
+UW07 — Oily Shimmer added.
+CL01 — Raugrin Lavaflats added.
+CL02 — The Woods at Twilight added.
+CL03 — Department of Environmental Sciences added.
+CL04 — Phyrexian Passage added.
+CL05 — The Valley Market added.
+UZ29 — Hoot of the Horned Owl added.
+UZ30 — Mythos of Kogla added.
+CL06 — Norn's Basilica added.
+CL07 — Biblioplex added.
+CL08 — Witches Hut added.
+CL09 — Oystershroom Lodge added.
+CL10 — Ketria Bosque added.
+UG09 — Snap Up added.
+UU05 — Tater Tot Monitor added.
+CA02 — Magic Fruit Stand added.
+CA03 — Cabbatrice added.
+UA08 — Ginger Snaposaurus added.
+UA01 — Chef's Knife added.
+UA03 — Triple Berry Patrol added.
+UA05 — Her Royal Meringue added.
+UA06 — Toffee Golem added.
+UG07 — Voyaging Reefshell added.
+RZ02 — Duskhunter Bat added.
+RW03 — Chef of Machines added.
+RR01 — Whisker, the Fearless added.
+UR02 — Agate Instigator added.
+RU03 — Cosmophysicist added.
+UG06 — Razorback Bonder added.
+UB02 — Night Knight added.
+RL02 — Atollpology added.
+RZ08 — Sand Witch added.
+UB01 — Gingerbread Cabin added.
+UR09 — Slay The Beast added.
+UB06 — Dark Lilly Ambushers added.
+UW04 — Mite Overseer added.
+RU05 — Isometric Transformation added.
+RR05 — Topple The Tall added.
+RB05 — Wicked Famine added.
+RG05 — Savai Stampede added.
+UB10 — Price of Royalty added.
+UW08 — Uncork added.
+UZ08 — The Girl Who Cried Ouphe added.
+UZ26 — Safety in Numbers added.
+UZ22 — Glistening Rites added.
+UW05 — Phyrexian Health Inspector added.
+UZ28 — Feed the Throng added.
+RG02 — River Boa Bonder added.
+CR16 — Ransack the Emberheart-Oven added.
+RL03 — The Dusk Woods added.
+MZ02 — Ms. Bumbleflower, Generous Hare added.
+MZ03 — Gyruda, Oscilating Wave added.
+MZ01 — Ixhel, Porcelain Angel added.
+MZ04 — Cruelclaw, Leader of the Red Scarves added.
+MZ05 — Kaheera, Monster Paragon added.
+MZ06 — Urabrask, Rebel Praetor added.
+MZ07 — Quandrix, Resonance Maestro added.
+MZ08 — Eriette of Love's Bite added.
+MZ09 — Quintorious, Defender of History added.
+MZ10 - The Golden Goose added.
+CR15 — Scuffle of Scurry added.
+CB15 — Trial of Guile added.
+CB16 — Ransack the Faerie Garden added.
+CG15 — Fight of Might added.
+CG16 — Ransack the Ketria Gemgrove added.
+CW16 — Ransack the Fifth Sphere added.
+CU15 — Test of Intellect added.
+CU16 — Ransack the Library added.
+UZ11 — Syphon the Infinity Fountain added.
+UZ12 — Polemics of Apostasy added.
+UZ13 — Guard the Fountainport Parapet added.
+UZ14 — Traverse the Hunter Maze added.
+UZ15 — Beset Your Dreams added.
+UZ16 — Thesis Defense added.
+UZ17 — Traverse The Ketria Great Tree added.
+UZ18 — Challenge the Court of High Chance added.
+UZ19 — Abscond the Golden Eggs added.
+UZ20 — Hunt in the Raugrin Shoals added.
+CU10 — Recursive Research added.
+CW15 — Ceremony of Faith added.
+Food added.
+Faerie Rogue added.
+Fish added.
+Fractal Beast added.
+Phyrexian Mite added.
+Mouse Knight added.
+Autocatalytic Hare added.
+Horror Knight added.
+Fractal added.
+Pest added.
+Boar Citizen added.
+Boar Warrior added.
+Gingerbrute added.
+Royal Role added.
+CR03 — Emberheart Mouster added.
+Lizard Elemental added.
+Root Maze Hatcher added.
+Agate Instigator added.
+Ooze added.
+Cat Beast added.
+Urabrask Mouse Knight added.
+Elephant Spirit added.
+Phyrexian Wurm added.
+Frog added.
+Otter added.
+Elemental added.
+Human Rogue added.
+Rat added.
+Squirrel added.
+Oilslick Watchfrog added.
+RW04 — White Sundae's Solstice added.
+UR11 —The Valley's Charge added.
+Food Creature added.
+Incubated Food added.
+UU11 — The March of Knowledge added.
+UG11 — The Horned Stampede added.
+UW11 — The Infection Offensive added.
+UB11 — The Confection Confliction added.
+RG06 — Invasion of Ikoria added.
+RW06 — Ransack The Multiverse added.
+RR06 — Invasion of Bloomburrow added.
+RU06 — added.
+RB06 — added.
+UZ01 — Bibliochef added.
+Fractal Dragon added.
+RR04 — Flavor of Autumn added.
+
+99RR04 — Flavor of Autumn removed.
+
+
+VERSION 32 CHANGELOG
 ====================
 
 99RR04 — Flavor of Autumn added.
