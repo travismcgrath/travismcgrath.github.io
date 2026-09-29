@@ -1,0 +1,32 @@
+﻿{
+    "name": "Food Fight",
+    "formats": "",
+    "image_type": "png",
+    "draft_structure": "play booster",
+    "unpreviewed": "card back",
+    "image_name": "position",
+    "v_mana": "",
+    "cards": [
+        {
+            "card_name": "99RR04 \u2014 Flavor of Autumn",
+            "color": "R",
+            "rarity": "rare",
+            "type": "Sorcery",
+            "number": 103,
+            "color_identity": "R",
+            "cost": "{4}{R}{R}",
+            "rules_text": "Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]\nChoose up to five {J} worth of modes. You may choose the same mode more than once.\n{J}{J} \u2014 Create a Food token.\n{J}{J} \u2014 Creatures yo ucontrol get +2\n{J}{J}{J} \u2014 Create a 1/1 token copy of target creature you control, except the token isn't legendary.\n",
+            "flavor_text": "[i][/i]",
+            "pt": "",
+            "special_text": "",
+            "shape": "normal",
+            "set": "FOOD",
+            "loyalty": "",
+            "artist": "Nicolas Derio",
+            "alias": "",
+            "position": "16",
+            "rotated": false,
+            "notes": "!tokens Food\nFoodMaker, \n\nRework"
+        }
+    ]
+}
