@@ -1234,10 +1234,6 @@
 	2 Barbed Servitor
 	2 Lion Vulture
 	1 Snapdax, Apex of the Hunt
-	2 Rakshasa Debaser
-	2 Rakshasa Debaser
-	2 Rakshasa Debaser
-	2 Wicked Role
 	2 Anguished Unmaking
 	2 Sword of the Animis
 	1 Ketramose, the New Dawn
@@ -1275,20 +1271,7 @@
 	8 Enlightened Ascetic
 	8 Whitemane Lion
 	8 Spectral Lynx
-	8 Cat
-	8 Cat Warrior
-	8 Cat
-	8 Fish
 	8 Shattered Landscape
-	8 Cat
-	8 Cat
-	8 Cat
-	8 Cat
-	8 Cat
-	8 Cat
-	8 Cat Warrior
-	8 Cat Warrior
-	8 Cat Warrior
 [common | masterpiece(1)]
 	8 Ephemerate
 	8 Not Dead After All
@@ -1304,20 +1287,7 @@
 	8 Enlightened Ascetic
 	8 Whitemane Lion
 	8 Spectral Lynx
-	8 Cat
-	8 Cat Warrior
-	8 Cat
-	8 Fish
 	8 Shattered Landscape
-	8 Cat
-	8 Cat
-	8 Cat
-	8 Cat
-	8 Cat
-	8 Cat
-	8 Cat Warrior
-	8 Cat Warrior
-	8 Cat Warrior
 [foil(1)]
 	1 Sword of Hearth and Home
 	1 Buster Sword
@@ -1401,28 +1371,11 @@
 	1 Snapdax, Apex of the Hunt
 	6 Malakir Rebirth
 	6 Malakir Mire
-	12 Cat
-	2 Rakshasa Debaser
-	2 Rakshasa Debaser
-	2 Rakshasa Debaser
-	12 Cat Warrior
-	12 Cat
-	12 Fish
-	2 Wicked Role
 	2 Anguished Unmaking
 	2 Sword of the Animis
 	1 Ketramose, the New Dawn
 	2 Felidar Retreat
 	12 Shattered Landscape
-	12 Cat
-	12 Cat
-	12 Cat
-	12 Cat
-	12 Cat
-	12 Cat
-	12 Cat Warrior
-	12 Cat Warrior
-	12 Cat Warrior
 [wildcard(1)]
 	4 Sword of Hearth and Home
 	4 Buster Sword
@@ -1506,25 +1459,8 @@
 	4 Snapdax, Apex of the Hunt
 	15 Malakir Rebirth
 	15 Malakir Mire
-	6 Cat
-	7 Rakshasa Debaser
-	7 Rakshasa Debaser
-	7 Rakshasa Debaser
-	6 Cat Warrior
-	6 Cat
-	6 Fish
-	7 Wicked Role
 	7 Anguished Unmaking
 	7 Sword of the Animis
 	4 Ketramose, the New Dawn
 	7 Felidar Retreat
 	6 Shattered Landscape
-	6 Cat
-	6 Cat
-	6 Cat
-	6 Cat
-	6 Cat
-	6 Cat
-	6 Cat Warrior
-	6 Cat Warrior
-	6 Cat Warrior

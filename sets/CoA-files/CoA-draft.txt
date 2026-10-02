@@ -3303,6 +3303,7 @@
 	8 Immense Development
 	8 Complete Devotion
 	8 Highspire Mystic
+	8 Morph
 	8 Aether Dart
 	8 Mineral Appraiser
 	8 Displaced Dreadmaw
@@ -3406,6 +3407,7 @@
 	8 Immense Development
 	8 Complete Devotion
 	8 Highspire Mystic
+	8 Morph
 	8 Aether Dart
 	8 Mineral Appraiser
 	8 Displaced Dreadmaw
@@ -3666,6 +3668,7 @@
 	2 Yasova, Firebrand Zealot
 	2 Oviya Pashiri, Onlooking Spiritcrafter
 	12 Highspire Mystic
+	12 Morph
 	12 Aether Dart
 	12 Mineral Appraiser
 	12 Displaced Dreadmaw
@@ -3940,6 +3943,7 @@
 	7 Yasova, Firebrand Zealot
 	7 Oviya Pashiri, Onlooking Spiritcrafter
 	6 Highspire Mystic
+	6 Morph
 	6 Aether Dart
 	6 Mineral Appraiser
 	6 Displaced Dreadmaw
