@@ -551,10 +551,10 @@
 			}
 		},
 		{
-			"name": "CW11 — Hunger of Mites",
+			"name": "CW11 — Phyrexian Plating",
 			"rarity": "common",
-			"mana_cost": "{1}{W}",
-			"type": "Sorcery",
+			"mana_cost": "{2}{W/P}",
+			"type": "Artifact — Equipment",
 			"collector_number": "11",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/55.png"
@@ -901,10 +901,10 @@
 			}
 		},
 		{
-			"name": "CB11 — Negotiate With Death",
+			"name": "CB11 — Court Chef's Cleaver",
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
-			"type": "Instant",
+			"type": "Artifact — Equipment",
 			"collector_number": "79",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/90.png"
@@ -995,7 +995,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Enchantment Land — Plains",
-			"collector_number": "252",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/99.png"
 			}
@@ -1435,7 +1435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Legendary Artifact — Food",
-			"collector_number": "238",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/143.png"
 			}
@@ -1525,7 +1525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Food",
-			"collector_number": "236",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/152.png"
 			}
@@ -1645,7 +1645,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "242",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/164.png"
 			}
@@ -1655,7 +1655,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "243",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/165.png"
 			}
@@ -1665,7 +1665,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "244",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/166.png"
 			}
@@ -1675,7 +1675,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "245",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/167.png"
 			}
@@ -1685,7 +1685,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "246",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/168.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "247",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/171.png"
 			}
@@ -1725,7 +1725,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "248",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/172.png"
 			}
@@ -1735,7 +1735,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "249",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/173.png"
 			}
@@ -1745,7 +1745,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "250",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/174.png"
 			}
@@ -1755,7 +1755,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "251",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/175.png"
 			}
@@ -1805,7 +1805,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{8}",
 			"type": "Creature Artifact — Dinosaur Food",
-			"collector_number": "241",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/180.png"
 			}
@@ -1815,7 +1815,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "235",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/181.png"
 			}
@@ -1825,7 +1825,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Food Knight Wizard",
-			"collector_number": "237",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/182.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact Creature — Food Nobel",
-			"collector_number": "239",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/183.png"
 			}
@@ -1845,7 +1845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{8}",
 			"type": "Artifact Creature — Food Golem",
-			"collector_number": "240",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/184.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Enchantment Land — Class Island",
-			"collector_number": "253",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/193.png"
 			}
@@ -2138,7 +2138,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp",
-			"collector_number": "254",
+			"collector_number": "256",
 			"back": {
 				"name": "",
 				"type": "",
@@ -3459,6 +3459,26 @@
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/335.png"
 			}
+		},
+		{
+			"name": "CA05 — Lolihammer",
+			"rarity": "common",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment Food",
+			"collector_number": "236",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/336.png"
+			}
+		},
+		{
+			"name": "CA04 — Pericarp Wings",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "235",
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/337.png"
+			}
 		}
 	]
 
@@ -3629,7 +3649,7 @@
 	8 CG03 — Symbiotic Shaman
 	8 CG05 — Beetle-Horned Rhino
 	8 CG10 — Peckish Pinekraken
-	8 CW11 — Hunger of Mites
+	8 CW11 — Phyrexian Plating
 	8 CR02 — Raging Marten
 	8 CR01 — Pilfering Vole
 	8 CR08 — Rabid Chase Wolves
@@ -3654,7 +3674,7 @@
 	8 CR11 — Uplift Animalfolk
 	8 CR13 — Rally the Squirrels
 	8 CB09 — Shadow Swap
-	8 CB11 — Negotiate With Death
+	8 CB11 — Court Chef's Cleaver
 	8 CW12 — Phyrexian Chalice
 	8 CW06 — Lorehold Paleodietician
 	8 CU08 — Inspiring Lemma Beans
@@ -3689,6 +3709,8 @@
 	8 CA03 — Cabbatrice
 	8 CU10 — Recursive Research
 	8 CR03 — Emberheart Mouster
+	8 CA05 — Lolihammer
+	8 CA04 — Pericarp Wings
 [foil(1)]
 	6 UZ27 — Reason
 	6 UZ21 — Skeptic
@@ -3743,7 +3765,7 @@
 	12 CG05 — Beetle-Horned Rhino
 	12 CG10 — Peckish Pinekraken
 	6 UG08 — Establish Eludha
-	12 CW11 — Hunger of Mites
+	12 CW11 — Phyrexian Plating
 	12 CR02 — Raging Marten
 	12 CR01 — Pilfering Vole
 	6 UR01 — Root Maze Hatcher
@@ -3777,7 +3799,7 @@
 	12 CR11 — Uplift Animalfolk
 	12 CR13 — Rally the Squirrels
 	12 CB09 — Shadow Swap
-	12 CB11 — Negotiate With Death
+	12 CB11 — Court Chef's Cleaver
 	12 CW12 — Phyrexian Chalice
 	12 CW06 — Lorehold Paleodietician
 	12 CU08 — Inspiring Lemma Beans
@@ -3914,6 +3936,8 @@
 	2 RW04 — White Sundae's Solstice
 	6 UZ01 — Bibliochef
 	2 RR04 — Flavor of Autumn
+	12 CA05 — Lolihammer
+	12 CA04 — Pericarp Wings
 [wildcard(1)]
 	15 UZ27 — Reason
 	15 UZ21 — Skeptic
@@ -3968,7 +3992,7 @@
 	6 CG05 — Beetle-Horned Rhino
 	6 CG10 — Peckish Pinekraken
 	15 UG08 — Establish Eludha
-	6 CW11 — Hunger of Mites
+	6 CW11 — Phyrexian Plating
 	6 CR02 — Raging Marten
 	6 CR01 — Pilfering Vole
 	15 UR01 — Root Maze Hatcher
@@ -4002,7 +4026,7 @@
 	6 CR11 — Uplift Animalfolk
 	6 CR13 — Rally the Squirrels
 	6 CB09 — Shadow Swap
-	6 CB11 — Negotiate With Death
+	6 CB11 — Court Chef's Cleaver
 	6 CW12 — Phyrexian Chalice
 	6 CW06 — Lorehold Paleodietician
 	6 CU08 — Inspiring Lemma Beans
@@ -4139,6 +4163,8 @@
 	7 RW04 — White Sundae's Solstice
 	15 UZ01 — Bibliochef
 	7 RR04 — Flavor of Autumn
+	6 CA05 — Lolihammer
+	6 CA04 — Pericarp Wings
 [Battle(1)]
 	8 CR16 — Ransack the Emberheart-Oven
 	8 CR15 — Scuffle of Scurry

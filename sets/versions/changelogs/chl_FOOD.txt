@@ -1,4 +1,36 @@
-﻿VERSION 34 CHANGELOG
+﻿VERSION 35 CHANGELOG
+====================
+
+CW11 — Phyrexian Plating added.
+CB11 — Court Chef's Cleaver added.
+CA05 — Lolihammer added.
+CA04 — Pericarp Wings added.
+
+CW11 — Hunger of Mites removed.
+CB11 — Negotiate With Death removed.
+
+CU09 — Missing Ingredient
+rules_text: Counter target noncreature spell unless its controller pays {1}. If they do, you create a 1/1 black and green Pest creature token with “When this token dies, you gain 1 life.” => Counter target spell unless its controller pays {1}. If this spell was cast from anywhere but your hand exile target spell or ability instead.
+Foretell {U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+
+CR14 — Wield the Seed Flame
+rules_text: Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+When Wield the Seed Flame enters it deals 6 damage to target creature an opponent controls and 3 damage to each opponent who didn't help pay for this spell. 
+Equipped creature gets +2/+1.
+Equip {1} => Help [i](Other players can pay up to {5} of this spell's cost.)[/i]
+When Wield the Seed Flame enters, it deals 6 damage to target creature and 3 damage to each opponent who didn't help pay for it.
+Equipped creature gets +2/+1 and has haste.
+Equip {2}
+
+RU01 — Larine Arneza, Valedictorian
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, you may exile another target creature you control, then return it battlefield under your control.
+ {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere but your hand this turn. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, you may exile another target creature you control, then return it battlefield under your control.This ability only triggers once per turn.
+ {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere but your hand this turn.
+
+Phyrexian Mite
+
+
+VERSION 34 CHANGELOG
 ====================
 
 RU06 — Final Exam added.
