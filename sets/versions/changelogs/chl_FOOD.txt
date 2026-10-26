@@ -1,4 +1,239 @@
-﻿VERSION 35 CHANGELOG
+﻿VERSION 36 CHANGELOG
+====================
+
+Types of Battles added.
+UZ07 — Arithmetic Herbalist added.
+CW11 — Served In Ice added.
+CW09 — Sleeperagent Skymount added.
+CW10 — Preator's Glory added.
+CG09 — Indatha Ooze added.
+CW12 — Phyrexian Plating added.
+CZ06 — Primsari Pastry Chef added.
+CG08 — Reynard Bonder added.
+UW07 — Phyrexian Chalice added.
+MU12 — Zimone, Prohpehtic Calculist added.
+RG03 — Wildcat Bonder added.
+RG01 — Kogla, the Titan Ape added.
+UW06 — Oily Shimmer added.
+UW05 — Mite Overseer added.
+CW08 — Phyrexian Health Inspector added.
+UR11 — The Valley's Charge added.
+UW04 — Auriok Saucier added.
+
+UZ07 — Tenured Bondologist removed.
+CW10 — Served In Ice removed.
+CW08 — Sleeperagent Skymount removed.
+CW09 — Preator's Glory removed.
+CG08 — Indatha Ooze removed.
+CW11 — Phyrexian Plating removed.
+CZ06 — Hydrodynamicist removed.
+CG09 — Reynard Bonder removed.
+CW12 — Phyrexian Chalice removed.
+MU12 — Zimone, Galeforce Researcher removed.
+RG03 — WildCat Bonder removed.
+RG01 — Kogla, the Titan Appe removed.
+UW07 — Oily Shimmer removed.
+UW04 — Mite Overseer removed.
+UW05 — Phyrexian Health Inspector removed.
+UR11 —The Valley's Charge removed.
+
+CR05 — Owl-Eyed Bowman
+rules_text: Reach
+{T}: Owl-Eyed Bowman deals 1 damage to target creature or battle. Activate only as a sorcery. => Reach
+{T}: Owl-Eyed Bowman deals 1 damage to target player or battle.
+
+RW02 — Flavor of Orthodoxy
+rules_text: Flying
+Whenever this creature or another non-token Phyrexian you control enters, create a Food token then incubate Food 2. [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i] => Flying
+Whenever this creature or another non-token Phyrexian you control enters, incubate Food 2. [i](Create a Food token with two +1/+1 counters on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]
+
+CB01 — Brackish Fencer
+rules_text: Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+If Brackish Fencer was bargained, it enters with a +1/+1 counters on it.
+Menace
+{1}, Forage: Put a +1/+1 counter on Brackish Fencer. Activate only once each turn [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i] => Bargain [i](You may sacrifice an artifact, enchantment, or token as you cast this spell.)[/i]
+If Brackish Fencer was bargained, it enters with a +1/+1 counters on it.
+Menace
+Forage: Put a +1/+1 counter on Brackish Fencer. Activate only once each turn [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i]
+
+CU11 — Check your work!
+type: Sorcery => Instant
+rules_text: Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+Return target nonland permanent you control and target nonland permanent you don't control to their owners' hands. => Jump-start [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. Then exile this card.)[/i]
+Choose two target nonland, nontoken permanents controlled by different players. Return them to their owners' hands.
+
+CU09 — Missing Ingredient
+rules_text: Counter target spell unless its controller pays {1}. If this spell was cast from anywhere but your hand exile target spell or ability instead.
+Foretell {U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i] => Counter target noncreature spell unless its controller pays {1}. If this spell was cast from anywhere but your hand exile target noncreature spell or ability instead.
+Foretell {U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+
+CU05 — Professor of Culinary Arts
+type: Creature — Human Wizard => Creature — Human Chef Wizard
+rules_text: When Professor enters, create a Food token, then Incubate Food 5. [i](Put five +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i] => When Professor enters, Incubate Food 5. [i](Create a Food token with five +1/+1 counters on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]
+
+CU06 — Campus Security
+rules_text: When Campus Security enters, stun target creature.
+Jump-start [i](You may cast this card from your graveyard by discarding a card in addition to paying its other costs. It enters with a finality counter on it.)[/i] => When Campus Security enters, stun up to one target creature.
+Retrace [i](You may cast this card from your graveyard by discarding a land card in addition to paying its other costs.)[/i]
+
+CW03 — Autocatalytic Hare
+
+UG03 — Drannith Mess Sergeant
+rules_text: Whenever one or more Humans you control attack, create a Food token.
+Whenever a bonded non-human creature you control attacks, it devours tokens 1. [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)[/i] => This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+Whenever another Human enters under your control, this creature becomes prepared.
+
+CB06 — The Tooth Faerie
+rules_text: Flying
+{1}, Bargain: Put a +1/+1 counter on The Tooth Faerie . If a Food was sacrificed, put two +1/+1 counters on it instead. Activate only once each turn. [i](To bargain, sacrifice an artifact, enchantment, or token.)[/i] => Flying
+Bargain: Put a +1/+1 counter on The Tooth Faerie . Activate only once each turn. [i](To bargain, sacrifice an artifact, enchantment, or token.)[/i]
+
+CG05 — Beetle-Horned Rhino
+rules_text: Whenever Beetle-Horned Rhino enters, put a trample counter on target creature you control. => Whenever Beetle-Horned Rhino enters, put a +1/+1 counter on another target creature you control.
+Modified creatures you control have trample. [i](Equipment, Auras you control, bonds, mutations, and counters are modifications.)[/i]
+
+CB11 — Court Chef's Cleaver
+rules_text: Haggle [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+When Court Chef's Cleaver enters, target player sacrifices a nontoken creature. If it was haggled, each opponent sacrifices a nontoken creature instead. 
+Equipped creature has first strike and deathtouch.
+Equip {2} => Haggle [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+When Court Chef's Cleaver enters, target player sacrifices a nontoken creature. If it was haggled, each opponent sacrifices a nontoken creature instead. 
+Equipped creature has first strike and deathtouch.
+Equip {3}
+
+CW06 — Lorehold Paleodietician
+type: Creature — Elephant Chef => Creature — Elephant Cleric
+rules_text: Vigilance, Reach
+Whenever Lorehold Paleodietician attacks, create a Food token then Incubate Food 2 [i](Put two +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i] => Vigilance, Reach
+Whenever Lorehold Paleodietician attacks, Incubate Food 2 [i](Create a Food token with two +1/+1 counters on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]
+
+RB01 — Agatha, Cauldron Witch
+rules_text: {1}{B}, {T}, Sacrifice a token: For each opponent, choose a creature they control. For each creature choose and apply a different effect: 
+• [i]Love — [/i]Goad them.
+• [i]Sleep [/i]— Stun them.
+• [i]Transform [/i]— Until your next turn they lose all abilities and become a 0/1 green Salamander. => {T}, Sacrifice a token: For each opponent, choose a creature they control. For each creature choose and apply a different effect: 
+• [i]Love — [/i]Goad them.
+• [i]Sleep [/i]— Stun them.
+• [i]Transform [/i]— Until your next turn they lose all abilities and become a 0/1 green Salamander.
+
+CB04 — Oilsworn Paladin
+cost: {1}{B}{B} => {2}{BP}{B}
+pt: 2/2 => 4/2
+
+CU03 — Quaildratic Formula
+pt: 2/3 => 2/2
+
+CZ01 — Biblioplex Caterer
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, create a Food token then Incubate Food 3 [i](Put three +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i] => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, then Incubate Food 3 [i](Create a Food token with three +1/+1 counters on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]
+
+UB04 — Hell's Sous Chef
+
+UG09 — Snap Up
+rules_text: Choose one:
+• Deal 7 damage to target creature with flying.
+• Target creature you control fights target creature you don't control. If the creature you didn't control was a Fractal or Wizard, draw a card. => Choose one:
+• Deal 7 damage to target creature with flying.
+• Target creature you control fights target creature you don't control. If the creature you didn't control was a Fractal or Human, draw a card.
+
+UA01 — Chef's Knife
+rules_text: Equipped creature gets +1/+1.
+Whenever equipped creature deals combat damage to a player, create a Food token.
+Equip {1} => Equipped creature gets +1/+1.
+Whenever equipped creature attacks, create a Food token.
+Equip {2}
+Equip Chef {0}
+
+UA03 — Triple Berry Patrol
+rules_text: {2}: Add one mana of any color.
+Sacrifice Triple Berry Patrol: It deals 3 damage to target creature or battle.
+{2}, {T}, sacrifice Triple Berry Patrol: You gain 3 life. => {2}: Add one mana of any color.
+Sacrifice Triple Berry Patrol: It deals 3 damage to target creature or battle.
+
+UG07 — Voyaging Reefshell
+rules_text: Trample
+Cycling {2}{G} [i]({2}{G}, Discard this card: Draw a card.)[/i]
+When you cycle Voyaging Reefshell, search your library for a basic land card, reveal it, put it into your hand, then shuffle. => Trample
+Cycling {2}{G} [i]({2}{G}, Discard this card: Draw a card.)[/i]
+When you cycle Voyaging Reefshell, search your library for a basic land card, reveal it, put it onto the battlefield tapped, then shuffle.
+
+RW03 — Chef of Machines
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Create five Food tokens, then Incubate Food 2 five times. Then transform any number of Food tokens you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Incubate Food 2 five times. Then transform any number of Food tokens you control.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Create five Food tokens, then Incubate Food 2 five times. Then transform any number of Food tokens you control. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)[/i]
+I, II — Create a 0/0 colorless Construct artifact creature token with “This token gets +1/+1 for each artifact you control.”
+III — Incubate Food 2 five times. Then transform any number of Food tokens you control.
+
+RU03 — Cosmophysicist
+rules_text: Ward—stuns a nontoken creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player stuns a nontoken creature.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card. => Ward—Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player chooses and stuns an untapped creature they control.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card.
+
+MZ02 — Ms. Bumbleflower, Generous Hare
+rules_text: Lifelink
+Whenever a player casts their second spell each turn, choose one —
+• Gift a Scry 2, if you do, draw a card.
+• Put a +1/+1 counter on another target creature, then proliferate.
+• Create a Food, then incubate Food 3. => Lifelink
+Whenever a player casts their second spell each turn, choose one —
+• Gift a Scry 2, if you do, draw a card.
+• Incubate Food 3. 
+• Put a +1/+1 counter on another target creature, then proliferate.
+
+UZ11 — Syphon the Infinity Fountain
+
+Gingerbrute
+
+Root Maze Hatcher
+pt: 3/1 => 1/1
+
+Agate Instigator
+pt: 3/1 => 1/1
+
+Food Creature
+
+UB11 — The Confection Confliction
+
+RB06 — Heros of Forgotten Tales
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, it transformed then you and the victor form an alliance.)[/i]
+When this trial enters, for each opponent put a decayed counter on up to X target creatures. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, it transformed then you and the victor form an alliance.)[/i]
+When this trial enters, for each opponent put a decayed counter on up to X target creatures they control. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UZ01 — Bibliochef
+type: Creature — Human Chef => Creature — Human Chef Wizard
+cost: {W}{U} => {4}{W}{U}
+rules_text: This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i] => Flying
+When Bibliochef enters, put two +1/+1 counters on to each Food you control. Then transform all non-creature Food tokens you control into 0/0 Phyrexian Artifact creatures.
+pt: 2/3 => 2/2
+
+New Mechanics
+rules_text: [/i][i][b]Conjecture[/b][/i][i] [i]([i]Cast from anywhere but your hand.)[/i]
+
+[/i][b]Help[/b][i] [i](Other players can pay for the generic mana of this spell's cost.)[/i]
+[/i]
+[b]Haggle[/b] [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+[b]
+Incubate Food N [/b][i](To incubate food N, Put N +1/+1 counters on target noncreature Food you control and it gains “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)
+
+[b][/i]Wildbond [i][/b] [i](You may bond that creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+[/i] => [/i][i][b]Conjecture[/b][/i][i] [i]([i]Cast from anywhere but your hand.)[/i]
+
+[/i][b]Help[/b][i] [i](Other players can pay for the generic mana of this spell's cost.)[/i]
+[/i]
+[b]Haggle[/b] [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+
+[b]Incubate Food N[/b] [i](CREATE A FOOD TOKEN WITH TWO +1/+1 counters on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]
+
+[/i][b]Wildbond [/b] [i](You may bond that creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+
+
+VERSION 35 CHANGELOG
 ====================
 
 CW11 — Phyrexian Plating added.
