@@ -1,4 +1,9 @@
-﻿VERSION 36 CHANGELOG
+﻿VERSION 37 CHANGELOG
+====================
+
+No changes.
+
+VERSION 36 CHANGELOG
 ====================
 
 Types of Battles added.
