@@ -1,4 +1,615 @@
-﻿VERSION 37 CHANGELOG
+﻿VERSION 39 CHANGELOG
+====================
+
+
+
+CR16 — Ransack the Emberheart-Oven
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then you create a 1/1 red Mouse Knight creature token. => [i](Any player may attack this battle.The nearest opponent to the left of the attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then you create a 1/1 red Mouse Knight creature token.
+
+CR15 — Scuffle of Scurry
+
+CB15 — Trial of Guile
+
+CB16 — Ransack the Faerie Garden
+
+CG15 — Fight of Might
+
+CG16 — Ransack the Ketria Gemgrove
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then you may put a land card from your hand or graveyard onto the battlefield tapped. => [i](Any player may attack this battle.The nearest opponent to the left of the attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then you may put a land card from your hand or graveyard onto the battlefield tapped.
+
+CW16 — Ransack the Fifth Sphere
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token. 
+Whenever a source deals damage to this battle, its controller creates a Food token. Then each other opponent gets a poison counter. => [i](Any player may attack this battle.The nearest opponent to the left of the attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token. 
+Whenever a source deals damage to this battle, its controller creates a Food token. Then each other opponent gets a poison counter.
+
+CU15 — Test of Intellect
+
+CU16 — Ransack the Library
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then you surveil 1. => [i](Any player may attack this battle.The nearest opponent to the left of the attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then you surveil 1.
+
+UZ11 — Syphon the Infinity Fountain
+
+UZ12 — Polemics of Apostasy
+
+UZ13 — Guard the Fountainport Parapet
+
+UZ14 — Enter the Hunter Maze
+
+UZ15 — Beset Your Dreams
+
+UZ16 — Thesis Defense
+
+UZ17 — Traverse The Ketria Great Tree
+
+UZ18 — Challenge the Court of High Chance
+
+UZ19 — Abscond the Golden Eggs
+
+UZ20 — Hunt in the Raugrin Shoals
+
+CW15 — Ceremony of Faith
+
+UR11 — The Valley's Charge
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters it deals 5 damage to target opponent. => [i](Any player may attack this battle.The nearest opponent to the left of the attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters it deals 5 damage to target opponent.
+
+UU11 — The March of Knowledge
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, target player mills 8 cards. => [i](Any player may attack this battle.The nearest opponent to the left of the attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, target player mills 8 cards.
+
+UG11 — The Horned Stampede
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, distribute three +1/+1 counters among creatures you control. => [i](Any player may attack this battle.The nearest opponent to the left of the attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, distribute three +1/+1 counters among creatures you control.
+
+UW11 — The Infection Offensive
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, target player gets three poison counters. => [i](Any player may attack this battle.The nearest opponent to the left of the attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, target player gets three poison counters.
+
+UB11 — The Confection Confliction
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, target opponent loses 3 life for each Food they control. => [i](Any player may attack this battle.The nearest opponent to the left of the attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, target opponent loses 3 life for each Food they control.
+
+RG06 — Invasion of Ikoria
+
+RW06 — Ransack The Multiverse
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create X 4/4 Phyrexian Angel white artifact creature tokens with flying and vigilance. => [i](Any player may attack this battle.The nearest opponent to the left of the attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create X 4/4 Phyrexian Angel white artifact creature tokens with flying and vigilance.
+
+RR06 — Invasion of Bloomburrow
+
+RU06 — Final Exam
+
+RB06 — Heros of Forgotten Tales
+
+
+VERSION 38 CHANGELOG
+====================
+
+CB09 — Delicious Apple added.
+UZ14 — Enter the Hunter Maze added.
+CA05 — Lollihammer added.
+CB10 — Shadow Swap added.
+
+CB10 — Delicious Apples removed.
+CB09 — Shadow Swap removed.
+UZ14 — Traverse the Hunter Maze removed.
+Root Maze Hatcher removed.
+CA05 — Lolihammer removed.
+
+CR01 — Pilfering Vole
+
+UR01 — Root Maze Hatcher
+rules_text: Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Myriad [i](Whenever this creature attacks, for each opponent other than defending player, you may create a token copy of this creature that's tapped and attacking that player or a planeswalker they control. Exile the tokens at end of combat.)[/i] => Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Mobilize 2 [i](Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)[/i]
+
+CR10 — Pond Creek Predator
+pt: 6/6 => 5/5
+
+CZ03 — Consummate Bladetail
+rules_text: Haste, Double strike
+At the beginning of combat on your turn, creatures you control with base power 1 can't be blocked by creatures with toughness 3 or greater. => Haste, Double strike
+Other creatures you control with base power and toughness 1/1 can't be blocked.
+
+CZ06 — Primsari Pastry Chef
+rules_text: This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+Whenever you expend 5 during your turn, this creature becomes prepared. => This creature enters prepared. [i](While it's prepared, you may cast a copy of its spell. Doing so unprepares it.)[/i]
+Whenever you expend 5, this creature becomes prepared.
+
+UZ10 — Gnaw Bonder
+pt: 3/1 => 1/1
+
+CB11 — Court Chef's Cleaver
+
+UW07 — Phyrexian Chalice
+
+CW06 — Lorehold Paleodietician
+
+CU08 — Inspiring Lemma Beans
+
+CU01 — Quandrix Garden Gates
+
+UU04 — Square Elemental
+
+CU13 — Publish Analysis
+
+CU04 — Sneaky Researcher
+
+CW14 — Oleaginous Portal
+
+RL01 — The Holy Oil Spring
+
+CW13 — Open Wide
+
+RL05 — Living Great Tree
+
+UU03 — Paperback Snake
+
+CU12 — Freshman Meal Plan
+
+MW11 — Elesh Norn, Fidei Defensor
+
+MR14 — Mabel, Valley's Champion
+
+MG15 — Umori, Glue Beast
+
+MU12 — Zimone, Prohpehtic Calculist
+
+RL04 — Emberheart Greatsword
+
+RZ01 — Holy Relics Masterclass
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create two Food tokens.
+{W}{W}{U}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{2}{W}{W}{U}{U} Level 4
+Spells you control have affinity for artifacts. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create two Food tokens.
+{1}{W}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{3}{W}{U} Level 4
+Spells you control have affinity for artifacts.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create two Food tokens.
+{W}{W}{U}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{2}{W}{W}{U}{U} Level 4
+Spells you control have affinity for artifacts. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create two Food tokens.
+{1}{W}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{3}{W}{U} Level 4
+Spells you control have affinity for artifacts.
+
+RZ03 — Blight Rabbit
+
+RZ04 — Wormcoil Hydra
+
+RZ06 — Advanced Bravery
+
+RZ09 — Esdragot
+
+RZ10 — Find the Magic Acorn
+
+RW01 — Mondrak, Impassable Horror
+
+RU01 — Larine Arneza, Valedictorian
+
+RU02 — Pensive Professor
+
+RB01 — Agatha, Cauldron Witch
+
+RR02 — Calamity Lavabuck
+
+RG03 — Wildcat Bonder
+
+RG01 — Kogla, the Titan Ape
+
+RB02 — Gumdrop Poisoner
+
+UR03 — Riverbank Paladin
+rules_text: Haste
+Whenever you expend 4, destroy up to one target artifact. [i](You expend 4 as you spend your fourth total mana to cast spells during a turn.)[/i] => Haste
+Whenever you expend 4, destroy up to one target Food token. [i](You expend 4 as you spend your fourth total mana to cast spells during a turn.)[/i]
+
+RR03 — Sword from the Pond
+
+UR06 — Calamity Ember Owl
+
+UG02 — Chevill's Apprentice
+
+UG05 — Ravenous Hyena
+
+UB09 — Graverob
+
+UB05 — Red Riding Hood
+
+UZ03 — Soul Rodent
+
+UZ04 — Tithe Monster
+
+UZ09 — Itsy Bitey Spider
+
+UR05 — Wiskerbow Archer
+
+MB13 — Rankle, Trusted Borrower
+
+UU01 — Axiom Channeler
+
+CZ07 — Strix Bonder
+
+CZ09 — Elder Bonder
+pt: 3/3 => 4/4
+
+CZ10 — Frenzied Bonder
+rules_text: Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Whenever you expend 4, put a +1/+1 counter on this creature. => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Trample
+Whenever you expend 4, Frenzied Bonder gains gets +1/+1 until end of turn.
+
+CG13— Surivor's Bond
+
+CB04 — Oilsworn Paladin
+
+CZ02 — Liturgy Preparer
+
+CA01 — Egg BombBomb
+
+UA04 — Eriette's Tempting Apple
+
+CU03 — Quaildratic Formula
+
+UU06 — Stress of Finals Week
+
+UW10 — Call to Compleation
+
+UW09 — Punishment Sphere
+
+CR09 — Oilslick Watchfrog
+
+CB12 — Baked into a Pie
+
+UR08 — Return the Flavor
+
+UU09 — Doesn't Count
+
+UA02 — Giant Loaf
+
+UZ02 — Dawn Knight
+
+CZ01 — Biblioplex Caterer
+
+RZ07 — Quandrix Illusionist
+
+UB07 — Back for Seconds
+
+RB03 — Little Pig
+
+UB04 — Hell's Sous Chef
+
+UZ23 — Nightwatch Blade
+
+UZ06 — Mace The Exam
+
+UZ24 — Boarish Roar
+
+UZ25 — Plagiarism
+
+UW06 — Oily Shimmer
+
+CL01 — Raugrin Lavaflats
+
+CL02 — The Woods at Twilight
+
+CL03 — Department of Environmental Sciences
+
+CL04 — Phyrexian Passage
+
+CL05 — The Valley Market
+
+UZ29 — Hoot of the Horned Owl
+
+UZ30 — Mythos of Kogla
+
+CL06 — Norn's Basilica
+
+CL07 — Biblioplex
+
+CL08 — Witches Hut
+
+CL09 — Oystershroom Lodge
+
+CL10 — Ketria Bosque
+
+UG09 — Snap Up
+
+UU05 — Tater Tot Monitor
+
+CA02 — Magic Fruit Stand
+
+CA03 — Cabbatrice
+
+UA08 — Ginger Snaposaurus
+
+UA01 — Chef's Knife
+
+UA03 — Triple Berry Patrol
+
+UA05 — Her Royal Meringue
+rules_text: Ward—sacrifices a token. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a token.)[/i]
+Vigilance, Reach
+Other Food creatures you control +1/+1. => Ward—sacrifices a token. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a token.)[/i]
+Vigilance
+Other Food creatures you control +1/+1.
+
+UA06 — Toffee Golem
+
+UG07 — Voyaging Reefshell
+
+RZ02 — Duskhunter Bat
+
+RW03 — Chef of Machines
+
+RR01 — Whisker, the Fearless
+rules_text: First strike
+Whenever a 1/1 creature you control enters under your control, double Whisker's power until end of turn. => First strike, menace
+Whenever a 1/1 creature you control enters under your control, double Whisker's power until end of turn.
+
+UR02 — Agate Instigator
+
+RU03 — Cosmophysicist
+rules_text: Ward—Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player chooses and stuns an untapped creature they control.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card. => Ward—Stun a creature [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player stun a creature.)[/i]
+Flying
+When Cosmophysicist attacks, draw a card.
+
+UG06 — Razorback Bonder
+
+UB02 — Night Knight
+
+RL02 — Atollpology
+
+RZ08 — Sand Witch
+
+UB01 — Gingerbread Cabin
+
+UR09 — Slay The Beast
+
+UB06 — Dark Lilly Ambushers
+
+UW05 — Mite Overseer
+
+RU05 — Isometric Transformation
+
+RR05 — Topple The Tall
+
+RB05 — Wicked Famine
+
+RG05 — Savai Stampede
+
+UB10 — Price of Royalty
+
+UW08 — Uncork
+
+UZ08 — The Girl Who Cried Ouphe
+
+UZ26 — Safety in Numbers
+
+UZ22 — Glistening Rites
+
+CW08 — Phyrexian Health Inspector
+
+UZ28 — Feed the Throng
+
+RG02 — River Boa Bonder
+
+CR16 — Ransack the Emberheart-Oven
+
+RL03 — The Dusk Woods
+
+MZ02 — Ms. Bumbleflower, Generous Hare
+
+MZ03 — Gyruda, Oscilating Wave
+
+MZ01 — Ixhel, Porcelain Angel
+
+MZ04 — Cruelclaw, Leader of the Red Scarves
+
+MZ05 — Kaheera, Monster Paragon
+
+MZ06 — Urabrask, Rebel Praetor
+
+MZ07 — Quandrix, Resonance Maestro
+
+MZ08 — Eriette of Love's Bite
+
+MZ09 — Quintorious, Defender of History
+
+MZ10 - The Golden Goose
+
+CR15 — Scuffle of Scurry
+
+CB15 — Trial of Guile
+
+CB16 — Ransack the Faerie Garden
+rules_text: [i](Any player may attack this battle and any non-attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then each player mills a card. => [i](Any player may attack this battle.The nearest opponent to the left of the attacking player may protect it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, create a Food token.
+Whenever a source deals damage to this battle, its controller creates a Food token. Then each player mills a card.
+
+CG15 — Fight of Might
+
+CG16 — Ransack the Ketria Gemgrove
+
+CW16 — Ransack the Fifth Sphere
+
+CU15 — Test of Intellect
+
+CU16 — Ransack the Library
+
+UZ11 — Syphon the Infinity Fountain
+
+UZ12 — Polemics of Apostasy
+
+UZ13 — Guard the Fountainport Parapet
+
+UZ15 — Beset Your Dreams
+
+UZ16 — Thesis Defense
+
+UZ17 — Traverse The Ketria Great Tree
+
+UZ18 — Challenge the Court of High Chance
+
+UZ19 — Abscond the Golden Eggs
+
+UZ20 — Hunt in the Raugrin Shoals
+
+CU10 — Recursive Research
+
+CW15 — Ceremony of Faith
+
+Food
+
+Faerie Rogue
+
+Fish
+
+Fractal Beast
+
+Phyrexian Mite
+
+Mouse Knight
+
+Autocatalytic Hare
+
+Horror Knight
+
+Fractal
+
+Pest
+
+Boar Citizen
+
+Boar Warrior
+
+Gingerbrute
+
+Royal Role
+
+CR03 — Emberheart Mouster
+
+Lizard Elemental
+
+Agate Instigator
+
+Ooze
+
+Cat Beast
+
+Urabrask Mouse Knight
+
+Elephant Spirit
+
+Phyrexian Wurm
+
+Frog
+
+Otter
+
+Elemental
+
+Human Rogue
+
+Rat
+
+Squirrel
+
+Oilslick Watchfrog
+
+RW04 — White Sundae's Solstice
+
+UR11 — The Valley's Charge
+
+Food Creature
+
+Incubated Food
+
+UU11 — The March of Knowledge
+
+UG11 — The Horned Stampede
+
+UW11 — The Infection Offensive
+
+UB11 — The Confection Confliction
+
+RG06 — Invasion of Ikoria
+
+RW06 — Ransack The Multiverse
+
+RR06 — Invasion of Bloomburrow
+
+RU06 — Final Exam
+
+RB06 — Heros of Forgotten Tales
+
+UZ01 — Bibliochef
+
+Fractal Dragon
+
+RR04 — Flavor of Autumn
+
+CA04 — Pericarp Wings
+
+UW04 — Auriok Saucier
+
+New Mechanics
+rules_text: [/i][i][b]Conjecture[/b][/i][i] [i]([i]Cast from anywhere but your hand.)[/i]
+
+[/i][b]Help[/b][i] [i](Other players can pay for the generic mana of this spell's cost.)[/i]
+[/i]
+[b]Haggle[/b] [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+
+[b]Incubate Food N[/b] [i](CREATE A FOOD TOKEN WITH TWO +1/+1 counters on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]
+
+[/i][b]Wildbond [/b] [i](You may bond that creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i] => [/i][i][b]Conjecture[/b][/i][i] [i]([i]Cast from anywhere but your hand.)[/i]
+[/i][b]Help[/b][i] [i](Other players can pay for the generic mana of this spell's cost.)[/i][/i]
+[b]Haggle[/b] [i](You may remove a counter from a nonbattle permanent you control as you cast this spell.)[/i]
+[b]Incubate Food 1[/b][i] [i](To incubate 1, create a Food token with a +1/+1 counter on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]
+[/i][/i]Wildbond [i](You may bond that creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+
+
+VERSION 37 CHANGELOG
 ====================
 
 No changes.
