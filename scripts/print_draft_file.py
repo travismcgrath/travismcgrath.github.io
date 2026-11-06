@@ -80,7 +80,7 @@ def generateFile(code):
 			"mana_cost": "''' + re.sub(h_pattern, h_replace, card['cost']) + '''",
 			"type": "''' + card['type'] + '''",
 			"collector_number": "''' + str(card['number']) + '''",
-			"rating": ''' + ( '4' if str(card['rarity'])=='rare' else '3' if str(card['rarity'])=='uncommon' else  '2' if str(card['rarity'])=='common' else '1')+  ''',
+			"rating": ''' + ( '5' if str(card['rarity'])=='mythic' else '4' if str(card['rarity'])=='rare' else '3' if str(card['rarity'])=='uncommon' else  '2' if str(card['rarity'])=='common' else '1')+  ''',
 	'''
 
 		# CE: this is for any custom types that use a rotated frame

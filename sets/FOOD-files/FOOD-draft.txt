@@ -1139,7 +1139,7 @@
 			"mana_cost": "{4}{W}{W}",
 			"type": "Legendary Creature — Phyrexian Praetor",
 			"collector_number": "17",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/103.png"
 			}
@@ -1150,7 +1150,7 @@
 			"mana_cost": "{2}{R}{R}",
 			"type": "Legendary Creature — Mouse Knight",
 			"collector_number": "120",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/104.png"
 			}
@@ -1161,7 +1161,7 @@
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Ooze Beast",
 			"collector_number": "155",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/105.png"
 			}
@@ -1172,7 +1172,7 @@
 			"mana_cost": "{1}{U}{U}",
 			"type": "Legendary Creature — Human Wizard",
 			"collector_number": "51",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/106.png"
 			}
@@ -1469,7 +1469,7 @@
 			"mana_cost": "{3}{B}{B}",
 			"type": "Legendary Creature — Faerie Rogue",
 			"collector_number": "86",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/133.png"
 			}
@@ -2364,7 +2364,7 @@
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — Rabbit Noble",
 			"collector_number": "175",
-			"rating": 1,
+			"rating": 5,
 			"back": {
 				"name": "",
 				"type": "",
@@ -2388,7 +2388,7 @@
 			"mana_cost": "{4}{U}{B}",
 			"type": "Legendary Creature — Demon Kraken",
 			"collector_number": "176",
-			"rating": 1,
+			"rating": 5,
 			"back": {
 				"name": "",
 				"type": "",
@@ -2412,7 +2412,7 @@
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Creature — Phyrexian Angel",
 			"collector_number": "174",
-			"rating": 1,
+			"rating": 5,
 			"back": {
 				"name": "",
 				"type": "",
@@ -2436,7 +2436,7 @@
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Weasle Mercenary",
 			"collector_number": "177",
-			"rating": 1,
+			"rating": 5,
 			"back": {
 				"name": "",
 				"type": "",
@@ -2460,7 +2460,7 @@
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Creature — Cat Beast",
 			"collector_number": "178",
-			"rating": 1,
+			"rating": 5,
 			"back": {
 				"name": "",
 				"type": "",
@@ -2484,7 +2484,7 @@
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Phyrexian Praetor",
 			"collector_number": "179",
-			"rating": 1,
+			"rating": 5,
 			"back": {
 				"name": "",
 				"type": "",
@@ -2508,7 +2508,7 @@
 			"mana_cost": "{5}{G}{U}",
 			"type": "Legendary Creature — Elder Dragon",
 			"collector_number": "180",
-			"rating": 1,
+			"rating": 5,
 			"back": {
 				"name": "",
 				"type": "",
@@ -2532,7 +2532,7 @@
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — Human Warlock",
 			"collector_number": "181",
-			"rating": 1,
+			"rating": 5,
 			"back": {
 				"name": "",
 				"type": "",
@@ -2556,7 +2556,7 @@
 			"mana_cost": "{2}{R}{W}",
 			"type": "Legendary Creature — Elephant Knight",
 			"collector_number": "182",
-			"rating": 1,
+			"rating": 5,
 			"back": {
 				"name": "",
 				"type": "",
@@ -2580,7 +2580,7 @@
 			"mana_cost": "{X}{G}{U}",
 			"type": "Legendary Creature — Bird Hydra",
 			"collector_number": "183",
-			"rating": 1,
+			"rating": 5,
 			"back": {
 				"name": "",
 				"type": "",

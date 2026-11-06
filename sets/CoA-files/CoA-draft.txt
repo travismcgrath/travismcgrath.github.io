@@ -17,7 +17,7 @@
 			"mana_cost": "{W}{U}{B}",
 			"type": "Legendary Creature — Vedalken Zombie",
 			"collector_number": "164",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/164_Dovin Baan, Persistent Ruler.png"
 			}
@@ -28,7 +28,7 @@
 			"mana_cost": "{2}{R}{G}{W}",
 			"type": "Legendary Creature — Human Monk",
 			"collector_number": "184",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/184_Narset, Panharmonastic Sage.png"
 			}
@@ -39,7 +39,7 @@
 			"mana_cost": "{2}{B}{R}{G}",
 			"type": "Legendary Creature — Orc Berserker",
 			"collector_number": "210",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/210_Zurgo, Anarchist Leader.png"
 			}
@@ -50,7 +50,7 @@
 			"mana_cost": "{3}{G}{W}{U}",
 			"type": "Legendary Creature — Human Merchant",
 			"collector_number": "180",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/180_Kurna Majan, Luminary Financier.png"
 			}
@@ -72,7 +72,7 @@
 			"mana_cost": "{3}{G}{W}",
 			"type": "Artifact Creature — Elemental Servo",
 			"collector_number": "157",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/157_Cataclysmic Earthquake.png"
 			}
@@ -83,7 +83,7 @@
 			"mana_cost": "{3}{U}{B}",
 			"type": "Artifact Creature — Elemental Servo",
 			"collector_number": "186",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/186_Noxious Duststorm.png"
 			}
@@ -94,7 +94,7 @@
 			"mana_cost": "{3}{W}{U}",
 			"type": "Artifact Creature — Elemental Servo",
 			"collector_number": "202",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/202_Torrential Ice Wave.png"
 			}
@@ -105,7 +105,7 @@
 			"mana_cost": "{3}{R}{G}",
 			"type": "Artifact Creature — Elemental Servo",
 			"collector_number": "205",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/205_Verdurous Wildfire.png"
 			}
@@ -116,7 +116,7 @@
 			"mana_cost": "{3}{B}{R}",
 			"type": "Artifact Creature — Elemental Servo",
 			"collector_number": "162",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/162_Combustible Lightning.png"
 			}
@@ -127,7 +127,7 @@
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Bird",
 			"collector_number": "1",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/1_Aethermate Roc.png"
 			}
@@ -138,7 +138,7 @@
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Elemental",
 			"collector_number": "58",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/58_Winds of Industry.png"
 			}
@@ -149,7 +149,7 @@
 			"mana_cost": "{3}{B}{B}{B}",
 			"type": "Creature — Demon",
 			"collector_number": "64",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/64_Demon of Dark Schemes.png"
 			}
@@ -160,7 +160,7 @@
 			"mana_cost": "{3}{R}{R}",
 			"type": "Creature — Human Warrior",
 			"collector_number": "103",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/103_Lightning Runner.png"
 			}
@@ -171,7 +171,7 @@
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Cat",
 			"collector_number": "133",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/133_Longtusk Pride.png"
 			}
@@ -3064,7 +3064,7 @@
 			"mana_cost": "{4}{U}{B}{R}",
 			"type": "Legendary Creature — Snake Demigod",
 			"collector_number": "197",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CoA-files/img/197_Sidisi, Scales of Industry.png"
 			}

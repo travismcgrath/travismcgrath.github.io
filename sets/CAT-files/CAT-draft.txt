@@ -6,7 +6,7 @@
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
 			"collector_number": "76",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CAT-files/img/76_Sword of Hearth and Home.png"
 			}
@@ -17,7 +17,7 @@
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
 			"collector_number": "73",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CAT-files/img/73_Buster Sword.png"
 			}
@@ -28,7 +28,7 @@
 			"mana_cost": "{W}",
 			"type": "Creature — Cat",
 			"collector_number": "36",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CAT-files/img/36_Ocelot Pride.png"
 			}
@@ -204,7 +204,7 @@
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Creature — Cat Warrior",
 			"collector_number": "2",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CAT-files/img/2_Ajani, Nacatl Pariah.png"
 			}
@@ -237,7 +237,7 @@
 			"mana_cost": "",
 			"type": "Legendary Planeswalker — Ajani",
 			"collector_number": "0",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CAT-files/img/0_Ajani, Nacatl Avenger.png"
 			}
@@ -534,7 +534,7 @@
 			"mana_cost": "{2}{W}{W}",
 			"type": "Creature — Insect",
 			"collector_number": "33",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CAT-files/img/33_Luminous Broodmoth.png"
 			}
@@ -875,7 +875,7 @@
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Dinosaur Cat Nightmare",
 			"collector_number": "71",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CAT-files/img/71_Snapdax, Apex of the Hunt.png"
 			}
@@ -1040,7 +1040,7 @@
 			"mana_cost": "{1}{W}{B}",
 			"type": "Legendary Creature — God",
 			"collector_number": "68",
-			"rating": 1,
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/CAT-files/img/68_Ketramose, the New Dawn.png"
 			}
