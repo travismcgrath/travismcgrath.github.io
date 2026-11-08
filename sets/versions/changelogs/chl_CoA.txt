@@ -1,4 +1,716 @@
-﻿VERSION 15 CHANGELOG
+﻿VERSION 16 CHANGELOG
+====================
+
+Narset's Ascendancy added.
+Master of Mists added.
+
+Dragonfist Technique removed.
+Master of Pearls removed.
+
+Longtusk Pride
+
+Fumigate
+
+Grim Haruspex
+
+Aradara Station
+rules_text: {T}: Add {C}.
+{2}{T}: Target colorless creature you control gets +1/+1 until end of turn. => {T}, Sacrifice this land: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.
+
+Eternal Witness
+
+Longtusk Pride
+
+Monk
+
+Human Monk
+
+Morph
+
+Thopter
+
+Servo
+
+Snake
+
+Beast
+
+Bird
+
+Assembly-Worker
+
+Player 6 - Energy Reserve
+
+Player 3 - Energy Reserve
+
+Player 4 - Energy Reserve
+
+Player 1 - Energy Reserve
+
+Player 2 - Energy Reserve
+
+Player 13 - Energy Reserve
+
+Player 7 - Energy Reserve
+
+Player 14 - Energy Reserve
+
+Player 5 - Energy Reserve
+
+Player 16 - Energy Reserve
+
+Player 15 - Energy Reserve
+
+Player 12 - Energy Reserve
+
+Player 11 - Energy Reserve
+
+Player 8 - Energy Reserve
+
+Player 10 - Energy Reserve
+
+Player 9 - Energy Reserve
+
+Map
+
+Thriving Grubs
+
+Dovin Baan, Persistent Ruler
+
+Narset, Panharmonastic Sage
+
+Zurgo, Anarchist Leader
+
+Kurna Majan, Luminary Financier
+
+Waste Land
+
+Cataclysmic Earthquake
+
+Noxious Duststorm
+
+Torrential Ice Wave
+
+Verdurous Wildfire
+
+Combustible Lightning
+
+Aethermate Roc
+
+Winds of Industry
+
+Demon of Dark Schemes
+
+Lightning Runner
+
+Adi Thandray, Platinum Ancestor
+
+Yahenni, Altruistic Ancestor
+
+Surrak, Pelt-Clad Ancestor
+
+Houn, Beguiling Ancestor
+
+Ancestor, Who Smirks at Law
+
+Dustblast
+
+Dynastic Inheritance
+
+Temporize Activist
+rules_text: Counter target creature spell.
+Create a 1/1 colorless Servo artifact creature token, then put a +1/+1 counter on it. => Counter target spell.
+Target creature you control manufactures 1 twice.
+
+Booming Karma
+
+Sagu Deforester
+
+Kneecap Blaster
+
+Assemblyman of Preservation
+
+Sage of the Vitalfire
+
+Savage Union Busters
+
+Sai's Patronage
+
+Impulsive Fracking
+rules_text: As additional cost to cast this spell pay {2} or sacrifice a land.
+You gain {E}{E}{E}, then you may pay {E}{E}. If you do, draw a card.
+Destroy target creature. => As additional cost to cast this spell pay {2} or sacrifice a land.
+You gain {E}{E}{E}, then you may pay {E}{E}. If you do, scry 2.
+Destroy target creature.
+
+Birth of Rebellion
+
+Chianul's Guidance
+rules_text: Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+Create a 2/2 green and white Monk creature token with prowess, then scry 1. => Rebound [i](If you cast this spell from your hand, exile it as it resolves. At the beginning of your next upkeep, you may cast this card from exile without paying its mana cost.)[/i]
+Create a 2/1 green and white Monk creature token with prowess, then scry 1.
+
+Confiscation Coup
+
+Bloodsoaked Champion
+
+Hooded Hydra
+
+Liberated Dreadnought
+
+Thousand Winds
+
+Jeering Instigator
+
+Chianul, Qal Sisma Mystic
+
+Machiavellian Will
+
+Unscrupulous Puppeteer
+
+Pearl Lake Salar
+
+Gremlin Anarchist
+
+The Assembly's Orator
+
+Syndicate Logistician
+
+Snapping Sanctuary
+
+Industrious Angel
+
+Mine for Solutions
+type: Instant => Sorcery
+cost: {10}{U}{U} => {12}{U}{U}
+rules_text: Mine for Solutions costs {1} less to cast for each colorless permanent you control.
+Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in any order. => Mine for Solutions costs {1} less to cast for each colorless permanent you control. [i](Lands count as colorless permanents).[/i]
+Look at the top ten cards of your library. Put three of them into your hand and the rest on the bottom of your library in a random order.
+
+Exploration Module
+
+Extraction Module
+
+Execution Module
+cost: {1} => {2}
+rules_text: Whenever you get one or more {E}, you may pay {2}. If you do, create a 1/1 colorless Thopter artifact creature token with flying.
+{4},{T}: Proliferate. => Whenever you get one or more {E}, you may pay {1}. If you do, create a 1/1 colorless Thopter artifact creature token with flying.
+{4},{T}: Proliferate.
+
+Skysovereign, Grounded Flagship
+
+Smuggler's ATV
+
+Cultivator's Caravan
+
+Fleetwheel Cruiser
+
+Metallic Mimic
+
+Altar of the Brood
+
+Ghostfire Blade
+
+Corrupted Workshop
+
+Desert Rift
+
+Seaside Citadel
+
+Arcane Sanctum
+
+Crumbling Necropolis
+
+Savage Lands
+
+Jungle Shrine
+
+Aether Hub
+
+Zurgo's Encampment
+rules_text: {T}: Add {C}
+[i]Raid[/i] - {T}: Add one mana of any color. Activate only if you've attacked this turn. => Zurgo's Encampment enters tapped.
+As Zurgo's Encampment enters, choose a color.
+{T}: Add one mana of the chosen color.
+[i]Raid[/i] - {4},{T}: Put a +1/+1 counter on target creature that is one or more colors. Activate only if you've attacked this turn.
+
+Indigo Monmument
+
+Vedalken Aetherlooter
+
+Citizen's Companion
+
+Whisper Virtuoso
+
+Warden of the Scrolls
+
+Nihilist Roughrider
+rules_text: Whenever Nihilist Roughrider attacks, tap up to one target vehicle you control. It becomes an attacking artifact creature until end of turn.
+{E}{E}: Target creature can't block this turn. Activate only as a sorcery => Whenever Nihilist Roughrider enters or attacks, tap up to one target vehicle you control. It becomes an attacking artifact creature until end of turn.
+{E}{E}: Target creature can't block this turn. Activate only as a sorcery
+
+Unlicensed Syphoning
+
+Bull Market
+
+Icefeather Carrion
+
+Inventor's Mantle
+
+Smash Up
+
+Contraband Kingpin
+
+Highspire Adept
+
+Baral, Renegade Brawler
+rules_text: Whenever you cast an instant or sorcery spell, you get {E}.
+When Baral attacks, you may pay {E}{E}, if you do he manufactures 1. => Whenever you cast an instant or sorcery spell, you get {E}.
+When Baral attacks, you may pay {E}{E}. If you do he manufactures 1.
+
+Labor Charm
+rules_text: Choose one —
+• Destroy target attacking creature.
+• Counter target spell unless its controller pays {3}.
+• Target opponent reveals their hand. You choose a nonland card from it. That player discards that card. => Choose one —
+• Destroy target attacking creature.
+• Counter target spell unless its controller pays {3}.
+• Each opponent sacrifices a non-token artifact or enchantment.
+
+Political Charm
+
+Finance Charm
+
+Monastic Charm
+
+Rebelious Charm
+
+Sage-Eye Apprentice
+
+Entrant of the Way
+
+Gearshift Pitcrew
+
+Devout Kirin
+
+Roost's Guardian
+rules_text: Flying 
+Morph {4}{W}{W}
+When Roost's Guardian is turned face up, you may exile target creature. If you do, return it to the battlefield under its owner's control. Then Roost's Guardian manufactures 2. => Flying 
+Morph {4}{W}{W}
+When Roost's Guardian is turned face up, it manufactures 2. Then you may exile target creature. If you do, return that creature to the battlefield under its owner's control.
+
+Ghostfire's Light
+
+Resistance Factor
+
+Skywhaler's Shot
+
+Salt Road Tank
+
+Cogify
+
+Glimmer of Genius
+
+Shrewd Negotiation
+
+Innovation Setbacks
+
+Glacial Glintfisher
+
+Denial Lobbyist
+
+Astute Fairground Vendor
+
+Subverter
+
+Filigreed Skywhale
+
+Tenth Bridge Copter
+
+Gonti's Illicit Ironworks
+
+Underhanded Designs
+
+Aether Extraction
+
+Ruthless Ripper
+
+Glintsleeve Bruiser
+
+Heir of the Wastes
+rules_text: Deathtouch
+During your turn, Heir of the Wastes gets +1/+1 if you or a creature you control has a counter on it. => Deathtouch
+During your turn, Heir of the Wastes gets +1/+1 as long as you or a creature you control has a counter on it.
+
+Bloody Auctioneer
+
+Shambling Aetherborn
+
+Kheru Harvester
+
+Hordeling Troublemaker
+
+Aetherbomb Arsonist
+rules_text: Whenever Aetherbomb Arsonist becomes blocked by a creature, it deals 1 damage to that creature.
+[i]Raid[/i] - When Aetherbomb Arsonist dies, if you attacked this turn, you get {E}{E} and it deals 3 damage to target creature. => Whenever Aetherbomb Arsonist becomes blocked by a creature, it deals 1 damage to that creature.
+[i]Raid[/i] - When Aetherbomb Arsonist dies, if you attacked this turn, target player gets {E}{E} and it deals 2 damage to up to one target creature.
+
+War-Name Aspirant
+
+Bloodfire Sage
+
+Ashcloud Dragster
+
+Maulfist Doorbuster
+
+Fairgrounds Acrobat
+
+Myopic Pillaging
+
+Harnessed Lightning
+
+Purchase Armorcraft
+
+Guardian of the Cowl
+
+Riparian Jaguar
+
+Incensed Druid
+
+Tuskguard Colonel
+
+Tenth Bridge Turret Guard
+
+Guarded Supply Freighter
+
+Ovalchase Dragster
+
+Bomat Bazaar Barge
+
+Consol's Bodyguards
+
+Owl-Strix Archers
+
+Powered Down Timepiece
+
+Improvised Weather Machine
+rules_text: {2},{T}: Until the end of turn you may play lands from your graveyard. Surveil 1, then reveal the top card of your library. If it is a land, put it onto the battlefield tapped. Otherwise, you get {E}{E}. => You may play lands from your graveyard.
+{T}, Sacrifice an untapped land: You get {E}{E} and surveil 1.
+
+Alloy Loxodon
+
+Filigree Familiar
+
+Ghirapur's Golden Parapets
+
+Loxodon Memorial
+
+Lobbiers's Purse
+
+Tranquil Cove
+
+Dismal Backwater
+
+Bloodfell Caves
+
+Rugged Highlands
+
+Blossoming Sands
+
+Scoured Barrens
+
+Swiftwater Cliffs
+
+Jungle Hollow
+
+Wind-Scarred Crag
+
+Thornwood Falls
+
+Backslide
+
+Thriving Rats
+
+Irreversible Nightmare
+
+Chief of the Nail
+
+Rocslide
+
+Aetherborn Dreamwalker
+
+Inspector Brigade
+
+Illusion of Luxury
+
+Mystic of The Way
+
+Peema Woods Champions
+
+Factory BannerKnot
+
+Lawful BannerKnot
+
+Market BannerKnot
+
+Monastery BannerKnot
+
+Lawless BannerKnot
+
+Brass Winged Vulture
+
+Steel Horned Ibex
+
+Silver Tusked Walrus
+
+Wrought Iron Rhino
+
+Lead Toothed Hyenas
+
+Artificer's MIG
+cost: {1} => {2}
+
+Lathnu Funicular
+
+Aetherspout Bulldozer
+
+Adara Cable Car
+
+Prophetic Prism
+
+Foundry Auditor
+
+Self-Assembler
+
+Snare Thopter
+
+Spur to Believe
+
+Empower the Masses
+
+Tax On Action
+
+Disassemble
+
+Medatative Inspiration
+
+Apprehend Dissident
+
+Assembly's Attache
+
+Skypatrol Aetherborn
+
+Aristocrats' Steed
+
+Charming Kata
+
+Teacher of the Way
+
+Polluting Byproduct
+
+Contrive
+
+Artificer's Epiphany
+
+Failed Inspection
+
+Unseasonal Squall
+
+Sponsor's Cruise
+
+Dovin's Spy
+
+Drone Vendor
+
+Aetherborn Incumbent
+
+Minister of Flight
+
+Gearseeker Squid
+
+Miasmic Cloud
+
+Live Fast
+
+Die Young
+
+Seize the Means
+
+Exhausting Shift
+
+Worker Strike
+
+Ghirapur Pickpocket
+
+Midnight Inspector
+
+Sidisi's Scavenger
+
+Defeatist Recycler
+
+Graveyard Lurker
+
+Aetherborn Bond-Kin
+
+Pupil of the Hidden Eye
+
+Narset's Student
+rules_text: Prowess => Prowess
+Whenever Narset's Student deals combat damage to a player, you may draw a card. If you do, discard a card.
+
+Inauspicious Skyclaw
+
+Malign Aetherborn
+
+Factory Mazdoor
+rules_text: When Factory Mazdoor enters you get {E}{E}{E}.
+When Factory Mazdoor attacks or blocks you may pay {E}, if you do, it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i] => When Factory Mazdoor enters you get {E}{E}{E}.
+When Factory Mazdoor attacks or blocks you may pay {E}. If you do, it manufactures 1. [i](Put a +1/+1 counter on this creature, or create a 1/1 colorless Servo artifact creature token.)[/i]
+
+Summit Postulant
+
+Provoked Lightning
+
+Rising Temperatures
+
+Offload
+
+Optimistic Nihilism
+
+Fanatical Recruitment
+
+Aetherspout Eruption
+rules_text: Aetherspout Eruption deals 3 damage to each creature. Then you may pay {E}{E}, if you do draw a card. => Aetherspout Eruption deals 3 damage to each creature. Then you may pay {E}{E}. If you do, draw a card.
+
+Peema Colossus
+
+Fairgrounds Security
+
+Kurna's Consultant
+
+Ferrophage Spider
+rules_text: Reach
+When Ferrophage Spider blocks a creature with flying, it gains +3/+0 until end of t urn. => Reach
+When Ferrophage Spider blocks a creature with flying, it gains +3/+0 until end of turn.
+
+Disrupted Hibernator
+
+Filigree-horn Luddite
+
+Sage-Eyed Enforcer
+
+Reimmerse In Nature
+
+Gift of Sagacity
+
+Devolution
+
+Peema Boxer
+
+Immense Development
+rules_text: Put a +1/+1 counter and it gets trample until end of turn. If it's colorless, it gets +2/+2 until end of turn. => Put a +1/+1 counter on target creature and it gets trample until end of turn. If it's colorless, it gets +2/+2 until end of turn.
+
+Extinction Rebellion
+
+Complete Devotion
+
+Raise the Alms
+
+Hypnotizing AetherBorealis
+
+Ceaseless Fires
+rules_text: Until end of turn damage can't be prevented. 
+Ceaseless Fires deals 4 damage to target creature.
+[i]Raid[/i] - If you attacked this turn you get {E}{E}, then you may pay {E}{E}{E}{E}, if you do, Ceaseless Fires deals 4 damage to any target. => Until end of turn damage can't be prevented. 
+Ceaseless Fires deals 4 damage to target creature.
+[i]Raid[/i] - If you attacked this turn you get {E}{E}, then you may pay {E}{E}{E}{E}. If you do, Ceaseless Fires deals 4 damage to any target.
+
+Bear Market
+
+Empty The Vault
+
+Yasova, Firebrand Zealot
+
+Oviya Pashiri, Onlooking Spiritcrafter
+
+Highspire Mystic
+
+Aether Dart
+
+Mineral Appraiser
+
+Displaced Dreadmaw
+
+Tradewind Stalker
+
+Storm Harmonist
+type: Creature — Elf Bard => Creature — Elf Bard Monk
+
+Sunset Smoglands
+
+Dusk Factory
+rules_text: This land enters tapped unless you control an Island or a Mountain.
+{T}: Add {B}.
+{1}{U}{R}, {T}: You get {E}{E}, draw a card then discard a card. => This land enters tapped unless you control an Island or a Mountain.
+{T}: Add {B}.
+{B}, {T}: Add {U}{B}, {B}{R}, or {U}{R}.
+{1}{U}{R}, {T}: You get {E}{E}, draw a card then discard a card.
+
+Kurna Headquarters
+rules_text: This land enters tapped unless you control a Plains or an Island 
+{T}: Add {G}.
+{1}{W}{U}, {T}: Put a +1/+1 counter on target creatures you control. => This land enters tapped unless you control a Plains or an Island 
+{T}: Add {G}.
+{G}, {T}: Add {G}{W}, {G}{U}, or {W}{U}.
+{1}{W}{U}, {T}: Put a +1/+1 counter on target creatures you control.
+
+Hall of The Assembly
+rules_text: This land enters tapped unless you control a Plains or a Swamp.
+{T}: Add {U}.
+{1}{W}{B}, {T}: Servos and Thopters you control get +1/+1 until end of turn. => This land enters tapped unless you control a Plains or a Swamp.
+{T}: Add {U}.
+{U}, {T}: Add {W}{U}, {U}{B}, or {W}{B}.
+{1}{W}{B}, {T}: Servos and Thopters you control get +1/+1 until end of turn.
+
+Salt Road Shelter
+rules_text: This land enters tapped unless you control a Forest or a Swamp.
+{T}: Add {R}.
+{1}{B}{G}, {T}: Proliferate. => This land enters tapped unless you control a Forest or a Swamp.
+{T}: Add {R}.
+{R}, {T}: Add {B}{R}, {R}{G}, or {B}{G}.
+{1}{B}{G}, {T}: Proliferate.
+
+Devra Temple
+rules_text: This land enters tapped unless you control a Forest or a Mountain.
+{T}: Add {W}.
+{1}{R}{G}, {T}: Humans and Monks you control get +1/+1 until end of turn. => This enters tapped unless you control a Mountain or a Forest.
+{T}: Add {W}.
+{W}, {T}: Add {R}{W}, {G}{W}, or {R}{G}.
+{1}{R}{G}, {T}: Humans and Monks you control get +1/+1 until end of turn.
+
+Eye of the Dragon
+pt: 3/2 => 3/1
+
+Sidisi, Scales of Industry
+
+Feedback
+type: Archtypes => Archetypes
+
+Chief of the Hammer
+
+Nature's Glare
+
+Self-regulated Saftey
+
+Assembly's Gryphoner
+
+Army for Hire
+
+Scouting Servo
+
+
+VERSION 15 CHANGELOG
 ====================
 
 Yahenni, Altruistic Ancestor added.

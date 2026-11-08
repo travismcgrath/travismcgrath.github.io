@@ -528,7 +528,7 @@
         "position": "203"
     },
     {
-        "card_name": "UU07 \u2014 Give Insight",
+        "card_name": "UU07 \u2014 Read the Recipe",
         "number": 64,
         "shape": "normal",
         "set": "FOOD",
@@ -592,12 +592,12 @@
         "position": "149"
     },
     {
-        "card_name": "UG08 \u2014 Establish Eludha",
+        "card_name": "UG08 \u2014Vetch Elemental",
         "number": 170,
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "54"
+        "position": "47"
     },
     {
         "card_name": "UW10 \u2014 Call to Compleation",
@@ -672,12 +672,12 @@
         "position": "63"
     },
     {
-        "card_name": "UG10 \u2014 Nourish The Young",
+        "card_name": "UG10 \u2014 Establish Eludha",
         "number": 172,
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "47"
+        "position": "54"
     },
     {
         "card_name": "CW01 \u2014 Phyrexian Pridemate",
@@ -1774,7 +1774,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "UZ29 \u2014 Hoot of the Horned Owl",
+        "card_name": "UZ29 \u2014 Back for More",
         "number": 217,
         "shape": "normal",
         "set": "FOOD",
@@ -1809,7 +1809,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "CZ09 \u2014 Elder Bonder",
+        "card_name": "CZ09 \u2014Beanstalk Bonder",
         "number": 227,
         "shape": "normal",
         "set": "FOOD",
@@ -1933,7 +1933,7 @@
     },
     {
         "card_name": "Incubated Food",
-        "number": 32,
+        "number": 33,
         "shape": "transform double faced",
         "set": "FOOD",
         "rotated": false,
@@ -2241,7 +2241,7 @@
     },
     {
         "card_name": "Food Creature",
-        "number": 29,
+        "number": 30,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
@@ -2249,7 +2249,7 @@
     },
     {
         "card_name": "Gingerbrute",
-        "number": 30,
+        "number": 31,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
@@ -2257,7 +2257,7 @@
     },
     {
         "card_name": "Golden Egg",
-        "number": 31,
+        "number": 32,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
@@ -2265,7 +2265,7 @@
     },
     {
         "card_name": "Phyrexian Wurm",
-        "number": 35,
+        "number": 36,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
@@ -2280,8 +2280,16 @@
         "position": "277"
     },
     {
-        "card_name": "Food",
+        "card_name": "Archetypes",
         "number": 28,
+        "shape": "token",
+        "set": "FOOD",
+        "rotated": false,
+        "position": "339"
+    },
+    {
+        "card_name": "Food",
+        "number": 29,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
@@ -2289,7 +2297,7 @@
     },
     {
         "card_name": "New Mechanics",
-        "number": 33,
+        "number": 34,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
@@ -2297,11 +2305,27 @@
     },
     {
         "card_name": "Types of Battles",
-        "number": 36,
+        "number": 37,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
         "position": "1"
+    },
+    {
+        "card_name": "Boar Citizen",
+        "number": 7,
+        "shape": "token",
+        "set": "FOOD",
+        "rotated": false,
+        "position": "283"
+    },
+    {
+        "card_name": "Boar Warrior",
+        "number": 8,
+        "shape": "token",
+        "set": "FOOD",
+        "rotated": false,
+        "position": "284"
     },
     {
         "card_name": "Fish",
@@ -2350,22 +2374,6 @@
         "set": "FOOD",
         "rotated": false,
         "position": "280"
-    },
-    {
-        "card_name": "Boar Citizen",
-        "number": 7,
-        "shape": "token",
-        "set": "FOOD",
-        "rotated": false,
-        "position": "283"
-    },
-    {
-        "card_name": "Boar Warrior",
-        "number": 8,
-        "shape": "token",
-        "set": "FOOD",
-        "rotated": false,
-        "position": "284"
     },
     {
         "card_name": "Human Rogue",
@@ -2534,9 +2542,6 @@
         "set": "FOOD",
         "rotated": false,
         "position": "292"
-    },
-    {
-        "card_name": "e"
     },
     {
         "card_name": "e"

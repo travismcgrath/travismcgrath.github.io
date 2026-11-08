@@ -16,7 +16,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "36",
+			"collector_number": "37",
 			"rating": 1,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/1.png"
@@ -49,7 +49,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "31",
+			"collector_number": "32",
 			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/4.png"
@@ -518,11 +518,11 @@
 			}
 		},
 		{
-			"name": "UG10 — Nourish The Young",
+			"name": "UG08 —Vetch Elemental",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}",
-			"type": "Sorcery",
-			"collector_number": "172",
+			"mana_cost": "{X}{1}{G}",
+			"type": "Creature — Elemental Beast",
+			"collector_number": "170",
 			"rating": 3,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/47.png"
@@ -595,11 +595,11 @@
 			}
 		},
 		{
-			"name": "UG08 — Establish Eludha",
+			"name": "UG10 — Establish Eludha",
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "170",
+			"collector_number": "172",
 			"rating": 3,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/54.png"
@@ -762,7 +762,7 @@
 		{
 			"name": "CZ08 — Haymeadow Brigand",
 			"rarity": "common",
-			"mana_cost": "{1}{B}{B/R}{R}",
+			"mana_cost": "{B}{B/R}{R}",
 			"type": "Creature — Weasle Rogue",
 			"collector_number": "226",
 			"rating": 2,
@@ -782,7 +782,7 @@
 			}
 		},
 		{
-			"name": "UU07 — Give Insight",
+			"name": "UU07 — Read the Recipe",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Instant",
@@ -1367,7 +1367,7 @@
 		{
 			"name": "UR06 — Calamity Ember Owl",
 			"rarity": "uncommon",
-			"mana_cost": "{6}{R}",
+			"mana_cost": "{5}{R}{R}",
 			"type": "Creature — Elemental Bird Beast",
 			"collector_number": "133",
 			"rating": 3,
@@ -1497,9 +1497,9 @@
 			}
 		},
 		{
-			"name": "CZ09 — Elder Bonder",
+			"name": "CZ09 —Beanstalk Bonder",
 			"rarity": "common",
-			"mana_cost": "{3}{B}{B/G}{G}",
+			"mana_cost": "{2}{B}{B/G}{G}",
 			"type": "Creature — Human Druid",
 			"collector_number": "227",
 			"rating": 2,
@@ -1554,7 +1554,7 @@
 		{
 			"name": "CA01 — Egg BombBomb",
 			"rarity": "common",
-			"mana_cost": "{1}",
+			"mana_cost": "{2}",
 			"type": "Artifact — Food",
 			"collector_number": "233",
 			"rating": 2,
@@ -1849,10 +1849,10 @@
 			}
 		},
 		{
-			"name": "UZ29 — Hoot of the Horned Owl",
+			"name": "UZ29 — Back for More",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{B}{G}",
-			"type": "Enchantment",
+			"mana_cost": "{4}{B}{G}",
+			"type": "Instant",
 			"collector_number": "217",
 			"rating": 3,
 			"image_uris": {
@@ -1862,7 +1862,7 @@
 		{
 			"name": "UZ30 — Mythos of Kogla",
 			"rarity": "uncommon",
-			"mana_cost": "{3}{R}{G}",
+			"mana_cost": "{2}{R}{G}",
 			"type": "Instant",
 			"collector_number": "218",
 			"rating": 3,
@@ -3044,7 +3044,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "28",
+			"collector_number": "29",
 			"rating": 1,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/273.png"
@@ -3151,22 +3151,22 @@
 		},
 		{
 			"name": "Boar Citizen",
-			"rarity": "common",
+			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Token Creature — Boar Citizen",
 			"collector_number": "7",
-			"rating": 2,
+			"rating": 4,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/283.png"
 			}
 		},
 		{
 			"name": "Boar Warrior",
-			"rarity": "common",
+			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Token Creature — Board Warriror",
 			"collector_number": "8",
-			"rating": 2,
+			"rating": 4,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/284.png"
 			}
@@ -3176,7 +3176,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Food Golem",
-			"collector_number": "30",
+			"collector_number": "31",
 			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/285.png"
@@ -3275,7 +3275,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Phyrexian Wurm",
-			"collector_number": "35",
+			"collector_number": "36",
 			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/294.png"
@@ -3398,7 +3398,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Food",
-			"collector_number": "29",
+			"collector_number": "30",
 			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/305.png"
@@ -3409,7 +3409,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "32",
+			"collector_number": "33",
 			"rating": 2,
 			"back": {
 				"name": "",
@@ -3770,7 +3770,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "33",
+			"collector_number": "34",
 			"rating": 1,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/337.png"
@@ -3785,6 +3785,17 @@
 			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/338.png"
+			}
+		},
+		{
+			"name": "Archetypes",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "28",
+			"rating": 1,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/339.png"
 			}
 		}
 	]
@@ -3859,14 +3870,14 @@
 	4 UU02 — Snapping Torus
 	4 UW03 — Charging Invader
 	4 UG03 — Drannith Mess Sergeant
-	4 UG10 — Nourish The Young
-	4 UG08 — Establish Eludha
+	4 UG08 —Vetch Elemental
+	4 UG10 — Establish Eludha
 	4 UR01 — Root Maze Hatcher
 	4 UR04 — Seedbed Sentry
 	4 UR10 — Alluring Aromas
 	4 UZ05 — Book Thief
 	4 UZ10 — Gnaw Bonder
-	4 UU07 — Give Insight
+	4 UU07 — Read the Recipe
 	4 UB03 — Faerie Assassin
 	4 UG01 — Venom Meringue Pie
 	4 UU04 — Square Elemental
@@ -3897,7 +3908,7 @@
 	4 UZ24 — Boarish Roar
 	4 UZ25 — Plagiarism
 	4 UW06 — Oily Shimmer
-	4 UZ29 — Hoot of the Horned Owl
+	4 UZ29 — Back for More
 	4 UZ30 — Mythos of Kogla
 	4 UG09 — Snap Up
 	4 UU05 — Tater Tot Monitor
@@ -3991,7 +4002,7 @@
 	8 CW13 — Open Wide
 	8 CU12 — Freshman Meal Plan
 	8 CZ07 — Strix Bonder
-	8 CZ09 — Elder Bonder
+	8 CZ09 —Beanstalk Bonder
 	8 CZ10 — Frenzied Bonder
 	8 CG13— Surivor's Bond
 	8 CB04 — Oilsworn Paladin

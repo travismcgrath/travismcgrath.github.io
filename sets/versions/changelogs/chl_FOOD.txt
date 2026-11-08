@@ -1,4 +1,159 @@
-﻿VERSION 39 CHANGELOG
+﻿VERSION 40 CHANGELOG
+====================
+
+UG08 —Vetch Elemental added.
+UG10 — Establish Eludha added.
+UU07 — Read the Recipe added.
+CZ09 —Beanstalk Bonder added.
+UZ29 — Back for More added.
+Archetypes added.
+
+UG10 — Nourish The Young removed.
+UG08 — Establish Eludha removed.
+UU07 — Give Insight removed.
+CZ09 — Elder Bonder removed.
+UZ29 — Hoot of the Horned Owl removed.
+
+CR12 — Fling a Pie
+rules_text: As an additional cost to cast this spell, discard a card or forage. [i](Exile three cards from your graveyard or sacrifice a Food.)[/i]
+Fling a Pie deals 4 damage to any target. => As an additional cost to cast this spell, discard a card or forage. [i](Exile three cards from your graveyard or sacrifice a Food.)[/i]
+Fling a Pie deals 4 damage to any target.
+Flashback {3}{R} [i](You may cast this card from your graveyard for its flashback cost. Then exile it.)[/i]
+
+RW02 — Flavor of Orthodoxy
+rules_text: Flying
+Whenever this creature or another non-token Phyrexian you control enters, incubate Food 2. [i](Create a Food token with two +1/+1 counters on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i] => Flying
+Whenever this creature or another Phyrexian you control enters, incubate Food 2. [i](Create a Food token with two +1/+1 counters on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]
+
+CW03 — Autocatalytic Hare
+rules_text: Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+When Autocatalytic Hare enters, create a Food token. => Offspring—{2} or sacrifice a Food [i](You may pay an additional {2} or sacrifice a Food as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+When Autocatalytic Hare enters, create a Food token.
+
+UG03 — Drannith Mess Sergeant
+
+UR01 — Root Maze Hatcher
+rules_text: Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Mobilize 2 [i](Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)[/i] => Offspring—{2} or sacrifice a Food [i](You may pay an additional {2} or sacrifice a Food as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Mobilize 2 [i](Whenever this creature attacks, create two tapped and attacking 1/1 red Warrior creature tokens. Sacrifice them at the beginning of the next end step.)[/i]
+
+CZ06 — Primsari Pastry Chef
+pt: 2/3 => 1/1
+
+CZ08 — Haymeadow Brigand
+cost: {1}{B}{BR}{R} => {B}{BR}{R}
+rules_text: Menace 
+Whenever a token you control leaves the battlefield, Haymeadow Brigand deals 1 damage to each opponent. => Whenever a token you control leaves the battlefield, Haymeadow Brigand deals 1 damage to each opponent.
+pt: 2/2 => 3/2
+
+UR06 — Calamity Ember Owl
+cost: {6}{R} => {5}{R}{R}
+rules_text: Flying, double strike, haste => Flying, double strike, haste
+Madness {4}{R} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+CZ10 — Frenzied Bonder
+rules_text: Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Trample
+Whenever you expend 4, Frenzied Bonder gains gets +1/+1 until end of turn. => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Trample, haste
+
+CZ02 — Liturgy Preparer
+rules_text: Whenever a token you control leaves the battlefield, you gain 1 life and you may have target opponent lose 1 life. => Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Whenever a token you control leaves the battlefield, you gain 1 life and target opponent lose 1 life.
+
+CA01 — Egg BombBomb
+cost: {1} => {2}
+rules_text: When Egg BombBomb enters, it deals 1 damage to any target.
+{6},{T}, Sacrifice Egg BombBomb: Destroy target nonland permanent. => When Egg BombBomb enters, create a Food token and exile target opponent's graveyard.
+{6},{T}, Sacrifice Egg BombBomb: Destroy target nonland permanent. this ability costs {2} less if you've sacrificed another Food this turn.
+
+CR09 — Oilslick Watchfrog
+rules_text: Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Trample, toxic 2 [i](Players dealt combat damage by this creature also get two poison counters.)[/i] => Offspring—{2} or sacrifice a Food [i](You may pay an additional {2} or sacrifice a Food as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Trample, toxic 2 [i](Players dealt combat damage by this creature also get two poison counters.)[/i]
+
+UZ23 — Nightwatch Blade
+rules_text: Enchant creature
+Enchanted creature has haste, vigilance, and battle cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Escape—- {RW}, Exile two other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Enchant creature
+When Nightwatch Blade enters, draw a card.
+Enchanted creature has haste, vigilance, and battle cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Escape—- {RW}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+UZ24 — Boarish Roar
+rules_text: Choose one. If an opponent has 3 or more poison counters as you cast this spell, you may choose both instead.
+• Creatures you control get +2/+2 and gain trample until end of turn.
+• Creatures you control gain lifelink and toxic 1 until end of turn. [i](Players dealt combat damage by that creature also get a poison counter.)[/i] => Choose one. If an opponent has 3 or more poison counters as you cast this spell, you may choose both instead.
+• Creatures you control get +2/+2 and gain trample until end of turn.
+• Creatures you control gain lifelink and toxic 2 until end of turn. [i](Players dealt combat damage by that creature also get two poison counters.)[/i]
+
+UZ30 — Mythos of Kogla
+cost: {3}{R}{G} => {2}{R}{G}
+rules_text: Reveal cards from the top of your library until you reveal a creature card. If its power is 3 or less, you may cast it without paying its mana cost. If you don't cast it, Mythos of Kogla deals damage equal to that card's power to up to one target creature, then put that card into your hand. Put the other revealed cards on the bottom of your library in a random order. => Behold a Human and a non-Human [i](Choose a Human and a non-Human you control or reveal a Human and a non-Human card from your hand.)[/i]
+Create an Kogla, Inflamed, a legendary X/X red Ape creature token, where X is the is the difference between the beheld creatures' powers. When Kogla enters, it fights up to one target creature an opponent controls. 
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i]
+
+RZ08 — Sand Witch
+rules_text: Haste
+When Sand Witch attacks, put a sand counter on target land. For as long as that land has a sand counter on it, it a Desert Food, loses all abilities, and gains “{T}: Add {C}.” and “{2}, {T}, sacrifice this land: Gain 3 life.” => When Sand Witch enters or attacks, put a sand counter on target creature defending player controls. 
+During your turn permanents with a sand counter on them are colorless Desert lands with “{T}: Add {C}” and lose all other card types and abilities. Otherwise they are goaded.
+
+UB06 — Dark Lilly Ambushers
+
+MZ04 — Cruelclaw, Leader of the Red Scarves
+
+MZ05 — Kaheera, Monster Paragon
+rules_text: Trample
+Non-Human creature spells you cast have Offspring—sacrifice a Food. [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+At the beginning of your upkeep, create a Food token. => Trample
+Non-Human creature spells you cast have Offspring—{2} or sacrifice a Food. [i](You may pay an additional {2} or sacrifice a Food as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+At the beginning of your upkeep, create a Food token.
+
+UZ11 — Syphon the Infinity Fountain
+
+UZ13 — Guard the Fountainport Parapet
+
+UZ14 — Enter the Hunter Maze
+
+UZ15 — Beset Your Dreams
+
+UZ17 — Traverse The Ketria Great Tree
+
+UZ18 — Challenge the Court of High Chance
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, target creature gets -7/-7 until end of turn. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this battle enters, target creature gets -20/-20 until end of turn.
+
+UZ19 — Abscond the Golden Eggs
+
+Boar Citizen
+
+Boar Warrior
+rules_text: This token enters with an Indestructible and a Defender counter on it.
+Whenever this creature is dealt damage, it deals that much damage to target opponent. => This token enters with an Indestructible counter and a Defender counter on it.
+Whenever this creature is dealt damage, it deals that much damage to target opponent.
+
+CR03 — Emberheart Mouster
+rules_text: Offspring—sacrifice a Food [i](You may sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+{T}: Target creature gains haste until end of turn. => Offspring—{2} or sacrifice a Food [i](You may pay an additional {2} or sacrifice a Food as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+{T}: Target creature gains haste until end of turn.
+
+UR11 — The Valley's Charge
+
+UU11 — The March of Knowledge
+
+UG11 — The Horned Stampede
+
+UW11 — The Infection Offensive
+
+RG06 — Invasion of Ikoria
+
+Fractal Dragon
+
+
+VERSION 39 CHANGELOG
 ====================
 
 
