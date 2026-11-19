@@ -1,4 +1,272 @@
-﻿VERSION 40 CHANGELOG
+﻿VERSION 41 CHANGELOG
+====================
+
+RZ06 — Advanced Bravery 101 added.
+CZ10 — Exuberant Bonder added.
+CG13 — Surivor's Bond added.
+UB10 — Lord Skitter's Brood added.
+MZ05 — Gyruda, Oscilating Wave added.
+MZ01 — Yorion, Cloud Coatl added.
+RZ18 — Cruelclaw, Leader of the Red Scarves added.
+RZ20 — Kaheera, Monster Paragon added.
+RZ14 — Jirina, Humanity's General added.
+RZ13 — Urabrask, Rebel Praetor added.
+RZ17 — Quandrix, Resonance Maestro added.
+MZ03 — Quintorious, Defender of History added.
+MZ06 — Brudiclad, Telchor Engineer added.
+MZ07 — The Golden Goose added.
+MZ09 — Ygra, Eater of Infinity added.
+UZ18 — Bargain with the Faye Court added.
+UA07 — Pericarp Wings added.
+RZ12 — Eriette of Love's Bite added.
+RZ19 — Greta, SweetArrow Avenger added.
+RZ16 — Lorb, Portal Waiter added.
+RZ11 — Jin-Gitaxias, Kitchen Tyrant added.
+RZ15 — Onyx, Lecturer to the Dead added.
+MZ02 — Shadrix Silverquill added.
+MZ04 — Beza, the Spring Bloom added.
+MZ08 — Sheoldred added.
+MZ10 — Grumgully, the Bounteous added.
+
+RZ06 — Advanced Bravery removed.
+CZ10 — Frenzied Bonder removed.
+CG13— Surivor's Bond removed.
+UB10 — Price of Royalty removed.
+MZ02 — Ms. Bumbleflower, Generous Hare removed.
+MZ03 — Gyruda, Oscilating Wave removed.
+MZ01 — Ixhel, Porcelain Angel removed.
+MZ04 — Cruelclaw, Leader of the Red Scarves removed.
+MZ05 — Kaheera, Monster Paragon removed.
+MZ06 — Urabrask, Rebel Praetor removed.
+MZ07 — Quandrix, Resonance Maestro removed.
+MZ08 — Eriette of Love's Bite removed.
+MZ09 — Quintorious, Defender of History removed.
+MZ10 - The Golden Goose removed.
+UZ18 — Challenge the Court of High Chance removed.
+Royal Role removed.
+CA04 — Pericarp Wings removed.
+
+CB03 — Marsh Mellow-o-Wisps
+
+UU02 — Snapping Torus
+cost: {2}{U} => {1}{U}
+rules_text: Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+[i]Conjecture[/i] — Snapping Torus can't attack or block unless you've cast a spell from anywhere other than your hand this turn. => Ward {2} [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player pays {2}.)[/i]
+[i]Conjecture[/i] — Snapping Torus can't attack unless you've cast a spell from anywhere other than your hand this turn.
+
+CZ08 — Haymeadow Brigand
+type: Creature — Weasle Rogue => Creature — Rat Rogue
+rules_text: Whenever a token you control leaves the battlefield, Haymeadow Brigand deals 1 damage to each opponent. => Whenever a token you control dies, Haymeadow Brigand deals 1 damage to each opponent.
+
+CR11 — Uplift Animalfolk
+rules_text: Put a haste or first strike counter on target non-Human creature you control. 
+Target player exiles a card from the top of their library. Until the end of their next turn, they may play that card. => Put a haste or first strike counter on target non-Human creature you control. 
+Target player exiles the top card of their library. Until the end of their next turn, they may play that card.
+
+RU01 — Larine Arneza, Valedictorian
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, you may exile another target creature you control, then return it battlefield under your control.This ability only triggers once per turn.
+ {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere but your hand this turn. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, you may exile another target permanent you control, then return it battlefield under your control.This ability only triggers once per turn.
+ {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere but your hand this turn.
+
+RG03 — Wildcat Bonder
+rules_text: Flash
+Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+As long as Wildcat Bonder is bonded with another creature, both creatures have double strike. If the other creature is a Cat, both get +3/+3. => Flash
+Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+As long as Wildcat Bonder is bonded with another non-human creature, both have double strike. If the other creature is a Cat, both get +3/+3.
+
+UU01 — Axiom Channeler
+cost: {1}{U} => {2}{U}
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere but your hand, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i] => [i]Conjecture[/i] — Whenever you cast a spell from anywhere but your hand, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+Discard a card: This creature gets +1/+1 until end of turn.
+
+RZ08 — Sand Witch
+rules_text: When Sand Witch enters or attacks, put a sand counter on target creature defending player controls. 
+During your turn permanents with a sand counter on them are colorless Desert lands with “{T}: Add {C}” and lose all other card types and abilities. Otherwise they are goaded. => When Sand Witch attacks, put a sand counter on target creature defending player controls. 
+Permanents with a sand counter on them can't attack you. During your turn, they are colorless Desert Food lands with “{T}: Add {C}” and “{2},{T}, sacrifice this land: You gain 3 life.” and lose all other card types and abilities.
+pt: 3/4 => 3/3
+
+RB05 — Wicked Famine
+rules_text: Choose one:
+• Destroy all creatures
+• Destroy all Food. => Choose one:
+• Destroy all creatures
+• Destroy all Food
+
+CR16 — Ransack the Emberheart-Oven
+
+CR15 — Scuffle of Scurry
+
+CB15 — Trial of Guile
+
+CB16 — Ransack the Faerie Garden
+
+CG15 — Fight of Might
+
+CG16 — Ransack the Ketria Gemgrove
+
+CW16 — Ransack the Fifth Sphere
+
+CU15 — Test of Intellect
+
+CU16 — Ransack the Library
+
+UZ11 — Syphon the Infinity Fountain
+
+UZ12 — Polemics of Apostasy
+
+UZ13 — Guard the Fountainport Parapet
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, two 1/1 red Mouse Knight creature tokens.
+Whenever one or more creature attacks you or a battle you own, untap all creatures you control. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, two 1/1 red Mouse Knight creature tokens.
+Whenever one or more creature attacks you or a battle you protect, untap all creatures you control.
+
+UZ14 — Enter the Hunter Maze
+
+UZ15 — Beset Your Dreams
+
+UZ16 — Thesis Defense
+
+UZ17 — Traverse The Ketria Great Tree
+
+UZ19 — Abscond the Golden Eggs
+
+UZ20 — Hunt in the Raugrin Shoals
+
+CU10 — Recursive Research
+
+CW15 — Ceremony of Faith
+
+Food
+
+Faerie Rogue
+
+Fish
+
+Fractal Beast
+
+Phyrexian Mite
+
+Mouse Knight
+
+Autocatalytic Hare
+
+Horror Knight
+
+Fractal
+
+Pest
+
+Boar Citizen
+
+Boar Warrior
+
+Gingerbrute
+
+CR03 — Emberheart Mouster
+
+Lizard Elemental
+
+Agate Instigator
+
+Ooze
+
+Cat Beast
+
+Urabrask Mouse Knight
+
+Elephant Spirit
+
+Phyrexian Wurm
+
+Frog
+
+Otter
+
+Elemental
+
+Human Rogue
+
+Rat
+
+Squirrel
+
+Oilslick Watchfrog
+
+RW04 — White Sundae's Solstice
+
+UR11 — The Valley's Charge
+
+Food Creature
+
+Incubated Food
+
+UU11 — The March of Knowledge
+
+UG11 — The Horned Stampede
+
+UW11 — The Infection Offensive
+
+UB11 — The Confection Confliction
+
+RG06 — Invasion of Ikoria
+
+RW06 — Ransack The Multiverse
+
+RR06 — Invasion of Bloomburrow
+
+RU06 — Final Exam
+
+RB06 — Heros of Forgotten Tales
+
+UZ01 — Bibliochef
+
+Fractal Dragon
+
+RR04 — Flavor of Autumn
+
+CA05 — Lollihammer
+
+UW04 — Auriok Saucier
+
+New Mechanics
+
+CB10 — Shadow Swap
+
+Archetypes
+rules_text: {W}{U}: 
+{W}{B}: Life Gain
+{R}{W}: Mites and Mice
+{G}{W}: Toxic Beat-down
+{U}{B}:
+{U}{R}: Madness
+{G}{U}: 
+{B}{R}: AristocRATs
+{B}{G}: Re-animator
+{R}{G}: 
+ => {W}{U}: Incubate and Stockpile Food
+
+{W}{B}: Life Gain
+
+{R}{W}: Mites and Mice go-wide
+
+{G}{W}: Toxic Beat-down
+
+{U}{B}: Adventure [/i][i]Conjecture[/i]
+[i]
+{U}{R}: Token Madness
+
+{G}{U}: Fractals and Counters
+
+{B}{R}: The AristocRATs
+
+{B}{G}: Haggle Re-animator
+
+{R}{G}: Monsters big and small
+
+
+VERSION 40 CHANGELOG
 ====================
 
 UG08 —Vetch Elemental added.
