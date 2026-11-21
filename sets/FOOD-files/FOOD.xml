@@ -5,7 +5,7 @@
 			<name>FOOD</name>
 			<longname>Food Fight</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-11-19</releasedate>
+			<releasedate>2026-11-20</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -413,7 +413,7 @@ Draw two cards.</text>
 		<card>
 			<name>CB03 — Marsh Mellow-o-Wisps</name>
 			<text>Flying, lifelink
-At the beginning of combat on each turn, if you&apos;ve gained life this turn, goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
+At the beginning of each player&apos;s end step, if you&apos;ve gained life this turn, goad target creature. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/20.png" num="72">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -424,7 +424,7 @@ At the beginning of combat on each turn, if you&apos;ve gained life this turn, g
 				<cmc>3</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
-				<pt>2/1</pt>
+				<pt>1/2</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -891,7 +891,8 @@ Create a Food token. Until end of turn, target non-human creature gets +1/+1 for
 		</card>
 		<card>
 			<name>CG09 — Indatha Ooze</name>
-			<text>Whenever another nontoken Beast you control enters, create a 3/3 green Ooze creature token with Toxic 1. (Players dealt combat damage by this creature also get a poison counter.)
+			<text>Modified creatures you control have Toxic 1. (Equipment, Auras you control, bonds, mutations, and counters are modifications. Players dealt combat damage by this creature also get a poison counter.)
+Scavenge {4}{G} ({4}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card&apos;s power on target creature. Scavenge only as a sorcery.)
 Cycling {1} ({1}, Discard this card: Draw a card.)</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/46.png" num="147">FOOD</set>
 			<prop>
@@ -903,10 +904,9 @@ Cycling {1} ({1}, Discard this card: Draw a card.)</text>
 				<cmc>7</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
-				<pt>5/5</pt>
+				<pt>6/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Ooze</related>
 		</card>
 		<card>
 			<name>UG08 —Vetch Elemental</name>
@@ -1754,7 +1754,7 @@ Whenever Lorehold Paleodietician attacks, Incubate Food 2 (Create a Food token w
 		<card>
 			<name>CU08 — Inspiring Lemma Beans</name>
 			<text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
-When Inspiring Lemma Beans enters, create a Food token, then Discover X where X is the number of artifacts you control.</text>
+When Inspiring Lemma Beans enters, if you cast it from your hand, create a Food token, then Discover X where X is the number of artifacts you control.</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/92.png" num="42">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2390,9 +2390,10 @@ Whenever a permanent an opponent controls with a bounty counter on it is put int
 		</card>
 		<card>
 			<name>UG05 — Ravenous Hyena</name>
-			<text>Flash
+			<text>Flash 
+Devour tokens 1 (As this creature enters, you may sacrifice any number of tokenses. This creature enters with that many +1/+1 counters on it.)
 Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)
-When you cycle this card, exile up to one target artifact or enchantment. Up to one target creature you control devours tokens 1. (You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)</text>
+When you cycle this card, exile up to one target artifact or enchantment.</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/126.png" num="167">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2804,7 +2805,7 @@ Trample, toxic 2 (Players dealt combat damage by this creature also get two pois
 		<card>
 			<name>UR08 — Return the Flavor</name>
 			<text>Gift one Food or Gift two Food to different opponents.
-Choose one for each gift promised.
+Choose one for each gift promised —
 • Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.
 • Change the target of target spell or ability with a single target.</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/149.png" num="135">FOOD</set>
@@ -3006,22 +3007,22 @@ Equip {2}</text>
 			<token>1</token>
 		</card>
 		<card>
-			<name>UZ24 — Boarish Roar</name>
-			<text>Choose one. If an opponent has 3 or more poison counters as you cast this spell, you may choose both instead.
-• Creatures you control get +2/+2 and gain trample until end of turn.
-• Creatures you control gain lifelink and toxic 2 until end of turn. (Players dealt combat damage by that creature also get two poison counters.)</text>
+			<name>UZ24 — Colossal Corruption</name>
+			<text>Enchant creature.
+Enchanted creature has base power and toughness 6/6 and has trample.
+Whenever enchanted creature deals combat damage to a battle or player, create that many 1//1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and &quot;This token can&apos;t block. (Players dealt combat damage by that creature also get a poison counter.)</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/160.png" num="242">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Sorcery</type>
-				<maintype>Sorcery</maintype>
+				<type>Enchantment — Aura</type>
+				<maintype>Enchantment</maintype>
 				<manacost>2GG/WW</manacost>
 				<cmc>5</cmc>
 				<colors>WG</colors>
 				<coloridentity>WG</coloridentity>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
 		</card>
 		<card>
 			<name>UZ25 — Plagiarism</name>
@@ -4044,7 +4045,7 @@ Whenever Cruelclaw deals combat damage to a creature, its controller faces a vil
 		<card>
 			<name>RZ20 — Kaheera, Monster Paragon</name>
 			<text>Trample
-Non-Human creature spells you cast have Offspring— {2} or sacrifice a Food. (You may 2 or sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
+Non-Human creature spells you cast have Offspring— {2} or sacrifice a Food. (You may 2 in addition to any other costs or sacrifice a Food as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
 At the beginning of your upkeep, create a Food token.</text>
 			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/217.png" num="203">FOOD</set>
 			<prop>
@@ -4215,7 +4216,7 @@ Food you control have &quot;{1}, {T}, Sacrifice this token: Discard a card then 
 				<colors>R</colors>
 				<coloridentity>R</coloridentity>
 				<pt>4</pt>
-				<loyalty>4</loyalty>
+				<loyalty>6</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 			<related attach="transform">CR15 — Campfire Companions</related>
@@ -4255,12 +4256,12 @@ Food tokens you control have &quot;{1}, {T}, Sacrifice this token: Goad target c
 				<side>front</side>
 				<type>Battle — Trial</type>
 				<maintype>Battle</maintype>
-				<manacost>2B</manacost>
-				<cmc>3</cmc>
+				<manacost>1B</manacost>
+				<cmc>2</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
 				<pt>4</pt>
-				<loyalty>4</loyalty>
+				<loyalty>6</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 			<related>Food</related>
@@ -4270,7 +4271,7 @@ Food tokens you control have &quot;{1}, {T}, Sacrifice this token: Goad target c
 		<card>
 			<name>CB15 — Sweet Associates</name>
 			<text>(Any player may attack this battle.Your alliance may protect it. When it&apos;s defeated, exile it and disband your alliance.)
-Whenever a creature not controlled by a player in your alliance dies, each ally creates a Food token. This ability only triggers once per turn.
+Whenever one or more attacking creatures not controlled by a player in your alliance dies, each ally may return a creature card from their graveyard to their hand.
 ---
 (Front): CB15 — Trial of Guile</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/227_back.png" num="84b">FOOD</set>
@@ -4344,7 +4345,7 @@ Whenever a source deals damage to this battle, its controller creates a Food tok
 			<name>CG15 — Fight of Might</name>
 			<text>(Your opponents may attack this battle and any non-attacking player may protect it. When it&apos;s defeated, it transformed then you and the victor form an alliance.)
 When this Trial enters, create a Food token then, search your library for a basic land card. Put it onto the battlefield tapped, then shuffle.
-Food tokens you control have &quot;{1}, {T}, Sacrifice this token: Target creature gets +1/+1 and trample until end of turn.&quot; Activate only as a sorcery.
+Food tokens you control have &quot;{2}, {T}, Sacrifice this token: Put a +1/+1 and a Trample counter on target creature.&quot; Activate only as a sorcery.
 ---
 (Back): CG15 — Kindred Packmates</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/231_front.png" num="153a">FOOD</set>
@@ -4353,12 +4354,12 @@ Food tokens you control have &quot;{1}, {T}, Sacrifice this token: Target creatu
 				<side>front</side>
 				<type>Battle — Trial</type>
 				<maintype>Battle</maintype>
-				<manacost>2G</manacost>
-				<cmc>3</cmc>
+				<manacost>1G</manacost>
+				<cmc>2</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
 				<pt>4</pt>
-				<loyalty>4</loyalty>
+				<loyalty>6</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 			<related>Food</related>
@@ -4367,7 +4368,7 @@ Food tokens you control have &quot;{1}, {T}, Sacrifice this token: Target creatu
 		<card>
 			<name>CG15 — Kindred Packmates</name>
 			<text>(Any player may attack this battle.Your alliance may protect it. When it&apos;s defeated, exile it and disband your alliance.)
-Whenever a creature a player in this alliance controls with power 4 or greater enters, each ally draws a card. This ability only triggers once per turn.
+Whenever one or more modified creatures with power 4 or greater attack, each ally draws a card. (Equipment, Auras you control, bonds, mutations, and counters are modifications.)
 ---
 (Front): CG15 — Fight of Might</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/231_back.png" num="153b">FOOD</set>
@@ -4497,12 +4498,12 @@ Food tokens you control have &quot;{1}, {T}, Sacrifice this token: Target creatu
 				<side>front</side>
 				<type>Battle — Trial</type>
 				<maintype>Battle</maintype>
-				<manacost>2U</manacost>
-				<cmc>3</cmc>
+				<manacost>1U</manacost>
+				<cmc>2</cmc>
 				<colors>U</colors>
 				<coloridentity>U</coloridentity>
 				<pt>4</pt>
-				<loyalty>4</loyalty>
+				<loyalty>6</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 			<related attach="transform">CU15 — Collaborative Scholars</related>
@@ -4510,7 +4511,7 @@ Food tokens you control have &quot;{1}, {T}, Sacrifice this token: Target creatu
 		<card>
 			<name>CU15 — Collaborative Scholars</name>
 			<text>(Any player may attack this battle.Your alliance may protect it. When it&apos;s defeated, exile it and disband your alliance.)
-Whenever a player in this alliance cast a noncreature spell, each ally may draw a card then discard a card.
+Whenever a player in this alliance cast a noncreature spell, each ally may draw a card then discard a card. This ability only triggers once per turn.
 ---
 (Front): CU15 — Test of Intellect</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/238_back.png" num="49b">FOOD</set>
@@ -4850,8 +4851,8 @@ When this Siege enters, you may bargain. When you do, each opponent sacrifices a
 				<side>front</side>
 				<type>Battle — Siege</type>
 				<maintype>Battle</maintype>
-				<manacost>2BR</manacost>
-				<cmc>4</cmc>
+				<manacost>BBR</manacost>
+				<cmc>3</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 				<pt>6</pt>
@@ -4910,7 +4911,7 @@ Whenever one or more creatures attacks you or a battle you own, put your choice 
 		</card>
 		<card>
 			<name>UZ19 — Collect on Promises</name>
-			<text>Whenever a non-token creature you control with a counter on it leaves the battlefield, create a Golden Egg token.
+			<text>Whenever a modified creature you control leaves the battlefield, create a Golden Egg token. (Equipment, Auras you control, bonds, mutations, and counters are modifications.)
 Bargain: Add two mana of any color. (To bargain, sacrifice an artifact, enchantment, or token.)
 ---
 (Front): UZ19 — Abscond the Golden Eggs</text>
@@ -5010,7 +5011,7 @@ Food tokens you control have &quot;{2}, {T}, Sacrifice this token: Target player
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
 				<pt>4</pt>
-				<loyalty>4</loyalty>
+				<loyalty>6</loyalty>
 			</prop>
 			<tablerow>1</tablerow>
 			<related>Food</related>
@@ -5020,7 +5021,7 @@ Food tokens you control have &quot;{2}, {T}, Sacrifice this token: Target player
 		<card>
 			<name>CW15 — The Porcelain Legion</name>
 			<text>(Any player may attack this battle.Your alliance may protect it. When it&apos;s defeated, exile it and disband your alliance.)
-Whenever a player in this alliance gains life for the first time each turn, each ally creates a 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and &quot;This token can&apos;t block. (Players dealt combat damage by that creature also get a poison counter.)
+Whenever a player in this alliance gains life, each ally creates a 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and &quot;This token can&apos;t block.This ability only triggers once per turn. (Players dealt combat damage by that creature also get a poison counter.)
 ---
 (Front): CW15 — Ceremony of Faith</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/263_back.png" num="15b">FOOD</set>
@@ -6337,7 +6338,6 @@ Destroy target artifact or creature. You lose life equal to its power unless it 
 				<pt>3/3</pt>
 			</prop>
 			<tablerow>2</tablerow>
-			<related>Food</related>
 		</card>
 		<card>
 			<name>RZ16 — Lorb, Portal Waiter</name>
@@ -6419,9 +6419,9 @@ At the beginning of combat on your turn, you may choose two. Each mode must targ
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>MZ04 — Beza, the Spring Bloom</name>
-			<text>Vigilance
-When Beza enters, search your library for a basic land for each opponent who controls more lands than you. Put up to one into play tapped and the rest into your hand. Create a 1/1 blue Fish creature tokens for each opponent who controls more creatures than you.</text>
+			<name>MZ04 — Beza, Spring Titan</name>
+			<text>When Beza enters, draw a card for each opponent who has more cards in hand than you.
+Whenever Beza attacks, search your library for a basic land card, put it onto the battlefield tapped, then shuffle.</text>
 			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/336.png" num="177">FOOD</set>
 			<prop>
 				<layout>normal</layout>

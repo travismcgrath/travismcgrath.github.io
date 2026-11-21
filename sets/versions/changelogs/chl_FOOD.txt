@@ -1,4 +1,92 @@
-﻿VERSION 41 CHANGELOG
+﻿VERSION 42 CHANGELOG
+====================
+
+UZ24 — Colossal Corruption added.
+MZ04 — Beza, Spring Titan added.
+
+UZ24 — Boarish Roar removed.
+MZ04 — Beza, the Spring Bloom removed.
+
+CB03 — Marsh Mellow-o-Wisps
+rules_text: Flying, lifelink
+At the beginning of combat on each turn, if you've gained life this turn, goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i] => Flying, lifelink
+At the beginning of each player's end step, if you've gained life this turn, goad target creature. [i](Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)[/i]
+pt: 2/1 => 1/2
+
+CG09 — Indatha Ooze
+rules_text: Whenever another nontoken Beast you control enters, create a 3/3 green Ooze creature token with Toxic 1. [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i] => Modified creatures you control have Toxic 1. [i](Equipment, Auras you control, bonds, mutations, and counters are modifications. Players dealt combat damage by this creature also get a poison counter.)[/i]
+Scavenge {4}{G} [i]({4}{G}, Exile this card from your graveyard: Put a number of +1/+1 counters equal to this card's power on target creature. Scavenge only as a sorcery.)[/i]
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i]
+pt: 5/5 => 6/6
+
+CU08 — Inspiring Lemma Beans
+rules_text: Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+When Inspiring Lemma Beans enters, create a Food token, then Discover X where X is the number of artifacts you control. => Affinity for artifacts [i](This spell costs {1} less to cast for each artifact you control.)[/i]
+When Inspiring Lemma Beans enters, if you cast it from your hand, create a Food token, then Discover X where X is the number of artifacts you control.
+
+MR14 — Mabel, Valley's Champion
+
+UR06 — Calamity Ember Owl
+
+UG05 — Ravenous Hyena
+rules_text: Flash
+Cycling {2}{G}{G} [i]({2}{G}{G}, Discard this card: Draw a card.)[/i]
+When you cycle this card, exile up to one target artifact or enchantment. Up to one target creature you control devours tokens 1. [i](You may sacrifice any number of tokens. Put that many +1/+1 counters on this creature.)[/i] => Flash 
+Devour tokens 1 [i](As this creature enters, you may sacrifice any number of tokenses. This creature enters with that many +1/+1 counters on it.)[/i]
+Cycling {2}{G}{G} [i]({2}{G}{G}, Discard this card: Draw a card.)[/i]
+When you cycle this card, exile up to one target artifact or enchantment.
+
+UR08 — Return the Flavor
+rules_text: Gift one Food or Gift two Food to different opponents.
+Choose one for each gift promised.
+• Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.
+• Change the target of target spell or ability with a single target. => Gift one Food or Gift two Food to different opponents.
+Choose one for each gift promised —
+• Copy target instant spell, sorcery spell, activated ability, or triggered ability. You may choose new targets for the copy.
+• Change the target of target spell or ability with a single target.
+
+RZ20 — Kaheera, Monster Paragon
+rules_text: Trample
+Non-Human creature spells you cast have Offspring— {2} or sacrifice a Food. [i](You may 2 or sacrifice a Food in addition to any other costs as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+At the beginning of your upkeep, create a Food token. => Trample
+Non-Human creature spells you cast have Offspring— {2} or sacrifice a Food. [i](You may 2 in addition to any other costs or sacrifice a Food as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+At the beginning of your upkeep, create a Food token.
+
+RZ13 — Urabrask, Rebel Praetor
+
+CR15 — Scuffle of Scurry
+loyalty: 4 => 6
+
+CB15 — Trial of Guile
+cost: {2}{B} => {1}{B}
+loyalty: 4 => 6
+
+CG15 — Fight of Might
+cost: {2}{G} => {1}{G}
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, it transformed then you and the victor form an alliance.)[/i]
+When this Trial enters, create a Food token then, search your library for a basic land card. Put it onto the battlefield tapped, then shuffle.
+Food tokens you control have “{1}, {T}, Sacrifice this token: Target creature gets +1/+1 and trample until end of turn.” Activate only as a sorcery. => [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, it transformed then you and the victor form an alliance.)[/i]
+When this Trial enters, create a Food token then, search your library for a basic land card. Put it onto the battlefield tapped, then shuffle.
+Food tokens you control have “{2}, {T}, Sacrifice this token: Put a +1/+1 and a Trample counter on target creature.” Activate only as a sorcery.
+loyalty: 4 => 6
+
+CU15 — Test of Intellect
+cost: {2}{U} => {1}{U}
+loyalty: 4 => 6
+
+UZ18 — Bargain with the Faye Court
+cost: {2}{B}{R} => {B}{B}{R}
+
+UZ19 — Abscond the Golden Eggs
+
+CW15 — Ceremony of Faith
+loyalty: 4 => 6
+
+RZ19 — Greta, SweetArrow Avenger
+
+
+VERSION 41 CHANGELOG
 ====================
 
 RZ06 — Advanced Bravery 101 added.

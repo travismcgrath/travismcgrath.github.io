@@ -1761,10 +1761,10 @@
 			}
 		},
 		{
-			"name": "UZ24 — Boarish Roar",
+			"name": "UZ24 — Colossal Corruption",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G/W}{W}",
-			"type": "Sorcery",
+			"type": "Enchantment — Aura",
 			"collector_number": "242",
 			"rating": 3,
 			"image_uris": {
@@ -2506,7 +2506,7 @@
 		{
 			"name": "CB15 — Trial of Guile",
 			"rarity": "common",
-			"mana_cost": "{2}{B}",
+			"mana_cost": "{1}{B}",
 			"type": "Battle — Trial",
 			"collector_number": "84",
 			"rating": 2,
@@ -2554,7 +2554,7 @@
 		{
 			"name": "CG15 — Fight of Might",
 			"rarity": "common",
-			"mana_cost": "{2}{G}",
+			"mana_cost": "{1}{G}",
 			"type": "Battle — Trial",
 			"collector_number": "153",
 			"rating": 2,
@@ -2626,7 +2626,7 @@
 		{
 			"name": "CU15 — Test of Intellect",
 			"rarity": "common",
-			"mana_cost": "{2}{U}",
+			"mana_cost": "{1}{U}",
 			"type": "Battle — Trial",
 			"collector_number": "49",
 			"rating": 2,
@@ -2816,7 +2816,7 @@
 		{
 			"name": "UZ18 — Bargain with the Faye Court",
 			"rarity": "uncommon",
-			"mana_cost": "{2}{B}{R}",
+			"mana_cost": "{B}{B}{R}",
 			"type": "Battle — Siege",
 			"collector_number": "220",
 			"rating": 3,
@@ -3735,7 +3735,7 @@
 			}
 		},
 		{
-			"name": "MZ04 — Beza, the Spring Bloom",
+			"name": "MZ04 — Beza, Spring Titan",
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Elemental Elk",
@@ -3832,7 +3832,7 @@
 	2 RZ11 — Jin-Gitaxias, Kitchen Tyrant
 	2 RZ15 — Onyx, Lecturer to the Dead
 	1 MZ02 — Shadrix Silverquill
-	1 MZ04 — Beza, the Spring Bloom
+	1 MZ04 — Beza, Spring Titan
 	1 MZ08 — Sheoldred
 	1 MZ10 — Grumgully, the Bounteous
 [uncommon(3)]
@@ -3884,7 +3884,7 @@
 	4 UB04 — Hell's Sous Chef
 	4 UZ23 — Nightwatch Blade
 	4 UZ06 — Mace The Exam
-	4 UZ24 — Boarish Roar
+	4 UZ24 — Colossal Corruption
 	4 UZ25 — Plagiarism
 	4 UW06 — Oily Shimmer
 	4 UZ29 — Back for More
