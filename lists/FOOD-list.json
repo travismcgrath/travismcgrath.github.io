@@ -1420,7 +1420,7 @@
         "position": "338"
     },
     {
-        "card_name": "MZ04 \u2014 Beza, Spring Titan",
+        "card_name": "MZ04 \u2014 Beza, Herald of Spring",
         "number": 177,
         "shape": "normal",
         "set": "FOOD",
@@ -2337,7 +2337,7 @@
     },
     {
         "card_name": "Phyrexian Wurm",
-        "number": 35,
+        "number": 36,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
@@ -2368,8 +2368,16 @@
         "position": "264"
     },
     {
-        "card_name": "New Mechanics",
+        "card_name": "New Mcheanics",
         "number": 33,
+        "shape": "token",
+        "set": "FOOD",
+        "rotated": false,
+        "position": "1"
+    },
+    {
+        "card_name": "New Mechanics",
+        "number": 34,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
@@ -2377,11 +2385,11 @@
     },
     {
         "card_name": "Types of Battles",
-        "number": 36,
+        "number": 37,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "1"
+        "position": "339"
     },
     {
         "card_name": "Boar Citizen",
@@ -2440,7 +2448,7 @@
         "position": "270"
     },
     {
-        "card_name": "Horror Knight",
+        "card_name": "Food Knight",
         "number": 3,
         "shape": "token",
         "set": "FOOD",
@@ -2592,8 +2600,16 @@
         "position": "322"
     },
     {
-        "card_name": "Otter",
+        "card_name": "Mouse Knight",
         "number": 24,
+        "shape": "token",
+        "set": "FOOD",
+        "rotated": false,
+        "position": "282"
+    },
+    {
+        "card_name": "Otter",
+        "number": 25,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
@@ -2601,22 +2617,11 @@
     },
     {
         "card_name": "Pest",
-        "number": 25,
-        "shape": "token",
-        "set": "FOOD",
-        "rotated": false,
-        "position": "273"
-    },
-    {
-        "card_name": "Urabrask Mouse Knight",
         "number": 26,
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "282"
-    },
-    {
-        "card_name": "e"
+        "position": "273"
     },
     {
         "card_name": "e"

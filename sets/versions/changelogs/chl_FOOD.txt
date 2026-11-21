@@ -1,4 +1,209 @@
-﻿VERSION 42 CHANGELOG
+﻿VERSION 43 CHANGELOG
+====================
+
+New Mcheanics added.
+Food Knight added.
+Mouse Knight added.
+MZ04 — Beza, Herald of Spring added.
+
+Horror Knight removed.
+Urabrask Mouse Knight removed.
+MZ04 — Beza, Spring Titan removed.
+
+Golden Egg
+rules_text: When this artifact enters, draw a card.
+{1}, {T}, Sacrifice this token: Add one mana of any color.
+{2}, {T}, Sacrifice this token: You gain 3 life. => When this token enters, draw a card.
+{1}, {T}, Sacrifice this token: Add one mana of any color.
+{2}, {T}, Sacrifice this token: You gain 3 life.
+
+UW02 — Porcelain Myr
+
+RW02 — Flavor of Orthodoxy
+rules_text: Flying
+Whenever this creature or another Phyrexian you control enters, incubate Food 2. [i](Create a Food token with two +1/+1 counters on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i] => Flying, vigilance
+Whenever a Food enters under your control with no counters on it, put two +1/+1 counters on it and it gains “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.
+
+UU10 — Calculate A Prophecy
+rules_text: Draw two cards, then exile a card from your hand face down. It becomes foretold. Its foretell cost is its mana cost reduced by {2}.
+[i]Conjecture[/i] — If this card was cast from anywhere but your hand. the exiled card is plotted instead of foretold. => Draw two cards, then exile a card from your hand face down. It becomes foretold. Its foretell cost is its mana cost reduced by {2}.
+[i]Conjecture[/i] — If this card was cast from anywhere other than your hand. the exiled card is plotted instead of foretold.
+
+UZ05 — Book Thief
+rules_text: [i]Conjecture[/i] — This creature can't be blocked if you've cast a spell from anywhere but your hand. 
+When Book Thief deals combat damage to a player, draw a card. => [i]Conjecture[/i] — This creature can't be blocked if you've cast a spell from anywhere other than your hand. 
+When Book Thief deals combat damage to a player, draw a card.
+
+UU07 — Read the Recipe
+
+UW07 — Phyrexian Chalice
+rules_text: Whenever you gain life, you may pay that much life. If you do, put an oil counter on Phyrexian Chalice. 
+{1}, Remove two oil counter from Phyrexian Chalice: Draw a card, then target opponent gets a poison counter. => Whenever you gain life, you may pay that much life. If you do, put an oil counter on Phyrexian Chalice. 
+{1}, Remove two oil counters from Phyrexian Chalice: Draw a card, then target opponent gets a poison counter.
+
+CW14 — Oleaginous Portal
+rules_text: Help [i](Other players can pay up to {3} of this spell's cost.)[/i]
+When Oleaginous Portal enters, create a 2/2 white Horror Knight token with vigilance.Then you and each other player who helped pay for it gains 2 life.
+At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Horror Knight tokens with vigilance. => Help [i](Other players can pay up to {3} of this spell's cost.)[/i]
+When Oleaginous Portal enters, create a 2/2 white Food Knight token with vigilance.Then you and each other player who helped pay for it gains 2 life.
+At the beginning of your end step, if you gained 3 or more life this turn, create a 2/2 white Food Knight tokens with vigilance.
+
+RL01 — The Holy Oil Spring
+rules_text: [i]Corrupted[/i] — Unless an opponent has three or more poison counters, The Holy Oil Spring isn't an enchantment.
+{T}: Add {W}. 
+If The Holy Oil Spring is an enchantment, creatures you control have Toxic 1. [i](Players dealt combat damage by that creature also get a poison counter.)[/i] => [i]Corrupted[/i] — Unless an opponent has three or more poison counters, The Holy Oil Spring isn't an enchantment.
+[i]({T}: Add {W}. )[/i]
+If The Holy Oil Spring is an enchantment, creatures you control have Toxic 1. [i](Players dealt combat damage by that creature also get a poison counter.)[/i]
+
+RL05 — Living Great Tree
+rules_text: Mutate Land {3}{G}{G} [i](You may reveal this card from you had and pay its mutate cost, if you do, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+As long Living Great Tree is not mutated, it isn't a creature.
+{T}: Add {G}. => Mutate Land {3}{G}{G} [i](You may reveal this card from you had and pay its mutate cost, if you do, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+As long Living Great Tree is not mutated, it isn't a creature.
+[i]({T}: Add {G}.)[/i]
+special_text: Mutate Land {3}{G}{G} [i](You may reveal this card from you had and pay its mutate cost, if you do, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+As long Living Great Tree is not mutated, it isn't a creature.
+{T}: Add {G}. => Mutate Land {3}{G}{G} [i](You may reveal this card from you had and pay its mutate cost, if you do, put it over or under target non-Human creature you own. They mutate into the creature on top plus all abilities from under it.)[/i]
+As long Living Great Tree is not mutated, it isn't a creature.
+[i]({T}: Add {G}.)[/i]
+
+RL04 — Emberheart Greatsword
+rules_text: As long Emberheart Greatsword is not equipped, it isn't an artifact.
+{T}: Add {R}.
+Equipped creature has trample and +1/+1 for each token you control.
+Equip {2}{R}{R} => As long Emberheart Greatsword is not equipped, it isn't an artifact.
+[i]({T}: Add {R}.)[/i]
+Equipped creature has trample and +1/+1 for each token you control.
+Equip {2}{R}{R}
+
+RU01 — Larine Arneza, Valedictorian
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, you may exile another target permanent you control, then return it battlefield under your control.This ability only triggers once per turn.
+ {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere but your hand this turn. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, you may exile another target permanent you control, then return it battlefield under your control.This ability only triggers once per turn.
+ {1}{U}, {T}: Take an extra turn after this one. Activate only if you've cast three or more spells from anywhere other than your hand this turn.
+
+UU01 — Axiom Channeler
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere but your hand, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+Discard a card: This creature gets +1/+1 until end of turn. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, proliferate. [i](Choose any number of permanents and/or players, then give each another counter of each kind already there.)[/i]
+Discard a card: This creature gets +1/+1 until end of turn.
+
+UA02 — Giant Loaf
+rules_text: Flash
+When Giant Loaf enters, target creature gets +3/+3 until end of turn.
+{2}, Sacrifice Giant Loaf: Gain 3 life. => Flash
+When Giant Loaf enters, target creature gets +3/+3 until end of turn.
+{2}, {T}, Sacrifice Giant Loaf: Gain 3 life.
+
+UZ06 — Mace The Exam
+rules_text: When Mace The Exam enters 1/1 blue Frog creature token, then attach this to it. 
+[i]Conjecture[/i] — Whenever you cast a spell from anywhere but your hand, make a 1/1 token copy of equipped creature that is a Fractal in addition to its other types.
+Equip {2} => When Mace The Exam enters 1/1 blue Frog creature token, then attach this to it. 
+[i]Conjecture[/i] — Whenever you cast a spell from anywhere other your hand, make a 1/1 token copy of equipped creature that is a Fractal in addition to its other types.
+Equip {2}
+
+CL01 — Raugrin Lavaflats
+rules_text: When this land enters, sacrifice it. When you do, search your library for a basic Mountain, Plains, or Island card, put it onto the battlefield tapped, then shuffle and you gain 1 life. => When this land enters, sacrifice it. When you do, search your library for a basic Island, Mountain, or Plains card, put it onto the battlefield tapped, then shuffle and you gain 1 life.
+
+CL02 — The Woods at Twilight
+rules_text: When this land enters, sacrifice it. When you do, search your library for a basic Forest, Plains, or Swamp card, put it onto the battlefield tapped, then shuffle and you gain 1 life. => When this land enters, sacrifice it. When you do, search your library for a basic Plains, Swamp, or Forest card, put it onto the battlefield tapped, then shuffle and you gain 1 life.
+
+CL03 — Department of Environmental Sciences
+rules_text: When this land enters, sacrifice it. When you do, search your library for a basic Forest, Island, or Swamp card, put it onto the battlefield tapped, then shuffle and you gain 1 life. => When this land enters, sacrifice it. When you do, search your library for a basic Swamp, Forest, or Island card, put it onto the battlefield tapped, then shuffle and you gain 1 life.
+
+CL05 — The Valley Market
+rules_text: When this land enters, sacrifice it. When you do, search your library for a basic Forest, Mountain, or Swamp card, put it onto the battlefield tapped, then shuffle and you gain 1 life. => When this land enters, sacrifice it. When you do, search your library for a basic Forest, Island, or Mountain card, put it onto the battlefield tapped, then shuffle and you gain 1 life.
+
+CL10 — Ketria Bosque
+rules_text: This land enters tapped.
+{T}: Add {G}.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i]
+When you cycle Ketria Bosque , create a Food token. => This land enters tapped.
+{T}: Add {G}.
+Cycling {3} [i]({3}, Discard this card: Draw a card.)[/i]
+When you cycle Ketria Bosque, create a Food token.
+
+UA08 — Ginger Snaposaurus
+type: Creature Artifact — Dinosaur Food => Creature Artifact — Food Dinosaur
+
+UA03 — Triple Berry Patrol
+rules_text: {2}: Add one mana of any color.
+Sacrifice Triple Berry Patrol: It deals 3 damage to target creature or battle. => {2}: Add one mana of any color.
+{T}, Sacrifice Triple Berry Patrol: It deals 3 damage to target creature or battle.
+
+UA05 — Her Royal Meringue
+rules_text: Ward—sacrifices a token. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a token.)[/i]
+Vigilance
+Other Food creatures you control +1/+1. => Ward—sacrifice a token. [i](Whenever this creature becomes the target of a spell or ability an opponent controls, counter it unless that player sacrifices a token.)[/i]
+Vigilance
+Other Food creatures you control +1/+1.
+
+RL02 — Atollpology
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+As long as Atollpology is at level 1, it isn't an enchantment.
+{T}: Add {U}.
+{1}{U}{U} Level 2
+When Atollpology becomes level 2, draw two cards then discard two cards.
+{3}{U}{U} Level 3
+Atollpology gains “{T}: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.” 
+{2}{U}{R} => [i](Gain the next level as a sorcery to add its ability.)[/i]
+As long as Atollpology is at level 1, it isn't an enchantment.
+[i]({T}: Add {U}.)[/i]
+{1}{U}{U} Level 2
+When Atollpology becomes level 2, draw two cards then discard two cards.
+{3}{U}{U} Level 3
+Atollpology gains “{T}: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.” 
+{2}{U}{R}
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+As long as Atollpology is at level 1, it isn't an enchantment.
+{T}: Add {U}.
+{1}{U}{U} Level 2
+When Atollpology becomes level 2, draw two cards then discard two cards.
+{3}{U}{U} Level 3
+Atollpology gains “{T}: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.” 
+{2}{U}{R} => [i](Gain the next level as a sorcery to add its ability.)[/i]
+As long as Atollpology is at level 1, it isn't an enchantment.
+[i]({T}: Add {U}.)[/i]
+{1}{U}{U} Level 2
+When Atollpology becomes level 2, draw two cards then discard two cards.
+{3}{U}{U} Level 3
+Atollpology gains “{T}: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.” 
+{2}{U}{R}
+
+RL03 — The Dusk Woods
+rules_text: {T}: Add {B}.
+{2}{B}{B}, {T}: Transform The Dusk Woods. Activate only if you dealt combat damage to a player this turn with a Faerie or Rogue. => [i]({T}: Add {B}.)[/i]
+{2}{B}{B}, {T}: Transform The Dusk Woods. Activate only if you dealt combat damage to a player this turn with a Faerie or Rogue.
+
+MZ05 — Gyruda, Oscilating Wave
+rules_text: When Gyruda enters, each player mills four cards. For each player exile up to one nonland card from among cards milled this way with an even mana value. You may cast those cards for as long as they remain exiled, and mana of any type can be spent to cast them.
+[i]Conjecture[/i] — Whenever you cast a spell with an even mana value from anywhere but your hand, copy it. [i](A copy of a permanent spell becomes a token.)[/i] => When Gyruda enters, each player mills four cards. For each player exile up to one nonland card from among cards milled this way with an even mana value. You may cast those cards for as long as they remain exiled, and mana of any type can be spent to cast them.
+[i]Conjecture[/i] — Whenever you cast a spell with an even mana value from anywhere other than your hand, copy it. [i](A copy of a permanent spell becomes a token.)[/i]
+
+CW15 — Ceremony of Faith
+rules_text: [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, it transformed then you and the victor form an alliance.)[/i]
+When this Trial enters,create a Food token then scry 2.
+Food tokens you control have “{2}, {T}, Sacrifice this token: Target player gets a poison counter.” Activate only as a sorcery. => [i](Your opponents may attack this battle and any non-attacking player may protect it. When it's defeated, it transformed then you and the victor form an alliance.)[/i]
+When this Trial enters, create a Food token then scry 2.
+Food tokens you control have “{2}, {T}, Sacrifice this token: Target player gets a poison counter.” Activate only as a sorcery.
+
+Boar Warrior
+rules_text: This token enters with an Indestructible counter and a Defender counter on it.
+Whenever this creature is dealt damage, it deals that much damage to target opponent. => Whenever this creature is dealt damage, it deals that much damage to target opponent.
+
+Gingerbrute
+rules_text: {1}: This creature can't be blocked this turn except by creatures with haste.
+{2}{T}, Sacrifice this token: You gain 3 life. => Haste
+{1}: This creature can't be blocked this turn except by creatures with haste.
+{2}{T}, Sacrifice this token: You gain 3 life.
+
+RZ15 — Onyx, Lecturer to the Dead
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere but your hand, each opponent loses 2 life and you gain 2 life.
+Pay X life: Return target creature card in your graveyard with mana value X to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. activate this ability only as a sorcery. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, each opponent loses 2 life and you gain 2 life.
+Pay X life: Return target creature card in your graveyard with mana value X to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. activate this ability only as a sorcery.
+
+Types of Battles
+
+
+VERSION 42 CHANGELOG
 ====================
 
 UZ24 — Colossal Corruption added.

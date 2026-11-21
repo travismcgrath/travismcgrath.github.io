@@ -12,11 +12,11 @@
 			}
 		},
 		{
-			"name": "Types of Battles",
+			"name": "New Mcheanics",
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "36",
+			"collector_number": "33",
 			"rating": 1,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/1.png"
@@ -1973,7 +1973,7 @@
 			"name": "UA08 — Ginger Snaposaurus",
 			"rarity": "uncommon",
 			"mana_cost": "{8}",
-			"type": "Creature Artifact — Dinosaur Food",
+			"type": "Creature Artifact — Food Dinosaur",
 			"collector_number": "254",
 			"rating": 3,
 			"image_uris": {
@@ -2998,10 +2998,10 @@
 			}
 		},
 		{
-			"name": "Horror Knight",
+			"name": "Food Knight",
 			"rarity": "common",
 			"mana_cost": "",
-			"type": "Token Creature — Horror Knight",
+			"type": "Token Creature — Food Knight",
 			"collector_number": "3",
 			"rating": 2,
 			"image_uris": {
@@ -3024,7 +3024,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Pest",
-			"collector_number": "25",
+			"collector_number": "26",
 			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/273.png"
@@ -3119,11 +3119,11 @@
 			}
 		},
 		{
-			"name": "Urabrask Mouse Knight",
+			"name": "Mouse Knight",
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Mouse Knight",
-			"collector_number": "26",
+			"collector_number": "24",
 			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/282.png"
@@ -3145,7 +3145,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact Creature — Phyrexian Wurm",
-			"collector_number": "35",
+			"collector_number": "36",
 			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/284.png"
@@ -3167,7 +3167,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Otter",
-			"collector_number": "24",
+			"collector_number": "25",
 			"rating": 2,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/286.png"
@@ -3640,7 +3640,7 @@
 			"rarity": "special",
 			"mana_cost": "",
 			"type": "Token Artifact — Food",
-			"collector_number": "33",
+			"collector_number": "34",
 			"rating": 1,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/327.png"
@@ -3735,7 +3735,7 @@
 			}
 		},
 		{
-			"name": "MZ04 — Beza, Spring Titan",
+			"name": "MZ04 — Beza, Herald of Spring",
 			"rarity": "mythic",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Legendary Creature — Elemental Elk",
@@ -3765,6 +3765,17 @@
 			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/338.png"
+			}
+		},
+		{
+			"name": "Types of Battles",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Food",
+			"collector_number": "37",
+			"rating": 1,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/339.png"
 			}
 		}
 	]
@@ -3832,7 +3843,7 @@
 	2 RZ11 — Jin-Gitaxias, Kitchen Tyrant
 	2 RZ15 — Onyx, Lecturer to the Dead
 	1 MZ02 — Shadrix Silverquill
-	1 MZ04 — Beza, Spring Titan
+	1 MZ04 — Beza, Herald of Spring
 	1 MZ08 — Sheoldred
 	1 MZ10 — Grumgully, the Bounteous
 [uncommon(3)]
