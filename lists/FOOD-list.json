@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "292"
+        "position": "291"
     },
     {
         "card_name": "RU04 \u2014 Chronicle",
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "323"
+        "position": "322"
     },
     {
         "card_name": "RG04 \u2014 Biomewide Migration",
@@ -245,7 +245,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "313"
+        "position": "312"
     },
     {
         "card_name": "RU06 \u2014 Final Exam",
@@ -253,7 +253,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "317"
+        "position": "316"
     },
     {
         "card_name": "RB06 \u2014 Heros of Forgotten Tales",
@@ -261,7 +261,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "319"
+        "position": "318"
     },
     {
         "card_name": "RR06 \u2014 Invasion of Bloomburrow",
@@ -269,7 +269,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "315"
+        "position": "314"
     },
     {
         "card_name": "RG06 \u2014 Invasion of Ikoria",
@@ -277,7 +277,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "311"
+        "position": "310"
     },
     {
         "card_name": "UW01 \u2014 Hosting Hawk",
@@ -405,7 +405,7 @@
         "shape": "adventure",
         "set": "FOOD",
         "rotated": false,
-        "position": "326"
+        "position": "325"
     },
     {
         "card_name": "UU04 \u2014 Square Elemental",
@@ -645,7 +645,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "302"
+        "position": "301"
     },
     {
         "card_name": "UU10 \u2014 Calculate A Prophecy",
@@ -661,7 +661,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "304"
+        "position": "303"
     },
     {
         "card_name": "UR10 \u2014 Alluring Aromas",
@@ -693,7 +693,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "298"
+        "position": "297"
     },
     {
         "card_name": "CB01 \u2014 Brackish Fencer",
@@ -709,7 +709,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "293"
+        "position": "292"
     },
     {
         "card_name": "UG11 \u2014 The Horned Stampede",
@@ -717,7 +717,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "300"
+        "position": "299"
     },
     {
         "card_name": "CW02 \u2014 Bladed Ambassador",
@@ -829,7 +829,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "277"
+        "position": "276"
     },
     {
         "card_name": "CG03 \u2014 Symbiotic Shaman",
@@ -1061,7 +1061,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "328"
+        "position": "327"
     },
     {
         "card_name": "CR09 \u2014 Oilslick Watchfrog",
@@ -1133,7 +1133,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "262"
+        "position": "261"
     },
     {
         "card_name": "CB12 \u2014 Baked into a Pie",
@@ -1245,7 +1245,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "263"
+        "position": "262"
     },
     {
         "card_name": "CU13 \u2014 Publish Analysis",
@@ -1261,7 +1261,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "227"
+        "position": "226"
     },
     {
         "card_name": "CR14 \u2014 Wield the Seed Flame",
@@ -1285,7 +1285,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "236"
+        "position": "235"
     },
     {
         "card_name": "CU14 \u2014 Group Study",
@@ -1301,7 +1301,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "229"
+        "position": "228"
     },
     {
         "card_name": "CR15 \u2014 Scuffle of Scurry",
@@ -1309,7 +1309,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "225"
+        "position": "224"
     },
     {
         "card_name": "CG15 \u2014 Fight of Might",
@@ -1317,7 +1317,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "231"
+        "position": "230"
     },
     {
         "card_name": "UW07 \u2014 Phyrexian Chalice",
@@ -1333,7 +1333,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "238"
+        "position": "237"
     },
     {
         "card_name": "e"
@@ -1352,7 +1352,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "233"
+        "position": "232"
     },
     {
         "card_name": "e"
@@ -1363,7 +1363,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "240"
+        "position": "239"
     },
     {
         "card_name": "e"
@@ -1393,15 +1393,15 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "215"
+        "position": "214"
     },
     {
-        "card_name": "MZ05 \u2014 Gyruda, Oscilating Wave",
+        "card_name": "MZ05 \u2014 Gyruda, Tidal Wave",
         "number": 178,
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "214"
+        "position": "339"
     },
     {
         "card_name": "MZ08 \u2014 Sheoldred",
@@ -1409,7 +1409,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "337"
+        "position": "336"
     },
     {
         "card_name": "MZ10 \u2014 Grumgully, the Bounteous",
@@ -1417,7 +1417,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "338"
+        "position": "337"
     },
     {
         "card_name": "MZ04 \u2014 Beza, Herald of Spring",
@@ -1425,7 +1425,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "336"
+        "position": "335"
     },
     {
         "card_name": "RZ01 \u2014 Holy Relics Masterclass",
@@ -1473,7 +1473,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "333"
+        "position": "332"
     },
     {
         "card_name": "RZ15 \u2014 Onyx, Lecturer to the Dead",
@@ -1481,7 +1481,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "334"
+        "position": "333"
     },
     {
         "card_name": "RZ18 \u2014 Cruelclaw, Leader of the Red Scarves",
@@ -1489,7 +1489,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "216"
+        "position": "215"
     },
     {
         "card_name": "RZ20 \u2014 Kaheera, Monster Paragon",
@@ -1497,7 +1497,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "217"
+        "position": "216"
     },
     {
         "card_name": "RZ14 \u2014 Jirina, Humanity's General",
@@ -1505,7 +1505,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "218"
+        "position": "217"
     },
     {
         "card_name": "UZ01 \u2014 Bibliochef",
@@ -1513,7 +1513,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "321"
+        "position": "320"
     },
     {
         "card_name": "UZ05 \u2014 Book Thief",
@@ -1553,7 +1553,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "242"
+        "position": "241"
     },
     {
         "card_name": "UZ15 \u2014 Beset Your Dreams",
@@ -1561,7 +1561,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "250"
+        "position": "249"
     },
     {
         "card_name": "UZ18 \u2014 Bargain with the Faye Court",
@@ -1569,7 +1569,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "256"
+        "position": "255"
     },
     {
         "card_name": "UZ20 \u2014 Hunt in the Raugrin Shoals",
@@ -1577,7 +1577,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "260"
+        "position": "259"
     },
     {
         "card_name": "UZ14 \u2014 Enter the Hunter Maze",
@@ -1585,7 +1585,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "248"
+        "position": "247"
     },
     {
         "card_name": "UZ21 \u2014 Skeptic",
@@ -1688,7 +1688,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "335"
+        "position": "334"
     },
     {
         "card_name": "MZ06 \u2014 Brudiclad, Telchor Engineer",
@@ -1696,7 +1696,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "222"
+        "position": "221"
     },
     {
         "card_name": "MZ09 \u2014 Ygra, Eater of Infinity",
@@ -1704,7 +1704,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "224"
+        "position": "223"
     },
     {
         "card_name": "MZ03 \u2014 Quintorious, Defender of History",
@@ -1712,7 +1712,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "221"
+        "position": "220"
     },
     {
         "card_name": "MZ07 \u2014 The Golden Goose",
@@ -1720,7 +1720,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "223"
+        "position": "222"
     },
     {
         "card_name": "RZ02 \u2014 Duskhunter Bat",
@@ -1768,7 +1768,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "330"
+        "position": "329"
     },
     {
         "card_name": "RZ16 \u2014 Lorb, Portal Waiter",
@@ -1776,7 +1776,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "332"
+        "position": "331"
     },
     {
         "card_name": "RZ19 \u2014 Greta, SweetArrow Avenger",
@@ -1784,7 +1784,7 @@
         "shape": "adventure",
         "set": "FOOD",
         "rotated": false,
-        "position": "331"
+        "position": "330"
     },
     {
         "card_name": "RZ13 \u2014 Urabrask, Rebel Praetor",
@@ -1792,7 +1792,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "219"
+        "position": "218"
     },
     {
         "card_name": "RZ17 \u2014 Quandrix, Resonance Maestro",
@@ -1800,7 +1800,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "220"
+        "position": "219"
     },
     {
         "card_name": "UZ12 \u2014 Polemics of Apostasy",
@@ -1808,7 +1808,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "244"
+        "position": "243"
     },
     {
         "card_name": "UZ26 \u2014 Safety in Numbers",
@@ -1864,7 +1864,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "258"
+        "position": "257"
     },
     {
         "card_name": "UZ23 \u2014 Nightwatch Blade",
@@ -1880,7 +1880,7 @@
         "shape": "transform double faced split",
         "set": "FOOD",
         "rotated": true,
-        "position": "254"
+        "position": "253"
     },
     {
         "card_name": "UZ22 \u2014 Glistening Rites",
@@ -2009,7 +2009,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "325"
+        "position": "324"
     },
     {
         "card_name": "UA08 \u2014 Ginger Snaposaurus",
@@ -2025,7 +2025,7 @@
         "shape": "transform double faced",
         "set": "FOOD",
         "rotated": false,
-        "position": "296"
+        "position": "295"
     },
     {
         "card_name": "CA01 \u2014 Egg BombBomb",
@@ -2057,7 +2057,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "324"
+        "position": "323"
     },
     {
         "card_name": "e"
@@ -2264,7 +2264,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "306"
+        "position": "305"
     },
     {
         "card_name": "Swamp",
@@ -2272,7 +2272,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "307"
+        "position": "306"
     },
     {
         "card_name": "Plains",
@@ -2280,7 +2280,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "308"
+        "position": "307"
     },
     {
         "card_name": "Forest",
@@ -2288,7 +2288,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "309"
+        "position": "308"
     },
     {
         "card_name": "Island",
@@ -2296,7 +2296,7 @@
         "shape": "normal",
         "set": "FOOD",
         "rotated": false,
-        "position": "310"
+        "position": "309"
     },
     {
         "card_name": "er"
@@ -2317,7 +2317,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "295"
+        "position": "294"
     },
     {
         "card_name": "Gingerbrute",
@@ -2325,7 +2325,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "276"
+        "position": "275"
     },
     {
         "card_name": "Golden Egg",
@@ -2341,7 +2341,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "284"
+        "position": "283"
     },
     {
         "card_name": "Phyrexian Mite",
@@ -2349,7 +2349,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "268"
+        "position": "267"
     },
     {
         "card_name": "Archetypes",
@@ -2357,7 +2357,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "329"
+        "position": "328"
     },
     {
         "card_name": "Food",
@@ -2365,7 +2365,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "264"
+        "position": "263"
     },
     {
         "card_name": "New Mcheanics",
@@ -2381,7 +2381,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "327"
+        "position": "326"
     },
     {
         "card_name": "Types of Battles",
@@ -2389,7 +2389,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "339"
+        "position": "338"
     },
     {
         "card_name": "Boar Citizen",
@@ -2397,7 +2397,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "274"
+        "position": "273"
     },
     {
         "card_name": "Boar Warrior",
@@ -2405,7 +2405,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "275"
+        "position": "274"
     },
     {
         "card_name": "Fish",
@@ -2413,7 +2413,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "266"
+        "position": "265"
     },
     {
         "card_name": "Frog",
@@ -2421,7 +2421,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "285"
+        "position": "284"
     },
     {
         "card_name": "Agate Instigator",
@@ -2429,7 +2429,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "279"
+        "position": "278"
     },
     {
         "card_name": "UB08 \u2014 Killer Deal",
@@ -2445,7 +2445,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "270"
+        "position": "269"
     },
     {
         "card_name": "Food Knight",
@@ -2453,7 +2453,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "271"
+        "position": "270"
     },
     {
         "card_name": "Human Rogue",
@@ -2461,7 +2461,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "288"
+        "position": "287"
     },
     {
         "card_name": "Rat",
@@ -2469,7 +2469,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "289"
+        "position": "288"
     },
     {
         "card_name": "Emberheart Mouster",
@@ -2485,7 +2485,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "278"
+        "position": "277"
     },
     {
         "card_name": "Oilslick Watchfrog",
@@ -2493,7 +2493,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "291"
+        "position": "290"
     },
     {
         "card_name": "Cat Beast",
@@ -2501,7 +2501,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "281"
+        "position": "280"
     },
     {
         "card_name": "Ooze",
@@ -2509,7 +2509,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "280"
+        "position": "279"
     },
     {
         "card_name": "Squirrel",
@@ -2517,7 +2517,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "290"
+        "position": "289"
     },
     {
         "card_name": "Faerie Rogue",
@@ -2525,7 +2525,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "265"
+        "position": "264"
     },
     {
         "card_name": "Mouse Knight",
@@ -2533,7 +2533,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "269"
+        "position": "268"
     },
     {
         "card_name": "Elemental",
@@ -2541,7 +2541,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "287"
+        "position": "286"
     },
     {
         "card_name": "UZ06 \u2014 Mace The Exam",
@@ -2557,7 +2557,7 @@
         "shape": "token split",
         "set": "FOOD",
         "rotated": false,
-        "position": "246"
+        "position": "245"
     },
     {
         "card_name": "UZ16 \u2014 Thesis Defense",
@@ -2565,7 +2565,7 @@
         "shape": "token split",
         "set": "FOOD",
         "rotated": false,
-        "position": "252"
+        "position": "251"
     },
     {
         "card_name": "Elephant Spirit",
@@ -2573,7 +2573,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "283"
+        "position": "282"
     },
     {
         "card_name": "Fractal",
@@ -2581,7 +2581,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "272"
+        "position": "271"
     },
     {
         "card_name": "Fractal Beast",
@@ -2589,7 +2589,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "267"
+        "position": "266"
     },
     {
         "card_name": "Fractal Dragon",
@@ -2597,7 +2597,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "322"
+        "position": "321"
     },
     {
         "card_name": "Mouse Knight",
@@ -2605,7 +2605,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "282"
+        "position": "281"
     },
     {
         "card_name": "Otter",
@@ -2613,7 +2613,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "286"
+        "position": "285"
     },
     {
         "card_name": "Pest",
@@ -2621,7 +2621,7 @@
         "shape": "token",
         "set": "FOOD",
         "rotated": false,
-        "position": "273"
+        "position": "272"
     },
     {
         "card_name": "e"

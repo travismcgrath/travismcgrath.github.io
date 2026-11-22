@@ -554,7 +554,7 @@ Conjecture — If this card was cast from anywhere other than your hand. the exi
 		</card>
 		<card>
 			<name>CU09 — Missing Ingredient</name>
-			<text>Counter target noncreature spell unless its controller pays {1}. If this spell was cast from anywhere but your hand exile target noncreature spell or ability instead.
+			<text>Counter target noncreature spell unless its controller pays {1}. If this spell was cast from anywhere other than your hand exile target noncreature spell or ability instead.
 Foretell {U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/28.png" num="43">FOOD</set>
 			<prop>
@@ -1245,7 +1245,7 @@ Equip {2}</text>
 		<card>
 			<name>CZ03 — Consummate Bladetail</name>
 			<text>Haste, Double strike
-Other creatures you control with base power and toughness 1/1 can&apos;t be blocked.</text>
+Creatures you control with base power and toughness 1/1 can&apos;t be blocked.</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/65.png" num="231">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1263,7 +1263,7 @@ Other creatures you control with base power and toughness 1/1 can&apos;t be bloc
 		<card>
 			<name>CZ04 — OilFang Bonder</name>
 			<text>Wildbond (You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)
- Toxic 2. (Players dealt combat damage by this creature also get two poison counters.)</text>
+ Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/66.png" num="232">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -1303,7 +1303,7 @@ Whenever you expend 5, this creature becomes prepared.
 
 ---
 
-You may discard a card. If you do, exile the top card of your library then create a Food token. Until the end of your next turn, you may play that card.</text>
+You may discard a card. If you do, exile the top card of your library. Until the end of your next turn, you may play that card. Then create a Food token.</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/68.png" num="234">FOOD</set>
 			<prop>
 				<layout>adventure</layout>
@@ -2025,7 +2025,7 @@ At the beginning of combat each turn, choose a creature you control. Then choose
 			<name>RL04 — Emberheart Greatsword</name>
 			<text>As long Emberheart Greatsword is not equipped, it isn&apos;t an artifact.
 ({T}: Add {R}.)
-Equipped creature has trample and +1/+1 for each token you control.
+Equipped creature has trample and gets +1/+1 for each token you control.
 Equip {2}{R}{R}</text>
 			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/107.png" num="121">FOOD</set>
 			<prop>
@@ -2646,7 +2646,7 @@ When Oilsworn Paladin enters, if it was bargained, you gain 1 life and target op
 		<card>
 			<name>CZ02 — Liturgy Preparer</name>
 			<text>Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
-Whenever a token you control leaves the battlefield, you gain 1 life and target opponent lose 1 life.</text>
+Whenever a token you control leaves the battlefield, you gain 1 life and target opponent loses 1 life.</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/140.png" num="230">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2679,8 +2679,8 @@ Whenever a token you control leaves the battlefield, you gain 1 life and target 
 		<card>
 			<name>UA04 — Eriette&apos;s Tempting Apple</name>
 			<text>When Eriette&apos;s Tempting Apple enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
-{2}, {T}, Sacrifice Eriette&apos;s Tempting Apple: You gain 3 life.
-{2}, {T}, Sacrifice Eriette&apos;s Tempting Apple: Target opponent loses 3 life.</text>
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+{2}, {T}, Sacrifice this artifact: Target opponent loses 3 life.</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/142.png" num="250">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2714,7 +2714,7 @@ As long as Quaildratic Formula is tapped, it has Increment. (Whenever you cast a
 			<name>UU06 — Stress of Finals Week</name>
 			<text>When Stress enters, draw a card then discard a card.
 Each card you own that isn&apos;t on the battlefield has madness. The madness cost is equal to its mana cost.
-Spells you cast from anywhere but your hand cost {1} less to cast.</text>
+Spells you cast from anywhere other than your hand cost {1} less to cast.</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/144.png" num="63">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2840,7 +2840,7 @@ Cycling {2} ({2}, Discard this card: Draw a card.)</text>
 			<name>UA02 — Giant Loaf</name>
 			<text>Flash
 When Giant Loaf enters, target creature gets +3/+3 until end of turn.
-{2}, {T}, Sacrifice Giant Loaf: Gain 3 life.</text>
+{2}, {T}, Sacrifice this artifact: Gain 3 life.</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/151.png" num="248">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2872,7 +2872,7 @@ Cycling {W}{B} ({W}{B}, Discard this card: Draw a card.)</text>
 		</card>
 		<card>
 			<name>CZ01 — Biblioplex Caterer</name>
-			<text>Conjecture — Whenever you cast a spell from anywhere other than your hand, then Incubate Food 3 (Create a Food token with three +1/+1 counters on it and &quot;{2}: Transform this Food.&quot; It transforms into a 0/0 Phyrexian Food artifact creature.)</text>
+			<text>Conjecture — Whenever you cast a spell from anywhere other than your hand, Incubate Food 3 (Create a Food token with three +1/+1 counters on it and &quot;{2}: Transform this Food.&quot; It transforms into a 0/0 Phyrexian Food artifact creature.)</text>
 			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/153.png" num="229">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -2970,7 +2970,7 @@ Put a death touch counter or menace counter on target creature.</text>
 			<text>Enchant creature
 When Nightwatch Blade enters, draw a card.
 Enchanted creature has haste, vigilance, and battle cry. (Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)
-Escape—- {RW}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
+Escape— {RW}, Exile three other cards from your graveyard. (You may cast this card from your graveyard for its escape cost.)</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/158.png" num="241">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3007,7 +3007,7 @@ Equip {2}</text>
 			<name>UZ24 — Colossal Corruption</name>
 			<text>Enchant creature.
 Enchanted creature has base power and toughness 6/6 and has trample.
-Whenever enchanted creature deals combat damage to a battle or player, create that many 1//1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and &quot;This token can&apos;t block. (Players dealt combat damage by that creature also get a poison counter.)</text>
+Whenever enchanted creature deals combat damage to a battle or player, create that many 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and &quot;This token can&apos;t block. (Players dealt combat damage by that creature also get a poison counter.)</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/160.png" num="242">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3023,7 +3023,7 @@ Whenever enchanted creature deals combat damage to a battle or player, create th
 		</card>
 		<card>
 			<name>UZ25 — Plagiarism</name>
-			<text>Copy target spell, then return it to its owner&apos;s hand. (A copy of a permanent spell becomes a token.)
+			<text>Copy target spell, then return it to its owner&apos;s hand. You may choose new targets for the copy. (A copy of a permanent spell becomes a token.)
 Madness {1}{U}{B} (If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/161.png" num="224">FOOD</set>
 			<prop>
@@ -3144,7 +3144,7 @@ Rebound (If you cast this spell from your hand, exile it as it resolves. At the 
 		<card>
 			<name>UZ30 — Mythos of Kogla</name>
 			<text>Behold a Human and a non-Human (Choose a Human and a non-Human you control or reveal a Human and a non-Human card from your hand.)
-Create an Kogla, Inflamed, a legendary X/X red Ape creature token, where X is the is the difference between the beheld creatures&apos; powers. When Kogla enters, it fights up to one target creature an opponent controls. 
+Create Kogla, Inflamed, a legendary X/X red Ape creature token, where X is the difference between the beheld creatures&apos; powers. When Kogla enters, it fights up to one target creature an opponent controls. 
 Cycling {1} ({1}, Discard this card: Draw a card.)</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/169.png" num="228">FOOD</set>
 			<prop>
@@ -3365,7 +3365,7 @@ Equip Chef {0}</text>
 		<card>
 			<name>UA03 — Triple Berry Patrol</name>
 			<text>{2}: Add one mana of any color.
-{T}, Sacrifice Triple Berry Patrol: It deals 3 damage to target creature or battle.</text>
+{T}, Sacrifice this artifact: It deals 3 damage to target creature or battle.</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/181.png" num="249">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3387,7 +3387,7 @@ Other Food creatures you control +1/+1.</text>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Legendary Artifact Creature — Food Nobel</type>
+				<type>Legendary Artifact Creature — Food Noble</type>
 				<maintype>Creature</maintype>
 				<manacost>5</manacost>
 				<cmc>5</cmc>
@@ -3788,7 +3788,7 @@ Enrage — Whenever Savai Stampede is dealt damage, it fights up to one target c
 			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)
 I — Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.
 II, III — Discard a card then draw a card.
-IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn.</text>
+IV — Return target creature of the chosen type from any graveyard to the battlefield. It gains haste until end of turn.</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/204.png" num="210">FOOD</set>
 			<prop>
 				<layout>saga</layout>
@@ -3805,7 +3805,7 @@ IV — Return target creature of the chosen type any graveyard to the battlefiel
 		</card>
 		<card>
 			<name>UZ26 — Safety in Numbers</name>
-			<text>Create a token copy of target creature you control. Then each creature you control that has the same name as another creature you control, gains hexproof until end of turn.</text>
+			<text>Create a token copy of target creature you control. Then each creature you control that has the same name as another creature you control gains hexproof until end of turn.</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/205.png" num="225">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3821,7 +3821,7 @@ IV — Return target creature of the chosen type any graveyard to the battlefiel
 		</card>
 		<card>
 			<name>UZ22 — Glistening Rites</name>
-			<text>Exile up to three target cards from graveyards. For each creature card exiled this way, create a 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and &quot;This token can&apos;t block.&quot; (Players dealt combat damage by that creature also get a poison counter.)</text>
+			<text>Exile up to three target cards from graveyards. For each creature card exiled this way, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and &quot;This token can&apos;t block.&quot; (Players dealt combat damage by that creature also get a poison counter.)</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/206.png" num="240">FOOD</set>
 			<prop>
 				<layout>normal</layout>
@@ -3858,7 +3858,7 @@ Food you control have &quot;{2}, Sacrifice this Food: Draw a card.&quot;</text>
 		</card>
 		<card>
 			<name>UZ28 — Feed the Throng</name>
-			<text>Kicker sacrifice one or more Food (You may sacrifice one or more Food as you cast this spell.)
+			<text>Kicker— sacrifice one or more Food (You may sacrifice one or more Food in addition to any other costs as you cast this spell.)
 Create X 1/1 black Rat creature token with &quot;This token can&apos;t block.&quot; where X is one plus the the number of Food sacrificed. Until end of turn, creatures you control get +2/+0 and gain haste and menace until end of turn.</text>
 			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/208.png" num="226">FOOD</set>
 			<prop>
@@ -3965,8 +3965,8 @@ Whenever a source deals damage to this battle, its controller creates a Food tok
 			<name>RL03 — Rankle&apos;s Greatest Trick</name>
 			<text>(As this Saga transforms and after your draw step, add a lore counter. Sacrifice after III.)
 I — Create three black 1/1 Faerie Rogue creature tokens with flying.
-II — Goad all creatures.
-III — Until end of turn, when a Faerie or Rogue you control deals combat damage to a player, that player loses the game.
+II — Goad all creatures your opponents control.
+III — Until end of turn, when a Faerie or Rogue deals combat damage to a player, that player loses half their life, rounded up.
 ---
 (Front): RL03 — The Dusk Woods</text>
 			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/212_back.png" num="267b">FOOD</set>
@@ -3986,28 +3986,10 @@ III — Until end of turn, when a Faerie or Rogue you control deals combat damag
 			<related attach="transform">RL03 — The Dusk Woods</related>
 		</card>
 		<card>
-			<name>MZ05 — Gyruda, Oscilating Wave</name>
-			<text>When Gyruda enters, each player mills four cards. For each player exile up to one nonland card from among cards milled this way with an even mana value. You may cast those cards for as long as they remain exiled, and mana of any type can be spent to cast them.
-Conjecture — Whenever you cast a spell with an even mana value from anywhere other than your hand, copy it. (A copy of a permanent spell becomes a token.)</text>
-			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/214.png" num="178">FOOD</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Legendary Creature — Demon Kraken</type>
-				<maintype>Creature</maintype>
-				<manacost>4UB</manacost>
-				<cmc>6</cmc>
-				<colors>UB</colors>
-				<coloridentity>UB</coloridentity>
-				<pt>6/6</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>MZ01 — Yorion, Cloud Coatl</name>
 			<text>Flying
 Whenever Yorion enters or attacks, exile another target nonland permanent you own. Until the end of your turn you may cast it without paying its mana cost.</text>
-			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/215.png" num="174">FOOD</set>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/214.png" num="174">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4025,7 +4007,7 @@ Whenever Yorion enters or attacks, exile another target nonland permanent you ow
 			<name>RZ18 — Cruelclaw, Leader of the Red Scarves</name>
 			<text>Double strike
 Whenever Cruelclaw deals combat damage to a creature, its controller faces a villainous choice — They discard a card or you create a 1/1 token copy of another target creature you control.</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/216.png" num="201">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/215.png" num="201">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4044,7 +4026,7 @@ Whenever Cruelclaw deals combat damage to a creature, its controller faces a vil
 			<text>Trample
 Non-Human creature spells you cast have Offspring— {2} or sacrifice a Food. (You may 2 in addition to any other costs or sacrifice a Food as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
 At the beginning of your upkeep, create a Food token.</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/217.png" num="203">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/216.png" num="203">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4063,7 +4045,7 @@ At the beginning of your upkeep, create a Food token.</text>
 			<text>Other Humans you control get +1/+1.
 Whenever Jirina or another Human you control enters, create a Food token.
 Sacrifice a Food: Target Human gains indestructible until end of turn.</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/218.png" num="197">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/217.png" num="197">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4082,7 +4064,7 @@ Sacrifice a Food: Target Human gains indestructible until end of turn.</text>
 			<name>RZ13 — Urabrask, Rebel Praetor</name>
 			<text>Creatures you control with base power and toughness 1/1 have Toxic 1.
 At the beginning of combat on your turn, put an oil counter on Urabrask, then create a 1/1 white and red Mouse Knight creature tokens with haste for each oil counter on Urabrask.</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/219.png" num="196">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/218.png" num="196">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4101,7 +4083,7 @@ At the beginning of combat on your turn, put an oil counter on Urabrask, then cr
 			<name>RZ17 — Quandrix, Resonance Maestro</name>
 			<text>Flying, trample
 The first creature spell you cast each turn has Affinity for Food. (This spell costs {1} less to cast for each Food you control.)</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/220.png" num="200">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/219.png" num="200">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4120,7 +4102,7 @@ The first creature spell you cast each turn has Affinity for Food. (This spell c
 			<text>Lifelink
 Creature tokens you control have reach and vigilance.
 Whenever you gain life, you may sacrifice a 1/1 creature. If you do, create a red and white 4/4 Elephant Spirit token.</text>
-			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/221.png" num="176">FOOD</set>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/220.png" num="176">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4139,7 +4121,7 @@ Whenever you gain life, you may sacrifice a 1/1 creature. If you do, create a re
 			<name>MZ06 — Brudiclad, Telchor Engineer</name>
 			<text>Creature tokens you control have haste.
 At the beginning of combat on your turn, create a 2/1 blue Phyrexian Myr artifact creature token. Then you may choose a token you control. If you do, each other token you control becomes a copy of that token.</text>
-			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/222.png" num="179">FOOD</set>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/221.png" num="179">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4159,7 +4141,7 @@ At the beginning of combat on your turn, create a 2/1 blue Phyrexian Myr artifac
 			<text>Ravenous (This creature enters with X +1/+1 counters on it. If X is 5 or more, draw a card when it enters.)
 Flying, trample
 Whenever The Golden Goose deals combat damage to an opponent, create a Golden Egg token.</text>
-			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/223.png" num="180">FOOD</set>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/222.png" num="180">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4180,7 +4162,7 @@ Whenever The Golden Goose deals combat damage to an opponent, create a Golden Eg
 When Ygra enters, each player creates X tapped Food tokens.
 Food your opponents control have &quot;At the beginning of your upkeep, this food deals 1 damage to you.&quot;
 Whenever a Food is put into a graveyard from the battlefield, put a +1/+1 counter on Ygra.</text>
-			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/224.png" num="182">FOOD</set>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/223.png" num="182">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4202,7 +4184,7 @@ When this Trial enters,create a Food token then it deals 3 damage to target play
 Food you control have &quot;{1}, {T}, Sacrifice this token: Discard a card then draw a card,&quot;
 ---
 (Back): CR15 — Campfire Companions</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/225_front.png" num="118a">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/224_front.png" num="118a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4224,7 +4206,7 @@ Food you control have &quot;{1}, {T}, Sacrifice this token: Discard a card then 
 Whenever one or more creatures players in this alliance control with base power 1 or less attacks, each ally exiles the top card of their library. They may play that card until the end of their next turn.
 ---
 (Front): CR15 — Scuffle of Scurry</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/225_back.png" num="118b">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/224_back.png" num="118b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4247,7 +4229,7 @@ When this Trial enters, create a Food token then each opponent discards a card.
 Food tokens you control have &quot;{1}, {T}, Sacrifice this token: Goad target creature.&quot; Activate only as a sorcery.
 ---
 (Back): CB15 — Sweet Associates</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/227_front.png" num="84a">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/226_front.png" num="84a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4271,7 +4253,7 @@ Food tokens you control have &quot;{1}, {T}, Sacrifice this token: Goad target c
 Whenever one or more attacking creatures not controlled by a player in your alliance dies, each ally may return a creature card from their graveyard to their hand.
 ---
 (Front): CB15 — Trial of Guile</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/227_back.png" num="84b">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/226_back.png" num="84b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4296,7 +4278,7 @@ When this battle enters, create a Food token.
 Whenever a source deals damage to this battle, its controller creates a Food token. Then each player mills a card.
 ---
 (Back): CB16 — Rankle&apos;s Reveal</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/229_front.png" num="85a">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/228_front.png" num="85a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4322,7 +4304,7 @@ Whenever a source deals damage to this battle, its controller creates a Food tok
 • The victor of this battle chooses a creature card in their graveyard and returns it to their hand.
 ---
 (Front): CB16 — Ransack the Faerie Garden</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/229_back.png" num="85b">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/228_back.png" num="85b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4345,7 +4327,7 @@ When this Trial enters, create a Food token then, search your library for a basi
 Food tokens you control have &quot;{2}, {T}, Sacrifice this token: Put a +1/+1 and a Trample counter on target creature.&quot; Activate only as a sorcery.
 ---
 (Back): CG15 — Kindred Packmates</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/231_front.png" num="153a">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/230_front.png" num="153a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4368,7 +4350,7 @@ Food tokens you control have &quot;{2}, {T}, Sacrifice this token: Put a +1/+1 a
 Whenever one or more modified creatures with power 4 or greater attack, each ally draws a card. (Equipment, Auras you control, bonds, mutations, and counters are modifications.)
 ---
 (Front): CG15 — Fight of Might</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/231_back.png" num="153b">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/230_back.png" num="153b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4391,7 +4373,7 @@ When this battle enters, create a Food token.
 Whenever a source deals damage to this battle, its controller creates a Food token. Then you may put a land card from your hand or graveyard onto the battlefield tapped.
 ---
 (Back): CG16 — Umori Snaps Back</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/233_front.png" num="154a">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/232_front.png" num="154a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4417,7 +4399,7 @@ Whenever a source deals damage to this battle, its controller creates a Food tok
 • Target creature controlled by the victor of this battle explores twice.
 ---
 (Front): CG16 — Ransack the Ketria Gemgrove</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/233_back.png" num="154b">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/232_back.png" num="154b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4440,7 +4422,7 @@ When this battle enters, create a Food token.
 Whenever a source deals damage to this battle, its controller creates a Food token. Then each other opponent gets a poison counter.
 ---
 (Back): CW16 — Mother&apos;s Retribution</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/236_front.png" num="16a">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/235_front.png" num="16a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4466,7 +4448,7 @@ Whenever a source deals damage to this battle, its controller creates a Food tok
 • The victor of this battle gains 3 life then proliferates.
 ---
 (Front): CW16 — Ransack the Fifth Sphere</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/236_back.png" num="16b">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/235_back.png" num="16b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4489,7 +4471,7 @@ When this Trial enters, create a Food token then draw a card.
 Food tokens you control have &quot;{1}, {T}, Sacrifice this token: Target creature gains flying until end of turn.&quot; Activate only as a sorcery.
 ---
 (Back): CU15 — Collaborative Scholars</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/238_front.png" num="49a">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/237_front.png" num="49a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4511,7 +4493,7 @@ Food tokens you control have &quot;{1}, {T}, Sacrifice this token: Target creatu
 Whenever a player in this alliance cast a noncreature spell, each ally may draw a card then discard a card. This ability only triggers once per turn.
 ---
 (Front): CU15 — Test of Intellect</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/238_back.png" num="49b">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/237_back.png" num="49b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4534,7 +4516,7 @@ When this battle enters, create a Food token.
 Whenever a source deals damage to this battle, its controller creates a Food token. Then you surveil 1.
 ---
 (Back): CU16 — Zimone Gets Even</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/240_front.png" num="50a">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/239_front.png" num="50a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4560,7 +4542,7 @@ Whenever a source deals damage to this battle, its controller creates a Food tok
 • The victor of this battle may Discover 2. (Exile cards from the top of your library until you exile a nonland card with mana value 2 or less. Cast it without paying its mana cost or put it into your hand. Put the rest on the bottom in a random order.)
 ---
 (Front): CU16 — Ransack the Library</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/240_back.png" num="50b">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/239_back.png" num="50b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4579,10 +4561,10 @@ Whenever a source deals damage to this battle, its controller creates a Food tok
 		<card>
 			<name>UZ11 — Syphon the Infinity Fountain</name>
 			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, exile it, then cast it transformed.)
-When this Siege enters, put up to two target creatures controlled by different players top of their owners library.
+When this Siege enters, put up to two target creatures controlled by different players top of their owners&apos; libraries.
 ---
 (Back): UZ11 — All They Can Eat</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/242_front.png" num="213a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/241_front.png" num="213a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4605,7 +4587,7 @@ When this Siege enters, put up to two target creatures controlled by different p
 Phyrexian or Fractal token creatures you control have flying and toxic 1.
 ---
 (Front): UZ11 — Syphon the Infinity Fountain</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/242_back.png" num="213b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/241_back.png" num="213b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4627,7 +4609,7 @@ When this Siege enters, each opponent gets a poison counter.
 Whenever a creature attacks you or a battle you own, that creature&apos;s controller loses 1 life and you gain 1 life.
 ---
 (Back): UZ12 — Sibyls in Rapture</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/244_front.png" num="214a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/243_front.png" num="214a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4649,7 +4631,7 @@ Whenever a creature attacks you or a battle you own, that creature&apos;s contro
 Whenever you gain life, you may return target creature card with power less than or equal to the amount of life you gained this turn from your graveyard to the battlefield tapped with a finality counter on it. Do this only once each turn
 ---
 (Front): UZ12 — Polemics of Apostasy</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/244_back.png" num="214b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/243_back.png" num="214b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4668,7 +4650,7 @@ Whenever you gain life, you may return target creature card with power less than
 			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, exile it, then cast it transformed.)
 When this Siege enters, two 1/1 red Mouse Knight creature tokens.
 Whenever one or more creature attacks you or a battle you protect, untap all creatures you control.</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/246.png" num="215">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/245.png" num="215">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4690,7 +4672,7 @@ Whenever one or more creature attacks you or a battle you protect, untap all cre
 When this battle enters, destroy up to one target creature.
 ---
 (Back): UZ14 — Prey to Apex of the Swarm</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/248_front.png" num="216a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/247_front.png" num="216a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4712,7 +4694,7 @@ When this battle enters, destroy up to one target creature.
 Creatures you control with oil counters on them have all the abilities of cards exiled by Prey to Apex among: flying, first strike, double strike, deathtouch, hexproof, haste, indestructible, lifelink, menace, reach, toxic 1, trample, and vigilance.
 ---
 (Front): UZ14 — Enter the Hunter Maze</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/248_back.png" num="216b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/247_back.png" num="216b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4732,7 +4714,7 @@ Creatures you control with oil counters on them have all the abilities of cards 
 When this battle enters, draw two cards, then discard a card. If you discard a nonland card this way, stun up to two target creatures controlled by different players.
 ---
 (Back): UZ15 — Sleep Study</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/250_front.png" num="217a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/249_front.png" num="217a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4753,7 +4735,7 @@ When this battle enters, draw two cards, then discard a card. If you discard a n
 			<text>Tapped creatures you control have hexproof and skulk. (That creature can&apos;t be blocked by creatures with greater power.)
 ---
 (Front): UZ15 — Beset Your Dreams</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/250_back.png" num="217b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/249_back.png" num="217b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4772,7 +4754,7 @@ When this battle enters, draw two cards, then discard a card. If you discard a n
 			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, exile it, then cast it transformed.)
 When this Siege enters, create a 4/4 blue and red Elemental creature token.
 Whenever one or more creature attacks you or a battle you own, exile the top card of your library. Until the end of your next turn, you may play that card.</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/252.png" num="218">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/251.png" num="218">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4792,10 +4774,10 @@ Whenever one or more creature attacks you or a battle you own, exile the top car
 			<name>UZ17 — Traverse The Ketria Great Tree</name>
 			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, exile it, then cast it transformed.)
 When this Siege enters, create a 3/3 blue and green Beast Fractal creature token.
-Whenever one or more creature attacks you or a battle you own, reveal the top card of your library. If it&apos;s a land card, put it onto the battlefield. Otherwise, put that card into your hand.
+Whenever one or more creatures attacks you or a battle you own, reveal the top card of your library. If it&apos;s a land card, put it onto the battlefield. Otherwise, put that card into your hand.
 ---
 (Back): UZ17 —Wild Flock of Abundance</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/254_front.png" num="219a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/253_front.png" num="219a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4816,11 +4798,11 @@ Whenever one or more creature attacks you or a battle you own, reveal the top ca
 		<card>
 			<name>UZ17 —Wild Flock of Abundance</name>
 			<text>Creatures you control have trample.
-Whenever you draw your second card each turn, create a 0/0 green and blue Fractal creature token, then put a +1/+1 counters on each Fractal you control.
+Whenever you draw your second card each turn, create a 0/0 green and blue Fractal creature token, then put a +1/+1 counter on each Fractal you control.
 At the begging of combat on your turn, you may pay {G}{G}{U}{U}, if you do, draw a card.
 ---
 (Front): UZ17 — Traverse The Ketria Great Tree</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/254_back.png" num="219b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/253_back.png" num="219b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4839,10 +4821,10 @@ At the begging of combat on your turn, you may pay {G}{G}{U}{U}, if you do, draw
 		<card>
 			<name>UZ18 — Bargain with the Faye Court</name>
 			<text>(As a Siege enters, choose an opponent to protect it. You and others can attack it. When it&apos;s defeated, exile it, then cast it transformed.)
-When this Siege enters, you may bargain. When you do, each opponent sacrifices a random non-token creature they control. (To bargain, sacrifice an artifact, enchantment, or token.)
+When this Siege enters, you may bargain. When you do, each opponent sacrifices a non-token creature they control at random. (To bargain, sacrifice an artifact, enchantment, or token.)
 ---
 (Back): UZ18 — Dice &amp; Daggers</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/256_front.png" num="220a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/255_front.png" num="220a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4867,7 +4849,7 @@ Whenever equipped creature dies, choose one at random —
 Equip {1}
 ---
 (Front): UZ18 — Bargain with the Faye Court</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/256_back.png" num="220b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/255_back.png" num="220b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4888,7 +4870,7 @@ When this Siege enters, create two 1/1 black Faerie Rogue creature tokens with f
 Whenever one or more creatures attacks you or a battle you own, put your choice of a +1/+1 counter or a reach counter on target creature.
 ---
 (Back): UZ19 — Collect on Promises</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/258_front.png" num="221a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/257_front.png" num="221a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4912,7 +4894,7 @@ Whenever one or more creatures attacks you or a battle you own, put your choice 
 Bargain: Add two mana of any color. (To bargain, sacrifice an artifact, enchantment, or token.)
 ---
 (Front): UZ19 — Abscond the Golden Eggs</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/258_back.png" num="221b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/257_back.png" num="221b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4934,7 +4916,7 @@ Bargain: Add two mana of any color. (To bargain, sacrifice an artifact, enchantm
 When this Siege enters, it deals 7 damage to target creature.
 ---
 (Back): UZ20 — Mutative Advantage</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/260_front.png" num="222a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/259_front.png" num="222a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -4957,7 +4939,7 @@ When this Siege enters, it deals 7 damage to target creature.
 At the beginning of combat each turn, token creatures you control gain +X/+0 until end of turn, where X is the greatest power among nontoken creatures you control.
 ---
 (Front): UZ20 — Hunt in the Raugrin Shoals</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/260_back.png" num="222b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/259_back.png" num="222b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -4977,7 +4959,7 @@ At the beginning of combat each turn, token creatures you control gain +X/+0 unt
 			<text>Draw a card. 
 Conjecture — If this spell was cast from anywhere other than you hand, surveil 1 then draw a card instead. 
 Flashback {1}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/262.png" num="44">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/261.png" num="44">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4997,7 +4979,7 @@ When this Trial enters, create a Food token then scry 2.
 Food tokens you control have &quot;{2}, {T}, Sacrifice this token: Target player gets a poison counter.&quot; Activate only as a sorcery.
 ---
 (Back): CW15 — The Porcelain Legion</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/263_front.png" num="15a">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/262_front.png" num="15a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5021,7 +5003,7 @@ Food tokens you control have &quot;{2}, {T}, Sacrifice this token: Target player
 Whenever a player in this alliance gains life, each ally creates a 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and &quot;This token can&apos;t block.This ability only triggers once per turn. (Players dealt combat damage by that creature also get a poison counter.)
 ---
 (Front): CW15 — Ceremony of Faith</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/263_back.png" num="15b">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/262_back.png" num="15b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5042,7 +5024,7 @@ Whenever a player in this alliance gains life, each ally creates a 1/1 colorless
 		<card>
 			<name>Food FOOD</name>
 			<text>{2}, {T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/264.png" num="28">FOOD</set>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/263.png" num="28">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5057,7 +5039,7 @@ Whenever a player in this alliance gains life, each ally creates a 1/1 colorless
 		<card>
 			<name>Faerie Rogue FOOD</name>
 			<text>Flying</text>
-			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/265.png" num="8">FOOD</set>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/264.png" num="8">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5075,7 +5057,7 @@ Whenever a player in this alliance gains life, each ally creates a 1/1 colorless
 		<card>
 			<name>Fish FOOD</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/266.png" num="4">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/265.png" num="4">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5093,7 +5075,7 @@ Whenever a player in this alliance gains life, each ally creates a 1/1 colorless
 		<card>
 			<name>Fractal Beast FOOD</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/267.png" num="21">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/266.png" num="21">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5112,7 +5094,7 @@ Whenever a player in this alliance gains life, each ally creates a 1/1 colorless
 			<name>Phyrexian Mite FOOD</name>
 			<text>Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)
 This creature can&apos;t block.</text>
-			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/268.png" num="1">FOOD</set>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/267.png" num="1">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5128,7 +5110,7 @@ This creature can&apos;t block.</text>
 		<card>
 			<name>Mouse Knight FOOD</name>
 			<text></text>
-			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/269.png" num="23">FOOD</set>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/268.png" num="23">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5147,7 +5129,7 @@ This creature can&apos;t block.</text>
 			<name>Autocatalytic Hare FOOD</name>
 			<text>Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)
 When Autocatalytic Hare enters, create a Food token.</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/270.png" num="2">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/269.png" num="2">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5165,7 +5147,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Food Knight FOOD</name>
 			<text>Vigilance</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/271.png" num="3">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/270.png" num="3">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5183,7 +5165,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Fractal FOOD</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/272.png" num="20">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/271.png" num="20">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5201,7 +5183,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Pest FOOD</name>
 			<text>When this token dies, you gain 1 life.</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/273.png" num="26">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/272.png" num="26">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5219,7 +5201,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Boar Citizen FOOD</name>
 			<text>When this creature dies, create a 6/6 black Boar Warrior creature token with an Indestructible counter and a Defender counter on it and &quot;Whenever this creature is dealt damage, it deals that much damage to target opponent.&quot;</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/274.png" num="6">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/273.png" num="6">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5238,7 +5220,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Boar Warrior FOOD</name>
 			<text>Whenever this creature is dealt damage, it deals that much damage to target opponent.</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/275.png" num="7">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/274.png" num="7">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5258,7 +5240,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 			<text>Haste
 {1}: This creature can&apos;t be blocked this turn except by creatures with haste.
 {2}{T}, Sacrifice this token: You gain 3 life.</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/276.png" num="30">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/275.png" num="30">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5275,7 +5257,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 			<name>CR03 — Emberheart Mouster</name>
 			<text>Offspring—{2} or sacrifice a Food (You may pay an additional {2} or sacrifice a Food as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)
 {T}: Target creature gains haste until end of turn.</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/277.png" num="106">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/276.png" num="106">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5293,7 +5275,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Lizard Elemental FOOD</name>
 			<text>When this token dies, it deals 1 damage to target player.</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/278.png" num="13">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/277.png" num="13">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5312,7 +5294,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 			<name>Agate Instigator FOOD</name>
 			<text>Whenever another creature you control enters, this creature deals 1 damage to each opponent.
 (This token&apos;s mana value is {1}{R}.)</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/279.png" num="11">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/278.png" num="11">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5330,7 +5312,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Ooze FOOD</name>
 			<text>Toxic 1 (Players dealt combat damage by this creature also get a poison counter.)</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/280.png" num="16">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/279.png" num="16">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5348,7 +5330,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Cat Beast FOOD</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/281.png" num="15">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/280.png" num="15">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5366,7 +5348,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Mouse Knight FOOD</name>
 			<text>Haste</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/282.png" num="24">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/281.png" num="24">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5384,7 +5366,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Elephant Spirit FOOD</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/283.png" num="19">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/282.png" num="19">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5402,7 +5384,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Phyrexian Wurm FOOD</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/284.png" num="36">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/283.png" num="36">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5418,7 +5400,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Frog FOOD</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/285.png" num="5">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/284.png" num="5">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5436,7 +5418,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Otter FOOD</name>
 			<text>Prowess</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/286.png" num="25">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/285.png" num="25">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5454,7 +5436,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Elemental FOOD</name>
 			<text></text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/287.png" num="18">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/286.png" num="18">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5472,7 +5454,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Human Rogue FOOD</name>
 			<text>Menace</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/288.png" num="9">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/287.png" num="9">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5490,7 +5472,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Rat FOOD</name>
 			<text>This token can&apos;t block.</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/289.png" num="10">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/288.png" num="10">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5508,7 +5490,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 		<card>
 			<name>Squirrel FOOD</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/290.png" num="17">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/289.png" num="17">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5528,7 +5510,7 @@ When Autocatalytic Hare enters, create a Food token.</text>
 			<text>Trample
 Toxic 2 (Players dealt combat damage by this creature also get two poison counters.)
 (This token&apos;s mana cost is {3}{RP}{R}.)</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/291.png" num="14">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/290.png" num="14">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5547,7 +5529,7 @@ Toxic 2 (Players dealt combat damage by this creature also get two poison counte
 			<name>RW04 — White Sundae&apos;s Solstice</name>
 			<text>Demonstrate (When you cast this spell, you may copy it. If you do, choose an opponent to also copy it.)
 Create X colorless 2/2 Food artifact creature tokens. Shuffle White Sundae&apos;s Solstice into its owner&apos;s library.</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/292.png" num="21">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/291.png" num="21">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5566,7 +5548,7 @@ Create X colorless 2/2 Food artifact creature tokens. Shuffle White Sundae&apos;
 When this battle enters it deals 5 damage to target opponent.
 ---
 (Back): UR11 — Firestorm Cheetah</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/293_front.png" num="138a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/292_front.png" num="138a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5589,7 +5571,7 @@ Firestorm Cheetah can&apos;t be blocked except by creatures with haste and it ca
 At the beginning of your end step, if Firestorm Cheetah attacked this turn, shuffle it into your library.
 ---
 (Front): UR11 — The Valley&apos;s Charge</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/293_back.png" num="138b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/292_back.png" num="138b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5607,7 +5589,7 @@ At the beginning of your end step, if Firestorm Cheetah attacked this turn, shuf
 		<card>
 			<name>Food Creature FOOD</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/295.png" num="29">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/294.png" num="29">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5626,7 +5608,7 @@ At the beginning of your end step, if Firestorm Cheetah attacked this turn, shuf
 {0}: Transform this token.
 ---
 (Back): Phyrexian Food</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/296_front.png" num="32a">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/295_front.png" num="32a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5642,7 +5624,7 @@ At the beginning of your end step, if Firestorm Cheetah attacked this turn, shuf
 			<name>Phyrexian Food</name>
 			<text>---
 (Front): Incubated Food</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/296_back.png" num="32b">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/295_back.png" num="32b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5661,7 +5643,7 @@ At the beginning of your end step, if Firestorm Cheetah attacked this turn, shuf
 When this battle enters, target player mills 8 cards.
 ---
 (Back): UU11 — Graduate Cryptologist</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/298_front.png" num="68a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/297_front.png" num="68a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5684,7 +5666,7 @@ Graduate Cryptologist can&apos;t attack the victor of this battle.
 When Graduate Cryptologist deals combat damage to a player, exile an instant or sorcery card from their graveyard. You may play it without paying its mana cost. Then shuffle Graduate Cryptologist into your library.
 ---
 (Front): UU11 — The March of Knowledge</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/298_back.png" num="68b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/297_back.png" num="68b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5705,7 +5687,7 @@ When Graduate Cryptologist deals combat damage to a player, exile an instant or 
 When this battle enters, distribute three +1/+1 counters among creatures you control.
 ---
 (Back): UG11 — Thornwood Crasher</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/300_front.png" num="173a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/299_front.png" num="173a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5728,7 +5710,7 @@ You may have Thornwood Crasher assign its combat damage as though it weren&apos;
 At the end of combat on your turn, if Thornwood Crasher attacked, shuffle it into your library.
 ---
 (Front): UG11 — The Horned Stampede</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/300_back.png" num="173b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/299_back.png" num="173b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5749,7 +5731,7 @@ At the end of combat on your turn, if Thornwood Crasher attacked, shuffle it int
 When this battle enters, target player gets three poison counters.
 ---
 (Back): UW11 — Cankerbreath Dragon</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/302_front.png" num="34a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/301_front.png" num="34a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5772,7 +5754,7 @@ Cankerbreath Dragon can&apos;t block or attack the victor of this battle.
 At the end of combat, if Cankerbreath Dragon attacked, proliferate, then shuffle it into your library.
 ---
 (Front): UW11 — The Infection Offensive</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/302_back.png" num="34b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/301_back.png" num="34b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5793,7 +5775,7 @@ At the end of combat, if Cankerbreath Dragon attacked, proliferate, then shuffle
 When this battle enters, target opponent loses 3 life for each Food they control.
 ---
 (Back): UB11 — Gluttonfeeder</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/304_front.png" num="103a">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/303_front.png" num="103a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5816,7 +5798,7 @@ Gluttonfeeder can&apos;t attack the victor of this battle.
 Whenever Gluttonfeeder attacks and isn&apos;t blocked, defending player loses 1 life for each artifact and creature they control. Then shuffle it into your library.
 ---
 (Front): UB11 — The Confection Confliction</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/304_back.png" num="103b">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/303_back.png" num="103b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5834,7 +5816,7 @@ Whenever Gluttonfeeder attacks and isn&apos;t blocked, defending player loses 1 
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/306.png" num="0">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/305.png" num="0">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5849,7 +5831,7 @@ Whenever Gluttonfeeder attacks and isn&apos;t blocked, defending player loses 1 
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/307.png" num="0">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/306.png" num="0">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5864,7 +5846,7 @@ Whenever Gluttonfeeder attacks and isn&apos;t blocked, defending player loses 1 
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/308.png" num="0">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/307.png" num="0">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5879,7 +5861,7 @@ Whenever Gluttonfeeder attacks and isn&apos;t blocked, defending player loses 1 
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/309.png" num="0">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/308.png" num="0">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5894,7 +5876,7 @@ Whenever Gluttonfeeder attacks and isn&apos;t blocked, defending player loses 1 
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/310.png" num="0">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/309.png" num="0">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -5912,7 +5894,7 @@ Whenever Gluttonfeeder attacks and isn&apos;t blocked, defending player loses 1 
 When this Siege enters, search your library and/or graveyard for a non-Human creature card with mana value X or less and put it onto the battlefield. If you search your library this way, shuffle.
 ---
 (Back): RG06 — Zilortha, Apex of Ikoria</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/311_front.png" num="161a">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/310_front.png" num="161a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5933,7 +5915,7 @@ When this Siege enters, search your library and/or graveyard for a non-Human cre
 For each non-Human creature you control, you may have that creature assign its combat damage as though it weren&apos;t blocked.
 ---
 (Front): RG06 — Invasion of Ikoria</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/311_back.png" num="161b">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/310_back.png" num="161b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5954,7 +5936,7 @@ For each non-Human creature you control, you may have that creature assign its c
 When this battle enters, create X 4/4 Phyrexian Angel white artifact creature tokens with flying and vigilance.
 ---
 (Back): RW06 — Activate the Sleepers</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/313_front.png" num="23a">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/312_front.png" num="23a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -5975,7 +5957,7 @@ When this battle enters, create X 4/4 Phyrexian Angel white artifact creature to
 			<text>Put all creature cards with power 2 or less from all graveyards onto the battlefield under your control. The victor of this battle gains protection from each creature that enters this way.
 ---
 (Front): RW06 — Ransack The Multiverse</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/313_back.png" num="23b">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/312_back.png" num="23b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -5996,7 +5978,7 @@ When this battle enters, create X 4/4 Phyrexian Angel white artifact creature to
 When this Siege enters, it deals two times X damage to up to two target creatures or players.
 ---
 (Back): RR06 — Rho Rho, Macetail Venteran</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/315_front.png" num="127a">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/314_front.png" num="127a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -6017,7 +5999,7 @@ When this Siege enters, it deals two times X damage to up to two target creature
 {1}{R}: Creatures you control get +1/+0 and haste until end of turn.
 ---
 (Front): RR06 — Invasion of Bloomburrow</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/315_back.png" num="127b">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/314_back.png" num="127b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -6039,7 +6021,7 @@ When this Trial enters, stun up to two times X target creatures.
 Whenever one or more creatures you control deal combat damage to one or more players, Discover Y where Y is the total amount of combat damage dealt to players this turn.
 ---
 (Back): RU06 — Co-Authors</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/317_front.png" num="57a">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/316_front.png" num="57a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -6060,7 +6042,7 @@ Whenever one or more creatures you control deal combat damage to one or more pla
 Each player in this alliance untaps all lands they control at the begging of their ally&apos;s untap step. They also draw a card at the beginning of their ally&apos;s draw step.
 ---
 (Front): RU06 — Final Exam</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/317_back.png" num="57b">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/316_back.png" num="57b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -6080,7 +6062,7 @@ Each player in this alliance untaps all lands they control at the begging of the
 When this trial enters, for each opponent put a decayed counter on up to X target creatures they control. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 ---
 (Back): RB06 — Decadent Retellings</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/319_front.png" num="92a">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/318_front.png" num="92a">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -6101,7 +6083,7 @@ When this trial enters, for each opponent put a decayed counter on up to X targe
 Whenever a creature controlled by a player in this alliance dies, if it wasn&apos;t sacrificed, return it to the battlefield under that player&apos;s ally&apos;s control. It enters with a decayed counter on it. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)
 ---
 (Front): RB06 — Heros of Forgotten Tales</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/319_back.png" num="92b">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/318_back.png" num="92b">FOOD</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -6119,7 +6101,7 @@ Whenever a creature controlled by a player in this alliance dies, if it wasn&apo
 			<name>UZ01 — Bibliochef</name>
 			<text>Flying
 When Bibliochef enters, put two +1/+1 counters on to each Food you control. Then transform all non-creature Food tokens you control into 0/0 Phyrexian Artifact creatures.</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/321.png" num="204">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/320.png" num="204">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6136,7 +6118,7 @@ When Bibliochef enters, put two +1/+1 counters on to each Food you control. Then
 		<card>
 			<name>Fractal Dragon FOOD</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/322.png" num="22">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/321.png" num="22">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6155,7 +6137,7 @@ When Bibliochef enters, put two +1/+1 counters on to each Food you control. Then
 			<name>RR04 — Flavor of Autumn</name>
 			<text>Demonstrate (When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)
 For each token you control, create a token that&apos;s a copy of that permanent.</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/323.png" num="125">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/322.png" num="125">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6173,7 +6155,7 @@ For each token you control, create a token that&apos;s a copy of that permanent.
 			<text>Equipped creature has reach, trample and vigilance.
 Equip {2}
 Equip Food {0}</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/324.png" num="246">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/323.png" num="246">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6189,7 +6171,7 @@ Equip Food {0}</text>
 			<text>Equipped creature has flying and haste.
 When equipped creature dies, create a Food token.
 Equip {1}</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/325.png" num="253">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/324.png" num="253">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6209,7 +6191,7 @@ At the beginning of your end step, if you gained 4 or more life this turn, this 
 
 Create a Food token.
 Put a first strike counter or lifelink counter on target creature.</text>
-			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/326.png" num="27">FOOD</set>
+			<set rarity="uncommon" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/325.png" num="27">FOOD</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -6231,7 +6213,7 @@ Put a first strike counter or lifelink counter on target creature.</text>
 [b]Haggle[/b] (You may remove a counter from a nonbattle permanent you control as you cast this spell.)
 [b]Incubate Food 1[/b] (To incubate 1, create a Food token with a +1/+1 counter on it and &quot;{2}: Transform this Food.&quot; It transforms into a 0/0 Phyrexian Food artifact creature.)
 Wildbond (You may bond that creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)</text>
-			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/327.png" num="34">FOOD</set>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/326.png" num="34">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6247,7 +6229,7 @@ Wildbond (You may bond that creature with another unbonded nonhuman creature you
 			<name>CB10 — Shadow Swap</name>
 			<text>Target creature gains undying until end of turn. (When that creature dies, if it had no +1/+1 counters on it, return it to the battlefield under its owner&apos;s control with a +1/+1 counter on it.)
 Put a decayed counter on another target creature. (It can&apos;t block. When it attacks, sacrifice it at end of combat.)</text>
-			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/328.png" num="79">FOOD</set>
+			<set rarity="common" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/327.png" num="79">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6281,7 +6263,7 @@ Put a decayed counter on another target creature. (It can&apos;t block. When it 
 {B}{G}: Haggle Re-animator
 
 {R}{G}: Monsters big and small</text>
-			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/329.png" num="27">FOOD</set>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/328.png" num="27">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6299,7 +6281,7 @@ Put a decayed counter on another target creature. (It can&apos;t block. When it 
 			<text>Vigilance
 Creatures can&apos;t attack you or battles you protect unless their controller pays {2} or bargains for each of those creatures. (Sacrifices an artifact, enchantment, or token.)
 Whenever an opponent sacrifices a permanent, they lose 2 life and you gain 2 life.</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/330.png" num="195">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/329.png" num="195">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6321,7 +6303,7 @@ When Greta dies, you may cast her from your graveyard as an Adventure until the 
 ---
 
 Destroy target artifact or creature. You lose life equal to its power unless it was a Food.</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/331.png" num="202">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/330.png" num="202">FOOD</set>
 			<prop>
 				<layout>adventure</layout>
 				<side>front</side>
@@ -6340,7 +6322,7 @@ Destroy target artifact or creature. You lose life equal to its power unless it 
 			<text>Foodwalk (This creature can&apos;t be blocked as long as defending player controls a Food.)
 When Lorb deals combat damage to an opponent, draw a card, discard a card, then exile a non-creature card from your graveyard and put a splash counter on it.
 You may play lands and cast spells from among cards you own in exile with splash counters on them.</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/332.png" num="199">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/331.png" num="199">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6361,7 +6343,7 @@ Whenever an opponent casts a spell, they choose one that hasn&apos;t been chosen
 • Counter that spell
 • You draw a card
 • You Incubate Food 3 (Create a Food token with three +1/+1 counters on it and &quot;{2}: Transform this Food.&quot; It transforms into a 0/0 Phyrexian Food artifact creature.)</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/333.png" num="194">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/332.png" num="194">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6379,7 +6361,7 @@ Whenever an opponent casts a spell, they choose one that hasn&apos;t been chosen
 			<name>RZ15 — Onyx, Lecturer to the Dead</name>
 			<text>Conjecture — Whenever you cast a spell from anywhere other than your hand, each opponent loses 2 life and you gain 2 life.
 Pay X life: Return target creature card in your graveyard with mana value X to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. activate this ability only as a sorcery.</text>
-			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/334.png" num="198">FOOD</set>
+			<set rarity="rare" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/333.png" num="198">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6400,7 +6382,7 @@ At the beginning of combat on your turn, you may choose two. Each mode must targ
 • Target player creates a 2/1 white and black Inkling creature token with flying.
 • Target player draws a card and loses 1 life.
 • Target player puts a +1/+1 counter on each creature they control.</text>
-			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/335.png" num="175">FOOD</set>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/334.png" num="175">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6417,7 +6399,7 @@ At the beginning of combat on your turn, you may choose two. Each mode must targ
 		<card>
 			<name>MZ04 — Beza, Herald of Spring</name>
 			<text>When Beza enters, you may put a land card from your hand onto the battlefield tapped. Then draw a card for each opponent who has more cards in hand than you.</text>
-			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/336.png" num="177">FOOD</set>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/335.png" num="177">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6434,7 +6416,7 @@ At the beginning of combat on your turn, you may choose two. Each mode must targ
 		<card>
 			<name>MZ08 — Sheoldred</name>
 			<text></text>
-			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/337.png" num="181">FOOD</set>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/336.png" num="181">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6452,7 +6434,7 @@ At the beginning of combat on your turn, you may choose two. Each mode must targ
 			<name>MZ10 — Grumgully, the Bounteous</name>
 			<text>Menace
 At the beginning of combat on your turn, choose a player. They create a 1/1 blue fish creature token. Choose a second player to create a Food token. Then choose a third player to exile the top card top of their library. Until the end of their next turn, they may play that card.</text>
-			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/338.png" num="183">FOOD</set>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/337.png" num="183">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6490,7 +6472,7 @@ At the beginning of combat on your turn, choose a player. They create a 1/1 blue
 • Anyone may attack it
 • When defeated exile and cast the back side. 
 • Back side can&apos;t hit the victor</text>
-			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/339.png" num="37">FOOD</set>
+			<set rarity="special" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/338.png" num="37">FOOD</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -6501,6 +6483,24 @@ At the beginning of combat on your turn, choose a player. They create a 1/1 blue
 			</prop>
 			<tablerow>1</tablerow>
 			<token>1</token>
+		</card>
+		<card>
+			<name>MZ05 — Gyruda, Tidal Wave</name>
+			<text>When Gyruda enters, exile up to two target non-land permanents with even mana values. You may cast those cards for as long as they remain exiled, and mana of any type can be spent to cast them.
+Conjecture — Whenever you cast a spell with an even mana value from anywhere other than your hand, copy it.</text>
+			<set rarity="mythic" picurl="https://travismcgrath.github.io/sets/FOOD-files/img/339.png" num="178">FOOD</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Demon Kraken</type>
+				<maintype>Creature</maintype>
+				<manacost>4UB</manacost>
+				<cmc>6</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>

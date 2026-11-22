@@ -2006,7 +2006,7 @@
 			"name": "UA05 — Her Royal Meringue",
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
-			"type": "Legendary Artifact Creature — Food Nobel",
+			"type": "Legendary Artifact Creature — Food Noble",
 			"collector_number": "251",
 			"rating": 3,
 			"image_uris": {
@@ -2359,17 +2359,6 @@
 			}
 		},
 		{
-			"name": "MZ05 — Gyruda, Oscilating Wave",
-			"rarity": "mythic",
-			"mana_cost": "{4}{U}{B}",
-			"type": "Legendary Creature — Demon Kraken",
-			"collector_number": "178",
-			"rating": 5,
-			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/214.png"
-			}
-		},
-		{
 			"name": "MZ01 — Yorion, Cloud Coatl",
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}",
@@ -2377,7 +2366,7 @@
 			"collector_number": "174",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/215.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/214.png"
 			}
 		},
 		{
@@ -2388,7 +2377,7 @@
 			"collector_number": "201",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/216.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/215.png"
 			}
 		},
 		{
@@ -2399,7 +2388,7 @@
 			"collector_number": "203",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/217.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/216.png"
 			}
 		},
 		{
@@ -2410,7 +2399,7 @@
 			"collector_number": "197",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/218.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/217.png"
 			}
 		},
 		{
@@ -2421,7 +2410,7 @@
 			"collector_number": "196",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/219.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/218.png"
 			}
 		},
 		{
@@ -2432,7 +2421,7 @@
 			"collector_number": "200",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/220.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/219.png"
 			}
 		},
 		{
@@ -2443,7 +2432,7 @@
 			"collector_number": "176",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/221.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/220.png"
 			}
 		},
 		{
@@ -2454,7 +2443,7 @@
 			"collector_number": "179",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/222.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/221.png"
 			}
 		},
 		{
@@ -2465,7 +2454,7 @@
 			"collector_number": "180",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/223.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/222.png"
 			}
 		},
 		{
@@ -2476,7 +2465,7 @@
 			"collector_number": "182",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/224.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/223.png"
 			}
 		},
 		{
@@ -2494,13 +2483,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/225_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/224_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/225_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/224_front.png"
 			}
 		},
 		{
@@ -2518,13 +2507,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/227_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/226_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/227_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/226_front.png"
 			}
 		},
 		{
@@ -2542,13 +2531,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/229_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/228_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/229_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/228_front.png"
 			}
 		},
 		{
@@ -2566,13 +2555,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/231_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/230_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/231_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/230_front.png"
 			}
 		},
 		{
@@ -2590,13 +2579,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/233_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/232_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/233_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/232_front.png"
 			}
 		},
 		{
@@ -2614,13 +2603,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/236_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/235_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/236_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/235_front.png"
 			}
 		},
 		{
@@ -2638,13 +2627,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/238_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/237_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/238_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/237_front.png"
 			}
 		},
 		{
@@ -2662,13 +2651,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/240_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/239_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/240_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/239_front.png"
 			}
 		},
 		{
@@ -2686,13 +2675,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/242_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/241_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/242_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/241_front.png"
 			}
 		},
 		{
@@ -2710,13 +2699,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/244_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/243_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/244_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/243_front.png"
 			}
 		},
 		{
@@ -2727,7 +2716,7 @@
 			"collector_number": "215",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/246.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/245.png"
 			}
 		},
 		{
@@ -2745,13 +2734,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/248_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/247_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/248_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/247_front.png"
 			}
 		},
 		{
@@ -2769,13 +2758,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/250_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/249_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/250_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/249_front.png"
 			}
 		},
 		{
@@ -2786,7 +2775,7 @@
 			"collector_number": "218",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/252.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/251.png"
 			}
 		},
 		{
@@ -2804,13 +2793,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/254_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/253_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/254_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/253_front.png"
 			}
 		},
 		{
@@ -2828,13 +2817,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/256_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/255_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/256_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/255_front.png"
 			}
 		},
 		{
@@ -2852,13 +2841,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/258_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/257_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/258_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/257_front.png"
 			}
 		},
 		{
@@ -2876,13 +2865,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/260_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/259_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/260_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/259_front.png"
 			}
 		},
 		{
@@ -2893,7 +2882,7 @@
 			"collector_number": "44",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/262.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/261.png"
 			}
 		},
 		{
@@ -2911,13 +2900,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/263_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/262_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/263_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/262_front.png"
 			}
 		},
 		{
@@ -2928,7 +2917,7 @@
 			"collector_number": "28",
 			"rating": 1,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/264.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/263.png"
 			}
 		},
 		{
@@ -2939,7 +2928,7 @@
 			"collector_number": "8",
 			"rating": 1,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/265.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/264.png"
 			}
 		},
 		{
@@ -2950,7 +2939,7 @@
 			"collector_number": "4",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/266.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/265.png"
 			}
 		},
 		{
@@ -2961,7 +2950,7 @@
 			"collector_number": "21",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/267.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/266.png"
 			}
 		},
 		{
@@ -2972,7 +2961,7 @@
 			"collector_number": "1",
 			"rating": 1,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/268.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/267.png"
 			}
 		},
 		{
@@ -2983,7 +2972,7 @@
 			"collector_number": "23",
 			"rating": 1,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/269.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/268.png"
 			}
 		},
 		{
@@ -2994,7 +2983,7 @@
 			"collector_number": "2",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/270.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/269.png"
 			}
 		},
 		{
@@ -3005,7 +2994,7 @@
 			"collector_number": "3",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/271.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/270.png"
 			}
 		},
 		{
@@ -3016,7 +3005,7 @@
 			"collector_number": "20",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/272.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/271.png"
 			}
 		},
 		{
@@ -3027,7 +3016,7 @@
 			"collector_number": "26",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/273.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/272.png"
 			}
 		},
 		{
@@ -3038,7 +3027,7 @@
 			"collector_number": "6",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/274.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/273.png"
 			}
 		},
 		{
@@ -3049,7 +3038,7 @@
 			"collector_number": "7",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/275.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/274.png"
 			}
 		},
 		{
@@ -3060,7 +3049,7 @@
 			"collector_number": "30",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/276.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/275.png"
 			}
 		},
 		{
@@ -3071,7 +3060,7 @@
 			"collector_number": "106",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/277.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/276.png"
 			}
 		},
 		{
@@ -3082,7 +3071,7 @@
 			"collector_number": "13",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/278.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/277.png"
 			}
 		},
 		{
@@ -3093,7 +3082,7 @@
 			"collector_number": "11",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/279.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/278.png"
 			}
 		},
 		{
@@ -3104,7 +3093,7 @@
 			"collector_number": "16",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/280.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/279.png"
 			}
 		},
 		{
@@ -3115,7 +3104,7 @@
 			"collector_number": "15",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/281.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/280.png"
 			}
 		},
 		{
@@ -3126,7 +3115,7 @@
 			"collector_number": "24",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/282.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/281.png"
 			}
 		},
 		{
@@ -3137,7 +3126,7 @@
 			"collector_number": "19",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/283.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/282.png"
 			}
 		},
 		{
@@ -3148,7 +3137,7 @@
 			"collector_number": "36",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/284.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/283.png"
 			}
 		},
 		{
@@ -3159,7 +3148,7 @@
 			"collector_number": "5",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/285.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/284.png"
 			}
 		},
 		{
@@ -3170,7 +3159,7 @@
 			"collector_number": "25",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/286.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/285.png"
 			}
 		},
 		{
@@ -3181,7 +3170,7 @@
 			"collector_number": "18",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/287.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/286.png"
 			}
 		},
 		{
@@ -3192,7 +3181,7 @@
 			"collector_number": "9",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/288.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/287.png"
 			}
 		},
 		{
@@ -3203,7 +3192,7 @@
 			"collector_number": "10",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/289.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/288.png"
 			}
 		},
 		{
@@ -3214,7 +3203,7 @@
 			"collector_number": "17",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/290.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/289.png"
 			}
 		},
 		{
@@ -3225,7 +3214,7 @@
 			"collector_number": "14",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/291.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/290.png"
 			}
 		},
 		{
@@ -3236,7 +3225,7 @@
 			"collector_number": "21",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/292.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/291.png"
 			}
 		},
 		{
@@ -3254,13 +3243,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/293_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/292_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/293_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/292_front.png"
 			}
 		},
 		{
@@ -3271,7 +3260,7 @@
 			"collector_number": "29",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/295.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/294.png"
 			}
 		},
 		{
@@ -3289,13 +3278,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/296_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/295_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/296_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/295_front.png"
 			}
 		},
 		{
@@ -3313,13 +3302,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/298_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/297_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/298_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/297_front.png"
 			}
 		},
 		{
@@ -3337,13 +3326,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/300_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/299_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/300_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/299_front.png"
 			}
 		},
 		{
@@ -3361,13 +3350,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/302_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/301_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/302_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/301_front.png"
 			}
 		},
 		{
@@ -3385,13 +3374,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/304_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/303_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/304_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/303_front.png"
 			}
 		},
 		{
@@ -3402,7 +3391,7 @@
 			"collector_number": "0",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/306.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/305.png"
 			}
 		},
 		{
@@ -3413,7 +3402,7 @@
 			"collector_number": "0",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/307.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/306.png"
 			}
 		},
 		{
@@ -3424,7 +3413,7 @@
 			"collector_number": "0",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/308.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/307.png"
 			}
 		},
 		{
@@ -3435,7 +3424,7 @@
 			"collector_number": "0",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/309.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/308.png"
 			}
 		},
 		{
@@ -3446,7 +3435,7 @@
 			"collector_number": "0",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/310.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/309.png"
 			}
 		},
 		{
@@ -3464,13 +3453,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/311_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/310_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/311_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/310_front.png"
 			}
 		},
 		{
@@ -3488,13 +3477,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/313_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/312_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/313_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/312_front.png"
 			}
 		},
 		{
@@ -3512,13 +3501,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/315_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/314_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/315_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/314_front.png"
 			}
 		},
 		{
@@ -3536,13 +3525,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/317_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/316_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/317_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/316_front.png"
 			}
 		},
 		{
@@ -3560,13 +3549,13 @@
       
       
 				"image_uris": {
-					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/319_back.png"
+					"en": "https://travismcgrath.github.io/sets/FOOD-files/img/318_back.png"
 				}
 			},
      
         
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/319_front.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/318_front.png"
 			}
 		},
 		{
@@ -3577,7 +3566,7 @@
 			"collector_number": "204",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/321.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/320.png"
 			}
 		},
 		{
@@ -3588,7 +3577,7 @@
 			"collector_number": "22",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/322.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/321.png"
 			}
 		},
 		{
@@ -3599,7 +3588,7 @@
 			"collector_number": "125",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/323.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/322.png"
 			}
 		},
 		{
@@ -3610,7 +3599,7 @@
 			"collector_number": "246",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/324.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/323.png"
 			}
 		},
 		{
@@ -3621,7 +3610,7 @@
 			"collector_number": "253",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/325.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/324.png"
 			}
 		},
 		{
@@ -3632,7 +3621,7 @@
 			"collector_number": "27",
 			"rating": 3,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/326.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/325.png"
 			}
 		},
 		{
@@ -3643,7 +3632,7 @@
 			"collector_number": "34",
 			"rating": 1,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/327.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/326.png"
 			}
 		},
 		{
@@ -3654,7 +3643,7 @@
 			"collector_number": "79",
 			"rating": 2,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/328.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/327.png"
 			}
 		},
 		{
@@ -3665,7 +3654,7 @@
 			"collector_number": "27",
 			"rating": 1,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/329.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/328.png"
 			}
 		},
 		{
@@ -3676,7 +3665,7 @@
 			"collector_number": "195",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/330.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/329.png"
 			}
 		},
 		{
@@ -3687,7 +3676,7 @@
 			"collector_number": "202",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/331.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/330.png"
 			}
 		},
 		{
@@ -3698,7 +3687,7 @@
 			"collector_number": "199",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/332.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/331.png"
 			}
 		},
 		{
@@ -3709,7 +3698,7 @@
 			"collector_number": "194",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/333.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/332.png"
 			}
 		},
 		{
@@ -3720,7 +3709,7 @@
 			"collector_number": "198",
 			"rating": 4,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/334.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/333.png"
 			}
 		},
 		{
@@ -3731,7 +3720,7 @@
 			"collector_number": "175",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/335.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/334.png"
 			}
 		},
 		{
@@ -3742,7 +3731,7 @@
 			"collector_number": "177",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/336.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/335.png"
 			}
 		},
 		{
@@ -3753,7 +3742,7 @@
 			"collector_number": "181",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/337.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/336.png"
 			}
 		},
 		{
@@ -3764,7 +3753,7 @@
 			"collector_number": "183",
 			"rating": 5,
 			"image_uris": {
-				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/338.png"
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/337.png"
 			}
 		},
 		{
@@ -3774,6 +3763,17 @@
 			"type": "Token Artifact — Food",
 			"collector_number": "37",
 			"rating": 1,
+			"image_uris": {
+				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/338.png"
+			}
+		},
+		{
+			"name": "MZ05 — Gyruda, Tidal Wave",
+			"rarity": "mythic",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Creature — Demon Kraken",
+			"collector_number": "178",
+			"rating": 5,
 			"image_uris": {
 				"en": "https://travismcgrath.github.io/sets/FOOD-files/img/339.png"
 			}
@@ -3824,7 +3824,6 @@
 	2 RG05 — Savai Stampede
 	2 RG02 — River Boa Bonder
 	2 RL03 — The Dusk Woods
-	1 MZ05 — Gyruda, Oscilating Wave
 	1 MZ01 — Yorion, Cloud Coatl
 	2 RZ18 — Cruelclaw, Leader of the Red Scarves
 	2 RZ20 — Kaheera, Monster Paragon
@@ -3846,6 +3845,7 @@
 	1 MZ04 — Beza, Herald of Spring
 	1 MZ08 — Sheoldred
 	1 MZ10 — Grumgully, the Bounteous
+	1 MZ05 — Gyruda, Tidal Wave
 [uncommon(3)]
 	4 UZ27 — Reason
 	4 UZ21 — Skeptic

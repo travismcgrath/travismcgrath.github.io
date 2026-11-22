@@ -1,4 +1,323 @@
-﻿VERSION 43 CHANGELOG
+﻿VERSION 44 CHANGELOG
+====================
+
+MZ05 — Gyruda, Tidal Wave added.
+
+MZ05 — Gyruda, Oscilating Wave removed.
+
+CU09 — Missing Ingredient
+rules_text: Counter target noncreature spell unless its controller pays {1}. If this spell was cast from anywhere but your hand exile target noncreature spell or ability instead.
+Foretell {U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i] => Counter target noncreature spell unless its controller pays {1}. If this spell was cast from anywhere other than your hand exile target noncreature spell or ability instead.
+Foretell {U} [i](During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)[/i]
+
+CZ03 — Consummate Bladetail
+rules_text: Haste, Double strike
+Other creatures you control with base power and toughness 1/1 can't be blocked. => Haste, Double strike
+Creatures you control with base power and toughness 1/1 can't be blocked.
+
+CZ04 — OilFang Bonder
+rules_text: Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+ Toxic 2. [i](Players dealt combat damage by this creature also get two poison counters.)[/i] => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+ Toxic 2 [i](Players dealt combat damage by this creature also get two poison counters.)[/i]
+
+CZ06 — Primsari Pastry Chef
+
+RL04 — Emberheart Greatsword
+rules_text: As long Emberheart Greatsword is not equipped, it isn't an artifact.
+[i]({T}: Add {R}.)[/i]
+Equipped creature has trample and +1/+1 for each token you control.
+Equip {2}{R}{R} => As long Emberheart Greatsword is not equipped, it isn't an artifact.
+[i]({T}: Add {R}.)[/i]
+Equipped creature has trample and gets +1/+1 for each token you control.
+Equip {2}{R}{R}
+
+CZ02 — Liturgy Preparer
+rules_text: Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Whenever a token you control leaves the battlefield, you gain 1 life and target opponent lose 1 life. => Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+Whenever a token you control leaves the battlefield, you gain 1 life and target opponent loses 1 life.
+
+UA04 — Eriette's Tempting Apple
+rules_text: When Eriette's Tempting Apple enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+{2}, {T}, Sacrifice Eriette's Tempting Apple: You gain 3 life.
+{2}, {T}, Sacrifice Eriette's Tempting Apple: Target opponent loses 3 life. => When Eriette's Tempting Apple enters, gain control of target creature until end of turn. Untap that creature. It gains haste until end of turn.
+{2}, {T}, Sacrifice this artifact: You gain 3 life.
+{2}, {T}, Sacrifice this artifact: Target opponent loses 3 life.
+
+UU06 — Stress of Finals Week
+rules_text: When Stress enters, draw a card then discard a card.
+Each card you own that isn't on the battlefield has madness. The madness cost is equal to its mana cost.
+Spells you cast from anywhere but your hand cost {1} less to cast. => When Stress enters, draw a card then discard a card.
+Each card you own that isn't on the battlefield has madness. The madness cost is equal to its mana cost.
+Spells you cast from anywhere other than your hand cost {1} less to cast.
+
+UA02 — Giant Loaf
+rules_text: Flash
+When Giant Loaf enters, target creature gets +3/+3 until end of turn.
+{2}, {T}, Sacrifice Giant Loaf: Gain 3 life. => Flash
+When Giant Loaf enters, target creature gets +3/+3 until end of turn.
+{2}, {T}, Sacrifice this artifact: Gain 3 life.
+
+CZ01 — Biblioplex Caterer
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, then Incubate Food 3 [i](Create a Food token with three +1/+1 counters on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i] => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, Incubate Food 3 [i](Create a Food token with three +1/+1 counters on it and “{2}: Transform this Food.” It transforms into a 0/0 Phyrexian Food artifact creature.)[/i]
+
+UZ23 — Nightwatch Blade
+rules_text: Enchant creature
+When Nightwatch Blade enters, draw a card.
+Enchanted creature has haste, vigilance, and battle cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Escape—- {RW}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i] => Enchant creature
+When Nightwatch Blade enters, draw a card.
+Enchanted creature has haste, vigilance, and battle cry. [i](Whenever that creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Escape— {RW}, Exile three other cards from your graveyard. [i](You may cast this card from your graveyard for its escape cost.)[/i]
+
+UZ24 — Colossal Corruption
+rules_text: Enchant creature.
+Enchanted creature has base power and toughness 6/6 and has trample.
+Whenever enchanted creature deals combat damage to a battle or player, create that many 1//1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and “This token can't block. [i](Players dealt combat damage by that creature also get a poison counter.)[/i] => Enchant creature.
+Enchanted creature has base power and toughness 6/6 and has trample.
+Whenever enchanted creature deals combat damage to a battle or player, create that many 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and “This token can't block. [i](Players dealt combat damage by that creature also get a poison counter.)[/i]
+
+UZ25 — Plagiarism
+rules_text: Copy target spell, then return it to its owner's hand. [i](A copy of a permanent spell becomes a token.)[/i]
+Madness {1}{U}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i] => Copy target spell, then return it to its owner's hand. You may choose new targets for the copy. [i](A copy of a permanent spell becomes a token.)[/i]
+Madness {1}{U}{B} [i](If you discard this card, discard it into exile. When you do, cast it for its madness cost or put it into your graveyard.)[/i]
+
+UZ30 — Mythos of Kogla
+rules_text: Behold a Human and a non-Human [i](Choose a Human and a non-Human you control or reveal a Human and a non-Human card from your hand.)[/i]
+Create an Kogla, Inflamed, a legendary X/X red Ape creature token, where X is the is the difference between the beheld creatures' powers. When Kogla enters, it fights up to one target creature an opponent controls. 
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i] => Behold a Human and a non-Human [i](Choose a Human and a non-Human you control or reveal a Human and a non-Human card from your hand.)[/i]
+Create Kogla, Inflamed, a legendary X/X red Ape creature token, where X is the difference between the beheld creatures' powers. When Kogla enters, it fights up to one target creature an opponent controls. 
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i]
+
+UA03 — Triple Berry Patrol
+rules_text: {2}: Add one mana of any color.
+{T}, Sacrifice Triple Berry Patrol: It deals 3 damage to target creature or battle. => {2}: Add one mana of any color.
+{T}, Sacrifice this artifact: It deals 3 damage to target creature or battle.
+
+UA05 — Her Royal Meringue
+type: Legendary Artifact Creature — Food Nobel => Legendary Artifact Creature — Food Noble
+
+UZ08 — The Girl Who Cried Ouphe
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type from any graveyard to the battlefield. It gains haste until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type from any graveyard to the battlefield. It gains haste until end of turn.
+
+UZ26 — Safety in Numbers
+rules_text: Create a token copy of target creature you control. Then each creature you control that has the same name as another creature you control, gains hexproof until end of turn. => Create a token copy of target creature you control. Then each creature you control that has the same name as another creature you control gains hexproof until end of turn.
+
+UZ22 — Glistening Rites
+rules_text: Exile up to three target cards from graveyards. For each creature card exiled this way, create a 1/1 colorless Phyrexian Mite artifact creature tokens with toxic 1 and “This token can't block.” [i](Players dealt combat damage by that creature also get a poison counter.)[/i] => Exile up to three target cards from graveyards. For each creature card exiled this way, create a 1/1 colorless Phyrexian Mite artifact creature token with toxic 1 and “This token can't block.” [i](Players dealt combat damage by that creature also get a poison counter.)[/i]
+
+UZ28 — Feed the Throng
+rules_text: Kicker sacrifice one or more Food [i](You may sacrifice one or more Food as you cast this spell.)[/i]
+Create X 1/1 black Rat creature token with “This token can't block.” where X is one plus the the number of Food sacrificed. Until end of turn, creatures you control get +2/+0 and gain haste and menace until end of turn. => Kicker— sacrifice one or more Food [i](You may sacrifice one or more Food in addition to any other costs as you cast this spell.)[/i]
+Create X 1/1 black Rat creature token with “This token can't block.” where X is one plus the the number of Food sacrificed. Until end of turn, creatures you control get +2/+0 and gain haste and menace until end of turn.
+
+RL03 — The Dusk Woods
+
+MZ01 — Yorion, Cloud Coatl
+
+RZ18 — Cruelclaw, Leader of the Red Scarves
+
+RZ20 — Kaheera, Monster Paragon
+
+RZ14 — Jirina, Humanity's General
+
+RZ13 — Urabrask, Rebel Praetor
+
+RZ17 — Quandrix, Resonance Maestro
+
+MZ03 — Quintorious, Defender of History
+
+MZ06 — Brudiclad, Telchor Engineer
+
+MZ07 — The Golden Goose
+
+MZ09 — Ygra, Eater of Infinity
+
+CR15 — Scuffle of Scurry
+
+CB15 — Trial of Guile
+
+CB16 — Ransack the Faerie Garden
+
+CG15 — Fight of Might
+
+CG16 — Ransack the Ketria Gemgrove
+
+CW16 — Ransack the Fifth Sphere
+
+CU15 — Test of Intellect
+
+CU16 — Ransack the Library
+
+UZ11 — Syphon the Infinity Fountain
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, put up to two target creatures controlled by different players top of their owners library. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, put up to two target creatures controlled by different players top of their owners' libraries.
+
+UZ12 — Polemics of Apostasy
+
+UZ13 — Guard the Fountainport Parapet
+
+UZ14 — Enter the Hunter Maze
+
+UZ15 — Beset Your Dreams
+
+UZ16 — Thesis Defense
+
+UZ17 — Traverse The Ketria Great Tree
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, create a 3/3 blue and green Beast Fractal creature token.
+Whenever one or more creature attacks you or a battle you own, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand. => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, create a 3/3 blue and green Beast Fractal creature token.
+Whenever one or more creatures attacks you or a battle you own, reveal the top card of your library. If it's a land card, put it onto the battlefield. Otherwise, put that card into your hand.
+
+UZ18 — Bargain with the Faye Court
+rules_text: [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, you may bargain. When you do, each opponent sacrifices a random non-token creature they control. [i](To bargain, sacrifice an artifact, enchantment, or token.)[/i] => [i](As a Siege enters, choose an opponent to protect it. You and others can attack it. When it's defeated, exile it, then cast it transformed.)[/i]
+When this Siege enters, you may bargain. When you do, each opponent sacrifices a non-token creature they control at random. [i](To bargain, sacrifice an artifact, enchantment, or token.)[/i]
+
+UZ19 — Abscond the Golden Eggs
+
+UZ20 — Hunt in the Raugrin Shoals
+
+CU10 — Recursive Research
+
+CW15 — Ceremony of Faith
+
+Food
+
+Faerie Rogue
+
+Fish
+
+Fractal Beast
+
+Phyrexian Mite
+
+Mouse Knight
+
+Autocatalytic Hare
+
+Food Knight
+
+Fractal
+
+Pest
+
+Boar Citizen
+
+Boar Warrior
+
+Gingerbrute
+
+CR03 — Emberheart Mouster
+
+Lizard Elemental
+
+Agate Instigator
+
+Ooze
+
+Cat Beast
+
+Mouse Knight
+
+Elephant Spirit
+
+Phyrexian Wurm
+
+Frog
+
+Otter
+
+Elemental
+
+Human Rogue
+
+Rat
+
+Squirrel
+
+Oilslick Watchfrog
+
+RW04 — White Sundae's Solstice
+
+UR11 — The Valley's Charge
+
+Food Creature
+
+Incubated Food
+
+UU11 — The March of Knowledge
+
+UG11 — The Horned Stampede
+
+UW11 — The Infection Offensive
+
+UB11 — The Confection Confliction
+
+RG06 — Invasion of Ikoria
+
+RW06 — Ransack The Multiverse
+
+RR06 — Invasion of Bloomburrow
+
+RU06 — Final Exam
+
+RB06 — Heros of Forgotten Tales
+
+UZ01 — Bibliochef
+
+Fractal Dragon
+
+RR04 — Flavor of Autumn
+
+CA05 — Lollihammer
+
+UA07 — Pericarp Wings
+
+UW04 — Auriok Saucier
+
+New Mechanics
+
+CB10 — Shadow Swap
+
+Archetypes
+
+RZ12 — Eriette of Love's Bite
+
+RZ19 — Greta, SweetArrow Avenger
+
+RZ16 — Lorb, Portal Waiter
+
+RZ11 — Jin-Gitaxias, Kitchen Tyrant
+
+RZ15 — Onyx, Lecturer to the Dead
+
+MZ02 — Shadrix Silverquill
+
+MZ04 — Beza, Herald of Spring
+
+MZ08 — Sheoldred
+
+MZ10 — Grumgully, the Bounteous
+
+Types of Battles
+
+
+VERSION 43 CHANGELOG
 ====================
 
 New Mcheanics added.
