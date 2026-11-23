@@ -1,4 +1,862 @@
-﻿VERSION 44 CHANGELOG
+﻿VERSION 46 CHANGELOG
+====================
+
+
+
+CG10 — Peckish Pinekraken
+rules_text: Whenever Peckish Pinekraken enters attacks, you may sacrifice a Food. If you do, put three +1/+1 counters on it Peckish Pinekraken.
+Peckish Pinekraken can't be blocked by creatures with power 3 or less.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i] => Devour tokens 1 [i](As this creature enters, you may sacrifice any number of tokenses. This creature enters with that many +1/+1 counters on it.)[/i]
+Peckish Pinekraken can't be blocked by creatures with power 3 or less.
+Forestcycling {2} [i]({2}, Discard this card: Search your library for a Forest card, reveal it, put it into your hand, then shuffle.)[/i]
+pt: 5/5 => 6/6
+
+MR14 — Mabel, Valley's Champion
+rules_text: Double strike, battle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Whenever you expend 4, you may discard a card. If you do, creatures you control gain double strike and trample until end of turn. [i](You expend 4 as you spend your fourth total mana to cast spells during a turn.)[/i] => Double strike, battle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Whenever you expend 4, you may discard a card. If you do, creatures you control gain first strike and trample until end of turn. [i](You expend 4 as you spend your fourth total mana to cast spells during a turn.)[/i]
+
+
+VERSION 45 CHANGELOG
+====================
+
+UU07 — Extemporized Recipie added.
+UU05 — Inspiring Lemma Beans added.
+CU08 — Tater Tot Monitor added.
+MZ08 — Sheoldred, The Devourer added.
+Rat Rogue added.
+Kogla, Inflamed added.
+
+New Mcheanics removed.
+UU07 — Read the Recipe removed.
+CU08 — Inspiring Lemma Beans removed.
+UU05 — Tater Tot Monitor removed.
+New Mechanics removed.
+MZ08 — Sheoldred removed.
+
+UZ21 — Skeptic
+
+RW05 — Blood
+
+Golden Egg
+
+CW07 — Devote Evangelist
+
+UZ07 — Arithmetic Herbalist
+
+CB08 — Big Bad Ouphe
+
+UW02 — Porcelain Myr
+
+UR07 — Heartfire Bolt
+
+CR12 — Fling a Pie
+
+CB05 — Innocuous Prankster
+
+RG04 — Biomewide Migration
+
+UG04 — Dualcat
+
+CR05 — Owl-Eyed Bowman
+
+RB04 — Careful What You Ask For
+rules_text: Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Return target creature card with the greatest mana value from any graveyard to the battlefield. You lose life equal to its mana value unless you haggle. [i](To haggle, remove a counter from a nonbattle permanent you control.)[/i] => Demonstrate [i](When you cast this spell, you may copy it. If you do, choose an opponent to also copy it. Players may choose new targets for their copies.)[/i]
+Return target creature card with the greatest mana value from a graveyard to the battlefield. You lose life equal to its mana value unless you haggle. [i](To haggle, remove a counter from a nonbattle permanent you control.)[/i]
+
+RW02 — Flavor of Orthodoxy
+
+RU04 — Chronicle
+
+UB08 — Killer Deal
+
+CB07 — Professor From Another Realm
+
+CB03 — Marsh Mellow-o-Wisps
+
+CB02 — Midnight Snacqueraider
+
+CB01 — Brackish Fencer
+
+CB14 — Entreating Witch
+
+CU11 — Check your work!
+
+UU08 — Two Weeks Suspension
+
+CU14 — Group Study
+
+UU10 — Calculate A Prophecy
+
+CU09 — Missing Ingredient
+
+CU07 — Exponentiation Professor
+
+CU05 — Professor of Culinary Arts
+
+UW01 — Hosting Hawk
+
+UU02 — Snapping Torus
+
+CU02 — Arithmetic Frogression
+
+CU06 — Campus Security
+
+CW11 — Served In Ice
+
+CW09 — Sleeperagent Skymount
+
+CW01 — Phyrexian Pridemate
+
+CW02 — Bladed Ambassador
+
+CW03 — Autocatalytic Hare
+rules_text: Offspring—{2} or sacrifice a Food [i](You may pay an additional {2} or sacrifice a Food as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Toxic 1 [i](Players dealt combat damage by this creature also get a poison counter.)[/i]
+When Autocatalytic Hare enters, create a Food token. => Offspring—{2} or sacrifice a Food [i](You may pay an additional {2} or sacrifice a Food as you cast this spell. If you do, when this creature enters, create a 1/1 token copy of it.)[/i]
+Lifelink
+When Autocatalytic Hare enters, target opponent gets a poison counter.
+
+CW04 — Celestial Crier
+
+UW03 — Charging Invader
+
+CW05 — Elder Cenobite
+
+CW10 — Preator's Glory
+
+CG01 — Hungry Brushwagg
+
+UG03 — Drannith Mess Sergeant
+
+CG09 — Indatha Ooze
+
+UG08 —Vetch Elemental
+
+CG04 — Webbonder
+
+CB06 — The Tooth Faerie
+
+CG02 — Thornvault Anomaly
+
+CG03 — Symbiotic Shaman
+
+CG05 — Beetle-Horned Rhino
+
+CG10 — Peckish Pinekraken
+
+UG10 — Establish Eludha
+
+CW12 — Phyrexian Plating
+
+CR02 — Raging Marten
+
+CR01 — Pilfering Vole
+
+UR01 — Root Maze Hatcher
+
+CR08 — Rabid Chase Wolves
+
+CR04 — Sharp Clawed Scout
+
+UR04 — Seedbed Sentry
+
+CR10 — Pond Creek Predator
+
+UR10 — Alluring Aromas
+
+CR14 — Wield the Seed Flame
+
+CZ03 — Consummate Bladetail
+
+CZ04 — OilFang Bonder
+rules_text: Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+ Toxic 2 [i](Players dealt combat damage by this creature also get two poison counters.)[/i] => Wildbond [i](You may bond this creature with another unbonded nonhuman creature you control when either enters. They remain bonded for as long as you control both of them. Bonded creatures have all other abilities of the creature they are bonded with.)[/i]
+Modified creatures you control have Toxic 1. [i](Equipment, Auras you control, bonds, mutations, and counters are modifications. Players dealt combat damage by this creature also get a poison counter.)[/i]
+
+UZ05 — Book Thief
+rules_text: [i]Conjecture[/i] — This creature can't be blocked if you've cast a spell from anywhere other than your hand. 
+When Book Thief deals combat damage to a player, draw a card. => [i]Conjecture[/i] — This creature can't be blocked if you've cast a spell from anywhere other than your hand this turn. 
+When Book Thief deals combat damage to a player, draw a card.
+
+CZ06 — Primsari Pastry Chef
+
+CZ08 — Haymeadow Brigand
+
+UZ10 — Gnaw Bonder
+
+RZ05 -- May I Have Your Name
+
+UB03 — Faerie Assassin
+
+CZ05 — Entrancing Faye
+
+CG11 — Advantageous Adaptation
+
+CG06 — Zagoth Snapper
+
+CG07 — Mandelbrot Grazer
+
+CG08 — Reynard Bonder
+
+CG11 — Devour Whole
+
+CB13 -- Im Eternally Grateful
+rules_text: When “I'm Eternally Grateful” enters, put target creature card from any graveyard onto the battlefield under you control with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+When this enchantment leaves the battlefield, draw a card. => When “I'm Eternally Grateful” enters, put target creature card from a graveyard onto the battlefield under you control with a finality counter on it. [i](If a creature with a finality counter on it would die, exile it instead.)[/i]
+When this enchantment leaves the battlefield, draw a card.
+
+CB09 — Delicious Apple
+
+CG14 — Thunderous Stomp
+
+UG01 — Venom Meringue Pie
+
+CR06 — Micro Ecologist
+
+Emberheart Mouster
+
+CR07 — Burning Oak Duo
+
+CR11 — Uplift Animalfolk
+
+CR13 — Rally the Squirrels
+
+CB11 — Court Chef's Cleaver
+
+UW07 — Phyrexian Chalice
+
+CW06 — Lorehold Paleodietician
+
+CU01 — Quandrix Garden Gates
+
+UU04 — Square Elemental
+
+CU13 — Publish Analysis
+
+CU04 — Sneaky Researcher
+
+CW14 — Oleaginous Portal
+
+RL01 — The Holy Oil Spring
+
+CW13 — Open Wide
+
+RL05 — Living Great Tree
+
+UU03 — Paperback Snake
+
+CU12 — Freshman Meal Plan
+
+MW11 — Elesh Norn, Fidei Defensor
+
+MG15 — Umori, Glue Beast
+
+MU12 — Zimone, Prohpehtic Calculist
+
+RL04 — Emberheart Greatsword
+
+RZ01 — Holy Relics Masterclass
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create two Food tokens.
+{1}{W}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{3}{W}{U} Level 4
+Spells you control have affinity for artifacts. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U}: Level 2
+When this class becomes Level 2, create two Food tokens.
+{1}{W}{U}: Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{3}{W}{U}: Level 4
+Spells you control have affinity for artifacts.
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U} Level 2
+When this class becomes Level 2, create two Food tokens.
+{1}{W}{U} Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{3}{W}{U} Level 4
+Spells you control have affinity for artifacts. => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When this class enters, draw a card.
+{W}{U}: Level 2
+When this class becomes Level 2, create two Food tokens.
+{1}{W}{U}: Level 3
+Tap two untapped artifacts you control: Target opponent gets a poison counter. Activate only as a sorcery.
+{3}{W}{U}: Level 4
+Spells you control have affinity for artifacts.
+
+RZ03 — Blight Rabbit
+
+RZ04 — Wormcoil Hydra
+
+RZ06 — Advanced Bravery 101
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When Advanced Bravery 101 enters, create a red and blue 1/1 Otter creature token with prowess.
+{1}{U}{R} Level 201
+Whenever a creature you control becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.
+{2}{U}{R} Level 301
+During your turn, creatures you control with base power or toughness 1 or less have indestructible.
+{2}{U}{R} => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When Advanced Bravery 101 enters, create a red and blue 1/1 Otter creature token with prowess.
+{1}{U}{R}: Level 201
+Whenever a creature you control becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.
+{2}{U}{R}: Level 301
+During your turn, creatures you control with base power or toughness 1 or less have indestructible.
+{2}{U}{R}
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+When Advanced Bravery 101 enters, create a red and blue 1/1 Otter creature token with prowess.
+{1}{U}{R} Level 201
+Whenever a creature you control becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.
+{2}{U}{R} Level 301
+During your turn, creatures you control with base power or toughness 1 or less have indestructible.
+{2}{U}{R} => [i](Gain the next level as a sorcery to add its ability.)[/i]
+When Advanced Bravery 101 enters, create a red and blue 1/1 Otter creature token with prowess.
+{1}{U}{R}: Level 201
+Whenever a creature you control becomes the target of a spell or ability you control for the first time each turn, put a +1/+1 counter on it.
+{2}{U}{R}: Level 301
+During your turn, creatures you control with base power or toughness 1 or less have indestructible.
+{2}{U}{R}
+
+RZ09 — Esdragot
+
+RZ10 — Find the Magic Acorn
+
+RW01 — Mondrak, Impassable Horror
+
+RU01 — Larine Arneza, Valedictorian
+
+RU02 — Pensive Professor
+
+RB01 — Agatha, Cauldron Witch
+
+RR02 — Calamity Lavabuck
+
+RG03 — Wildcat Bonder
+
+RG01 — Kogla, the Titan Ape
+
+RB02 — Gumdrop Poisoner
+
+UR03 — Riverbank Paladin
+
+RR03 — Sword from the Pond
+
+UR06 — Calamity Ember Owl
+
+UG02 — Chevill's Apprentice
+
+UG05 — Ravenous Hyena
+
+UB09 — Graverob
+rules_text: Prowl {B}{B} [i](You may cast this spell for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)[/i]
+Put target creature card from any graveyard onto the battlefield under your control. It enters with a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i] => Prowl {B}{B} [i](You may cast this spell for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)[/i]
+Put target creature card from a graveyard onto the battlefield under your control. It enters with a decayed counter on it. [i](It can't block. When it attacks, sacrifice it at end of combat.)[/i]
+
+UB05 — Red Riding Hood
+
+UZ03 — Soul Rodent
+
+UZ04 — Tithe Monster
+
+UZ09 — Itsy Bitey Spider
+rules_text: Deathtouch, Reach
+Whenever a creature an opponent controls with flying dies, its controller loses 1 life and you gain 1 life. => Reach, deathtouch
+Whenever a creature an opponent controls with flying dies, its controller loses 1 life and you gain 1 life.
+
+UR05 — Wiskerbow Archer
+
+MB13 — Rankle, Trusted Borrower
+
+UU01 — Axiom Channeler
+
+CZ07 — Strix Bonder
+
+CZ09 —Beanstalk Bonder
+
+CZ10 — Exuberant Bonder
+
+CG13 — Surivor's Bond
+
+CB04 — Oilsworn Paladin
+
+CZ02 — Liturgy Preparer
+
+CA01 — Egg BombBomb
+
+UA04 — Eriette's Tempting Apple
+
+CU03 — Quaildratic Formula
+
+UU06 — Stress of Finals Week
+
+UW10 — Call to Compleation
+
+UW09 — Punishment Sphere
+
+CR09 — Oilslick Watchfrog
+
+CB12 — Baked into a Pie
+
+UR08 — Return the Flavor
+
+UU09 — Doesn't Count
+
+UA02 — Giant Loaf
+
+UZ02 — Dawn Knight
+
+CZ01 — Biblioplex Caterer
+
+RZ07 — Quandrix Illusionist
+
+UB07 — Back for Seconds
+
+RB03 — Little Pig
+
+UB04 — Hell's Sous Chef
+
+UZ23 — Nightwatch Blade
+
+UZ06 — Mace The Exam
+
+UZ24 — Colossal Corruption
+
+UZ25 — Plagiarism
+
+UW06 — Oily Shimmer
+
+CL01 — Raugrin Lavaflats
+
+CL02 — The Woods at Twilight
+
+CL03 — Department of Environmental Sciences
+
+CL04 — Phyrexian Passage
+
+CL05 — The Valley Market
+
+UZ29 — Back for More
+
+UZ30 — Mythos of Kogla
+type: Instant => Sotcery
+rules_text: Behold a Human and a non-Human [i](Choose a Human and a non-Human you control or reveal a Human and a non-Human card from your hand.)[/i]
+Create Kogla, Inflamed, a legendary X/X red Ape creature token, where X is the difference between the beheld creatures' powers. When Kogla enters, it fights up to one target creature an opponent controls. 
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i] => As an additional cost to cast this spell, pay {2} or behold a Beast [i](Choose a Beast you control or reveal a Beast card from your hand.)[/i]
+Create Kogla, Inflamed, a legendary 7/6 red Ape creature token, with haste, “When Kogla enters, it fights up to one target creature an opponent controls.” and “Kolga attacks each combat if able.”
+Cycling {1} [i]({1}, Discard this card: Draw a card.)[/i]
+
+CL06 — Norn's Basilica
+
+CL07 — Biblioplex
+
+CL08 — Witches Hut
+
+CL09 — Oystershroom Lodge
+
+CL10 — Ketria Bosque
+
+UG09 — Snap Up
+
+CA02 — Magic Fruit Stand
+
+CA03 — Cabbatrice
+
+UA08 — Ginger Snaposaurus
+
+UA01 — Chef's Knife
+
+UA03 — Triple Berry Patrol
+
+UA05 — Her Royal Meringue
+
+UA06 — Toffee Golem
+
+UG07 — Voyaging Reefshell
+
+RZ02 — Duskhunter Bat
+
+RW03 — Chef of Machines
+
+RR01 — Whisker, the Fearless
+
+UR02 — Agate Instigator
+
+RU03 — Cosmophysicist
+
+UG06 — Razorback Bonder
+
+UB02 — Night Knight
+
+RL02 — Atollpology
+rules_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+As long as Atollpology is at level 1, it isn't an enchantment.
+[i]({T}: Add {U}.)[/i]
+{1}{U}{U} Level 2
+When Atollpology becomes level 2, draw two cards then discard two cards.
+{3}{U}{U} Level 3
+Atollpology gains “{T}: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.” 
+{2}{U}{R} => [i](Gain the next level as a sorcery to add its ability.)[/i]
+As long as Atollpology is at level 1, it isn't an enchantment.
+[i]({T}: Add {U}.)[/i]
+{1}{U}{U}: Level 2
+When Atollpology becomes level 2, draw two cards then discard two cards.
+{3}{U}{U}: Level 3
+Atollpology gains “{T}: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.” 
+{2}{U}{R}
+special_text: [i](Gain the next level as a sorcery to add its ability.)[/i]
+As long as Atollpology is at level 1, it isn't an enchantment.
+[i]({T}: Add {U}.)[/i]
+{1}{U}{U} Level 2
+When Atollpology becomes level 2, draw two cards then discard two cards.
+{3}{U}{U} Level 3
+Atollpology gains “{T}: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.” 
+{2}{U}{R} => [i](Gain the next level as a sorcery to add its ability.)[/i]
+As long as Atollpology is at level 1, it isn't an enchantment.
+[i]({T}: Add {U}.)[/i]
+{1}{U}{U}: Level 2
+When Atollpology becomes level 2, draw two cards then discard two cards.
+{3}{U}{U}: Level 3
+Atollpology gains “{T}: Target instant or sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost.” 
+{2}{U}{R}
+
+RZ08 — Sand Witch
+
+UB01 — Gingerbread Cabin
+
+UR09 — Slay The Beast
+
+UB06 — Dark Lilly Ambushers
+
+UW05 — Mite Overseer
+
+RU05 — Isometric Transformation
+
+RR05 — Topple The Tall
+
+RB05 — Wicked Famine
+
+RG05 — Savai Stampede
+
+UB10 — Lord Skitter's Brood
+
+UW08 — Uncork
+
+UZ08 — The Girl Who Cried Ouphe
+rules_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type from any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.
+II, III — Discard a card then draw a card.
+IV — Return target creature card of the chosen type from a graveyard to the battlefield. It gains haste until end of turn.
+special_text: [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.
+II, III — Discard a card then draw a card.
+IV — Return target creature of the chosen type from any graveyard to the battlefield. It gains haste until end of turn. => [i](As this Saga enters and after your draw step, add a lore counter. Sacrifice after IV.)[/i]
+I — Choose a creature type, then create a black 1/1 Human Rogue creature token with menace.
+II, III — Discard a card then draw a card.
+IV — Return target creature card of the chosen type from a graveyard to the battlefield. It gains haste until end of turn.
+
+UZ26 — Safety in Numbers
+
+UZ22 — Glistening Rites
+
+CW08 — Phyrexian Health Inspector
+
+UZ28 — Feed the Throng
+
+RG02 — River Boa Bonder
+
+CR16 — Ransack the Emberheart-Oven
+
+RL03 — The Dusk Woods
+
+MZ01 — Yorion, Cloud Coatl
+
+RZ18 — Cruelclaw, Leader of the Red Scarves
+
+RZ20 — Kaheera, Monster Paragon
+
+RZ14 — Jirina, Humanity's General
+
+RZ13 — Urabrask, Rebel Praetor
+rules_text: Creatures you control with base power and toughness 1/1 have Toxic 1.
+At the beginning of combat on your turn, put an oil counter on Urabrask, then create a 1/1 white and red Mouse Knight creature tokens with haste for each oil counter on Urabrask. => Creatures you control with base power and toughness 1/1 have Toxic 1.
+At the beginning of combat on your turn, put an oil counter on Urabrask, then create a 1/1 white and red Mouse Knight creature token with haste for each oil counter on Urabrask.
+
+RZ17 — Quandrix, Resonance Maestro
+
+MZ03 — Quintorious, Defender of History
+
+MZ06 — Brudiclad, Telchor Engineer
+
+MZ07 — The Golden Goose
+
+MZ09 — Ygra, Eater of Infinity
+
+CR15 — Scuffle of Scurry
+
+CB15 — Trial of Guile
+
+CB16 — Ransack the Faerie Garden
+
+CG15 — Fight of Might
+
+CG16 — Ransack the Ketria Gemgrove
+
+CW16 — Ransack the Fifth Sphere
+
+CU15 — Test of Intellect
+
+CU16 — Ransack the Library
+
+UZ11 — Syphon the Infinity Fountain
+
+UZ12 — Polemics of Apostasy
+
+UZ13 — Guard the Fountainport Parapet
+
+UZ14 — Enter the Hunter Maze
+
+UZ15 — Beset Your Dreams
+
+UZ16 — Thesis Defense
+
+UZ17 — Traverse The Ketria Great Tree
+
+UZ18 — Bargain with the Faye Court
+
+UZ19 — Abscond the Golden Eggs
+
+UZ20 — Hunt in the Raugrin Shoals
+
+CU10 — Recursive Research
+
+CW15 — Ceremony of Faith
+
+Food
+
+Faerie Rogue
+
+Fish
+
+Fractal Beast
+
+Phyrexian Mite
+
+Mouse Knight
+
+Autocatalytic Hare
+rules_text: Toxic 2 [i](Players dealt combat damage by this creature also get two poison counters.)[/i]
+When Autocatalytic Hare enters, create a Food token. => 
+Lifelink
+When Autocatalytic Hare enters, target opponent gets a poison counter.
+
+Food Knight
+
+Fractal
+
+Pest
+
+Boar Citizen
+
+Boar Warrior
+
+Gingerbrute
+
+CR03 — Emberheart Mouster
+
+Lizard Elemental
+
+Agate Instigator
+
+Ooze
+
+Cat Beast
+
+Mouse Knight
+
+Elephant Spirit
+
+Phyrexian Wurm
+
+Frog
+
+Otter
+
+Elemental
+
+Human Rogue
+
+Rat
+
+Squirrel
+
+Oilslick Watchfrog
+
+RW04 — White Sundae's Solstice
+
+UR11 — The Valley's Charge
+
+Food Creature
+
+Incubated Food
+
+UU11 — The March of Knowledge
+
+UG11 — The Horned Stampede
+
+UW11 — The Infection Offensive
+
+UB11 — The Confection Confliction
+
+RG06 — Invasion of Ikoria
+
+RW06 — Ransack The Multiverse
+
+RR06 — Invasion of Bloomburrow
+
+RU06 — Final Exam
+
+RB06 — Heros of Forgotten Tales
+
+UZ01 — Bibliochef
+
+Fractal Dragon
+
+RR04 — Flavor of Autumn
+
+CA05 — Lollihammer
+
+UA07 — Pericarp Wings
+
+UW04 — Auriok Saucier
+
+CB10 — Shadow Swap
+
+Archetypes
+rules_text: {W}{U}: Incubate and Stockpile Food
+
+{W}{B}: Life Gain
+
+{R}{W}: Mites and Mice go-wide
+
+{G}{W}: Toxic Beat-down
+
+{U}{B}: Adventure [/i][i]Conjecture[/i]
+[i]
+{U}{R}: Token Madness
+
+{G}{U}: Fractals and Counters
+
+{B}{R}: The AristocRATs
+
+{B}{G}: Haggle Re-animator
+
+{R}{G}: Monsters big and small => {W}{U}: Incubate and Stockpile Food
+
+{W}{B}: Life Gain
+
+{R}{W}: Mites and Mice go-wide
+
+{G}{W}: Toxic Beatdown
+
+{U}{B}: Adventure [/i][i]Conjecture[/i] Control
+[i]
+{U}{R}: Token Madness
+
+{G}{U}: Fractals and Counters
+
+{B}{R}: The AristocRATs
+
+{B}{G}: Haggle Re-animator
+
+{R}{G}: Monsters big and small
+
+RZ12 — Eriette of Love's Bite
+
+RZ19 — Greta, SweetArrow Avenger
+
+RZ16 — Lorb, Portal Waiter
+rules_text: Foodwalk [i](This creature can't be blocked as long as defending player controls a Food.)[/i]
+When Lorb deals combat damage to an opponent, draw a card, discard a card, then exile a non-creature card from your graveyard and put a splash counter on it.
+You may play lands and cast spells from among cards you own in exile with splash counters on them. => Foodwalk [i](This creature can't be blocked as long as defending player controls a Food.)[/i]
+Whenever Lorb deals combat damage to an opponent, draw a card, discard a card, then exile a non-creature card from your graveyard and put a splash counter on it.
+You may play lands and cast spells from among cards you own in exile with splash counters on them.
+
+RZ11 — Jin-Gitaxias, Kitchen Tyrant
+
+RZ15 — Onyx, Lecturer to the Dead
+rules_text: [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, each opponent loses 2 life and you gain 2 life.
+Pay X life: Return target creature card in your graveyard with mana value X to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. activate this ability only as a sorcery. => [i]Conjecture[/i] — Whenever you cast a spell from anywhere other than your hand, each opponent loses 2 life and you gain 2 life.
+Pay X life: Return target creature card in your graveyard with mana value X to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Activate this ability only as a sorcery.
+
+MZ02 — Shadrix Silverquill
+
+MZ04 — Beza, Herald of Spring
+
+MZ10 — Grumgully, the Bounteous
+
+Types of Battles
+rules_text: [b]Siege[/b] —
+• One opponent protects it. 
+• Anyone may attack it.
+• On defeat, exile & cast the back side.
+• All effect benefit the owner.
+ 
+[b]Trial [/b]— 
+• Anyone may protect it.
+• Only opponents may attack it
+• When defeated transform into [/i][i]Alliance[/i] between victor & owner
+[i]
+[/i][i][b]Alliance[/b][/i] — 
+• Allies may protect it.
+• Anyone may attack it,
+• On defeat, exile & disband alliance
+• Effects benefits owner & victor
+[i]
+[b]Ransack[/b] — 
+• Anyone may protect it. 
+• Anyone may attack it
+• When defeated exile and cast the back side. 
+• Back side can't hit the victor => [b]Siege[/b] —
+• One opponent protects it. 
+• Anyone may attack it.
+• On defeat, exile & cast the back side.
+• All effect benefit the owner.
+ 
+[b]Trial [/b]— 
+• Anyone may protect it. 
+• Only opponents may attack it.
+• When defeated transform into [/i][i]Alliance[/i] between victor & owner.
+[i]
+[/i][i][b]Alliance[/b][/i] — 
+• Allies may protect it.
+• Anyone may attack it.
+• On defeat, exile & disband alliance.
+• Effects benefits owner & victor.
+[i]
+[b]Ransack[/b] — 
+• Player to the left of attacker protects it.
+• Anyone may attack it
+• When defeated exile and cast the back side. 
+• Back side can't hit the victor
+
+MZ05 — Gyruda, Tidal Wave
+
+MR14 — Mabel, Valley's Champion
+rules_text: First strike
+[i]Valiant[/i] — Whenever Mabel becomes target of a spell or ability you control for the first time each turn, create a Food token.
+At the beginning of combat each turn, you may forage twice. If you do, creatures you control get +X/+0 until end of turn, where X is Mable's power. [i](To forage, exile three cards from your graveyard or sacrifice a Food.)[/i] => Double strike, battle cry [i](Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)[/i]
+Whenever you expend 4, you may discard a card. If you do, creatures you control gain double strike and trample until end of turn. [i](You expend 4 as you spend your fourth total mana to cast spells during a turn.)[/i]
+pt: 3/3 => 4/3
+
+
+VERSION 44 CHANGELOG
 ====================
 
 MZ05 — Gyruda, Tidal Wave added.
